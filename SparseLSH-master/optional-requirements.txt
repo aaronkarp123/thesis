@@ -1,0 +1,4 @@
+leveldb==0.193
+numpy==1.8.1
+redis==2.10.1
+scipy==0.14.0
