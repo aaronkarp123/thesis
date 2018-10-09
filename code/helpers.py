@@ -24,7 +24,7 @@ import math
 
 from features import *
 
-def test_sound(filepath, segment_length = 0.2):
+def test_sound(filepath, segment_length = 0.2, match_type='spectrogram'):
     # Load an audio file and analyze its content, returning the information necessary to query the file against the database
     
     try:
@@ -60,24 +60,32 @@ def test_sound(filepath, segment_length = 0.2):
         mfccs.append(features[1])
         rmss.append(features[2])
         centroids.append(features[3])
+    
+    if match_type == 'spectrogram':
+        spectrogram_by_seg, spectrogram_by_seg_flat = segment_matrix([spectrograms], num_segs, 1)
+        return y, sr, spectrogram_by_seg_flat
+    if match_type == 'mfcc':
+        mfcc_by_seg, mfcc_by_seg_flat = segment_matrix([mfccs], num_segs, 1)
+        return y, sr, mfcc_by_seg_flat
+    if match_type == 'centroid':
+        centroid_by_seg, centroid_by_seg_flat = segment_matrix([centroids], num_segs, 1)
+        return y, sr, centroid_by_seg_flat
+    return
 
-    spectrogram_by_seg, spectrogram_by_seg_flat = segment_spectrograms([spectrograms], num_segs, 1)
-    return y, sr, spectrogram_by_seg_flat
 
-
-def query_sound(filename, engines, num_files, sounds=None, samplerates=None, display=False):
+def query_sound(filename, engines, num_files, sounds=None, samplerates=None, display=False, segment_length=0.2, match_type='spectrogram'):
     # Take a single analyzed sound and return a list of ANN from a set of hashed databases (engines)
     
-    y, sr, spec = test_sound(filename)
+    y, sr, mat = test_sound(filename, segment_length=0.2, match_type=match_type)
     
     scores = [0]*num_files
     distances = [0]*num_files
     cur_seg = 0
     for engine in engines:
-        if (cur_seg >= len(spec)):
+        if (cur_seg >= len(mat)):
             break
         # Get nearest neighbours
-        N = engine.neighbours(spec[cur_seg][0])
+        N = engine.neighbours(mat[cur_seg][0])
         for entry in N:
             index = parse_index(entry[1])
             if not math.isnan(entry[2]):
@@ -87,7 +95,7 @@ def query_sound(filename, engines, num_files, sounds=None, samplerates=None, dis
 
     for i in range(len(scores)):
         if scores[i] == 0:
-            distances[i] = 999999990
+            distances[i] = 9
 
     guesses = sorted(range(len(distances)), key=lambda k : distances[k])
         
@@ -102,33 +110,125 @@ def query_sound(filename, engines, num_files, sounds=None, samplerates=None, dis
         ipd.display(ipd.Audio(y, rate = sr)) # load search file
         print("Best guess: " + str(best_guess))
         ipd.display(ipd.Audio(sounds[best_guess], rate = samplerates[best_guess])) # load matched file
-        print("Second best guess: " + str(second_best_guess))
-        ipd.display(ipd.Audio(sounds[second_best_guess], rate = samplerates[second_best_guess])) # load matched file
+        if distances[second_best_guess] < 9:
+            print("Second best guess: " + str(second_best_guess))
+            ipd.display(ipd.Audio(sounds[second_best_guess], rate = samplerates[second_best_guess])) # load matched file
+        
+        if match_type == 'spectrogram':
+            plt.figure(figsize=(12,4))
+            S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
+            log_S = librosa.power_to_db(S, ref=np.max)
+            librosa.display.specshow(log_S, sr=sr, x_axis='time', y_axis='mel')
+            plt.title('mel power spectrogram for Original Query')
+            plt.colorbar(format='%+02.0f dB')
+            plt.tight_layout()
 
-        plt.figure(figsize=(12,4))
-        S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
-        log_S = librosa.power_to_db(S, ref=np.max)
-        librosa.display.specshow(log_S, sr=sr, x_axis='time', y_axis='mel')
-        plt.title('mel power spectrogram for Original Query')
-        plt.colorbar(format='%+02.0f dB')
-        plt.tight_layout()
+            plt.figure(figsize=(12,4))
+            S = librosa.feature.melspectrogram(sounds[best_guess], sr=samplerates[best_guess], n_mels=128)
+            log_S = librosa.power_to_db(S, ref=np.max)
+            librosa.display.specshow(log_S, sr=samplerates[best_guess], x_axis='time', y_axis='mel')
+            plt.title('mel power spectrogram for Best Guess: ' + str(best_guess))
+            plt.colorbar(format='%+02.0f dB')
+            plt.tight_layout()
 
-        plt.figure(figsize=(12,4))
-        S = librosa.feature.melspectrogram(sounds[best_guess], sr=samplerates[best_guess], n_mels=128)
-        log_S = librosa.power_to_db(S, ref=np.max)
-        librosa.display.specshow(log_S, sr=samplerates[best_guess], x_axis='time', y_axis='mel')
-        plt.title('mel power spectrogram for Best Guess: ' + str(best_guess))
-        plt.colorbar(format='%+02.0f dB')
-        plt.tight_layout()
-
-
-        plt.figure(figsize=(12,4))
-        S = librosa.feature.melspectrogram(sounds[second_best_guess], sr=samplerates[second_best_guess], n_mels=128)
-        log_S = librosa.power_to_db(S, ref=np.max)
-        librosa.display.specshow(log_S, sr=samplerates[second_best_guess], x_axis='time', y_axis='mel')
-        plt.title('mel power spectrogram for Second Best Guess: ' + str(second_best_guess))
-        plt.colorbar(format='%+02.0f dB')
-        plt.tight_layout()
+            if distances[second_best_guess] < 9:
+                plt.figure(figsize=(12,4))
+                S = librosa.feature.melspectrogram(sounds[second_best_guess], sr=samplerates[second_best_guess], n_mels=128)
+                log_S = librosa.power_to_db(S, ref=np.max)
+                librosa.display.specshow(log_S, sr=samplerates[second_best_guess], x_axis='time', y_axis='mel')
+                plt.title('mel power spectrogram for Second Best Guess: ' + str(second_best_guess))
+                plt.colorbar(format='%+02.0f dB')
+                plt.tight_layout()
+            
+        if match_type == 'mfcc':
+            S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
+            log_S = librosa.power_to_db(S, ref=np.max)
+            mfcc = librosa.feature.mfcc(S=log_S, n_mfcc=13)
+            plt.figure(figsize=(12, 6))
+            plt.subplot(3,1,1)
+            librosa.display.specshow(mfcc, x_axis='time')
+            plt.ylabel('MFCC for Original Query')
+            plt.colorbar()
+            plt.tight_layout()
+            
+            S = librosa.feature.melspectrogram(sounds[best_guess], sr=samplerates[best_guess], n_mels=128)
+            log_S = librosa.power_to_db(S, ref=np.max)
+            mfcc = librosa.feature.mfcc(S=log_S, n_mfcc=13)
+            plt.figure(figsize=(12, 6))
+            plt.subplot(3,1,1)
+            librosa.display.specshow(mfcc, x_axis='time')
+            plt.ylabel('MFCC for Best Guess: ' + str(best_guess))
+            plt.colorbar()
+            plt.tight_layout()
+            
+            if distances[second_best_guess] < 9:
+                S = librosa.feature.melspectrogram(sounds[second_best_guess], sr=samplerates[second_best_guess], n_mels=128)
+                log_S = librosa.power_to_db(S, ref=np.max)
+                mfcc = librosa.feature.mfcc(S=log_S, n_mfcc=13)
+                plt.figure(figsize=(12, 6))
+                plt.subplot(3,1,1)
+                librosa.display.specshow(mfcc, x_axis='time')
+                plt.ylabel('MFCC for Second Best Guess: ' + str(second_best_guess))
+                plt.colorbar()
+                plt.tight_layout()
+            
+        if match_type == 'centroid':
+            cent = librosa.feature.spectral_centroid(y=y, sr=sr)
+            plt.figure(figsize=(12, 6))
+            plt.subplot(2, 1, 1)
+            plt.semilogy(cent.T, label='Spectral centroid of Original Query')
+            plt.ylabel('Hz')
+            plt.xticks([])
+            plt.xlim([0, cent.shape[-1]])
+            plt.legend()
+            
+            cent = librosa.feature.spectral_centroid(sounds[best_guess], sr=samplerates[best_guess])
+            plt.figure(figsize=(12, 6))
+            plt.subplot(2, 1, 1)
+            plt.semilogy(cent.T, label='Spectral centroid of Best Guess: ' + str(best_guess))
+            plt.ylabel('Hz')
+            plt.xticks([])
+            plt.xlim([0, cent.shape[-1]])
+            plt.legend()
+            
+            if distances[second_best_guess] < 9:
+                cent = librosa.feature.spectral_centroid(sounds[second_best_guess], sr=samplerates[second_best_guess])
+                plt.figure(figsize=(12, 6))
+                plt.subplot(2, 1, 1)
+                plt.semilogy(cent.T, label='Spectral centroid of Second Best Guess: ' + str(second_best_guess))
+                plt.ylabel('Hz')
+                plt.xticks([])
+                plt.xlim([0, cent.shape[-1]])
+                plt.legend()
+            
+        if match_type == 'rms':
+            S, phase = librosa.magphase(librosa.stft(y))
+            rms = librosa.feature.rmse(S=S)
+            plt.figure(figsize=(12, 6))
+            plt.subplot(2, 1, 1)
+            plt.semilogy(rms.T, label='RMS Energy for Original Query')
+            plt.xticks([])
+            plt.xlim([0, rms.shape[-1]])
+            plt.legend(loc='best')
+            
+            S, phase = librosa.magphase(librosa.stft(sounds[best_guess]))
+            rms = librosa.feature.rmse(S=S)
+            plt.figure(figsize=(12, 6))
+            plt.subplot(2, 1, 1)
+            plt.semilogy(rms.T, label='RMS Energy for Best Guess: ' + str(best_guess))
+            plt.xticks([])
+            plt.xlim([0, rms.shape[-1]])
+            plt.legend(loc='best')
+            
+            if distances[second_best_guess] < 9:
+                S, phase = librosa.magphase(librosa.stft(sounds[second_best_guess]))
+                rms = librosa.feature.rmse(S=S)
+                plt.figure(figsize=(12, 6))
+                plt.subplot(2, 1, 1)
+                plt.semilogy(rms.T, label='RMS Energy for Second Best Guess: ' + str(second_best_guess))
+                plt.xticks([])
+                plt.xlim([0, rms.shape[-1]])
+                plt.legend(loc='best')
         
         plt.show()
     return guesses, distances
@@ -264,19 +364,19 @@ def parse_index(index):
     s1,s2 = index.split('_')
     return int(s2)
 
-def segment_spectrograms(specs, max_segs, file_count):
+def segment_matrix(mat, max_segs, file_count):
     # Re-order spectrograms by segment
-    spect_by_seg = []
-    spect_by_seg_flat = []
+    mat_by_seg = []
+    mat_by_seg_flat = []
     for i in range(max_segs):
-        seg = np.empty((file_count,128,specs[0][0].shape[1]))
+        seg = np.empty((file_count,mat[0][0].shape[0],mat[0][0].shape[1]))
         seg[:] = np.nan
-        seg_flat = np.empty((file_count,128*specs[0][0].shape[1]))
+        seg_flat = np.empty((file_count,mat[0][0].shape[0]*mat[0][0].shape[1]))
         seg_flat[:] = np.nan
         for j in range(file_count):
-            if i < len(specs[j]):
-                seg[j] = specs[j][i]
-                seg_flat[j] = vectorize(specs[j][i])
-        spect_by_seg.append(seg)
-        spect_by_seg_flat.append(seg_flat)
-    return spect_by_seg, spect_by_seg_flat
+            if i < len(mat[j]):
+                seg[j] = mat[j][i]
+                seg_flat[j] = vectorize(mat[j][i])
+        mat_by_seg.append(seg)
+        mat_by_seg_flat.append(seg_flat)
+    return mat_by_seg, mat_by_seg_flat

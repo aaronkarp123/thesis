@@ -3,3 +3,4 @@
 *.flac
 *.mp3
 */InstallerTests
+*.npy
