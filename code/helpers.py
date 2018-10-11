@@ -380,3 +380,9 @@ def segment_matrix(mat, max_segs, file_count):
         mat_by_seg.append(seg)
         mat_by_seg_flat.append(seg_flat)
     return mat_by_seg, mat_by_seg_flat
+
+    
+def reboot_directory(path='/Users/aaronkarp/Documents/Thesis/Code/savedBases'):
+    # Remove and remake target directory
+    shutil.rmtree(path)
+    os.mkdir(path)
