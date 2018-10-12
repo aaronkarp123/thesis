@@ -18,6 +18,8 @@ import glob
 import os
 import shutil
 
+import random
+
 from nearpy import Engine
 from nearpy.hashes import RandomBinaryProjections
 
@@ -95,13 +97,13 @@ def test_sound(filepath, segment_length = 0.2, match_type='spectrogram'):
         centroids.append(features[3])
     
     if match_type == 'spectrogram':
-        spectrogram_by_seg, spectrogram_by_seg_flat = segment_matrix([spectrograms], num_segs, 1)
+        spectrogram_by_seg_flat = segment_matrix([spectrograms], num_segs, 1)
         return y, sr, spectrogram_by_seg_flat
     if match_type == 'mfcc':
-        mfcc_by_seg, mfcc_by_seg_flat = segment_matrix([mfccs], num_segs, 1)
+        mfcc_by_seg_flat = segment_matrix([mfccs], num_segs, 1)
         return y, sr, mfcc_by_seg_flat
     if match_type == 'centroid':
-        centroid_by_seg, centroid_by_seg_flat = segment_matrix([centroids], num_segs, 1)
+        centroid_by_seg_flat = segment_matrix([centroids], num_segs, 1)
         return y, sr, centroid_by_seg_flat
     return
 
@@ -267,7 +269,7 @@ def query_sound(filename, engines, num_files, sounds=None, samplerates=None, dis
     return guesses, distances
     
 
-def load_sounds(filedir= '../testSounds'):
+def load_sounds(filedir= '../testSounds', cut=100):
     # Return all sounds within the directory as a list of numpy arrays
 
     os.chdir(filedir)
@@ -278,10 +280,17 @@ def load_sounds(filedir= '../testSounds'):
     files.extend(glob.glob("*.flac"))
     cur_file = 0
     cur_percentage = 0
+    used_files = []
+    unused_files = []
 
     print("Loading...")
 
     for file in files:
+        if (random.uniform(0.0, 100.0) >= cut):
+            unused_files.append(file)
+            cur_file += 1
+            continue
+        
         # print(file + "   ", end='')
         if (round(cur_file / len(files) * 100) != cur_percentage):
             cur_percentage = round(cur_file / len(files) * 100)
@@ -295,12 +304,14 @@ def load_sounds(filedir= '../testSounds'):
             print("Error loading file. Continuing to next file.")
             print()
             continue
+        used_files.append(file)
         audiodata.append(y)
         rates.append(sr)
         cur_file += 1
 
     print("Finished Loading")
-    return audiodata, rates
+    print("Using " + str(len(used_files)) + " / " + str(cur_file) + " files ~= " + str(len(used_files) / cur_file) + "%")
+    return audiodata, rates, used_files, unused_files
 
 def analyze_sounds(audiodata, rates, segment_length = 0.2):
     # Analyze all sounds in (audiodata) for various audio features
@@ -371,6 +382,18 @@ def save_data(data, directory='/Users/aaronkarp/Documents/Thesis/Code/savedData/
         np.save(directory + name + '.npy', file[1])
         print('saved ' + name)
 
+def save_names(names, unused_names=[], directory='/Users/aaronkarp/Documents/Thesis/Code/savedData/'):
+    # Save filenames in .txt files
+    
+    with open(directory + 'sampledFiles.txt', 'w') as f:
+        for name in names:
+            f.write("%s\n" % name)
+    if len(unused_names) < 0:
+        return
+    with open(directory + 'unsampledFiles.txt', 'w') as f:
+        for name in unused_names:
+            f.write("%s\n" % name)
+        
 def vectorize(ar):
     # Stack matrix into one long horizontal vector by time-slice (columns -> rows)
     return ar.flatten('F')
@@ -399,20 +422,15 @@ def parse_index(index):
 
 def segment_matrix(mat, max_segs, file_count):
     # Re-order spectrograms by segment
-    mat_by_seg = []
     mat_by_seg_flat = []
     for i in range(max_segs):
-        seg = np.empty((file_count,mat[0][0].shape[0],mat[0][0].shape[1]))
-        seg[:] = np.nan
         seg_flat = np.empty((file_count,mat[0][0].shape[0]*mat[0][0].shape[1]))
         seg_flat[:] = np.nan
         for j in range(file_count):
             if i < len(mat[j]):
-                seg[j] = mat[j][i]
                 seg_flat[j] = vectorize(mat[j][i])
-        mat_by_seg.append(seg)
         mat_by_seg_flat.append(seg_flat)
-    return mat_by_seg, mat_by_seg_flat
+    return mat_by_seg_flat
 
     
 def reboot_directory(path='/Users/aaronkarp/Documents/Thesis/Code/savedBases'):
