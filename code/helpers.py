@@ -16,13 +16,46 @@ import IPython.display as ipd
 
 import glob
 import os
+import shutil
 
 from nearpy import Engine
 from nearpy.hashes import RandomBinaryProjections
 
+import pickle
 import math
+import re
 
 from features import *
+
+def save_engines(engines, name, directory='/Users/aaronkarp/Documents/Thesis/Code/savedBases/'):
+    # Save the list of engines in the directory
+    seg_num = 0
+    for engine in engines:
+        to_save = directory+name+'_'+str(seg_num)+'.p'
+        pickle.dump(engine,open(to_save,'wb'))
+        seg_num += 1
+        
+def load_engines(name, directory='/Users/aaronkarp/Documents/Thesis/Code/savedBases/'):
+    # Return a list of engines loaded from the directory containing the string name
+    os.chdir(directory)
+    files = []
+    files.extend(glob.glob("*"+name+"*.p"))
+    files.sort(key=natural_keys)
+    engines = []
+    for file in files:
+        engines.append(pickle.load(open(file,'rb')))
+    return engines
+
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    '''
+    return [ atoi(c) for c in re.split('(\d+)', text) ]
 
 def test_sound(filepath, segment_length = 0.2, match_type='spectrogram'):
     # Load an audio file and analyze its content, returning the information necessary to query the file against the database
@@ -76,7 +109,7 @@ def test_sound(filepath, segment_length = 0.2, match_type='spectrogram'):
 def query_sound(filename, engines, num_files, sounds=None, samplerates=None, display=False, segment_length=0.2, match_type='spectrogram'):
     # Take a single analyzed sound and return a list of ANN from a set of hashed databases (engines)
     
-    y, sr, mat = test_sound(filename, segment_length=0.2, match_type=match_type)
+    y, sr, mat = test_sound(filename, segment_length=segment_length, match_type=match_type)
     
     scores = [0]*num_files
     distances = [0]*num_files
@@ -87,7 +120,7 @@ def query_sound(filename, engines, num_files, sounds=None, samplerates=None, dis
         # Get nearest neighbours
         N = engine.neighbours(mat[cur_seg][0])
         for entry in N:
-            index = parse_index(entry[1])
+            index = int(entry[1]) #parse_index(entry[1])
             if not math.isnan(entry[2]):
                 scores[index] += 1
                 distances[index] += entry[2]
@@ -355,7 +388,7 @@ def build_lsh(data, hashbits=10):
 
     # Index 1000000 random vectors (set their data to a unique string)
     for index in range(len(data)):
-        engine.store_vector(data[index], 'data_%d' % index)
+        engine.store_vector(data[index], '%d' % index)
 
     return engine
 
