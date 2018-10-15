@@ -83,25 +83,35 @@ def get_spectral_centroid(y, sr):
     
     return cent
 
-def get_all(y, sr):
+def get_all(y, sr, what_feat="all"):
     # Return [spectrogram, mfcc, rms, spectral centroid] in that order
     features = []
     
     #spectrogram
-    S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
-    log_S = librosa.power_to_db(S, ref=np.max)
-    features.append(log_S)
-    
-    #mfcc
-    mfcc = librosa.feature.mfcc(S=log_S, n_mfcc=13)
-    features.append(mfcc)
-    
-    #rms
-    rms = librosa.feature.rmse(y=y)
-    features.append(rms)
-    
-    #spectral centroid
-    cent = librosa.feature.spectral_centroid(y=y, sr=sr)
-    features.append(cent)
-    
+    if what_feat == "spectrogram":
+        S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
+        log_S = librosa.power_to_db(S, ref=np.max)
+        features.append(log_S)
+        features.append([])
+        features.append([])
+        features.append([])
+        
+    elif what_feat == "all":
+        #spectrogram
+        S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
+        log_S = librosa.power_to_db(S, ref=np.max)
+        features.append(log_S)
+        
+        #mfcc
+        mfcc = librosa.feature.mfcc(S=log_S, n_mfcc=13)
+        features.append(mfcc)
+
+        #rms
+        rms = librosa.feature.rmse(y=y)
+        features.append(rms)
+
+        #spectral centroid
+        cent = librosa.feature.spectral_centroid(y=y, sr=sr)
+        features.append(cent)
+
     return features

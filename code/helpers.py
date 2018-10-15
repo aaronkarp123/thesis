@@ -27,6 +27,8 @@ import pickle
 import math
 import re
 
+import time
+
 from features import *
 
 def save_engines(engines, name, directory='/Users/aaronkarp/Documents/Thesis/Code/savedBases/'):
@@ -272,16 +274,19 @@ def query_sound(filename, engines, num_files, sounds=None, samplerates=None, dis
 def load_sounds(filedir= '../testSounds', cut=100):
     # Return all sounds within the directory as a list of numpy arrays
 
-    os.chdir(filedir)
+    #os.chdir(filedir)
     audiodata = []
     rates = []
     files = []
-    files.extend(glob.glob("*.wav"))
-    files.extend(glob.glob("*.flac"))
+    print(filedir)
+    files.extend(glob.glob(filedir+"/**/*.wav", recursive=True))
+    files.extend(glob.glob(filedir+"/**/*.flac", recursive=True))
     cur_file = 0
     cur_percentage = 0
     used_files = []
     unused_files = []
+    
+    start = time.time()
 
     print("Loading...")
 
@@ -297,7 +302,7 @@ def load_sounds(filedir= '../testSounds', cut=100):
             print(str(cur_percentage) + "%     ", end='')
         
         try:
-            y, sr = librosa.load(filedir + "/" + file)
+            y, sr = librosa.load(file)
         except Exception as e:
             print()
             print(e)
@@ -308,12 +313,12 @@ def load_sounds(filedir= '../testSounds', cut=100):
         audiodata.append(y)
         rates.append(sr)
         cur_file += 1
-
-    print("Finished Loading")
-    print("Using " + str(len(used_files)) + " / " + str(cur_file) + " files ~= " + str(len(used_files) / cur_file) + "%")
+    end = time.time()
+    print("Finished Loading in " + str(end-start) + " seconds, or " + str((end-start)/60.0) + " minutes")
+    print("Using " + str(len(used_files)) + " / " + str(cur_file) + " files ~= " + str(len(used_files) / cur_file * 100.0) + "%")
     return audiodata, rates, used_files, unused_files
 
-def analyze_sounds(audiodata, rates, segment_length = 0.2):
+def analyze_sounds(audiodata, rates, segment_length = 0.2, what_feat="all"):
     # Analyze all sounds in (audiodata) for various audio features
     
     spectrograms = []
@@ -324,7 +329,8 @@ def analyze_sounds(audiodata, rates, segment_length = 0.2):
     cur_file = 0
     avg_num_segs = 0
     cur_percentage = 0
-
+    start = time.time()
+    
     print("Analyzing...")
 
     for sound in audiodata:
@@ -358,7 +364,7 @@ def analyze_sounds(audiodata, rates, segment_length = 0.2):
         for i in range((num_segs)):
             start = int(i * segment_length_samples)
             end = int((i+1) * segment_length_samples)
-            features = get_all(y[start:end], sr)  # calculate features for sub-segment of signal
+            features = get_all(y[start:end], sr, what_feat)  # calculate features for sub-segment of signal
             rates.append(sr)
             spectrograms[cur_file].append(features[0])
             mfccs[cur_file].append(features[1])
@@ -369,7 +375,9 @@ def analyze_sounds(audiodata, rates, segment_length = 0.2):
             max_num_segs = num_segs
             
         cur_file += 1
-    print("Finished Analyzing")
+    
+    end = time.time()
+    print("Finished Analyzing in " + str(end-start) + " seconds, or " + str((end-start)/60.0) + " minutes")
     print("\nAverage number of segments: ", str(avg_num_segs/cur_file))
 
     return spectrograms, mfccs, rmss, centroids, max_num_segs
@@ -385,12 +393,12 @@ def save_data(data, directory='/Users/aaronkarp/Documents/Thesis/Code/savedData/
 def save_names(names, unused_names=[], directory='/Users/aaronkarp/Documents/Thesis/Code/savedData/'):
     # Save filenames in .txt files
     
-    with open(directory + 'sampledFiles.txt', 'w') as f:
+    with open(directory + '/sampledFiles.txt', 'w') as f:
         for name in names:
             f.write("%s\n" % name)
     if len(unused_names) < 0:
         return
-    with open(directory + 'unsampledFiles.txt', 'w') as f:
+    with open(directory + '/unsampledFiles.txt', 'w') as f:
         for name in unused_names:
             f.write("%s\n" % name)
         
@@ -435,5 +443,8 @@ def segment_matrix(mat, max_segs, file_count):
     
 def reboot_directory(path='/Users/aaronkarp/Documents/Thesis/Code/savedBases'):
     # Remove and remake target directory
-    shutil.rmtree(path)
+    try:
+        shutil.rmtree(path)
+    except Exception as e:
+        print("No Directory present")
     os.mkdir(path)
