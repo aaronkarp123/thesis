@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package SYSTEM "http://shtooka.net/project/swac/package.dtd">
+<package>
+	<id>eng-balm-judith</id>
+	<license>Creative Commons BY 3.0 (U.S)</license>
+	<copyright>Copyright(c) 2009 Association Shtooka, Judith Franck</copyright>
+	<version>0.1.2</version>
+	<audio>
+		<format>flac</format>
+	</audio>
+	<content>
+		<count>625</count>
+		<lang>eng</lang>
+	</content>
+	<information lang="eng">
+		<collection>
+			<name>Free audio base of English words</name>
+			<section>Vocabulary</section>
+		</collection>
+		<organization>
+			<name>Shtooka Project</name>
+			<url>http://shtooka.net/</url>
+		</organization>
+		<description>These audio files are primarily meant to study English as a foreign language and to help creating teaching material.</description>
+	</information>
+	<information lang="fra">
+		<collection>
+			<name>Base audio libre de mots anglais</name>
+			<section>Vocabulaire</section>
+		</collection>
+		<organization>
+			<name>Projet Shtooka</name>
+			<url>http://shtooka.net/</url>
+		</organization>
+		<description>Cette collection est essentiellement destinée aux personnes étudiant l'anglais comme langue étrangère ainsi qu'à la production de matériel pédagogique.</description>
+		<readme>﻿Base audio libre de mots anglais
+Paquet "Judith Franck"
+Copyright(c) 2009 Association Shtooka
+--------------------------------
+
+Le contenu de cette collection est distribué librement sous licence "Creative
+Commons Attribution 3.0". Vous trouverez plus d'informations sur cette licence 
+à l'adresse suivante :
+
+	http://creativecommons.org/licenses/by/3.0/us/
+
+L'ensemble de cette collection audio est disponible peut être téléchargée à 
+partir de :
+
+ 	http://shtooka.net/audio-base/rus/
+
+L'enregistrement audio a été réalisé à l'aide du programme "Shtooka
+Recorder" distribué sous licence GPL et disponible à l'adresss suivante :
+
+	http://shtooka.net/soft/shtooka_recorder/</readme>
+	</information>
+</package>

@@ -1,4 +1,3 @@
-# We'll need numpy for some mathematical operations
 import numpy as np
 
 # matplotlib for displaying the output
@@ -6,12 +5,9 @@ import matplotlib.pyplot as plt
 import matplotlib.style as ms
 ms.use('seaborn-muted')
 
-# Librosa for audio
 import librosa
-# And the display module for visualization
 import librosa.display
 
-# and IPython.display for audio output
 import IPython.display as ipd
 
 import glob
@@ -51,13 +47,13 @@ def load_engines(name, directory='/Users/aaronkarp/Documents/Thesis/Code/savedBa
     return engines
 
 def atoi(text):
+    # Return text -> digit
     return int(text) if text.isdigit() else text
 
 def natural_keys(text):
     '''
     alist.sort(key=natural_keys) sorts in human order
     http://nedbatchelder.com/blog/200712/human_sorting.html
-    (See Toothy's implementation in the comments)
     '''
     return [ atoi(c) for c in re.split('(\d+)', text) ]
 
@@ -137,6 +133,7 @@ def query_sound(filename, engines, num_files, sounds=None, samplerates=None, dis
     guesses = sorted(range(len(distances)), key=lambda k : distances[k])
         
     if display:
+        # Display all requested analyzed features
         if sounds == None or samplerates == None:
             print("Must include sounds and samplerates for display")
             return guesses, distances
@@ -274,7 +271,6 @@ def query_sound(filename, engines, num_files, sounds=None, samplerates=None, dis
 def load_sounds(filedir= '../testSounds', cut=100):
     # Return all sounds within the directory as a list of numpy arrays
 
-    #os.chdir(filedir)
     audiodata = []
     rates = []
     files = []
@@ -291,7 +287,7 @@ def load_sounds(filedir= '../testSounds', cut=100):
     print("Loading...")
 
     for file in files:
-        if (random.uniform(0.0, 100.0) >= cut):
+        if (random.uniform(0.0, 100.0) >= cut):  # Select cut% of files for "training", rest for "testing"
             unused_files.append(file)
             cur_file += 1
             continue
@@ -448,3 +444,20 @@ def reboot_directory(path='/Users/aaronkarp/Documents/Thesis/Code/savedBases'):
     except Exception as e:
         print("No Directory present")
     os.mkdir(path)
+    
+    
+def load_matches(filedir='../'):
+    # Load the saved matched pairs from file
+    
+    matched_file = open(filedir + "matchedFiles.txt", "r")
+    matches = matched_file.read().split('\n')
+    match_matrix = []
+    for match in matches:
+        segs = match.split('_~_')
+        try:
+            match_matrix.append([segs[0].strip(), segs[1].strip(), segs[2].strip()])
+        except Exception as e:
+            #print(e)
+            print(match)
+    return match_matrix
+

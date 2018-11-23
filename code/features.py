@@ -1,17 +1,12 @@
-# We'll need numpy for some mathematical operations
 import numpy as np
 
-# matplotlib for displaying the output
 import matplotlib.pyplot as plt
 import matplotlib.style as ms
 ms.use('seaborn-muted')
 
-# Librosa for audio
 import librosa
-# And the display module for visualization
 import librosa.display
 
-# Extract features
 def get_spectrogram(y, sr):
     S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
 
@@ -85,6 +80,9 @@ def get_spectral_centroid(y, sr):
 
 def get_all(y, sr, what_feat="all"):
     # Return [spectrogram, mfcc, rms, spectral centroid] in that order
+    # Much more efficient than individual functions
+    # Doesn't automatically display features
+    
     features = []
     
     #spectrogram

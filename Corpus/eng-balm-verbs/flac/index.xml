@@ -1,0 +1,3290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE index SYSTEM "http://shtooka.net/project/swac/index.dtd">
+<index>
+<group 
+	swac_lang="eng"
+	swac_speak_name="Alyson Heimer"
+	swac_speak_gender="F"
+	swac_speak_birth_year="1985"
+	swac_speak_lang="eng"
+	swac_speak_lang_region="Massuchusetts"
+	swac_speak_liv_country="US"
+	swac_speak_liv_town="Boston"
+	swac_pron_speed="2"
+	swac_coll_name="Base Audio Libre de Mots Anglais"
+	swac_coll_section="Les verbes irréguliers"
+	swac_coll_desc="Cette collection audio est essentiellement à la préparation de matériel pédagogique pour l'apprentissage des verbes irreguliers."
+	swac_coll_org="Shtooka Project"
+	swac_coll_org_url="http://shtooka.net/"
+	swac_coll_license="Creative Commons BY"
+	swac_coll_copyright="Alyson Heimer, Flora Bouillaguet, Charles Bouillaguet, Nicolas Vion"
+	swac_coll_authors="Alyson Himer, Flora Bouillaguet, Charles Bouillaguet, Nicolas Vion"
+	swac_coll_url="http://packs.shtooka.net/eng-balm-verbs"
+	swac_tech_qlt="5"
+	swac_tech_date="2007-09-03"
+	swac_tech_soft="Shtooka Recorder/1.2" >
+
+	<file path="eng-I_arose.flac">
+		<tag 
+			swac_text="I arose"
+			swac_alphaidx="arise"
+			swac_baseform="arise"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_ate.flac">
+		<tag 
+			swac_text="I ate"
+			swac_alphaidx="eat"
+			swac_baseform="eat"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_awoke.flac">
+		<tag 
+			swac_text="I awoke"
+			swac_alphaidx="awake"
+			swac_baseform="awake"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_beat.flac">
+		<tag 
+			swac_text="I beat"
+			swac_alphaidx="beat"
+			swac_baseform="beat"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_became.flac">
+		<tag 
+			swac_text="I became"
+			swac_alphaidx="become"
+			swac_baseform="become"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_began.flac">
+		<tag 
+			swac_text="I began"
+			swac_alphaidx="begin"
+			swac_baseform="begin"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bent.flac">
+		<tag 
+			swac_text="I bent"
+			swac_alphaidx="bend"
+			swac_baseform="bend"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bet.flac">
+		<tag 
+			swac_text="I bet"
+			swac_alphaidx="bet"
+			swac_baseform="bet"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bid.flac">
+		<tag 
+			swac_text="I bid"
+			swac_alphaidx="bid"
+			swac_baseform="bid"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bit.flac">
+		<tag 
+			swac_text="I bit"
+			swac_alphaidx="bite"
+			swac_baseform="bite"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bled.flac">
+		<tag 
+			swac_text="I bled"
+			swac_alphaidx="bleed"
+			swac_baseform="bleed"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_blew.flac">
+		<tag 
+			swac_text="I blew"
+			swac_alphaidx="blow"
+			swac_baseform="blow"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bore.flac">
+		<tag 
+			swac_text="I bore"
+			swac_alphaidx="bear"
+			swac_baseform="bear"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bought.flac">
+		<tag 
+			swac_text="I bought"
+			swac_alphaidx="buy"
+			swac_baseform="buy"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bound.flac">
+		<tag 
+			swac_text="I bound"
+			swac_alphaidx="bind"
+			swac_baseform="bind"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_bred.flac">
+		<tag 
+			swac_text="I bred"
+			swac_alphaidx="breed"
+			swac_baseform="breed"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_broke.flac">
+		<tag 
+			swac_text="I broke"
+			swac_alphaidx="break"
+			swac_baseform="break"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_brought.flac">
+		<tag 
+			swac_text="I brought"
+			swac_alphaidx="bring"
+			swac_baseform="bring"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_built.flac">
+		<tag 
+			swac_text="I built"
+			swac_alphaidx="build"
+			swac_baseform="build"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_burnt.flac">
+		<tag 
+			swac_text="I burnt"
+			swac_alphaidx="burn"
+			swac_baseform="burn"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_burst.flac">
+		<tag 
+			swac_text="I burst"
+			swac_alphaidx="burst"
+			swac_baseform="burst"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_came.flac">
+		<tag 
+			swac_text="I came"
+			swac_alphaidx="come"
+			swac_baseform="come"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_cast.flac">
+		<tag 
+			swac_text="I cast"
+			swac_alphaidx="cast"
+			swac_baseform="cast"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_caught.flac">
+		<tag 
+			swac_text="I caught"
+			swac_alphaidx="catch"
+			swac_baseform="catch"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_chose.flac">
+		<tag 
+			swac_text="I chose"
+			swac_alphaidx="choose"
+			swac_baseform="choose"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_clung.flac">
+		<tag 
+			swac_text="I clung"
+			swac_alphaidx="cling"
+			swac_baseform="cling"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_cost.flac">
+		<tag 
+			swac_text="I cost"
+			swac_alphaidx="cost"
+			swac_baseform="cost"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_crept.flac">
+		<tag 
+			swac_text="I crept"
+			swac_alphaidx="creep"
+			swac_baseform="creep"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_cut.flac">
+		<tag 
+			swac_text="I cut"
+			swac_alphaidx="cut"
+			swac_baseform="cut"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_dealt.flac">
+		<tag 
+			swac_text="I dealt"
+			swac_alphaidx="deal"
+			swac_baseform="deal"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_did.flac">
+		<tag 
+			swac_text="I did"
+			swac_alphaidx="do"
+			swac_baseform="do"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_drank.flac">
+		<tag 
+			swac_text="I drank"
+			swac_alphaidx="drink"
+			swac_baseform="drink"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_dreamt.flac">
+		<tag 
+			swac_text="I dreamt"
+			swac_alphaidx="dream"
+			swac_baseform="dream"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_drew.flac">
+		<tag 
+			swac_text="I drew"
+			swac_alphaidx="draw"
+			swac_baseform="draw"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_drove.flac">
+		<tag 
+			swac_text="I drove"
+			swac_alphaidx="drive"
+			swac_baseform="drive"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_dug.flac">
+		<tag 
+			swac_text="I dug"
+			swac_alphaidx="dig"
+			swac_baseform="dig"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_dwelt.flac">
+		<tag 
+			swac_text="I dwelt"
+			swac_alphaidx="dwell"
+			swac_baseform="dwell"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_fed.flac">
+		<tag 
+			swac_text="I fed"
+			swac_alphaidx="feed"
+			swac_baseform="feed"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_fell.flac">
+		<tag 
+			swac_text="I fell"
+			swac_alphaidx="fall"
+			swac_baseform="fall"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_felt.flac">
+		<tag 
+			swac_text="I felt"
+			swac_alphaidx="feel"
+			swac_baseform="feel"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_fled.flac">
+		<tag 
+			swac_text="I fled"
+			swac_alphaidx="flee"
+			swac_baseform="flee"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_flew.flac">
+		<tag 
+			swac_text="I flew"
+			swac_alphaidx="fly"
+			swac_baseform="fly"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_flung.flac">
+		<tag 
+			swac_text="I flung"
+			swac_alphaidx="fling"
+			swac_baseform="fling"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_forbade.flac">
+		<tag 
+			swac_text="I forbade"
+			swac_alphaidx="forbid"
+			swac_baseform="forbid"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_forgave.flac">
+		<tag 
+			swac_text="I forgave"
+			swac_alphaidx="forgive"
+			swac_baseform="forgive"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_forgot.flac">
+		<tag 
+			swac_text="I forgot"
+			swac_alphaidx="forget"
+			swac_baseform="forget"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_fought.flac">
+		<tag 
+			swac_text="I fought"
+			swac_alphaidx="fight"
+			swac_baseform="fight"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_found.flac">
+		<tag 
+			swac_text="I found"
+			swac_alphaidx="find"
+			swac_baseform="find"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_froze.flac">
+		<tag 
+			swac_text="I froze"
+			swac_alphaidx="freeze"
+			swac_baseform="freeze"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_gave.flac">
+		<tag 
+			swac_text="I gave"
+			swac_alphaidx="give"
+			swac_baseform="give"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_got.flac">
+		<tag 
+			swac_text="I got"
+			swac_alphaidx="get"
+			swac_baseform="get"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_grew.flac">
+		<tag 
+			swac_text="I grew"
+			swac_alphaidx="grow"
+			swac_baseform="grow"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_ground.flac">
+		<tag 
+			swac_text="I ground"
+			swac_alphaidx="grind"
+			swac_baseform="grind"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_had.flac">
+		<tag 
+			swac_text="I had"
+			swac_alphaidx="have"
+			swac_baseform="have"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_have_arisen.flac">
+		<tag 
+			swac_text="I have arisen"
+			swac_alphaidx="arise"
+			swac_baseform="arise"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_awoken.flac">
+		<tag 
+			swac_text="I have awoken"
+			swac_alphaidx="awake"
+			swac_baseform="awake"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_beaten.flac">
+		<tag 
+			swac_text="I have beaten"
+			swac_alphaidx="beat"
+			swac_baseform="beat"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_become.flac">
+		<tag 
+			swac_text="I have become"
+			swac_alphaidx="become"
+			swac_baseform="become"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_begun.flac">
+		<tag 
+			swac_text="I have begun"
+			swac_alphaidx="begin"
+			swac_baseform="begin"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bent.flac">
+		<tag 
+			swac_text="I have bent"
+			swac_alphaidx="bend"
+			swac_baseform="bend"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bet.flac">
+		<tag 
+			swac_text="I have bet"
+			swac_alphaidx="bet"
+			swac_baseform="bet"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bid.flac">
+		<tag 
+			swac_text="I have bid"
+			swac_alphaidx="bid"
+			swac_baseform="bid"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bitten.flac">
+		<tag 
+			swac_text="I have bitten"
+			swac_alphaidx="bite"
+			swac_baseform="bite"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bled.flac">
+		<tag 
+			swac_text="I have bled"
+			swac_alphaidx="bleed"
+			swac_baseform="bleed"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_blown.flac">
+		<tag 
+			swac_text="I have blown"
+			swac_alphaidx="blow"
+			swac_baseform="blow"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_borne.flac">
+		<tag 
+			swac_text="I have borne"
+			swac_alphaidx="bear"
+			swac_baseform="bear"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bought.flac">
+		<tag 
+			swac_text="I have bought"
+			swac_alphaidx="buy"
+			swac_baseform="buy"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bound.flac">
+		<tag 
+			swac_text="I have bound"
+			swac_alphaidx="bind"
+			swac_baseform="bind"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_bred.flac">
+		<tag 
+			swac_text="I have bred"
+			swac_alphaidx="breed"
+			swac_baseform="breed"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_broken.flac">
+		<tag 
+			swac_text="I have broken"
+			swac_alphaidx="break"
+			swac_baseform="break"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_brought.flac">
+		<tag 
+			swac_text="I have brought"
+			swac_alphaidx="bring"
+			swac_baseform="bring"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_built.flac">
+		<tag 
+			swac_text="I have built"
+			swac_alphaidx="build"
+			swac_baseform="build"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_burnt.flac">
+		<tag 
+			swac_text="I have burnt"
+			swac_alphaidx="burn"
+			swac_baseform="burn"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_burst.flac">
+		<tag 
+			swac_text="I have burst"
+			swac_alphaidx="burst"
+			swac_baseform="burst"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_cast.flac">
+		<tag 
+			swac_text="I have cast"
+			swac_alphaidx="cast"
+			swac_baseform="cast"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_caught.flac">
+		<tag 
+			swac_text="I have caught"
+			swac_alphaidx="catch"
+			swac_baseform="catch"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_chosen.flac">
+		<tag 
+			swac_text="I have chosen"
+			swac_alphaidx="choose"
+			swac_baseform="choose"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_clung.flac">
+		<tag 
+			swac_text="I have clung"
+			swac_alphaidx="cling"
+			swac_baseform="cling"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_come.flac">
+		<tag 
+			swac_text="I have come"
+			swac_alphaidx="come"
+			swac_baseform="come"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_cost.flac">
+		<tag 
+			swac_text="I have cost"
+			swac_alphaidx="cost"
+			swac_baseform="cost"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_crept.flac">
+		<tag 
+			swac_text="I have crept"
+			swac_alphaidx="creep"
+			swac_baseform="creep"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_cut.flac">
+		<tag 
+			swac_text="I have cut"
+			swac_alphaidx="cut"
+			swac_baseform="cut"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_dealt.flac">
+		<tag 
+			swac_text="I have dealt"
+			swac_alphaidx="deal"
+			swac_baseform="deal"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_done.flac">
+		<tag 
+			swac_text="I have done"
+			swac_alphaidx="do"
+			swac_baseform="do"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_drawn.flac">
+		<tag 
+			swac_text="I have drawn"
+			swac_alphaidx="draw"
+			swac_baseform="draw"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_dreamt.flac">
+		<tag 
+			swac_text="I have dreamt"
+			swac_alphaidx="dream"
+			swac_baseform="dream"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_driven.flac">
+		<tag 
+			swac_text="I have driven"
+			swac_alphaidx="drive"
+			swac_baseform="drive"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_drunk.flac">
+		<tag 
+			swac_text="I have drunk"
+			swac_alphaidx="drink"
+			swac_baseform="drink"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_dug.flac">
+		<tag 
+			swac_text="I have dug"
+			swac_alphaidx="dig"
+			swac_baseform="dig"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_dwelt.flac">
+		<tag 
+			swac_text="I have dwelt"
+			swac_alphaidx="dwell"
+			swac_baseform="dwell"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_eaten.flac">
+		<tag 
+			swac_text="I have eaten"
+			swac_alphaidx="eat"
+			swac_baseform="eat"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_fallen.flac">
+		<tag 
+			swac_text="I have fallen"
+			swac_alphaidx="fall"
+			swac_baseform="fall"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_fed.flac">
+		<tag 
+			swac_text="I have fed"
+			swac_alphaidx="feed"
+			swac_baseform="feed"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_felt.flac">
+		<tag 
+			swac_text="I have felt"
+			swac_alphaidx="feel"
+			swac_baseform="feel"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_fled.flac">
+		<tag 
+			swac_text="I have fled"
+			swac_alphaidx="flee"
+			swac_baseform="flee"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_flown.flac">
+		<tag 
+			swac_text="I have flown"
+			swac_alphaidx="fly"
+			swac_baseform="fly"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_flung.flac">
+		<tag 
+			swac_text="I have flung"
+			swac_alphaidx="fling"
+			swac_baseform="fling"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_forbidden.flac">
+		<tag 
+			swac_text="I have forbidden"
+			swac_alphaidx="forbid"
+			swac_baseform="forbid"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_forgiven.flac">
+		<tag 
+			swac_text="I have forgiven"
+			swac_alphaidx="forgive"
+			swac_baseform="forgive"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_forgotten.flac">
+		<tag 
+			swac_text="I have forgotten"
+			swac_alphaidx="forget"
+			swac_baseform="forget"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_fought.flac">
+		<tag 
+			swac_text="I have fought"
+			swac_alphaidx="fight"
+			swac_baseform="fight"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_found.flac">
+		<tag 
+			swac_text="I have found"
+			swac_alphaidx="find"
+			swac_baseform="find"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_frozen.flac">
+		<tag 
+			swac_text="I have frozen"
+			swac_alphaidx="freeze"
+			swac_baseform="freeze"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_given.flac">
+		<tag 
+			swac_text="I have given"
+			swac_alphaidx="give"
+			swac_baseform="give"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_gone.flac">
+		<tag 
+			swac_text="I have gone"
+			swac_alphaidx="go"
+			swac_baseform="go"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_got.flac">
+		<tag 
+			swac_text="I have got"
+			swac_alphaidx="get"
+			swac_baseform="get"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_gotten.flac">
+		<tag 
+			swac_text="I have gotten"
+			swac_alphaidx="get"
+			swac_baseform="get"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_ground.flac">
+		<tag 
+			swac_text="I have ground"
+			swac_alphaidx="grind"
+			swac_baseform="grind"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_grown.flac">
+		<tag 
+			swac_text="I have grown"
+			swac_alphaidx="grow"
+			swac_baseform="grow"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_had.flac">
+		<tag 
+			swac_text="I have had"
+			swac_alphaidx="have"
+			swac_baseform="have"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_heard.flac">
+		<tag 
+			swac_text="I have heard"
+			swac_alphaidx="hear"
+			swac_baseform="hear"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_held.flac">
+		<tag 
+			swac_text="I have held"
+			swac_alphaidx="hold"
+			swac_baseform="hold"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_hidden.flac">
+		<tag 
+			swac_text="I have hidden"
+			swac_alphaidx="hide"
+			swac_baseform="hide"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_hit.flac">
+		<tag 
+			swac_text="I have hit"
+			swac_alphaidx="hit"
+			swac_baseform="hit"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_hung.flac">
+		<tag 
+			swac_text="I have hung"
+			swac_alphaidx="hang"
+			swac_baseform="hang"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_hurt.flac">
+		<tag 
+			swac_text="I have hurt"
+			swac_alphaidx="hurt"
+			swac_baseform="hurt"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_kept.flac">
+		<tag 
+			swac_text="I have kept"
+			swac_alphaidx="keep"
+			swac_baseform="keep"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_knelt.flac">
+		<tag 
+			swac_text="I have knelt"
+			swac_alphaidx="kneel"
+			swac_baseform="kneel"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_known.flac">
+		<tag 
+			swac_text="I have known"
+			swac_alphaidx="know"
+			swac_baseform="know"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_laid.flac">
+		<tag 
+			swac_text="I have laid"
+			swac_alphaidx="lay"
+			swac_baseform="lay"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_lain.flac">
+		<tag 
+			swac_text="I have lain"
+			swac_alphaidx="lie"
+			swac_baseform="lie"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_leant.flac">
+		<tag 
+			swac_text="I have leant"
+			swac_alphaidx="lean"
+			swac_baseform="lean"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_leapt.flac">
+		<tag 
+			swac_text="I have leapt"
+			swac_alphaidx="leap"
+			swac_baseform="leap"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_learnt.flac">
+		<tag 
+			swac_text="I have learnt"
+			swac_alphaidx="learn"
+			swac_baseform="learn"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_led.flac">
+		<tag 
+			swac_text="I have led"
+			swac_alphaidx="lead"
+			swac_baseform="lead"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_left.flac">
+		<tag 
+			swac_text="I have left"
+			swac_alphaidx="leave"
+			swac_baseform="leave"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_lent.flac">
+		<tag 
+			swac_text="I have lent"
+			swac_alphaidx="lend"
+			swac_baseform="lend"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_let.flac">
+		<tag 
+			swac_text="I have let"
+			swac_alphaidx="let"
+			swac_baseform="let"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_lit.flac">
+		<tag 
+			swac_text="I have lit"
+			swac_alphaidx="light"
+			swac_baseform="light"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_lost.flac">
+		<tag 
+			swac_text="I have lost"
+			swac_alphaidx="lose"
+			swac_baseform="lose"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_made.flac">
+		<tag 
+			swac_text="I have made"
+			swac_alphaidx="make"
+			swac_baseform="make"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_meant.flac">
+		<tag 
+			swac_text="I have meant"
+			swac_alphaidx="mean"
+			swac_baseform="mean"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_met.flac">
+		<tag 
+			swac_text="I have met"
+			swac_alphaidx="meet"
+			swac_baseform="meet"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_paid.flac">
+		<tag 
+			swac_text="I have paid"
+			swac_alphaidx="pay"
+			swac_baseform="pay"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_put.flac">
+		<tag 
+			swac_text="I have put"
+			swac_alphaidx="put"
+			swac_baseform="put"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_quit.flac">
+		<tag 
+			swac_text="I have quit"
+			swac_alphaidx="quit"
+			swac_baseform="quit"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_read.flac">
+		<tag 
+			swac_text="I have read"
+			swac_alphaidx="read"
+			swac_baseform="read"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_ridden.flac">
+		<tag 
+			swac_text="I have ridden"
+			swac_alphaidx="ride"
+			swac_baseform="ride"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_rid.flac">
+		<tag 
+			swac_text="I have rid"
+			swac_alphaidx="rid"
+			swac_baseform="rid"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_risen.flac">
+		<tag 
+			swac_text="I have risen"
+			swac_alphaidx="rise"
+			swac_baseform="rise"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_run.flac">
+		<tag 
+			swac_text="I have run"
+			swac_alphaidx="run"
+			swac_baseform="run"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_rung.flac">
+		<tag 
+			swac_text="I have rung"
+			swac_alphaidx="ring"
+			swac_baseform="ring"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_said.flac">
+		<tag 
+			swac_text="I have said"
+			swac_alphaidx="say"
+			swac_baseform="say"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sat.flac">
+		<tag 
+			swac_text="I have sat"
+			swac_alphaidx="sit"
+			swac_baseform="sit"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sawn.flac">
+		<tag 
+			swac_text="I have sawn"
+			swac_alphaidx="saw"
+			swac_baseform="saw"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_seen.flac">
+		<tag 
+			swac_text="I have seen"
+			swac_alphaidx="see"
+			swac_baseform="see"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sent.flac">
+		<tag 
+			swac_text="I have sent"
+			swac_alphaidx="send"
+			swac_baseform="send"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_set.flac">
+		<tag 
+			swac_text="I have set"
+			swac_alphaidx="set"
+			swac_baseform="set"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sewn.flac">
+		<tag 
+			swac_text="I have sewn"
+			swac_alphaidx="sew"
+			swac_baseform="sew"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shaken.flac">
+		<tag 
+			swac_text="I have shaken"
+			swac_alphaidx="shake"
+			swac_baseform="shake"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shed.flac">
+		<tag 
+			swac_text="I have shed"
+			swac_alphaidx="shed"
+			swac_baseform="shed"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shone.flac">
+		<tag 
+			swac_text="I have shone"
+			swac_alphaidx="shine"
+			swac_baseform="shine"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shooed.flac">
+		<tag 
+			swac_text="I have shooed"
+			swac_alphaidx="shoo"
+			swac_baseform="shoo"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shorn.flac">
+		<tag 
+			swac_text="I have shorn"
+			swac_alphaidx="shear"
+			swac_baseform="shear"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shot.flac">
+		<tag 
+			swac_text="I have shot"
+			swac_alphaidx="shoot"
+			swac_baseform="shoot"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shown.flac">
+		<tag 
+			swac_text="I have shown"
+			swac_alphaidx="show"
+			swac_baseform="show"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shrunk.flac">
+		<tag 
+			swac_text="I have shrunk"
+			swac_alphaidx="shrink"
+			swac_baseform="shrink"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_shut.flac">
+		<tag 
+			swac_text="I have shut"
+			swac_alphaidx="shut"
+			swac_baseform="shut"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_slept.flac">
+		<tag 
+			swac_text="I have slept"
+			swac_alphaidx="sleep"
+			swac_baseform="sleep"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_slid.flac">
+		<tag 
+			swac_text="I have slid"
+			swac_alphaidx="slide"
+			swac_baseform="slide"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_slit.flac">
+		<tag 
+			swac_text="I have slit"
+			swac_alphaidx="slit"
+			swac_baseform="slit"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_slung.flac">
+		<tag 
+			swac_text="I have slung"
+			swac_alphaidx="sling"
+			swac_baseform="sling"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_slunk.flac">
+		<tag 
+			swac_text="I have slunk"
+			swac_alphaidx="slink"
+			swac_baseform="slink"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_smelt.flac">
+		<tag 
+			swac_text="I have smelt"
+			swac_alphaidx="smell"
+			swac_baseform="smell"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sold.flac">
+		<tag 
+			swac_text="I have sold"
+			swac_alphaidx="sell"
+			swac_baseform="sell"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sought.flac">
+		<tag 
+			swac_text="I have sought"
+			swac_alphaidx="seek"
+			swac_baseform="seek"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sown.flac">
+		<tag 
+			swac_text="I have sown"
+			swac_alphaidx="sow"
+			swac_baseform="sow"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_spat.flac">
+		<tag 
+			swac_text="I have spat"
+			swac_alphaidx="spit"
+			swac_baseform="spit"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sped.flac">
+		<tag 
+			swac_text="I have sped"
+			swac_alphaidx="speed"
+			swac_baseform="speed"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_spelt.flac">
+		<tag 
+			swac_text="I have spelt"
+			swac_alphaidx="spell"
+			swac_baseform="spell"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_spent.flac">
+		<tag 
+			swac_text="I have spent"
+			swac_alphaidx="spend"
+			swac_baseform="spend"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_spilt.flac">
+		<tag 
+			swac_text="I have spilt"
+			swac_alphaidx="spill"
+			swac_baseform="spill"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_split.flac">
+		<tag 
+			swac_text="I have split"
+			swac_alphaidx="split"
+			swac_baseform="split"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_spoilt.flac">
+		<tag 
+			swac_text="I have spoilt"
+			swac_alphaidx="spoil"
+			swac_baseform="spoil"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_spoken.flac">
+		<tag 
+			swac_text="I have spoken"
+			swac_alphaidx="speak"
+			swac_baseform="speak"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_spread.flac">
+		<tag 
+			swac_text="I have spread"
+			swac_alphaidx="spread"
+			swac_baseform="spread"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sprung.flac">
+		<tag 
+			swac_text="I have sprung"
+			swac_alphaidx="spring"
+			swac_baseform="spring"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_stolen.flac">
+		<tag 
+			swac_text="I have stolen"
+			swac_alphaidx="steal"
+			swac_baseform="steal"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_stood.flac">
+		<tag 
+			swac_text="I have stood"
+			swac_alphaidx="stand"
+			swac_baseform="stand"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_striven.flac">
+		<tag 
+			swac_text="I have striven"
+			swac_alphaidx="strive"
+			swac_baseform="strive"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_strode.flac">
+		<tag 
+			swac_text="I have strode"
+			swac_alphaidx="stride"
+			swac_baseform="stride"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_struck.flac">
+		<tag 
+			swac_text="I have struck"
+			swac_alphaidx="strike"
+			swac_baseform="strike"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_strung.flac">
+		<tag 
+			swac_text="I have strung"
+			swac_alphaidx="string"
+			swac_baseform="string"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_stuck.flac">
+		<tag 
+			swac_text="I have stuck"
+			swac_alphaidx="stick"
+			swac_baseform="stick"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_stung.flac">
+		<tag 
+			swac_text="I have stung"
+			swac_alphaidx="sting"
+			swac_baseform="sting"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_stunk.flac">
+		<tag 
+			swac_text="I have stunk"
+			swac_alphaidx="stink"
+			swac_baseform="stink"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sung.flac">
+		<tag 
+			swac_text="I have sung"
+			swac_alphaidx="sing"
+			swac_baseform="sing"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sunk.flac">
+		<tag 
+			swac_text="I have sunk"
+			swac_alphaidx="sink"
+			swac_baseform="sink"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_swept.flac">
+		<tag 
+			swac_text="I have swept"
+			swac_alphaidx="sweep"
+			swac_baseform="sweep"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_swollen.flac">
+		<tag 
+			swac_text="I have swollen"
+			swac_alphaidx="swell"
+			swac_baseform="swell"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_sworn.flac">
+		<tag 
+			swac_text="I have sworn"
+			swac_alphaidx="swear"
+			swac_baseform="swear"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_swum.flac">
+		<tag 
+			swac_text="I have swum"
+			swac_alphaidx="swim"
+			swac_baseform="swim"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_swung.flac">
+		<tag 
+			swac_text="I have swung"
+			swac_alphaidx="swing"
+			swac_baseform="swing"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_taken.flac">
+		<tag 
+			swac_text="I have taken"
+			swac_alphaidx="take"
+			swac_baseform="take"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_taught.flac">
+		<tag 
+			swac_text="I have taught"
+			swac_alphaidx="teach"
+			swac_baseform="teach"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_thought.flac">
+		<tag 
+			swac_text="I have thought"
+			swac_alphaidx="think"
+			swac_baseform="think"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_thrown.flac">
+		<tag 
+			swac_text="I have thrown"
+			swac_alphaidx="throw"
+			swac_baseform="throw"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_thrust.flac">
+		<tag 
+			swac_text="I have thrust"
+			swac_alphaidx="thrust"
+			swac_baseform="thrust"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_told.flac">
+		<tag 
+			swac_text="I have told"
+			swac_alphaidx="tell"
+			swac_baseform="tell"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_torn.flac">
+		<tag 
+			swac_text="I have torn"
+			swac_alphaidx="tear"
+			swac_baseform="tear"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_trodden.flac">
+		<tag 
+			swac_text="I have trodden"
+			swac_alphaidx="tread"
+			swac_baseform="tread"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_understood.flac">
+		<tag 
+			swac_text="I have understood"
+			swac_alphaidx="understand"
+			swac_baseform="understand"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_wept.flac">
+		<tag 
+			swac_text="I have wept"
+			swac_alphaidx="weep"
+			swac_baseform="weep"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_woken.flac">
+		<tag 
+			swac_text="I have woken"
+			swac_alphaidx="wake"
+			swac_baseform="wake"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_won.flac">
+		<tag 
+			swac_text="I have won"
+			swac_alphaidx="win"
+			swac_baseform="win"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_worn.flac">
+		<tag 
+			swac_text="I have worn"
+			swac_alphaidx="wear"
+			swac_baseform="wear"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_wound.flac">
+		<tag 
+			swac_text="I have wound"
+			swac_alphaidx="wind"
+			swac_baseform="wind"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_woven.flac">
+		<tag 
+			swac_text="I have woven"
+			swac_alphaidx="weave"
+			swac_baseform="weave"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_written.flac">
+		<tag 
+			swac_text="I have written"
+			swac_alphaidx="write"
+			swac_baseform="write"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_have_wrung.flac">
+		<tag 
+			swac_text="I have wrung"
+			swac_alphaidx="wring"
+			swac_baseform="wring"
+			swac_form_name="Present Perfect" />
+	</file>
+	<file path="eng-I_heard.flac">
+		<tag 
+			swac_text="I heard"
+			swac_alphaidx="hear"
+			swac_baseform="hear"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_held.flac">
+		<tag 
+			swac_text="I held"
+			swac_alphaidx="hold"
+			swac_baseform="hold"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_hid.flac">
+		<tag 
+			swac_text="I hid"
+			swac_alphaidx="hide"
+			swac_baseform="hide"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_hit.flac">
+		<tag 
+			swac_text="I hit"
+			swac_alphaidx="hit"
+			swac_baseform="hit"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_hung.flac">
+		<tag 
+			swac_text="I hung"
+			swac_alphaidx="hang"
+			swac_baseform="hang"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_hurt.flac">
+		<tag 
+			swac_text="I hurt"
+			swac_alphaidx="hurt"
+			swac_baseform="hurt"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_kept.flac">
+		<tag 
+			swac_text="I kept"
+			swac_alphaidx="keep"
+			swac_baseform="keep"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_knelt.flac">
+		<tag 
+			swac_text="I knelt"
+			swac_alphaidx="kneel"
+			swac_baseform="kneel"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_knew.flac">
+		<tag 
+			swac_text="I knew"
+			swac_alphaidx="know"
+			swac_baseform="know"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_laid.flac">
+		<tag 
+			swac_text="I laid"
+			swac_alphaidx="lay"
+			swac_baseform="lay"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_lay.flac">
+		<tag 
+			swac_text="I lay"
+			swac_alphaidx="lie"
+			swac_baseform="lie"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_leant.flac">
+		<tag 
+			swac_text="I leant"
+			swac_alphaidx="lean"
+			swac_baseform="lean"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_leapt.flac">
+		<tag 
+			swac_text="I leapt"
+			swac_alphaidx="leap"
+			swac_baseform="leap"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_learnt.flac">
+		<tag 
+			swac_text="I learnt"
+			swac_alphaidx="learn"
+			swac_baseform="learn"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_led.flac">
+		<tag 
+			swac_text="I led"
+			swac_alphaidx="lead"
+			swac_baseform="lead"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_left.flac">
+		<tag 
+			swac_text="I left"
+			swac_alphaidx="leave"
+			swac_baseform="leave"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_lent.flac">
+		<tag 
+			swac_text="I lent"
+			swac_alphaidx="lend"
+			swac_baseform="lend"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_let.flac">
+		<tag 
+			swac_text="I let"
+			swac_alphaidx="let"
+			swac_baseform="let"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_lit.flac">
+		<tag 
+			swac_text="I lit"
+			swac_alphaidx="light"
+			swac_baseform="light"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_lost.flac">
+		<tag 
+			swac_text="I lost"
+			swac_alphaidx="lose"
+			swac_baseform="lose"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_made.flac">
+		<tag 
+			swac_text="I made"
+			swac_alphaidx="make"
+			swac_baseform="make"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_meant.flac">
+		<tag 
+			swac_text="I meant"
+			swac_alphaidx="mean"
+			swac_baseform="mean"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_met.flac">
+		<tag 
+			swac_text="I met"
+			swac_alphaidx="meet"
+			swac_baseform="meet"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_paid.flac">
+		<tag 
+			swac_text="I paid"
+			swac_alphaidx="pay"
+			swac_baseform="pay"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_put.flac">
+		<tag 
+			swac_text="I put"
+			swac_alphaidx="put"
+			swac_baseform="put"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_quit.flac">
+		<tag 
+			swac_text="I quit"
+			swac_alphaidx="quit"
+			swac_baseform="quit"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_ran.flac">
+		<tag 
+			swac_text="I ran"
+			swac_alphaidx="run"
+			swac_baseform="run"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_rang.flac">
+		<tag 
+			swac_text="I rang"
+			swac_alphaidx="ring"
+			swac_baseform="ring"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_read.flac">
+		<tag 
+			swac_text="I read"
+			swac_alphaidx="read"
+			swac_baseform="read"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_rid.flac">
+		<tag 
+			swac_text="I rid"
+			swac_alphaidx="rid"
+			swac_baseform="rid"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_rode.flac">
+		<tag 
+			swac_text="I rode"
+			swac_alphaidx="ride"
+			swac_baseform="ride"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_rose.flac">
+		<tag 
+			swac_text="I rose"
+			swac_alphaidx="rise"
+			swac_baseform="rise"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_said.flac">
+		<tag 
+			swac_text="I said"
+			swac_alphaidx="say"
+			swac_baseform="say"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sang.flac">
+		<tag 
+			swac_text="I sang"
+			swac_alphaidx="sing"
+			swac_baseform="sing"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sank.flac">
+		<tag 
+			swac_text="I sank"
+			swac_alphaidx="sink"
+			swac_baseform="sink"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sat.flac">
+		<tag 
+			swac_text="I sat"
+			swac_alphaidx="sit"
+			swac_baseform="sit"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sawed.flac">
+		<tag 
+			swac_text="I sawed"
+			swac_alphaidx="saw"
+			swac_baseform="saw"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_saw.flac">
+		<tag 
+			swac_text="I saw"
+			swac_alphaidx="see"
+			swac_baseform="see"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sent.flac">
+		<tag 
+			swac_text="I sent"
+			swac_alphaidx="send"
+			swac_baseform="send"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_set.flac">
+		<tag 
+			swac_text="I set"
+			swac_alphaidx="set"
+			swac_baseform="set"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sewed.flac">
+		<tag 
+			swac_text="I sewed"
+			swac_alphaidx="sew"
+			swac_baseform="sew"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sheared.flac">
+		<tag 
+			swac_text="I sheared"
+			swac_alphaidx="shear"
+			swac_baseform="shear"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_shed.flac">
+		<tag 
+			swac_text="I shed"
+			swac_alphaidx="shed"
+			swac_baseform="shed"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_shone.flac">
+		<tag 
+			swac_text="I shone"
+			swac_alphaidx="shine"
+			swac_baseform="shine"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_shooed.flac">
+		<tag 
+			swac_text="I shooed"
+			swac_alphaidx="shoo"
+			swac_baseform="shoo"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_shook.flac">
+		<tag 
+			swac_text="I shook"
+			swac_alphaidx="shake"
+			swac_baseform="shake"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_shot.flac">
+		<tag 
+			swac_text="I shot"
+			swac_alphaidx="shoot"
+			swac_baseform="shoot"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_showed.flac">
+		<tag 
+			swac_text="I showed"
+			swac_alphaidx="show"
+			swac_baseform="show"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_shrank.flac">
+		<tag 
+			swac_text="I shrank"
+			swac_alphaidx="shrink"
+			swac_baseform="shrink"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_shut.flac">
+		<tag 
+			swac_text="I shut"
+			swac_alphaidx="shut"
+			swac_baseform="shut"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_slept.flac">
+		<tag 
+			swac_text="I slept"
+			swac_alphaidx="sleep"
+			swac_baseform="sleep"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_slid.flac">
+		<tag 
+			swac_text="I slid"
+			swac_alphaidx="slide"
+			swac_baseform="slide"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_slit.flac">
+		<tag 
+			swac_text="I slit"
+			swac_alphaidx="slit"
+			swac_baseform="slit"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_slung.flac">
+		<tag 
+			swac_text="I slung"
+			swac_alphaidx="sling"
+			swac_baseform="sling"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_slunk.flac">
+		<tag 
+			swac_text="I slunk"
+			swac_alphaidx="slink"
+			swac_baseform="slink"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_smelt.flac">
+		<tag 
+			swac_text="I smelt"
+			swac_alphaidx="smell"
+			swac_baseform="smell"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sold.flac">
+		<tag 
+			swac_text="I sold"
+			swac_alphaidx="sell"
+			swac_baseform="sell"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sought.flac">
+		<tag 
+			swac_text="I sought"
+			swac_alphaidx="seek"
+			swac_baseform="seek"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sowed.flac">
+		<tag 
+			swac_text="I sowed"
+			swac_alphaidx="sow"
+			swac_baseform="sow"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_spat.flac">
+		<tag 
+			swac_text="I spat"
+			swac_alphaidx="spit"
+			swac_baseform="spit"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sped.flac">
+		<tag 
+			swac_text="I sped"
+			swac_alphaidx="speed"
+			swac_baseform="speed"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_spelt.flac">
+		<tag 
+			swac_text="I spelt"
+			swac_alphaidx="spell"
+			swac_baseform="spell"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_spent.flac">
+		<tag 
+			swac_text="I spent"
+			swac_alphaidx="spend"
+			swac_baseform="spend"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_spilt.flac">
+		<tag 
+			swac_text="I spilt"
+			swac_alphaidx="spill"
+			swac_baseform="spill"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_split.flac">
+		<tag 
+			swac_text="I split"
+			swac_alphaidx="split"
+			swac_baseform="split"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_spoilt.flac">
+		<tag 
+			swac_text="I spoilt"
+			swac_alphaidx="spoil"
+			swac_baseform="spoil"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_spoke.flac">
+		<tag 
+			swac_text="I spoke"
+			swac_alphaidx="speak"
+			swac_baseform="speak"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_sprang.flac">
+		<tag 
+			swac_text="I sprang"
+			swac_alphaidx="spring"
+			swac_baseform="spring"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_spread.flac">
+		<tag 
+			swac_text="I spread"
+			swac_alphaidx="spread"
+			swac_baseform="spread"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_stank.flac">
+		<tag 
+			swac_text="I stank"
+			swac_alphaidx="stink"
+			swac_baseform="stink"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_stole.flac">
+		<tag 
+			swac_text="I stole"
+			swac_alphaidx="steal"
+			swac_baseform="steal"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_stood.flac">
+		<tag 
+			swac_text="I stood"
+			swac_alphaidx="stand"
+			swac_baseform="stand"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_strode.flac">
+		<tag 
+			swac_text="I strode"
+			swac_alphaidx="stride"
+			swac_baseform="stride"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_strove.flac">
+		<tag 
+			swac_text="I strove"
+			swac_alphaidx="strive"
+			swac_baseform="strive"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_struck.flac">
+		<tag 
+			swac_text="I struck"
+			swac_alphaidx="strike"
+			swac_baseform="strike"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_strung.flac">
+		<tag 
+			swac_text="I strung"
+			swac_alphaidx="string"
+			swac_baseform="string"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_stuck.flac">
+		<tag 
+			swac_text="I stuck"
+			swac_alphaidx="stick"
+			swac_baseform="stick"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_stung.flac">
+		<tag 
+			swac_text="I stung"
+			swac_alphaidx="sting"
+			swac_baseform="sting"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_swam.flac">
+		<tag 
+			swac_text="I swam"
+			swac_alphaidx="swim"
+			swac_baseform="swim"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_swelled.flac">
+		<tag 
+			swac_text="I swelled"
+			swac_alphaidx="swell"
+			swac_baseform="swell"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_swept.flac">
+		<tag 
+			swac_text="I swept"
+			swac_alphaidx="sweep"
+			swac_baseform="sweep"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_swore.flac">
+		<tag 
+			swac_text="I swore"
+			swac_alphaidx="swear"
+			swac_baseform="swear"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_swung.flac">
+		<tag 
+			swac_text="I swung"
+			swac_alphaidx="swing"
+			swac_baseform="swing"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_taught.flac">
+		<tag 
+			swac_text="I taught"
+			swac_alphaidx="teach"
+			swac_baseform="teach"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_thought.flac">
+		<tag 
+			swac_text="I thought"
+			swac_alphaidx="think"
+			swac_baseform="think"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_threw.flac">
+		<tag 
+			swac_text="I threw"
+			swac_alphaidx="throw"
+			swac_baseform="throw"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_thrust.flac">
+		<tag 
+			swac_text="I thrust"
+			swac_alphaidx="thrust"
+			swac_baseform="thrust"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_told.flac">
+		<tag 
+			swac_text="I told"
+			swac_alphaidx="tell"
+			swac_baseform="tell"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_took.flac">
+		<tag 
+			swac_text="I took"
+			swac_alphaidx="take"
+			swac_baseform="take"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_tore.flac">
+		<tag 
+			swac_text="I tore"
+			swac_alphaidx="tear"
+			swac_baseform="tear"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_trod.flac">
+		<tag 
+			swac_text="I trod"
+			swac_alphaidx="tread"
+			swac_baseform="tread"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_understood.flac">
+		<tag 
+			swac_text="I understood"
+			swac_alphaidx="understand"
+			swac_baseform="understand"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_went.flac">
+		<tag 
+			swac_text="I went"
+			swac_alphaidx="go"
+			swac_baseform="go"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_wept.flac">
+		<tag 
+			swac_text="I wept"
+			swac_alphaidx="weep"
+			swac_baseform="weep"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_woke.flac">
+		<tag 
+			swac_text="I woke"
+			swac_alphaidx="wake"
+			swac_baseform="wake"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_won.flac">
+		<tag 
+			swac_text="I won"
+			swac_alphaidx="win"
+			swac_baseform="win"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_wore.flac">
+		<tag 
+			swac_text="I wore"
+			swac_alphaidx="wear"
+			swac_baseform="wear"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_wound.flac">
+		<tag 
+			swac_text="I wound"
+			swac_alphaidx="wind"
+			swac_baseform="wind"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_wove.flac">
+		<tag 
+			swac_text="I wove"
+			swac_alphaidx="weave"
+			swac_baseform="weave"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_wrote.flac">
+		<tag 
+			swac_text="I wrote"
+			swac_alphaidx="write"
+			swac_baseform="write"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-I_wrung.flac">
+		<tag 
+			swac_text="I wrung"
+			swac_alphaidx="wring"
+			swac_baseform="wring"
+			swac_form_name="Simple Past" />
+	</file>
+	<file path="eng-to_arise.flac">
+		<tag 
+			swac_text="to arise"
+			swac_alphaidx="arise"
+			swac_baseform="arise"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_awake.flac">
+		<tag 
+			swac_text="to awake"
+			swac_alphaidx="awake"
+			swac_baseform="awake"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bear.flac">
+		<tag 
+			swac_text="to bear"
+			swac_alphaidx="bear"
+			swac_baseform="bear"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_beat.flac">
+		<tag 
+			swac_text="to beat"
+			swac_alphaidx="beat"
+			swac_baseform="beat"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_become.flac">
+		<tag 
+			swac_text="to become"
+			swac_alphaidx="become"
+			swac_baseform="become"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_begin.flac">
+		<tag 
+			swac_text="to begin"
+			swac_alphaidx="begin"
+			swac_baseform="begin"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bend.flac">
+		<tag 
+			swac_text="to bend"
+			swac_alphaidx="bend"
+			swac_baseform="bend"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bet.flac">
+		<tag 
+			swac_text="to bet"
+			swac_alphaidx="bet"
+			swac_baseform="bet"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bid.flac">
+		<tag 
+			swac_text="to bid"
+			swac_alphaidx="bid"
+			swac_baseform="bid"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bind.flac">
+		<tag 
+			swac_text="to bind"
+			swac_alphaidx="bind"
+			swac_baseform="bind"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bite.flac">
+		<tag 
+			swac_text="to bite"
+			swac_alphaidx="bite"
+			swac_baseform="bite"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bleed.flac">
+		<tag 
+			swac_text="to bleed"
+			swac_alphaidx="bleed"
+			swac_baseform="bleed"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_blow.flac">
+		<tag 
+			swac_text="to blow"
+			swac_alphaidx="blow"
+			swac_baseform="blow"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_break.flac">
+		<tag 
+			swac_text="to break"
+			swac_alphaidx="break"
+			swac_baseform="break"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_breed.flac">
+		<tag 
+			swac_text="to breed"
+			swac_alphaidx="breed"
+			swac_baseform="breed"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_bring.flac">
+		<tag 
+			swac_text="to bring"
+			swac_alphaidx="bring"
+			swac_baseform="bring"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_build.flac">
+		<tag 
+			swac_text="to build"
+			swac_alphaidx="build"
+			swac_baseform="build"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_burn.flac">
+		<tag 
+			swac_text="to burn"
+			swac_alphaidx="burn"
+			swac_baseform="burn"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_burst.flac">
+		<tag 
+			swac_text="to burst"
+			swac_alphaidx="burst"
+			swac_baseform="burst"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_buy.flac">
+		<tag 
+			swac_text="to buy"
+			swac_alphaidx="buy"
+			swac_baseform="buy"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_cast.flac">
+		<tag 
+			swac_text="to cast"
+			swac_alphaidx="cast"
+			swac_baseform="cast"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_catch.flac">
+		<tag 
+			swac_text="to catch"
+			swac_alphaidx="catch"
+			swac_baseform="catch"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_choose.flac">
+		<tag 
+			swac_text="to choose"
+			swac_alphaidx="choose"
+			swac_baseform="choose"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_cling.flac">
+		<tag 
+			swac_text="to cling"
+			swac_alphaidx="cling"
+			swac_baseform="cling"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_come.flac">
+		<tag 
+			swac_text="to come"
+			swac_alphaidx="come"
+			swac_baseform="come"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_cost.flac">
+		<tag 
+			swac_text="to cost"
+			swac_alphaidx="cost"
+			swac_baseform="cost"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_creep.flac">
+		<tag 
+			swac_text="to creep"
+			swac_alphaidx="creep"
+			swac_baseform="creep"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_cut.flac">
+		<tag 
+			swac_text="to cut"
+			swac_alphaidx="cut"
+			swac_baseform="cut"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_deal.flac">
+		<tag 
+			swac_text="to deal"
+			swac_alphaidx="deal"
+			swac_baseform="deal"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_dig.flac">
+		<tag 
+			swac_text="to dig"
+			swac_alphaidx="dig"
+			swac_baseform="dig"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_do.flac">
+		<tag 
+			swac_text="to do"
+			swac_alphaidx="do"
+			swac_baseform="do"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_draw.flac">
+		<tag 
+			swac_text="to draw"
+			swac_alphaidx="draw"
+			swac_baseform="draw"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_dream.flac">
+		<tag 
+			swac_text="to dream"
+			swac_alphaidx="dream"
+			swac_baseform="dream"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_drink.flac">
+		<tag 
+			swac_text="to drink"
+			swac_alphaidx="drink"
+			swac_baseform="drink"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_drive.flac">
+		<tag 
+			swac_text="to drive"
+			swac_alphaidx="drive"
+			swac_baseform="drive"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_dwell.flac">
+		<tag 
+			swac_text="to dwell"
+			swac_alphaidx="dwell"
+			swac_baseform="dwell"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_eat.flac">
+		<tag 
+			swac_text="to eat"
+			swac_alphaidx="eat"
+			swac_baseform="eat"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_fall.flac">
+		<tag 
+			swac_text="to fall"
+			swac_alphaidx="fall"
+			swac_baseform="fall"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_feed.flac">
+		<tag 
+			swac_text="to feed"
+			swac_alphaidx="feed"
+			swac_baseform="feed"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_feel.flac">
+		<tag 
+			swac_text="to feel"
+			swac_alphaidx="feel"
+			swac_baseform="feel"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_fight.flac">
+		<tag 
+			swac_text="to fight"
+			swac_alphaidx="fight"
+			swac_baseform="fight"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_find.flac">
+		<tag 
+			swac_text="to find"
+			swac_alphaidx="find"
+			swac_baseform="find"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_flee.flac">
+		<tag 
+			swac_text="to flee"
+			swac_alphaidx="flee"
+			swac_baseform="flee"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_fling.flac">
+		<tag 
+			swac_text="to fling"
+			swac_alphaidx="fling"
+			swac_baseform="fling"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_fly.flac">
+		<tag 
+			swac_text="to fly"
+			swac_alphaidx="fly"
+			swac_baseform="fly"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_forbid.flac">
+		<tag 
+			swac_text="to forbid"
+			swac_alphaidx="forbid"
+			swac_baseform="forbid"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_forget.flac">
+		<tag 
+			swac_text="to forget"
+			swac_alphaidx="forget"
+			swac_baseform="forget"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_forgive.flac">
+		<tag 
+			swac_text="to forgive"
+			swac_alphaidx="forgive"
+			swac_baseform="forgive"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_freeze.flac">
+		<tag 
+			swac_text="to freeze"
+			swac_alphaidx="freeze"
+			swac_baseform="freeze"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_get.flac">
+		<tag 
+			swac_text="to get"
+			swac_alphaidx="get"
+			swac_baseform="get"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_give.flac">
+		<tag 
+			swac_text="to give"
+			swac_alphaidx="give"
+			swac_baseform="give"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_go.flac">
+		<tag 
+			swac_text="to go"
+			swac_alphaidx="go"
+			swac_baseform="go"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_grind.flac">
+		<tag 
+			swac_text="to grind"
+			swac_alphaidx="grind"
+			swac_baseform="grind"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_grow.flac">
+		<tag 
+			swac_text="to grow"
+			swac_alphaidx="grow"
+			swac_baseform="grow"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_hang.flac">
+		<tag 
+			swac_text="to hang"
+			swac_alphaidx="hang"
+			swac_baseform="hang"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_have.flac">
+		<tag 
+			swac_text="to have"
+			swac_alphaidx="have"
+			swac_baseform="have"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_hear.flac">
+		<tag 
+			swac_text="to hear"
+			swac_alphaidx="hear"
+			swac_baseform="hear"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_hide.flac">
+		<tag 
+			swac_text="to hide"
+			swac_alphaidx="hide"
+			swac_baseform="hide"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_hit.flac">
+		<tag 
+			swac_text="to hit"
+			swac_alphaidx="hit"
+			swac_baseform="hit"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_hold.flac">
+		<tag 
+			swac_text="to hold"
+			swac_alphaidx="hold"
+			swac_baseform="hold"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_hurt.flac">
+		<tag 
+			swac_text="to hurt"
+			swac_alphaidx="hurt"
+			swac_baseform="hurt"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_keep.flac">
+		<tag 
+			swac_text="to keep"
+			swac_alphaidx="keep"
+			swac_baseform="keep"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_kneel.flac">
+		<tag 
+			swac_text="to kneel"
+			swac_alphaidx="kneel"
+			swac_baseform="kneel"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_know.flac">
+		<tag 
+			swac_text="to know"
+			swac_alphaidx="know"
+			swac_baseform="know"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_lay.flac">
+		<tag 
+			swac_text="to lay"
+			swac_alphaidx="lay"
+			swac_baseform="lay"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_lead.flac">
+		<tag 
+			swac_text="to lead"
+			swac_alphaidx="lead"
+			swac_baseform="lead"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_lean.flac">
+		<tag 
+			swac_text="to lean"
+			swac_alphaidx="lean"
+			swac_baseform="lean"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_leap.flac">
+		<tag 
+			swac_text="to leap"
+			swac_alphaidx="leap"
+			swac_baseform="leap"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_learn.flac">
+		<tag 
+			swac_text="to learn"
+			swac_alphaidx="learn"
+			swac_baseform="learn"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_leave.flac">
+		<tag 
+			swac_text="to leave"
+			swac_alphaidx="leave"
+			swac_baseform="leave"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_lend.flac">
+		<tag 
+			swac_text="to lend"
+			swac_alphaidx="lend"
+			swac_baseform="lend"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_let.flac">
+		<tag 
+			swac_text="to let"
+			swac_alphaidx="let"
+			swac_baseform="let"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_lie.flac">
+		<tag 
+			swac_text="to lie"
+			swac_alphaidx="lie"
+			swac_baseform="lie"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_light.flac">
+		<tag 
+			swac_text="to light"
+			swac_alphaidx="light"
+			swac_baseform="light"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_lose.flac">
+		<tag 
+			swac_text="to lose"
+			swac_alphaidx="lose"
+			swac_baseform="lose"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_make.flac">
+		<tag 
+			swac_text="to make"
+			swac_alphaidx="make"
+			swac_baseform="make"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_mean.flac">
+		<tag 
+			swac_text="to mean"
+			swac_alphaidx="mean"
+			swac_baseform="mean"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_meet.flac">
+		<tag 
+			swac_text="to meet"
+			swac_alphaidx="meet"
+			swac_baseform="meet"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_pay.flac">
+		<tag 
+			swac_text="to pay"
+			swac_alphaidx="pay"
+			swac_baseform="pay"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_put.flac">
+		<tag 
+			swac_text="to put"
+			swac_alphaidx="put"
+			swac_baseform="put"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_quit.flac">
+		<tag 
+			swac_text="to quit"
+			swac_alphaidx="quit"
+			swac_baseform="quit"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_read.flac">
+		<tag 
+			swac_text="to read"
+			swac_alphaidx="read"
+			swac_baseform="read"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_ride.flac">
+		<tag 
+			swac_text="to ride"
+			swac_alphaidx="ride"
+			swac_baseform="ride"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_rid.flac">
+		<tag 
+			swac_text="to rid"
+			swac_alphaidx="rid"
+			swac_baseform="rid"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_ring.flac">
+		<tag 
+			swac_text="to ring"
+			swac_alphaidx="ring"
+			swac_baseform="ring"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_rise.flac">
+		<tag 
+			swac_text="to rise"
+			swac_alphaidx="rise"
+			swac_baseform="rise"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_run.flac">
+		<tag 
+			swac_text="to run"
+			swac_alphaidx="run"
+			swac_baseform="run"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_saw.flac">
+		<tag 
+			swac_text="to saw"
+			swac_alphaidx="saw"
+			swac_baseform="saw"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_say.flac">
+		<tag 
+			swac_text="to say"
+			swac_alphaidx="say"
+			swac_baseform="say"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_see.flac">
+		<tag 
+			swac_text="to see"
+			swac_alphaidx="see"
+			swac_baseform="see"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_seek.flac">
+		<tag 
+			swac_text="to seek"
+			swac_alphaidx="seek"
+			swac_baseform="seek"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sell.flac">
+		<tag 
+			swac_text="to sell"
+			swac_alphaidx="sell"
+			swac_baseform="sell"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_send.flac">
+		<tag 
+			swac_text="to send"
+			swac_alphaidx="send"
+			swac_baseform="send"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_set.flac">
+		<tag 
+			swac_text="to set"
+			swac_alphaidx="set"
+			swac_baseform="set"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sew.flac">
+		<tag 
+			swac_text="to sew"
+			swac_alphaidx="sew"
+			swac_baseform="sew"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shake.flac">
+		<tag 
+			swac_text="to shake"
+			swac_alphaidx="shake"
+			swac_baseform="shake"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shear.flac">
+		<tag 
+			swac_text="to shear"
+			swac_alphaidx="shear"
+			swac_baseform="shear"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shed.flac">
+		<tag 
+			swac_text="to shed"
+			swac_alphaidx="shed"
+			swac_baseform="shed"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shine.flac">
+		<tag 
+			swac_text="to shine"
+			swac_alphaidx="shine"
+			swac_baseform="shine"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shoo.flac">
+		<tag 
+			swac_text="to shoo"
+			swac_alphaidx="shoo"
+			swac_baseform="shoo"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shoot.flac">
+		<tag 
+			swac_text="to shoot"
+			swac_alphaidx="shoot"
+			swac_baseform="shoot"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_show.flac">
+		<tag 
+			swac_text="to show"
+			swac_alphaidx="show"
+			swac_baseform="show"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shrink.flac">
+		<tag 
+			swac_text="to shrink"
+			swac_alphaidx="shrink"
+			swac_baseform="shrink"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_shut.flac">
+		<tag 
+			swac_text="to shut"
+			swac_alphaidx="shut"
+			swac_baseform="shut"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sing.flac">
+		<tag 
+			swac_text="to sing"
+			swac_alphaidx="sing"
+			swac_baseform="sing"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sink.flac">
+		<tag 
+			swac_text="to sink"
+			swac_alphaidx="sink"
+			swac_baseform="sink"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sit.flac">
+		<tag 
+			swac_text="to sit"
+			swac_alphaidx="sit"
+			swac_baseform="sit"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sleep.flac">
+		<tag 
+			swac_text="to sleep"
+			swac_alphaidx="sleep"
+			swac_baseform="sleep"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_slide.flac">
+		<tag 
+			swac_text="to slide"
+			swac_alphaidx="slide"
+			swac_baseform="slide"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sling.flac">
+		<tag 
+			swac_text="to sling"
+			swac_alphaidx="sling"
+			swac_baseform="sling"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_slink.flac">
+		<tag 
+			swac_text="to slink"
+			swac_alphaidx="slink"
+			swac_baseform="slink"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_slit.flac">
+		<tag 
+			swac_text="to slit"
+			swac_alphaidx="slit"
+			swac_baseform="slit"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_smell.flac">
+		<tag 
+			swac_text="to smell"
+			swac_alphaidx="smell"
+			swac_baseform="smell"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sow.flac">
+		<tag 
+			swac_text="to sow"
+			swac_alphaidx="sow"
+			swac_baseform="sow"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_speak.flac">
+		<tag 
+			swac_text="to speak"
+			swac_alphaidx="speak"
+			swac_baseform="speak"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_speed.flac">
+		<tag 
+			swac_text="to speed"
+			swac_alphaidx="speed"
+			swac_baseform="speed"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_spell.flac">
+		<tag 
+			swac_text="to spell"
+			swac_alphaidx="spell"
+			swac_baseform="spell"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_spend.flac">
+		<tag 
+			swac_text="to spend"
+			swac_alphaidx="spend"
+			swac_baseform="spend"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_spill.flac">
+		<tag 
+			swac_text="to spill"
+			swac_alphaidx="spill"
+			swac_baseform="spill"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_spit.flac">
+		<tag 
+			swac_text="to spit"
+			swac_alphaidx="spit"
+			swac_baseform="spit"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_split.flac">
+		<tag 
+			swac_text="to split"
+			swac_alphaidx="split"
+			swac_baseform="split"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_spoil.flac">
+		<tag 
+			swac_text="to spoil"
+			swac_alphaidx="spoil"
+			swac_baseform="spoil"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_spread.flac">
+		<tag 
+			swac_text="to spread"
+			swac_alphaidx="spread"
+			swac_baseform="spread"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_spring.flac">
+		<tag 
+			swac_text="to spring"
+			swac_alphaidx="spring"
+			swac_baseform="spring"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_stand.flac">
+		<tag 
+			swac_text="to stand"
+			swac_alphaidx="stand"
+			swac_baseform="stand"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_steal.flac">
+		<tag 
+			swac_text="to steal"
+			swac_alphaidx="steal"
+			swac_baseform="steal"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_stick.flac">
+		<tag 
+			swac_text="to stick"
+			swac_alphaidx="stick"
+			swac_baseform="stick"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sting.flac">
+		<tag 
+			swac_text="to sting"
+			swac_alphaidx="sting"
+			swac_baseform="sting"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_stink.flac">
+		<tag 
+			swac_text="to stink"
+			swac_alphaidx="stink"
+			swac_baseform="stink"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_stride.flac">
+		<tag 
+			swac_text="to stride"
+			swac_alphaidx="stride"
+			swac_baseform="stride"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_strike.flac">
+		<tag 
+			swac_text="to strike"
+			swac_alphaidx="strike"
+			swac_baseform="strike"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_string.flac">
+		<tag 
+			swac_text="to string"
+			swac_alphaidx="string"
+			swac_baseform="string"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_strive.flac">
+		<tag 
+			swac_text="to strive"
+			swac_alphaidx="strive"
+			swac_baseform="strive"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_swear.flac">
+		<tag 
+			swac_text="to swear"
+			swac_alphaidx="swear"
+			swac_baseform="swear"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_sweep.flac">
+		<tag 
+			swac_text="to sweep"
+			swac_alphaidx="sweep"
+			swac_baseform="sweep"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_swell.flac">
+		<tag 
+			swac_text="to swell"
+			swac_alphaidx="swell"
+			swac_baseform="swell"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_swim.flac">
+		<tag 
+			swac_text="to swim"
+			swac_alphaidx="swim"
+			swac_baseform="swim"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_swing.flac">
+		<tag 
+			swac_text="to swing"
+			swac_alphaidx="swing"
+			swac_baseform="swing"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_take.flac">
+		<tag 
+			swac_text="to take"
+			swac_alphaidx="take"
+			swac_baseform="take"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_teach.flac">
+		<tag 
+			swac_text="to teach"
+			swac_alphaidx="teach"
+			swac_baseform="teach"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_tear.flac">
+		<tag 
+			swac_text="to tear"
+			swac_alphaidx="tear"
+			swac_baseform="tear"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_tell.flac">
+		<tag 
+			swac_text="to tell"
+			swac_alphaidx="tell"
+			swac_baseform="tell"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_think.flac">
+		<tag 
+			swac_text="to think"
+			swac_alphaidx="think"
+			swac_baseform="think"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_throw.flac">
+		<tag 
+			swac_text="to throw"
+			swac_alphaidx="throw"
+			swac_baseform="throw"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_thrust.flac">
+		<tag 
+			swac_text="to thrust"
+			swac_alphaidx="thrust"
+			swac_baseform="thrust"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_tread.flac">
+		<tag 
+			swac_text="to tread"
+			swac_alphaidx="tread"
+			swac_baseform="tread"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_understand.flac">
+		<tag 
+			swac_text="to understand"
+			swac_alphaidx="understand"
+			swac_baseform="understand"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_wake.flac">
+		<tag 
+			swac_text="to wake"
+			swac_alphaidx="wake"
+			swac_baseform="wake"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_wear.flac">
+		<tag 
+			swac_text="to wear"
+			swac_alphaidx="wear"
+			swac_baseform="wear"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_weave.flac">
+		<tag 
+			swac_text="to weave"
+			swac_alphaidx="weave"
+			swac_baseform="weave"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_weep.flac">
+		<tag 
+			swac_text="to weep"
+			swac_alphaidx="weep"
+			swac_baseform="weep"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_wind.flac">
+		<tag 
+			swac_text="to wind"
+			swac_alphaidx="wind"
+			swac_baseform="wind"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_win.flac">
+		<tag 
+			swac_text="to win"
+			swac_alphaidx="win"
+			swac_baseform="win"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_wring.flac">
+		<tag 
+			swac_text="to wring"
+			swac_alphaidx="wring"
+			swac_baseform="wring"
+			swac_form_name="Infinitive" />
+	</file>
+	<file path="eng-to_write.flac">
+		<tag 
+			swac_text="to write"
+			swac_alphaidx="write"
+			swac_baseform="write"
+			swac_form_name="Infinitive" />
+	</file>
+</group>
+</index>

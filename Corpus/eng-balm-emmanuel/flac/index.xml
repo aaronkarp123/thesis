@@ -1,0 +1,4958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE index SYSTEM "http://shtooka.net/project/swac/index.dtd">
+<index>
+<group 
+	swac_coll_authors="Emmanuel Revah, Vion Nicolas"
+	swac_coll_copyright="Copyright© Emmanuel Revah 2009"
+	swac_coll_desc="Cette collection est essentiellement destinée aux personnes étudiant l'anglais comme langue étrangère ainsi qu'à la production de matériel pédagogique."
+	swac_coll_license="Creative Commons BY"
+	swac_coll_name="Base audio libre de mots anglais"
+	swac_coll_org="Shtooka Project"
+	swac_coll_org_url="http://shtooka.net/"
+	swac_coll_section="Vocabulaire"
+	swac_coll_url="http://shtooka.net/"
+	swac_lang="eng"
+	swac_pron_speed="1"
+	swac_speak_birth_year="1976"
+	swac_speak_gender="M"
+	swac_speak_lang="eng"
+	swac_speak_lang_country="US"
+	swac_speak_lang_region="Philadelphia"
+	swac_speak_liv_country="FR"
+	swac_speak_liv_town="Paris"
+	swac_speak_name="Emmanuel Revah"
+	swac_tech_date="2009-02-18"
+	swac_tech_soft="Shtooka Recorder/1.3" >
+
+	<file path="eng-cba79f89.flac">
+		<tag 
+			swac_alphaidx="aspirin"
+			swac_text="aspirin" />
+	</file>
+	<file path="eng-3c940445.flac">
+		<tag 
+			swac_alphaidx="as|well|as well as"
+			swac_text="as well as" />
+	</file>
+	<file path="eng-c407307d.flac">
+		<tag 
+			swac_alphaidx="as|bottom"
+			swac_text="as the bottom of" />
+	</file>
+	<file path="eng-a80cb410.flac">
+		<tag 
+			swac_alphaidx="soon|possible|(conversation)"
+			swac_text="as soon as possible" />
+	</file>
+	<file path="eng-84e9b16b.flac">
+		<tag 
+			swac_alphaidx="as|soon"
+			swac_text="as soon as" />
+	</file>
+	<file path="eng-3359f4f1.flac">
+		<tag 
+			swac_alphaidx="as|if"
+			swac_text="as if" />
+	</file>
+	<file path="eng-f433689f.flac">
+		<tag 
+			swac_alphaidx="as"
+			swac_text="as" />
+	</file>
+	<file path="eng-33f51dec.flac">
+		<tag 
+			swac_alphaidx="arrive"
+			swac_text="arrive" />
+	</file>
+	<file path="eng-fe38f844.flac">
+		<tag 
+			swac_alphaidx="appointment"
+			swac_text="appointment" />
+	</file>
+	<file path="eng-b6f237cb.flac">
+		<tag 
+			swac_alphaidx="apply|makeup"
+			swac_text="apply makeup" />
+	</file>
+	<file path="eng-111438d6.flac">
+		<tag 
+			swac_alphaidx="apologize"
+			swac_text="apologize" />
+	</file>
+	<file path="eng-3ea87bfb.flac">
+		<tag 
+			swac_alphaidx="apartment|block"
+			swac_text="apartment block" />
+	</file>
+	<file path="eng-fe1db7ea.flac">
+		<tag 
+			swac_alphaidx="antibiotic"
+			swac_text="antibiotic" />
+	</file>
+	<file path="eng-caebdb15.flac">
+		<tag 
+			swac_alphaidx="answering|machine"
+			swac_text="answering machine" />
+	</file>
+	<file path="eng-0af06d8d.flac">
+		<tag 
+			swac_alphaidx="anesthetic"
+			swac_text="anesthetic" />
+	</file>
+	<file path="eng-0f5f9c3d.flac">
+		<tag 
+			swac_alphaidx="other"
+			swac_text="and other" />
+	</file>
+	<file path="eng-f6e4db04.flac">
+		<tag 
+			swac_alphaidx="hour|half"
+			swac_text="an hour and a half" />
+	</file>
+	<file path="eng-f715dbc3.flac">
+		<tag 
+			swac_alphaidx="almost"
+			swac_text="almost" />
+	</file>
+	<file path="eng-f7bb3b7f.flac">
+		<tag 
+			swac_alphaidx="allergic"
+			swac_text="allergic" />
+	</file>
+	<file path="eng-f19c0f24.flac">
+		<tag 
+			swac_alphaidx="all|week"
+			swac_text="all week" />
+	</file>
+	<file path="eng-ce19c2b2.flac">
+		<tag 
+			swac_alphaidx="all|together"
+			swac_text="all together" />
+	</file>
+	<file path="eng-9cadeff6.flac">
+		<tag 
+			swac_alphaidx="all|time"
+			swac_text="all the time" />
+	</file>
+	<file path="eng-0f6986f7.flac">
+		<tag 
+			swac_alphaidx="all|same"
+			swac_text="all the same" />
+	</file>
+	<file path="eng-b58165a7.flac">
+		<tag 
+			swac_alphaidx="all|better"
+			swac_text="all the better" />
+	</file>
+	<file path="eng-2a3e75e5.flac">
+		<tag 
+			swac_alphaidx="all|best|(conversation)"
+			swac_text="all the best!" />
+	</file>
+	<file path="eng-43f781c0.flac">
+		<tag 
+			swac_alphaidx="all|kinds"
+			swac_text="all kinds" />
+	</file>
+	<file path="eng-5f10a415.flac">
+		<tag 
+			swac_alphaidx="all|inclusive"
+			swac_text="all inclusive" />
+	</file>
+	<file path="eng-298a92fe.flac">
+		<tag 
+			swac_alphaidx="all|day"
+			swac_text="all day" />
+	</file>
+	<file path="eng-01ff7e7c.flac">
+		<tag 
+			swac_alphaidx="alarm|clock"
+			swac_text="alarm clock" />
+	</file>
+	<file path="eng-439eb7fe.flac">
+		<tag 
+			swac_alphaidx="airport|tax"
+			swac_text="airport tax" />
+	</file>
+	<file path="eng-6c260646.flac">
+		<tag 
+			swac_alphaidx="airmail"
+			swac_text="airmail" />
+	</file>
+	<file path="eng-ec141ef8.flac">
+		<tag 
+			swac_alphaidx="airline"
+			swac_text="airline" />
+	</file>
+	<file path="eng-f2ad3254.flac">
+		<tag 
+			swac_alphaidx="air|conditioning"
+			swac_text="air conditioning" />
+	</file>
+	<file path="eng-f3d2f44b.flac">
+		<tag 
+			swac_alphaidx="agriculture"
+			swac_text="agriculture" />
+	</file>
+	<file path="eng-13974d16.flac">
+		<tag 
+			swac_alphaidx="agricultural"
+			swac_text="agricultural" />
+	</file>
+	<file path="eng-8434910d.flac">
+		<tag 
+			swac_alphaidx="after-sun"
+			swac_text="after-sun" />
+	</file>
+	<file path="eng-8fad2935.flac">
+		<tag 
+			swac_alphaidx="affordable"
+			swac_text="affordable" />
+	</file>
+	<file path="eng-9d6a6a4c.flac">
+		<tag 
+			swac_alphaidx="aerial"
+			swac_text="aerial" />
+	</file>
+	<file path="eng-f4bb024a.flac">
+		<tag 
+			swac_alphaidx="admission"
+			swac_text="admission" />
+	</file>
+	<file path="eng-85f9c0e6.flac">
+		<tag 
+			swac_alphaidx="adhesive|tape"
+			swac_text="adhesive tape" />
+	</file>
+	<file path="eng-9b1ec047.flac">
+		<tag 
+			swac_alphaidx="addressee"
+			swac_text="addressee" />
+	</file>
+	<file path="eng-19dc647c.flac">
+		<tag 
+			swac_alphaidx="adapter"
+			swac_text="adapter" />
+	</file>
+	<file path="eng-a945e1a0.flac">
+		<tag 
+			swac_alphaidx="acknowledgment|receipt"
+			swac_text="acknowledgment of receipt" />
+	</file>
+	<file path="eng-e89a8617.flac">
+		<tag 
+			swac_alphaidx="accommodations"
+			swac_text="accommodations" />
+	</file>
+	<file path="eng-2d385412.flac">
+		<tag 
+			swac_alphaidx="accommodation"
+			swac_text="accommodation" />
+	</file>
+	<file path="eng-a6df7656.flac">
+		<tag 
+			swac_alphaidx="absolute"
+			swac_text="absolute" />
+	</file>
+	<file path="eng-35cfee3c.flac">
+		<tag 
+			swac_alphaidx="ability"
+			swac_text="ability" />
+	</file>
+	<file path="eng-895fdf5c.flac">
+		<tag 
+			swac_alphaidx="abbey"
+			swac_text="abbey" />
+	</file>
+	<file path="eng-b1f73ff9.flac">
+		<tag 
+			swac_alphaidx="while"
+			swac_text="a while" />
+	</file>
+	<file path="eng-fd7b1501.flac">
+		<tag 
+			swac_alphaidx="time"
+			swac_text="a time" />
+	</file>
+	<file path="eng-2560a4b5.flac">
+		<tag 
+			swac_alphaidx="sore|stomach"
+			swac_text="a sore stomach" />
+	</file>
+	<file path="eng-34506210.flac">
+		<tag 
+			swac_alphaidx="quarter|ten"
+			swac_text="a quarter to ten" />
+	</file>
+	<file path="eng-f9336660.flac">
+		<tag 
+			swac_alphaidx="quarter|past|ten"
+			swac_text="a quarter past ten" />
+	</file>
+	<file path="eng-3b5499b8.flac">
+		<tag 
+			swac_alphaidx="quarter|hour"
+			swac_text="a quarter of an hour" />
+	</file>
+	<file path="eng-71bc55a5.flac">
+		<tag 
+			swac_alphaidx="quarter|after"
+			swac_text="a quarter after ten" />
+	</file>
+	<file path="eng-dc8e47ec.flac">
+		<tag 
+			swac_alphaidx="piece|fruit"
+			swac_text="a piece of fruit" />
+	</file>
+	<file path="eng-a32923ac.flac">
+		<tag 
+			swac_alphaidx="piece|advice"
+			swac_text="a piece of advice" />
+	</file>
+	<file path="eng-198a7c9d.flac">
+		<tag 
+			swac_alphaidx="piece"
+			swac_text="a piece of" />
+	</file>
+	<file path="eng-69cd764a.flac">
+		<tag 
+			swac_alphaidx="pair|pyjamas"
+			swac_text="a pair of pyjamas" />
+	</file>
+	<file path="eng-482eab43.flac">
+		<tag 
+			swac_alphaidx="lot"
+			swac_text="a lot of" />
+	</file>
+	<file path="eng-5e8041d0.flac">
+		<tag 
+			swac_alphaidx="lot|more"
+			swac_text="a lot more" />
+	</file>
+	<file path="eng-47755b64.flac">
+		<tag 
+			swac_alphaidx="long|time"
+			swac_text="a long time" />
+	</file>
+	<file path="eng-634a332b.flac">
+		<tag 
+			swac_alphaidx="little|bit"
+			swac_text="a little bit" />
+	</file>
+	<file path="eng-1effdaf6.flac">
+		<tag 
+			swac_alphaidx="little"
+			swac_text="a little" />
+	</file>
+	<file path="eng-8c3a5241.flac">
+		<tag 
+			swac_alphaidx="kick"
+			swac_text="a kick" />
+	</file>
+	<file path="eng-86edcd0b.flac">
+		<tag 
+			swac_alphaidx="groaning|sound"
+			swac_text="a groaning sound" />
+	</file>
+	<file path="eng-1ea6aa05.flac">
+		<tag 
+			swac_alphaidx="glass|water"
+			swac_text="a glass of water" />
+	</file>
+	<file path="eng-58f3ca31.flac">
+		<tag 
+			swac_alphaidx="few"
+			swac_text="a few" />
+	</file>
+	<file path="eng-6a467c5b.flac">
+		<tag 
+			swac_alphaidx="bit"
+			swac_text="a bit" />
+	</file>
+	<file path="eng-d79cebb5.flac">
+		<tag 
+			swac_alphaidx="X-rays"
+			swac_text="X-rays" />
+	</file>
+	<file path="eng-04cd7047.flac">
+		<tag 
+			swac_alphaidx="United States"
+			swac_text="United States" />
+	</file>
+	<file path="eng-c58d700d.flac">
+		<tag 
+			swac_alphaidx="United Kingdom"
+			swac_text="United Kingdom" />
+	</file>
+	<file path="eng-d5b41909.flac">
+		<tag 
+			swac_alphaidx="U-turn"
+			swac_text="U-turn" />
+	</file>
+	<file path="eng-ed7e13b2.flac">
+		<tag 
+			swac_alphaidx="Tupperware"
+			swac_text="Tupperware" />
+	</file>
+	<file path="eng-d057bc4d.flac">
+		<tag 
+			swac_alphaidx="T-bar"
+			swac_text="T-bar" />
+	</file>
+	<file path="eng-fba5cca8.flac">
+		<tag 
+			swac_alphaidx="Spanish"
+			swac_text="Spanish" />
+	</file>
+	<file path="eng-858edf3c.flac">
+		<tag 
+			swac_alphaidx="Spain"
+			swac_text="Spain" />
+	</file>
+	<file path="eng-74dc1336.flac">
+		<tag 
+			swac_alphaidx="Portuguese"
+			swac_text="Portuguese" />
+	</file>
+	<file path="eng-2ed900f8.flac">
+		<tag 
+			swac_alphaidx="Portugal"
+			swac_text="Portugal" />
+	</file>
+	<file path="eng-d736d92d.flac">
+		<tag 
+			swac_alphaidx="OK|(conversation)"
+			swac_text="OK" />
+	</file>
+	<file path="eng-6da97d9c.flac">
+		<tag 
+			swac_alphaidx="New Year"
+			swac_text="New Year" />
+	</file>
+	<file path="eng-bcdec84b.flac">
+		<tag 
+			swac_alphaidx="Netherlands"
+			swac_text="Netherlands" />
+	</file>
+	<file path="eng-1ad5ed21.flac">
+		<tag 
+			swac_alphaidx="Mister"
+			swac_text="Mister" />
+	</file>
+	<file path="eng-fd614e16.flac">
+		<tag 
+			swac_alphaidx="Kleenex"
+			swac_text="Kleenex" />
+	</file>
+	<file path="eng-f3e12338.flac">
+		<tag 
+			swac_alphaidx="Japanese"
+			swac_text="Japanese" />
+	</file>
+	<file path="eng-d5e6597a.flac">
+		<tag 
+			swac_alphaidx="Japan"
+			swac_text="Japan" />
+	</file>
+	<file path="eng-de18b6ca.flac">
+		<tag 
+			swac_alphaidx="Italy"
+			swac_text="Italy" />
+	</file>
+	<file path="eng-98045053.flac">
+		<tag 
+			swac_alphaidx="Italian"
+			swac_text="Italian" />
+	</file>
+	<file path="eng-d24bb6b4.flac">
+		<tag 
+			swac_alphaidx="matter|(conversation)"
+			swac_text="It doesn't matter" />
+	</file>
+	<file path="eng-739cc283.flac">
+		<tag 
+			swac_alphaidx="Internet|café|Internet café"
+			swac_text="Internet café" />
+	</file>
+	<file path="eng-85852207.flac">
+		<tag 
+			swac_alphaidx="Internet"
+			swac_text="Internet" />
+	</file>
+	<file path="eng-28164d43.flac">
+		<tag 
+			swac_alphaidx="just|arrive|(conversation)"
+			swac_text="I've just arrived" />
+	</file>
+	<file path="eng-35c909e0.flac">
+		<tag 
+			swac_alphaidx="very|well|(conversation)"
+			swac_text="I'm very well" />
+	</file>
+	<file path="eng-4d252e48.flac">
+		<tag 
+			swac_alphaidx="use|(conversation)"
+			swac_text="I'm used to it" />
+	</file>
+	<file path="eng-34d4f136.flac">
+		<tag 
+			swac_alphaidx="sorry|(conversation)"
+			swac_text="I'm sorry" />
+	</file>
+	<file path="eng-9c095028.flac">
+		<tag 
+			swac_alphaidx="use|(conversation)"
+			swac_text="I'm not used to" />
+	</file>
+	<file path="eng-e056c094.flac">
+		<tag 
+			swac_alphaidx="go|home|(conversation)"
+			swac_text="I'm going home" />
+	</file>
+	<file path="eng-b3acb9b3.flac">
+		<tag 
+			swac_alphaidx="fine|(conversation)"
+			swac_text="I'm fine" />
+	</file>
+	<file path="eng-c5ce6727.flac">
+		<tag 
+			swac_alphaidx="cold|(conversation)"
+			swac_text="I'm cold" />
+	</file>
+	<file path="eng-daa3adbb.flac">
+		<tag 
+			swac_alphaidx="be|year|old|(conversation)"
+			swac_text="I'm 24 years old" />
+	</file>
+	<file path="eng-d7b1c0e9.flac">
+		<tag 
+			swac_alphaidx="be|(conversation)"
+			swac_text="I'm 24" />
+	</file>
+	<file path="eng-8669fc5a.flac">
+		<tag 
+			swac_alphaidx="would|like|(conversation)"
+			swac_text="I'd like" />
+	</file>
+	<file path="eng-4913186e.flac">
+		<tag 
+			swac_alphaidx="must|go|(conversation)"
+			swac_text="I must go" />
+	</file>
+	<file path="eng-041a673e.flac">
+		<tag 
+			swac_alphaidx="miss|him|(conversation)"
+			swac_text="I miss him" />
+	</file>
+	<file path="eng-aab7c7f7.flac">
+		<tag 
+			swac_alphaidx="mind|(conversation)"
+			swac_text="I don't mind" />
+	</file>
+	<file path="eng-d50b8cb7.flac">
+		<tag 
+			swac_alphaidx="care|(conversation)"
+			swac_text="I don't care" />
+	</file>
+	<file path="eng-d9bf9673.flac">
+		<tag 
+			swac_alphaidx="can|not|(conversation)"
+			swac_text="I can't" />
+	</file>
+	<file path="eng-dd0216b9.flac">
+		<tag 
+			swac_alphaidx="I"
+			swac_text="I" />
+	</file>
+	<file path="eng-4c510d7f.flac">
+		<tag 
+			swac_alphaidx="Hungary"
+			swac_text="Hungary" />
+	</file>
+	<file path="eng-c6acc967.flac">
+		<tag 
+			swac_alphaidx="Holland"
+			swac_text="Holland" />
+	</file>
+	<file path="eng-1649d5fb.flac">
+		<tag 
+			swac_alphaidx="happy|New Year|(conversation)"
+			swac_text="Happy New Year!" />
+	</file>
+	<file path="eng-66d8cd84.flac">
+		<tag 
+			swac_alphaidx="happy|Easter|(conversation)"
+			swac_text="Happy Easter!" />
+	</file>
+	<file path="eng-11618b91.flac">
+		<tag 
+			swac_alphaidx="Greece"
+			swac_text="Greece" />
+	</file>
+	<file path="eng-fe45bc6a.flac">
+		<tag 
+			swac_alphaidx="Great Britain"
+			swac_text="Great Britain" />
+	</file>
+	<file path="eng-9515b8b7.flac">
+		<tag 
+			swac_alphaidx="Germany"
+			swac_text="Germany" />
+	</file>
+	<file path="eng-a5984597.flac">
+		<tag 
+			swac_alphaidx="German"
+			swac_text="German" />
+	</file>
+	<file path="eng-0127efe1.flac">
+		<tag 
+			swac_alphaidx="French|loaf"
+			swac_text="French loaf" />
+	</file>
+	<file path="eng-a8d9cb68.flac">
+		<tag 
+			swac_alphaidx="French"
+			swac_text="French" />
+	</file>
+	<file path="eng-590a2082.flac">
+		<tag 
+			swac_alphaidx="France"
+			swac_text="France" />
+	</file>
+	<file path="eng-bc9d8a92.flac">
+		<tag 
+			swac_alphaidx="European Union"
+			swac_text="European Union" />
+	</file>
+	<file path="eng-14481fd4.flac">
+		<tag 
+			swac_alphaidx="European"
+			swac_text="European" />
+	</file>
+	<file path="eng-e33e3b9c.flac">
+		<tag 
+			swac_alphaidx="English"
+			swac_text="English" />
+	</file>
+	<file path="eng-c6f6248d.flac">
+		<tag 
+			swac_alphaidx="Easter"
+			swac_text="Easter" />
+	</file>
+	<file path="eng-8ae459e4.flac">
+		<tag 
+			swac_alphaidx="Earth"
+			swac_text="Earth" />
+	</file>
+	<file path="eng-f106a77a.flac">
+		<tag 
+			swac_alphaidx="yourself"
+			swac_text="Do It Yourself!" />
+	</file>
+	<file path="eng-50bf8369.flac">
+		<tag 
+			swac_alphaidx="Coke"
+			swac_text="Coke" />
+	</file>
+	<file path="eng-34251e88.flac">
+		<tag 
+			swac_alphaidx="Chinese"
+			swac_text="Chinese" />
+	</file>
+	<file path="eng-eb3c8bb0.flac">
+		<tag 
+			swac_alphaidx="CD"
+			swac_text="CD" />
+	</file>
+	<file path="eng-71928725.flac">
+		<tag 
+			swac_alphaidx="chilly"
+			swac_text="chilly" />
+	</file>
+	<file path="eng-2c68dc1b.flac">
+		<tag 
+			swac_alphaidx="chill"
+			swac_text="chill" />
+	</file>
+	<file path="eng-81b17d68.flac">
+		<tag 
+			swac_alphaidx="cheers|(conversation)"
+			swac_text="cheers!" />
+	</file>
+	<file path="eng-6a3ec4ac.flac">
+		<tag 
+			swac_alphaidx="checkroom"
+			swac_text="checkroom" />
+	</file>
+	<file path="eng-af382d4e.flac">
+		<tag 
+			swac_alphaidx="checkout"
+			swac_text="checkout" />
+	</file>
+	<file path="eng-c733d0c7.flac">
+		<tag 
+			swac_alphaidx="check-in"
+			swac_text="check-in" />
+	</file>
+	<file path="eng-cfeb4394.flac">
+		<tag 
+			swac_alphaidx="check|in"
+			swac_text="check in" />
+	</file>
+	<file path="eng-1d05aa7c.flac">
+		<tag 
+			swac_alphaidx="chapel"
+			swac_text="chapel" />
+	</file>
+	<file path="eng-67a369fb.flac">
+		<tag 
+			swac_alphaidx="changing|room"
+			swac_text="changing room" />
+	</file>
+	<file path="eng-ab0a46f9.flac">
+		<tag 
+			swac_alphaidx="change|purse"
+			swac_text="change purse" />
+	</file>
+	<file path="eng-c4306420.flac">
+		<tag 
+			swac_alphaidx="chairwoman"
+			swac_text="chairwoman" />
+	</file>
+	<file path="eng-1ad49af1.flac">
+		<tag 
+			swac_alphaidx="chairperson"
+			swac_text="chairperson" />
+	</file>
+	<file path="eng-53f879bd.flac">
+		<tag 
+			swac_alphaidx="chairlift"
+			swac_text="chairlift" />
+	</file>
+	<file path="eng-4b3c82e6.flac">
+		<tag 
+			swac_alphaidx="central|heating"
+			swac_text="central heating" />
+	</file>
+	<file path="eng-a530f07e.flac">
+		<tag 
+			swac_alphaidx="centimeter"
+			swac_text="centimeter" />
+	</file>
+	<file path="eng-aaa18e60.flac">
+		<tag 
+			swac_alphaidx="cellphone"
+			swac_text="cellphone" />
+	</file>
+	<file path="eng-f028f82f.flac">
+		<tag 
+			swac_alphaidx="cavity"
+			swac_text="cavity" />
+	</file>
+	<file path="eng-aa58df00.flac">
+		<tag 
+			swac_alphaidx="catty"
+			swac_text="catty" />
+	</file>
+	<file path="eng-7eefd71c.flac">
+		<tag 
+			swac_alphaidx="cash|point"
+			swac_text="cash point" />
+	</file>
+	<file path="eng-436a9a15.flac">
+		<tag 
+			swac_alphaidx="cash|desk"
+			swac_text="cash desk" />
+	</file>
+	<file path="eng-06b9e5b9.flac">
+		<tag 
+			swac_alphaidx="cash"
+			swac_text="cash" />
+	</file>
+	<file path="eng-b1c79f3a.flac">
+		<tag 
+			swac_alphaidx="cardiac|arrest"
+			swac_text="cardiac arrest" />
+	</file>
+	<file path="eng-6282746b.flac">
+		<tag 
+			swac_alphaidx="caravan"
+			swac_text="caravan" />
+	</file>
+	<file path="eng-74ef1e81.flac">
+		<tag 
+			swac_alphaidx="car|park"
+			swac_text="car park" />
+	</file>
+	<file path="eng-5616c572.flac">
+		<tag 
+			swac_alphaidx="cancel"
+			swac_text="cancel" />
+	</file>
+	<file path="eng-70defa5e.flac">
+		<tag 
+			swac_alphaidx="can|opener"
+			swac_text="can opener" />
+	</file>
+	<file path="eng-43b61697.flac">
+		<tag 
+			swac_alphaidx="camping|stove"
+			swac_text="camping stove" />
+	</file>
+	<file path="eng-81a904e4.flac">
+		<tag 
+			swac_alphaidx="camping"
+			swac_text="camping" />
+	</file>
+	<file path="eng-21cdd175.flac">
+		<tag 
+			swac_alphaidx="call|back"
+			swac_text="call back" />
+	</file>
+	<file path="eng-cc8e2f3e.flac">
+		<tag 
+			swac_alphaidx="call"
+			swac_text="call" />
+	</file>
+	<file path="eng-98ad42b5.flac">
+		<tag 
+			swac_alphaidx="café"
+			swac_text="café" />
+	</file>
+	<file path="eng-bfa83cf7.flac">
+		<tag 
+			swac_alphaidx="bye|(conversation)"
+			swac_text="bye!" />
+	</file>
+	<file path="eng-9a0f6844.flac">
+		<tag 
+			swac_alphaidx="by|way"
+			swac_text="by the way" />
+	</file>
+	<file path="eng-42e94b7e.flac">
+		<tag 
+			swac_alphaidx="by|special"
+			swac_text="by special" />
+	</file>
+	<file path="eng-7dc7942c.flac">
+		<tag 
+			swac_alphaidx="by|chance"
+			swac_text="by chance" />
+	</file>
+	<file path="eng-28721dfd.flac">
+		<tag 
+			swac_alphaidx="by|car"
+			swac_text="by car" />
+	</file>
+	<file path="eng-3a06ac3d.flac">
+		<tag 
+			swac_alphaidx="button"
+			swac_text="button" />
+	</file>
+	<file path="eng-076dbed4.flac">
+		<tag 
+			swac_alphaidx="butcher"
+			swac_text="butcher's" />
+	</file>
+	<file path="eng-7a009af6.flac">
+		<tag 
+			swac_alphaidx="butcher|shop"
+			swac_text="butcher shop" />
+	</file>
+	<file path="eng-69de4134.flac">
+		<tag 
+			swac_alphaidx="business|class"
+			swac_text="business class" />
+	</file>
+	<file path="eng-3d0dedc0.flac">
+		<tag 
+			swac_alphaidx="business|card"
+			swac_text="business card" />
+	</file>
+	<file path="eng-1bd172a3.flac">
+		<tag 
+			swac_alphaidx="busily"
+			swac_text="busily" />
+	</file>
+	<file path="eng-9dd91ee2.flac">
+		<tag 
+			swac_alphaidx="bus|stop"
+			swac_text="bus stop" />
+	</file>
+	<file path="eng-41526a40.flac">
+		<tag 
+			swac_alphaidx="bus|station"
+			swac_text="bus station" />
+	</file>
+	<file path="eng-6ee63a9c.flac">
+		<tag 
+			swac_alphaidx="bus|route"
+			swac_text="bus route" />
+	</file>
+	<file path="eng-1ff97d3b.flac">
+		<tag 
+			swac_alphaidx="bunk|beds"
+			swac_text="bunk beds" />
+	</file>
+	<file path="eng-62072ef9.flac">
+		<tag 
+			swac_alphaidx="bump"
+			swac_text="bump" />
+	</file>
+	<file path="eng-e73f36a6.flac">
+		<tag 
+			swac_alphaidx="bucket"
+			swac_text="bucket" />
+	</file>
+	<file path="eng-f1a7d2c3.flac">
+		<tag 
+			swac_alphaidx="brush"
+			swac_text="brush" />
+	</file>
+	<file path="eng-75481bd2.flac">
+		<tag 
+			swac_alphaidx="bronchitis"
+			swac_text="bronchitis" />
+	</file>
+	<file path="eng-526a8660.flac">
+		<tag 
+			swac_alphaidx="breakdown|service"
+			swac_text="breakdown service" />
+	</file>
+	<file path="eng-b3969da7.flac">
+		<tag 
+			swac_alphaidx="breakdown"
+			swac_text="breakdown" />
+	</file>
+	<file path="eng-6cccf0e3.flac">
+		<tag 
+			swac_alphaidx="break|into"
+			swac_text="break into" />
+	</file>
+	<file path="eng-c34e215c.flac">
+		<tag 
+			swac_alphaidx="break|down"
+			swac_text="break down" />
+	</file>
+	<file path="eng-93ae8ce6.flac">
+		<tag 
+			swac_alphaidx="bra"
+			swac_text="bra" />
+	</file>
+	<file path="eng-3ca97c0c.flac">
+		<tag 
+			swac_alphaidx="boxer|shorts"
+			swac_text="boxer shorts" />
+	</file>
+	<file path="eng-8fe50827.flac">
+		<tag 
+			swac_alphaidx="bottle|opener"
+			swac_text="bottle opener" />
+	</file>
+	<file path="eng-bbef6364.flac">
+		<tag 
+			swac_alphaidx="bookstore"
+			swac_text="bookstore" />
+	</file>
+	<file path="eng-107c2cce.flac">
+		<tag 
+			swac_alphaidx="bookshop"
+			swac_text="bookshop" />
+	</file>
+	<file path="eng-2e3403ff.flac">
+		<tag 
+			swac_alphaidx="book|tickets"
+			swac_text="book of tickets" />
+	</file>
+	<file path="eng-9f987f7a.flac">
+		<tag 
+			swac_alphaidx="bonus"
+			swac_text="bonus" />
+	</file>
+	<file path="eng-114209da.flac">
+		<tag 
+			swac_alphaidx="boarding"
+			swac_text="boarding" />
+	</file>
+	<file path="eng-c4bea6c0.flac">
+		<tag 
+			swac_alphaidx="blow|wind"
+			swac_text="blow of the wind" />
+	</file>
+	<file path="eng-1b4a1ef9.flac">
+		<tag 
+			swac_alphaidx="blossom"
+			swac_text="blossom" />
+	</file>
+	<file path="eng-d1db99c6.flac">
+		<tag 
+			swac_alphaidx="blood|pressure"
+			swac_text="blood pressure" />
+	</file>
+	<file path="eng-a60af4fe.flac">
+		<tag 
+			swac_alphaidx="blond"
+			swac_text="blond" />
+	</file>
+	<file path="eng-e6a218a3.flac">
+		<tag 
+			swac_alphaidx="blister"
+			swac_text="blister" />
+	</file>
+	<file path="eng-ceae046f.flac">
+		<tag 
+			swac_alphaidx="bless|you|(conversation)"
+			swac_text="bless you!" />
+	</file>
+	<file path="eng-4869a8e3.flac">
+		<tag 
+			swac_alphaidx="bleed"
+			swac_text="bleed" />
+	</file>
+	<file path="eng-0c4c4bd5.flac">
+		<tag 
+			swac_alphaidx="blackout"
+			swac_text="blackout" />
+	</file>
+	<file path="eng-59833609.flac">
+		<tag 
+			swac_alphaidx="black|white"
+			swac_text="black and white" />
+	</file>
+	<file path="eng-8985ba28.flac">
+		<tag 
+			swac_alphaidx="black"
+			swac_text="black" />
+	</file>
+	<file path="eng-aa275aed.flac">
+		<tag 
+			swac_alphaidx="bin"
+			swac_text="bin" />
+	</file>
+	<file path="eng-146781dc.flac">
+		<tag 
+			swac_alphaidx="billfold"
+			swac_text="billfold" />
+	</file>
+	<file path="eng-500a89e3.flac">
+		<tag 
+			swac_alphaidx="big|bike"
+			swac_text="big bike" />
+	</file>
+	<file path="eng-1bc4f5d3.flac">
+		<tag 
+			swac_alphaidx="bid|bite"
+			swac_text="bid bite" />
+	</file>
+	<file path="eng-c02c086d.flac">
+		<tag 
+			swac_alphaidx="bicycle|pump"
+			swac_text="bicycle pump" />
+	</file>
+	<file path="eng-fb7407f4.flac">
+		<tag 
+			swac_alphaidx="better|than"
+			swac_text="better than" />
+	</file>
+	<file path="eng-16b50a0c.flac">
+		<tag 
+			swac_alphaidx="best|wishes"
+			swac_text="best wishes" />
+	</file>
+	<file path="eng-44e175b2.flac">
+		<tag 
+			swac_alphaidx="below"
+			swac_text="below" />
+	</file>
+	<file path="eng-9080d8db.flac">
+		<tag 
+			swac_alphaidx="beginner"
+			swac_text="beginner" />
+	</file>
+	<file path="eng-9112b0fc.flac">
+		<tag 
+			swac_alphaidx="before|doing"
+			swac_text="before doing" />
+	</file>
+	<file path="eng-422cb2d0.flac">
+		<tag 
+			swac_alphaidx="beef"
+			swac_text="beef" />
+	</file>
+	<file path="eng-66116e3f.flac">
+		<tag 
+			swac_alphaidx="bedside|table"
+			swac_text="bedside table" />
+	</file>
+	<file path="eng-b41afd1e.flac">
+		<tag 
+			swac_alphaidx="become|angry"
+			swac_text="become angry" />
+	</file>
+	<file path="eng-c4556c60.flac">
+		<tag 
+			swac_alphaidx="because"
+			swac_text="because of" />
+	</file>
+	<file path="eng-e3e3a248.flac">
+		<tag 
+			swac_alphaidx="beach|umbrella"
+			swac_text="beach umbrella" />
+	</file>
+	<file path="eng-ac595b3e.flac">
+		<tag 
+			swac_alphaidx="be|bored"
+			swac_text="be bored" />
+	</file>
+	<file path="eng-4fcee820.flac">
+		<tag 
+			swac_alphaidx="be|able"
+			swac_text="be able to" />
+	</file>
+	<file path="eng-bd2a7d39.flac">
+		<tag 
+			swac_alphaidx="battle|cry"
+			swac_text="battle cry" />
+	</file>
+	<file path="eng-d02ef4ae.flac">
+		<tag 
+			swac_alphaidx="battery"
+			swac_text="battery" />
+	</file>
+	<file path="eng-8848dc1c.flac">
+		<tag 
+			swac_alphaidx="bath|towel"
+			swac_text="bath towel" />
+	</file>
+	<file path="eng-90797553.flac">
+		<tag 
+			swac_alphaidx="basic"
+			swac_text="basic" />
+	</file>
+	<file path="eng-581b0cec.flac">
+		<tag 
+			swac_alphaidx="bashful"
+			swac_text="bashful" />
+	</file>
+	<file path="eng-2d0f6db5.flac">
+		<tag 
+			swac_alphaidx="basement"
+			swac_text="basement" />
+	</file>
+	<file path="eng-56ccdd35.flac">
+		<tag 
+			swac_alphaidx="barbecue"
+			swac_text="barbecue" />
+	</file>
+	<file path="eng-ed6a19f7.flac">
+		<tag 
+			swac_alphaidx="bankrupt"
+			swac_text="bankrupt" />
+	</file>
+	<file path="eng-e8c83280.flac">
+		<tag 
+			swac_alphaidx="banknote"
+			swac_text="banknote" />
+	</file>
+	<file path="eng-26d2bd36.flac">
+		<tag 
+			swac_alphaidx="bank|account"
+			swac_text="bank account" />
+	</file>
+	<file path="eng-8eda3e95.flac">
+		<tag 
+			swac_alphaidx="bandage"
+			swac_text="bandage" />
+	</file>
+	<file path="eng-e44b31fd.flac">
+		<tag 
+			swac_alphaidx="baker"
+			swac_text="baker's" />
+	</file>
+	<file path="eng-0c9546d6.flac">
+		<tag 
+			swac_alphaidx="baggage|reclaim"
+			swac_text="baggage reclaim" />
+	</file>
+	<file path="eng-917ff30a.flac">
+		<tag 
+			swac_alphaidx="baggage"
+			swac_text="baggage" />
+	</file>
+	<file path="eng-0c358569.flac">
+		<tag 
+			swac_alphaidx="backpack"
+			swac_text="backpack" />
+	</file>
+	<file path="eng-9e0e0904.flac">
+		<tag 
+			swac_alphaidx="babysitter"
+			swac_text="babysitter" />
+	</file>
+	<file path="eng-c651c028.flac">
+		<tag 
+			swac_alphaidx="baby|bottle"
+			swac_text="baby's bottle" />
+	</file>
+	<file path="eng-8f66d626.flac">
+		<tag 
+			swac_alphaidx="autumn"
+			swac_text="autumn" />
+	</file>
+	<file path="eng-41be8170.flac">
+		<tag 
+			swac_alphaidx="auditorium"
+			swac_text="auditorium" />
+	</file>
+	<file path="eng-656e1f63.flac">
+		<tag 
+			swac_alphaidx="at|top"
+			swac_text="at the top" />
+	</file>
+	<file path="eng-e272d731.flac">
+		<tag 
+			swac_alphaidx="at|seaside"
+			swac_text="at the seaside" />
+	</file>
+	<file path="eng-e83d21be.flac">
+		<tag 
+			swac_alphaidx="at|same|time"
+			swac_text="at the same time" />
+	</file>
+	<file path="eng-b620c819.flac">
+		<tag 
+			swac_alphaidx="at|moment"
+			swac_text="at the moment" />
+	</file>
+	<file path="eng-c22a8719.flac">
+		<tag 
+			swac_alphaidx="at|last|minute"
+			swac_text="at the last minute" />
+	</file>
+	<file path="eng-0986cedf.flac">
+		<tag 
+			swac_alphaidx="at|end|street"
+			swac_text="at the end of the street" />
+	</file>
+	<file path="eng-86e8236c.flac">
+		<tag 
+			swac_alphaidx="at|end"
+			swac_text="at the end of" />
+	</file>
+	<file path="eng-0af3321f.flac">
+		<tag 
+			swac_alphaidx="at|bottom"
+			swac_text="at the bottom" />
+	</file>
+	<file path="eng-5eedb63f.flac">
+		<tag 
+			swac_alphaidx="at|beginning"
+			swac_text="at the beginning of" />
+	</file>
+	<file path="eng-193a857f.flac">
+		<tag 
+			swac_alphaidx="at|beginning"
+			swac_text="at the beginning" />
+	</file>
+	<file path="eng-52911073.flac">
+		<tag 
+			swac_alphaidx="at|back"
+			swac_text="at the back of" />
+	</file>
+	<file path="eng-7f5b5528.flac">
+		<tag 
+			swac_alphaidx="at|reception"
+			swac_text="at reception" />
+	</file>
+	<file path="eng-ed4f5cc9.flac">
+		<tag 
+			swac_alphaidx="at|random"
+			swac_text="at random" />
+	</file>
+	<file path="eng-b3db5430.flac">
+		<tag 
+			swac_alphaidx="at|once"
+			swac_text="at once" />
+	</file>
+	<file path="eng-2cbd2d38.flac">
+		<tag 
+			swac_alphaidx="at|least"
+			swac_text="at least" />
+	</file>
+	<file path="eng-8a408e40.flac">
+		<tag 
+			swac_alphaidx="at|last"
+			swac_text="at last" />
+	</file>
+	<file path="eng-b14d2b30.flac">
+		<tag 
+			swac_alphaidx="at|home"
+			swac_text="at home" />
+	</file>
+	<file path="eng-1ef61d10.flac">
+		<tag 
+			swac_alphaidx="at|full|speed"
+			swac_text="at full speed" />
+	</file>
+	<file path="eng-32bb9708.flac">
+		<tag 
+			swac_alphaidx="at|first"
+			swac_text="at first" />
+	</file>
+	<file path="eng-84670e34.flac">
+		<tag 
+			swac_alphaidx="asthma"
+			swac_text="asthma" />
+	</file>
+	<file path="eng-f2c7aac7.flac">
+		<tag 
+			swac_alphaidx="earrings"
+			swac_text="earrings" />
+	</file>
+	<file path="eng-433af6f4.flac">
+		<tag 
+			swac_alphaidx="early|morning"
+			swac_text="early morning" />
+	</file>
+	<file path="eng-d2d58742.flac">
+		<tag 
+			swac_alphaidx="each|one"
+			swac_text="each one" />
+	</file>
+	<file path="eng-f4c118b5.flac">
+		<tag 
+			swac_alphaidx="e-mail|address"
+			swac_text="e-mail address" />
+	</file>
+	<file path="eng-5f1d11a8.flac">
+		<tag 
+			swac_alphaidx="dynasty"
+			swac_text="dynasty" />
+	</file>
+	<file path="eng-73414a0e.flac">
+		<tag 
+			swac_alphaidx="duty|drugstore"
+			swac_text="duty drugstore" />
+	</file>
+	<file path="eng-b63305d1.flac">
+		<tag 
+			swac_alphaidx="dustbin"
+			swac_text="dustbin" />
+	</file>
+	<file path="eng-dec3db54.flac">
+		<tag 
+			swac_alphaidx="during|week"
+			swac_text="during the week" />
+	</file>
+	<file path="eng-55b7d16f.flac">
+		<tag 
+			swac_alphaidx="dry|cleaner"
+			swac_text="dry cleaner's" />
+	</file>
+	<file path="eng-18821ac5.flac">
+		<tag 
+			swac_alphaidx="drunk"
+			swac_text="drunk" />
+	</file>
+	<file path="eng-9b273def.flac">
+		<tag 
+			swac_alphaidx="drugstore"
+			swac_text="drugstore" />
+	</file>
+	<file path="eng-26a0d10f.flac">
+		<tag 
+			swac_alphaidx="drought|beer"
+			swac_text="drought beer" />
+	</file>
+	<file path="eng-5428225f.flac">
+		<tag 
+			swac_alphaidx="drought"
+			swac_text="drought" />
+	</file>
+	<file path="eng-ce1e9bea.flac">
+		<tag 
+			swac_alphaidx="drops"
+			swac_text="drops" />
+	</file>
+	<file path="eng-b946990f.flac">
+		<tag 
+			swac_alphaidx="driving|license"
+			swac_text="driving license" />
+	</file>
+	<file path="eng-d6e96cfa.flac">
+		<tag 
+			swac_alphaidx="driver|license"
+			swac_text="driver's license" />
+	</file>
+	<file path="eng-4131b5f6.flac">
+		<tag 
+			swac_alphaidx="drink|drinking|water"
+			swac_text="drinking water" />
+	</file>
+	<file path="eng-f7984dff.flac">
+		<tag 
+			swac_alphaidx="drinkable"
+			swac_text="drinkable" />
+	</file>
+	<file path="eng-138f6ed7.flac">
+		<tag 
+			swac_alphaidx="dress|dressing|gown"
+			swac_text="dressing gown" />
+	</file>
+	<file path="eng-ba1bf9d3.flac">
+		<tag 
+			swac_alphaidx="dressing"
+			swac_text="dressing" />
+	</file>
+	<file path="eng-11faa1c9.flac">
+		<tag 
+			swac_alphaidx="downtown"
+			swac_text="downtown" />
+	</file>
+	<file path="eng-9b4cd77e.flac">
+		<tag 
+			swac_alphaidx="doubt"
+			swac_text="doubt" />
+	</file>
+	<file path="eng-e0323e63.flac">
+		<tag 
+			swac_alphaidx="double-time"
+			swac_text="double-time" />
+	</file>
+	<file path="eng-9bf6ed00.flac">
+		<tag 
+			swac_alphaidx="dos"
+			swac_text="dos" />
+	</file>
+	<file path="eng-26f4d791.flac">
+		<tag 
+			swac_alphaidx="dormitory"
+			swac_text="dormitory" />
+	</file>
+	<file path="eng-c5e26f27.flac">
+		<tag 
+			swac_alphaidx="doorway"
+			swac_text="doorway" />
+	</file>
+	<file path="eng-42c92657.flac">
+		<tag 
+			swac_alphaidx="door|code"
+			swac_text="door code" />
+	</file>
+	<file path="eng-764a4d51.flac">
+		<tag 
+			swac_alphaidx="suit|(conversation)"
+			swac_text="does that suit you?" />
+	</file>
+	<file path="eng-b286de8d.flac">
+		<tag 
+			swac_alphaidx="do|speak|English|(conversation)"
+			swac_text="do you speak English?" />
+	</file>
+	<file path="eng-977f44ee.flac">
+		<tag 
+			swac_alphaidx="diving"
+			swac_text="diving" />
+	</file>
+	<file path="eng-7bcef575.flac">
+		<tag 
+			swac_alphaidx="disturb"
+			swac_text="disturb" />
+	</file>
+	<file path="eng-c5cd1cc5.flac">
+		<tag 
+			swac_alphaidx="distant|from"
+			swac_text="distant from" />
+	</file>
+	<file path="eng-7e78a41f.flac">
+		<tag 
+			swac_alphaidx="disposable"
+			swac_text="disposable" />
+	</file>
+	<file path="eng-b5b20ecb.flac">
+		<tag 
+			swac_alphaidx="disinfect"
+			swac_text="disinfect" />
+	</file>
+	<file path="eng-7a7a16ee.flac">
+		<tag 
+			swac_alphaidx="dishwasher"
+			swac_text="dishwasher" />
+	</file>
+	<file path="eng-584dd35d.flac">
+		<tag 
+			swac_alphaidx="dishes"
+			swac_text="dishes" />
+	</file>
+	<file path="eng-344b075a.flac">
+		<tag 
+			swac_alphaidx="dish|towel"
+			swac_text="dish towel" />
+	</file>
+	<file path="eng-7384cd6e.flac">
+		<tag 
+			swac_alphaidx="dish|day"
+			swac_text="dish of the day" />
+	</file>
+	<file path="eng-c9e66c40.flac">
+		<tag 
+			swac_alphaidx="disgusting"
+			swac_text="disgusting" />
+	</file>
+	<file path="eng-b3cd2ad3.flac">
+		<tag 
+			swac_alphaidx="discount|fare"
+			swac_text="discount fare" />
+	</file>
+	<file path="eng-29d40cbd.flac">
+		<tag 
+			swac_alphaidx="disco"
+			swac_text="disco" />
+	</file>
+	<file path="eng-da9201ce.flac">
+		<tag 
+			swac_alphaidx="disappointed"
+			swac_text="disappointed" />
+	</file>
+	<file path="eng-a9e13231.flac">
+		<tag 
+			swac_alphaidx="disadvantage"
+			swac_text="disadvantage" />
+	</file>
+	<file path="eng-84fe6ee3.flac">
+		<tag 
+			swac_alphaidx="disabled"
+			swac_text="disabled" />
+	</file>
+	<file path="eng-467844da.flac">
+		<tag 
+			swac_alphaidx="directory"
+			swac_text="directory" />
+	</file>
+	<file path="eng-1e90d3f0.flac">
+		<tag 
+			swac_alphaidx="director"
+			swac_text="director" />
+	</file>
+	<file path="eng-ec218957.flac">
+		<tag 
+			swac_alphaidx="diploma"
+			swac_text="diploma" />
+	</file>
+	<file path="eng-a11f3393.flac">
+		<tag 
+			swac_alphaidx="dining|room"
+			swac_text="dining room" />
+	</file>
+	<file path="eng-c80fca37.flac">
+		<tag 
+			swac_alphaidx="dining|hall"
+			swac_text="dining hall" />
+	</file>
+	<file path="eng-d1979f6f.flac">
+		<tag 
+			swac_alphaidx="different|from"
+			swac_text="different from" />
+	</file>
+	<file path="eng-b0449a7a.flac">
+		<tag 
+			swac_alphaidx="diesel"
+			swac_text="diesel" />
+	</file>
+	<file path="eng-c83f5b7e.flac">
+		<tag 
+			swac_alphaidx="dictate"
+			swac_text="dictate" />
+	</file>
+	<file path="eng-a10ee254.flac">
+		<tag 
+			swac_alphaidx="dice"
+			swac_text="dice" />
+	</file>
+	<file path="eng-4561d862.flac">
+		<tag 
+			swac_alphaidx="dialog"
+			swac_text="dialog" />
+	</file>
+	<file path="eng-69265711.flac">
+		<tag 
+			swac_alphaidx="dialing|code"
+			swac_text="dialing code" />
+	</file>
+	<file path="eng-8171f815.flac">
+		<tag 
+			swac_alphaidx="diabetes"
+			swac_text="diabetes" />
+	</file>
+	<file path="eng-e7f75eed.flac">
+		<tag 
+			swac_alphaidx="depend"
+			swac_text="depend" />
+	</file>
+	<file path="eng-1e80587f.flac">
+		<tag 
+			swac_alphaidx="department|store"
+			swac_text="department store" />
+	</file>
+	<file path="eng-cd1de18a.flac">
+		<tag 
+			swac_alphaidx="department"
+			swac_text="department" />
+	</file>
+	<file path="eng-ae41c109.flac">
+		<tag 
+			swac_alphaidx="deodorant"
+			swac_text="deodorant" />
+	</file>
+	<file path="eng-3781ec10.flac">
+		<tag 
+			swac_alphaidx="delivery"
+			swac_text="delivery" />
+	</file>
+	<file path="eng-6c2179cf.flac">
+		<tag 
+			swac_alphaidx="deliciousness"
+			swac_text="deliciousness" />
+	</file>
+	<file path="eng-263a4bd4.flac">
+		<tag 
+			swac_alphaidx="deli"
+			swac_text="deli" />
+	</file>
+	<file path="eng-6c814a37.flac">
+		<tag 
+			swac_alphaidx="delayed"
+			swac_text="delayed" />
+	</file>
+	<file path="eng-c7b0817b.flac">
+		<tag 
+			swac_alphaidx="debit|card"
+			swac_text="debit card" />
+	</file>
+	<file path="eng-1ee7338d.flac">
+		<tag 
+			swac_alphaidx="daughter-in-law"
+			swac_text="daughter-in-law" />
+	</file>
+	<file path="eng-959f0137.flac">
+		<tag 
+			swac_alphaidx="date|birth"
+			swac_text="date of birth" />
+	</file>
+	<file path="eng-9cb06014.flac">
+		<tag 
+			swac_alphaidx="dark|blue"
+			swac_text="dark blue" />
+	</file>
+	<file path="eng-5c437a89.flac">
+		<tag 
+			swac_alphaidx="damp"
+			swac_text="damp" />
+	</file>
+	<file path="eng-dcc8afeb.flac">
+		<tag 
+			swac_alphaidx="damaged"
+			swac_text="damaged" />
+	</file>
+	<file path="eng-24c0c6bc.flac">
+		<tag 
+			swac_alphaidx="cycle|path"
+			swac_text="cycle path" />
+	</file>
+	<file path="eng-7bb3c0e7.flac">
+		<tag 
+			swac_alphaidx="cutlery"
+			swac_text="cutlery" />
+	</file>
+	<file path="eng-7c2601d1.flac">
+		<tag 
+			swac_alphaidx="customs"
+			swac_text="customs" />
+	</file>
+	<file path="eng-ab958c87.flac">
+		<tag 
+			swac_alphaidx="currently"
+			swac_text="currently to be at" />
+	</file>
+	<file path="eng-10405626.flac">
+		<tag 
+			swac_alphaidx="cupboard"
+			swac_text="cupboard" />
+	</file>
+	<file path="eng-b79d50e4.flac">
+		<tag 
+			swac_alphaidx="cup"
+			swac_text="cup" />
+	</file>
+	<file path="eng-c5049596.flac">
+		<tag 
+			swac_alphaidx="cultural"
+			swac_text="cultural" />
+	</file>
+	<file path="eng-9e9d701b.flac">
+		<tag 
+			swac_alphaidx="cruise"
+			swac_text="cruise" />
+	</file>
+	<file path="eng-3f2d4050.flac">
+		<tag 
+			swac_alphaidx="crossroads"
+			swac_text="crossroads" />
+	</file>
+	<file path="eng-82bcbfc1.flac">
+		<tag 
+			swac_alphaidx="crocodile"
+			swac_text="crocodile" />
+	</file>
+	<file path="eng-2ea9f36d.flac">
+		<tag 
+			swac_alphaidx="criticism"
+			swac_text="criticism" />
+	</file>
+	<file path="eng-6a5450f0.flac">
+		<tag 
+			swac_alphaidx="credit|card"
+			swac_text="credit card" />
+	</file>
+	<file path="eng-648978b6.flac">
+		<tag 
+			swac_alphaidx="covering"
+			swac_text="covering" />
+	</file>
+	<file path="eng-8d0886c5.flac">
+		<tag 
+			swac_alphaidx="cover"
+			swac_text="cover" />
+	</file>
+	<file path="eng-55c234de.flac">
+		<tag 
+			swac_alphaidx="countryside"
+			swac_text="countryside" />
+	</file>
+	<file path="eng-c1229478.flac">
+		<tag 
+			swac_alphaidx="counter"
+			swac_text="counter" />
+	</file>
+	<file path="eng-af2a5b7f.flac">
+		<tag 
+			swac_alphaidx="count"
+			swac_text="count on" />
+	</file>
+	<file path="eng-9acb209a.flac">
+		<tag 
+			swac_alphaidx="cotton|wool"
+			swac_text="cotton wool" />
+	</file>
+	<file path="eng-46eb1e03.flac">
+		<tag 
+			swac_alphaidx="cotton|bud"
+			swac_text="cotton bud" />
+	</file>
+	<file path="eng-db0af0bb.flac">
+		<tag 
+			swac_alphaidx="cotton"
+			swac_text="cotton" />
+	</file>
+	<file path="eng-ed3d51f7.flac">
+		<tag 
+			swac_alphaidx="cool"
+			swac_text="cool" />
+	</file>
+	<file path="eng-14795cd3.flac">
+		<tag 
+			swac_alphaidx="cooking|ring"
+			swac_text="cooking rings" />
+	</file>
+	<file path="eng-467be66a.flac">
+		<tag 
+			swac_alphaidx="cooking"
+			swac_text="cooking" />
+	</file>
+	<file path="eng-f214d8b1.flac">
+		<tag 
+			swac_alphaidx="cooked|rice"
+			swac_text="cooked rice" />
+	</file>
+	<file path="eng-25cc745c.flac">
+		<tag 
+			swac_alphaidx="contraceptive"
+			swac_text="contraceptive" />
+	</file>
+	<file path="eng-3b332721.flac">
+		<tag 
+			swac_alphaidx="continuously"
+			swac_text="continuously" />
+	</file>
+	<file path="eng-e76658c4.flac">
+		<tag 
+			swac_alphaidx="comparatively"
+			swac_text="comparatively" />
+	</file>
+	<file path="eng-1f01330f.flac">
+		<tag 
+			swac_alphaidx="companionship"
+			swac_text="companionship" />
+	</file>
+	<file path="eng-03d1e589.flac">
+		<tag 
+			swac_alphaidx="common|cold"
+			swac_text="common cold" />
+	</file>
+	<file path="eng-b447203d.flac">
+		<tag 
+			swac_alphaidx="comic|strip"
+			swac_text="comic strip" />
+	</file>
+	<file path="eng-4599bb31.flac">
+		<tag 
+			swac_alphaidx="come|out"
+			swac_text="come out" />
+	</file>
+	<file path="eng-95b25a15.flac">
+		<tag 
+			swac_alphaidx="come|in"
+			swac_text="come in" />
+	</file>
+	<file path="eng-b53f993b.flac">
+		<tag 
+			swac_alphaidx="come|back"
+			swac_text="come back" />
+	</file>
+	<file path="eng-edeea54f.flac">
+		<tag 
+			swac_alphaidx="color|color"
+			swac_text="color color" />
+	</file>
+	<file path="eng-0854e471.flac">
+		<tag 
+			swac_alphaidx="collect|call"
+			swac_text="collect call" />
+	</file>
+	<file path="eng-a40662f4.flac">
+		<tag 
+			swac_alphaidx="collect"
+			swac_text="collect" />
+	</file>
+	<file path="eng-bb67f671.flac">
+		<tag 
+			swac_alphaidx="coil"
+			swac_text="coil" />
+	</file>
+	<file path="eng-538529b3.flac">
+		<tag 
+			swac_alphaidx="coffee"
+			swac_text="coffee" />
+	</file>
+	<file path="eng-77153098.flac">
+		<tag 
+			swac_alphaidx="code"
+			swac_text="code" />
+	</file>
+	<file path="eng-5ef72c94.flac">
+		<tag 
+			swac_alphaidx="coat|hanger"
+			swac_text="coat hanger" />
+	</file>
+	<file path="eng-3f596dcc.flac">
+		<tag 
+			swac_alphaidx="coach"
+			swac_text="coach" />
+	</file>
+	<file path="eng-268aadd1.flac">
+		<tag 
+			swac_alphaidx="clue"
+			swac_text="clue" />
+	</file>
+	<file path="eng-19d80712.flac">
+		<tag 
+			swac_alphaidx="closing|time"
+			swac_text="closing time" />
+	</file>
+	<file path="eng-5542ebb4.flac">
+		<tag 
+			swac_alphaidx="closing"
+			swac_text="closing" />
+	</file>
+	<file path="eng-19705d80.flac">
+		<tag 
+			swac_alphaidx="closet"
+			swac_text="closet" />
+	</file>
+	<file path="eng-07cc3413.flac">
+		<tag 
+			swac_alphaidx="cloakroom"
+			swac_text="cloakroom" />
+	</file>
+	<file path="eng-1fede491.flac">
+		<tag 
+			swac_alphaidx="clique"
+			swac_text="clique" />
+	</file>
+	<file path="eng-c788ce3b.flac">
+		<tag 
+			swac_alphaidx="climbing"
+			swac_text="climbing" />
+	</file>
+	<file path="eng-e0351854.flac">
+		<tag 
+			swac_alphaidx="clerk"
+			swac_text="clerk" />
+	</file>
+	<file path="eng-497d309d.flac">
+		<tag 
+			swac_alphaidx="classroom"
+			swac_text="classroom" />
+	</file>
+	<file path="eng-2efb047f.flac">
+		<tag 
+			swac_alphaidx="classical"
+			swac_text="classical" />
+	</file>
+	<file path="eng-b3ef21ad.flac">
+		<tag 
+			swac_alphaidx="classic"
+			swac_text="classic" />
+	</file>
+	<file path="eng-ea881ea6.flac">
+		<tag 
+			swac_alphaidx="class|over"
+			swac_text="class is over" />
+	</file>
+	<file path="eng-f63d758e.flac">
+		<tag 
+			swac_alphaidx="city|wall"
+			swac_text="city walls" />
+	</file>
+	<file path="eng-8343e249.flac">
+		<tag 
+			swac_alphaidx="city|hall"
+			swac_text="city hall" />
+	</file>
+	<file path="eng-2d5b0234.flac">
+		<tag 
+			swac_alphaidx="city"
+			swac_text="city" />
+	</file>
+	<file path="eng-24a378bf.flac">
+		<tag 
+			swac_alphaidx="cigarette|paper"
+			swac_text="cigarette paper" />
+	</file>
+	<file path="eng-502681d8.flac">
+		<tag 
+			swac_alphaidx="chin"
+			swac_text="chin" />
+	</file>
+	<file path="eng-619e2c60.flac">
+		<tag 
+			swac_alphaidx="get|on"
+			swac_text="get on" />
+	</file>
+	<file path="eng-f3d95e9c.flac">
+		<tag 
+			swac_alphaidx="get|off"
+			swac_text="get off" />
+	</file>
+	<file path="eng-27308c22.flac">
+		<tag 
+			swac_alphaidx="genuinely"
+			swac_text="genuinely" />
+	</file>
+	<file path="eng-4f82759c.flac">
+		<tag 
+			swac_alphaidx="general|delivery"
+			swac_text="general delivery" />
+	</file>
+	<file path="eng-ce29364a.flac">
+		<tag 
+			swac_alphaidx="general"
+			swac_text="general" />
+	</file>
+	<file path="eng-ee57b626.flac">
+		<tag 
+			swac_alphaidx="gel"
+			swac_text="gel" />
+	</file>
+	<file path="eng-d4986236.flac">
+		<tag 
+			swac_alphaidx="gauze"
+			swac_text="gauze" />
+	</file>
+	<file path="eng-42a816da.flac">
+		<tag 
+			swac_alphaidx="gastric|flu"
+			swac_text="gastric flu" />
+	</file>
+	<file path="eng-1e40e790.flac">
+		<tag 
+			swac_alphaidx="gas|station"
+			swac_text="gas station" />
+	</file>
+	<file path="eng-d7ec32ab.flac">
+		<tag 
+			swac_alphaidx="gas|cylinder"
+			swac_text="gas cylinder" />
+	</file>
+	<file path="eng-07337ed7.flac">
+		<tag 
+			swac_alphaidx="gas"
+			swac_text="gas" />
+	</file>
+	<file path="eng-e01e7ae3.flac">
+		<tag 
+			swac_alphaidx="garlic"
+			swac_text="garlic" />
+	</file>
+	<file path="eng-a2e24204.flac">
+		<tag 
+			swac_alphaidx="garden|pea"
+			swac_text="garden pea" />
+	</file>
+	<file path="eng-3c0918ea.flac">
+		<tag 
+			swac_alphaidx="garden"
+			swac_text="garden" />
+	</file>
+	<file path="eng-357b5dfc.flac">
+		<tag 
+			swac_alphaidx="garbage|can"
+			swac_text="garbage can" />
+	</file>
+	<file path="eng-4d658f6f.flac">
+		<tag 
+			swac_alphaidx="garbage|bag"
+			swac_text="garbage bag" />
+	</file>
+	<file path="eng-472b783a.flac">
+		<tag 
+			swac_alphaidx="gallery"
+			swac_text="gallery" />
+	</file>
+	<file path="eng-54f9629a.flac">
+		<tag 
+			swac_alphaidx="fuse"
+			swac_text="fuse" />
+	</file>
+	<file path="eng-665ddab3.flac">
+		<tag 
+			swac_alphaidx="furniture"
+			swac_text="furniture" />
+	</file>
+	<file path="eng-558b3ac9.flac">
+		<tag 
+			swac_alphaidx="funfair"
+			swac_text="funfair" />
+	</file>
+	<file path="eng-7b1cc3fd.flac">
+		<tag 
+			swac_alphaidx="fundamental"
+			swac_text="fundamental" />
+	</file>
+	<file path="eng-4553d94c.flac">
+		<tag 
+			swac_alphaidx="full|price"
+			swac_text="full price" />
+	</file>
+	<file path="eng-7d2e1dc1.flac">
+		<tag 
+			swac_alphaidx="full"
+			swac_text="full of" />
+	</file>
+	<file path="eng-a8a832ab.flac">
+		<tag 
+			swac_alphaidx="full|fare"
+			swac_text="full fare" />
+	</file>
+	<file path="eng-d7cdd0d2.flac">
+		<tag 
+			swac_alphaidx="full|board"
+			swac_text="full board" />
+	</file>
+	<file path="eng-77d4603f.flac">
+		<tag 
+			swac_alphaidx="frying|pan"
+			swac_text="frying pan" />
+	</file>
+	<file path="eng-40ddaf98.flac">
+		<tag 
+			swac_alphaidx="frozen|food"
+			swac_text="frozen food" />
+	</file>
+	<file path="eng-df98eda9.flac">
+		<tag 
+			swac_alphaidx="front|wheel"
+			swac_text="front wheel" />
+	</file>
+	<file path="eng-72cdaf99.flac">
+		<tag 
+			swac_alphaidx="from|time"
+			swac_text="from time to time" />
+	</file>
+	<file path="eng-87e6522c.flac">
+		<tag 
+			swac_alphaidx="fries"
+			swac_text="fries" />
+	</file>
+	<file path="eng-37a41285.flac">
+		<tag 
+			swac_alphaidx="friendly|relation"
+			swac_text="friendly relations" />
+	</file>
+	<file path="eng-1ae49351.flac">
+		<tag 
+			swac_alphaidx="fried|egg"
+			swac_text="fried egg" />
+	</file>
+	<file path="eng-f2e94d89.flac">
+		<tag 
+			swac_alphaidx="fridge"
+			swac_text="fridge" />
+	</file>
+	<file path="eng-912d9713.flac">
+		<tag 
+			swac_alphaidx="freezer"
+			swac_text="freezer" />
+	</file>
+	<file path="eng-c4defaf9.flac">
+		<tag 
+			swac_alphaidx="fragrant"
+			swac_text="fragrant" />
+	</file>
+	<file path="eng-83dd75e6.flac">
+		<tag 
+			swac_alphaidx="fracture"
+			swac_text="fracture" />
+	</file>
+	<file path="eng-58f8399c.flac">
+		<tag 
+			swac_alphaidx="fowl"
+			swac_text="fowl" />
+	</file>
+	<file path="eng-1f2ce82d.flac">
+		<tag 
+			swac_alphaidx="star|petrol"
+			swac_text="four-star petrol" />
+	</file>
+	<file path="eng-b13622c5.flac">
+		<tag 
+			swac_alphaidx="fountain|pen"
+			swac_text="fountain pen" />
+	</file>
+	<file path="eng-06fa1928.flac">
+		<tag 
+			swac_alphaidx="forward|gear"
+			swac_text="forward gear" />
+	</file>
+	<file path="eng-feaab7ff.flac">
+		<tag 
+			swac_alphaidx="fortunate"
+			swac_text="fortunate" />
+	</file>
+	<file path="eng-a85d53b4.flac">
+		<tag 
+			swac_alphaidx="forest"
+			swac_text="forest" />
+	</file>
+	<file path="eng-b832fa73.flac">
+		<tag 
+			swac_alphaidx="foreign|language"
+			swac_text="foreign language" />
+	</file>
+	<file path="eng-bc6de232.flac">
+		<tag 
+			swac_alphaidx="foreign|country"
+			swac_text="foreign country" />
+	</file>
+	<file path="eng-2348f4ed.flac">
+		<tag 
+			swac_alphaidx="forbidden"
+			swac_text="forbidden" />
+	</file>
+	<file path="eng-092b9a93.flac">
+		<tag 
+			swac_alphaidx="for|moment"
+			swac_text="for the moment" />
+	</file>
+	<file path="eng-4d7cd68e.flac">
+		<tag 
+			swac_alphaidx="for|sale"
+			swac_text="for sale" />
+	</file>
+	<file path="eng-27a97f8e.flac">
+		<tag 
+			swac_alphaidx="for|example"
+			swac_text="for example" />
+	</file>
+	<file path="eng-5b8df342.flac">
+		<tag 
+			swac_alphaidx="for|hour"
+			swac_text="for an hour" />
+	</file>
+	<file path="eng-bc74826a.flac">
+		<tag 
+			swac_alphaidx="food|poisoning"
+			swac_text="food poisoning" />
+	</file>
+	<file path="eng-d43829f7.flac">
+		<tag 
+			swac_alphaidx="food"
+			swac_text="food" />
+	</file>
+	<file path="eng-08ef76b6.flac">
+		<tag 
+			swac_alphaidx="fondness"
+			swac_text="fondness" />
+	</file>
+	<file path="eng-eca209cd.flac">
+		<tag 
+			swac_alphaidx="folder"
+			swac_text="folder" />
+	</file>
+	<file path="eng-55475e04.flac">
+		<tag 
+			swac_alphaidx="fly|away"
+			swac_text="fly away" />
+	</file>
+	<file path="eng-b4e154af.flac">
+		<tag 
+			swac_alphaidx="flush"
+			swac_text="flush" />
+	</file>
+	<file path="eng-9afee455.flac">
+		<tag 
+			swac_alphaidx="flip"
+			swac_text="flip" />
+	</file>
+	<file path="eng-bc253454.flac">
+		<tag 
+			swac_alphaidx="flavor"
+			swac_text="flavor" />
+	</file>
+	<file path="eng-36c70eb9.flac">
+		<tag 
+			swac_alphaidx="flask"
+			swac_text="flask" />
+	</file>
+	<file path="eng-0d7a22bf.flac">
+		<tag 
+			swac_alphaidx="flashlight"
+			swac_text="flashlight" />
+	</file>
+	<file path="eng-37a12d65.flac">
+		<tag 
+			swac_alphaidx="flasher"
+			swac_text="flasher" />
+	</file>
+	<file path="eng-3311781b.flac">
+		<tag 
+			swac_alphaidx="fizzy"
+			swac_text="fizzy" />
+	</file>
+	<file path="eng-56080248.flac">
+		<tag 
+			swac_alphaidx="fitting|room"
+			swac_text="fitting room" />
+	</file>
+	<file path="eng-0a5edfe0.flac">
+		<tag 
+			swac_alphaidx="fishmonger"
+			swac_text="fishmonger's" />
+	</file>
+	<file path="eng-731cac2b.flac">
+		<tag 
+			swac_alphaidx="fish|shop"
+			swac_text="fish shop" />
+	</file>
+	<file path="eng-c0ad93ea.flac">
+		<tag 
+			swac_alphaidx="first|all"
+			swac_text="first of all" />
+	</file>
+	<file path="eng-d253b62c.flac">
+		<tag 
+			swac_alphaidx="first|name"
+			swac_text="first name" />
+	</file>
+	<file path="eng-65726f30.flac">
+		<tag 
+			swac_alphaidx="first|floor"
+			swac_text="first floor" />
+	</file>
+	<file path="eng-367ca081.flac">
+		<tag 
+			swac_alphaidx="first|class"
+			swac_text="first class" />
+	</file>
+	<file path="eng-15ddfda5.flac">
+		<tag 
+			swac_alphaidx="fireworks"
+			swac_text="fireworks" />
+	</file>
+	<file path="eng-95e8fefb.flac">
+		<tag 
+			swac_alphaidx="fire"
+			swac_text="fire!" />
+	</file>
+	<file path="eng-57ce3663.flac">
+		<tag 
+			swac_alphaidx="fire|department"
+			swac_text="fire department" />
+	</file>
+	<file path="eng-9751e5c1.flac">
+		<tag 
+			swac_alphaidx="fire|brigade"
+			swac_text="fire brigade" />
+	</file>
+	<file path="eng-d55ddb71.flac">
+		<tag 
+			swac_alphaidx="find|out"
+			swac_text="find out" />
+	</file>
+	<file path="eng-f1af9199.flac">
+		<tag 
+			swac_alphaidx="final|part"
+			swac_text="final part" />
+	</file>
+	<file path="eng-186d68b9.flac">
+		<tag 
+			swac_alphaidx="filling"
+			swac_text="filling" />
+	</file>
+	<file path="eng-4dc390ab.flac">
+		<tag 
+			swac_alphaidx="fill|up"
+			swac_text="fill up" />
+	</file>
+	<file path="eng-a8e531bb.flac">
+		<tag 
+			swac_alphaidx="fill|out"
+			swac_text="fill out" />
+	</file>
+	<file path="eng-51bbf095.flac">
+		<tag 
+			swac_alphaidx="fill|in"
+			swac_text="fill in" />
+	</file>
+	<file path="eng-e7ca5811.flac">
+		<tag 
+			swac_alphaidx="feverish"
+			swac_text="feverish" />
+	</file>
+	<file path="eng-82e96343.flac">
+		<tag 
+			swac_alphaidx="fetch"
+			swac_text="fetch" />
+	</file>
+	<file path="eng-9cbaa49a.flac">
+		<tag 
+			swac_alphaidx="feel|anxiously"
+			swac_text="feel anxiously" />
+	</file>
+	<file path="eng-b0f96fe2.flac">
+		<tag 
+			swac_alphaidx="fed|up"
+			swac_text="fed up" />
+	</file>
+	<file path="eng-68c58ed9.flac">
+		<tag 
+			swac_alphaidx="favorite"
+			swac_text="favorite" />
+	</file>
+	<file path="eng-92af1c09.flac">
+		<tag 
+			swac_alphaidx="faucet"
+			swac_text="faucet" />
+	</file>
+	<file path="eng-046272df.flac">
+		<tag 
+			swac_alphaidx="fast-food|restaurant"
+			swac_text="fast-food restaurant" />
+	</file>
+	<file path="eng-256649c4.flac">
+		<tag 
+			swac_alphaidx="fast"
+			swac_text="fast" />
+	</file>
+	<file path="eng-4112cca6.flac">
+		<tag 
+			swac_alphaidx="far|from"
+			swac_text="far from" />
+	</file>
+	<file path="eng-65f77839.flac">
+		<tag 
+			swac_alphaidx="fan"
+			swac_text="fan" />
+	</file>
+	<file path="eng-3dcb4090.flac">
+		<tag 
+			swac_alphaidx="family|practitioner"
+			swac_text="family practitioner" />
+	</file>
+	<file path="eng-51d6ab3c.flac">
+		<tag 
+			swac_alphaidx="family|name"
+			swac_text="family name" />
+	</file>
+	<file path="eng-6c4911ad.flac">
+		<tag 
+			swac_alphaidx="falsification"
+			swac_text="falsification" />
+	</file>
+	<file path="eng-fb361ef9.flac">
+		<tag 
+			swac_alphaidx="factory"
+			swac_text="factory" />
+	</file>
+	<file path="eng-6fa45b95.flac">
+		<tag 
+			swac_alphaidx="fact"
+			swac_text="fact" />
+	</file>
+	<file path="eng-d3851897.flac">
+		<tag 
+			swac_alphaidx="facecloth"
+			swac_text="facecloth" />
+	</file>
+	<file path="eng-727887b1.flac">
+		<tag 
+			swac_alphaidx="eye"
+			swac_text="eye" />
+	</file>
+	<file path="eng-4d3f0d65.flac">
+		<tag 
+			swac_alphaidx="extra"
+			swac_text="extra" />
+	</file>
+	<file path="eng-8d5c6cd6.flac">
+		<tag 
+			swac_alphaidx="expiry|date"
+			swac_text="expiry date" />
+	</file>
+	<file path="eng-b8353389.flac">
+		<tag 
+			swac_alphaidx="exhibition"
+			swac_text="exhibition" />
+	</file>
+	<file path="eng-bdac1eff.flac">
+		<tag 
+			swac_alphaidx="exhausted"
+			swac_text="exhausted" />
+	</file>
+	<file path="eng-edbe5c9b.flac">
+		<tag 
+			swac_alphaidx="excuse|(conversation)"
+			swac_text="excuse me?" />
+	</file>
+	<file path="eng-09b5cb99.flac">
+		<tag 
+			swac_alphaidx="excuse|(conversation)"
+			swac_text="excuse me" />
+	</file>
+	<file path="eng-8599fa8e.flac">
+		<tag 
+			swac_alphaidx="exchange|student"
+			swac_text="exchange student" />
+	</file>
+	<file path="eng-92d068b5.flac">
+		<tag 
+			swac_alphaidx="exchange|rate"
+			swac_text="exchange rate" />
+	</file>
+	<file path="eng-8ac8cfd1.flac">
+		<tag 
+			swac_alphaidx="excess"
+			swac_text="excess" />
+	</file>
+	<file path="eng-a368a16e.flac">
+		<tag 
+			swac_alphaidx="exceptional"
+			swac_text="exceptional" />
+	</file>
+	<file path="eng-38bba6c6.flac">
+		<tag 
+			swac_alphaidx="exam"
+			swac_text="exam" />
+	</file>
+	<file path="eng-0c615710.flac">
+		<tag 
+			swac_alphaidx="evidence"
+			swac_text="evidence" />
+	</file>
+	<file path="eng-a56ca675.flac">
+		<tag 
+			swac_alphaidx="everyday"
+			swac_text="everyday" />
+	</file>
+	<file path="eng-eb6369cc.flac">
+		<tag 
+			swac_alphaidx="every|kind"
+			swac_text="every kind of" />
+	</file>
+	<file path="eng-4bb75ad8.flac">
+		<tag 
+			swac_alphaidx="every|day"
+			swac_text="every day" />
+	</file>
+	<file path="eng-7c1c6890.flac">
+		<tag 
+			swac_alphaidx="evening"
+			swac_text="evening" />
+	</file>
+	<file path="eng-bf82152b.flac">
+		<tag 
+			swac_alphaidx="euro"
+			swac_text="euro" />
+	</file>
+	<file path="eng-2bc982aa.flac">
+		<tag 
+			swac_alphaidx="espresso"
+			swac_text="espresso" />
+	</file>
+	<file path="eng-0162e3bd.flac">
+		<tag 
+			swac_alphaidx="erect"
+			swac_text="erect" />
+	</file>
+	<file path="eng-3424ffe3.flac">
+		<tag 
+			swac_alphaidx="epileptic"
+			swac_text="epileptic" />
+	</file>
+	<file path="eng-29f01cc8.flac">
+		<tag 
+			swac_alphaidx="enthusiastic"
+			swac_text="enthusiastic" />
+	</file>
+	<file path="eng-f8fbb2f1.flac">
+		<tag 
+			swac_alphaidx="enjoy|meal|(conversation)"
+			swac_text="enjoy your meal!" />
+	</file>
+	<file path="eng-aef75a24.flac">
+		<tag 
+			swac_alphaidx="enjoy|oneself"
+			swac_text="enjoy oneself" />
+	</file>
+	<file path="eng-84f4c585.flac">
+		<tag 
+			swac_alphaidx="emergency|exit"
+			swac_text="emergency exit" />
+	</file>
+	<file path="eng-26dd111d.flac">
+		<tag 
+			swac_alphaidx="emergency"
+			swac_text="emergency" />
+	</file>
+	<file path="eng-1398eb33.flac">
+		<tag 
+			swac_alphaidx="elevator"
+			swac_text="elevator" />
+	</file>
+	<file path="eng-c09fa444.flac">
+		<tag 
+			swac_alphaidx="electric|shaver"
+			swac_text="electric shaver" />
+	</file>
+	<file path="eng-cad29d82.flac">
+		<tag 
+			swac_alphaidx="electric|light"
+			swac_text="electric light" />
+	</file>
+	<file path="eng-660a3e86.flac">
+		<tag 
+			swac_alphaidx="eight"
+			swac_text="eight" />
+	</file>
+	<file path="eng-219cec4b.flac">
+		<tag 
+			swac_alphaidx="egg|yolk"
+			swac_text="egg yolk" />
+	</file>
+	<file path="eng-d2674259.flac">
+		<tag 
+			swac_alphaidx="economy|class"
+			swac_text="economy class" />
+	</file>
+	<file path="eng-db190c47.flac">
+		<tag 
+			swac_alphaidx="economic"
+			swac_text="economic" />
+	</file>
+	<file path="eng-811c9311.flac">
+		<tag 
+			swac_alphaidx="easy|to"
+			swac_text="easy to" />
+	</file>
+	<file path="eng-f0b2484d.flac">
+		<tag 
+			swac_alphaidx="in|middle"
+			swac_text="in the middle of" />
+	</file>
+	<file path="eng-e19cdf18.flac">
+		<tag 
+			swac_alphaidx="in|evening"
+			swac_text="in the evenings" />
+	</file>
+	<file path="eng-9d2d701e.flac">
+		<tag 
+			swac_alphaidx="in|evening"
+			swac_text="in the evening" />
+	</file>
+	<file path="eng-12edba02.flac">
+		<tag 
+			swac_alphaidx="in|east"
+			swac_text="in the east" />
+	</file>
+	<file path="eng-f2aa6140.flac">
+		<tag 
+			swac_alphaidx="in|area"
+			swac_text="in the area" />
+	</file>
+	<file path="eng-f5a73348.flac">
+		<tag 
+			swac_alphaidx="in|century"
+			swac_text="in the 20th century" />
+	</file>
+	<file path="eng-f974df3d.flac">
+		<tag 
+			swac_alphaidx="in|century"
+			swac_text="in the 19th century" />
+	</file>
+	<file path="eng-dc242376.flac">
+		<tag 
+			swac_alphaidx="in|ruins"
+			swac_text="in ruins" />
+	</file>
+	<file path="eng-76ec51b4.flac">
+		<tag 
+			swac_alphaidx="in|opinion"
+			swac_text="in my opinion" />
+	</file>
+	<file path="eng-4ee9dfc2.flac">
+		<tag 
+			swac_alphaidx="in|memory"
+			swac_text="in memory of" />
+	</file>
+	<file path="eng-25b67182.flac">
+		<tag 
+			swac_alphaidx="in|front"
+			swac_text="in front of" />
+	</file>
+	<file path="eng-3e9d13ef.flac">
+		<tag 
+			swac_alphaidx="in|fact"
+			swac_text="in fact" />
+	</file>
+	<file path="eng-162a9de0.flac">
+		<tag 
+			swac_alphaidx="in|case"
+			swac_text="in case of" />
+	</file>
+	<file path="eng-2c0bb781.flac">
+		<tag 
+			swac_alphaidx="in|hour"
+			swac_text="in an hour" />
+	</file>
+	<file path="eng-297b5b0d.flac">
+		<tag 
+			swac_alphaidx="in|emergency"
+			swac_text="in an emergency" />
+	</file>
+	<file path="eng-d942bb21.flac">
+		<tag 
+			swac_alphaidx="in|advance"
+			swac_text="in advance" />
+	</file>
+	<file path="eng-050ec28f.flac">
+		<tag 
+			swac_alphaidx="in|French"
+			swac_text="in French" />
+	</file>
+	<file path="eng-f4dd2965.flac">
+		<tag 
+			swac_alphaidx="in|France"
+			swac_text="in France" />
+	</file>
+	<file path="eng-ddfd9b4e.flac">
+		<tag 
+			swac_alphaidx="in|English"
+			swac_text="in English" />
+	</file>
+	<file path="eng-42d1d30f.flac">
+		<tag 
+			swac_alphaidx="in"
+			swac_text="in 1999" />
+	</file>
+	<file path="eng-f84d006d.flac">
+		<tag 
+			swac_alphaidx="illness"
+			swac_text="illness" />
+	</file>
+	<file path="eng-b97c2376.flac">
+		<tag 
+			swac_alphaidx="if|case"
+			swac_text="if that is the case" />
+	</file>
+	<file path="eng-662b892a.flac">
+		<tag 
+			swac_alphaidx="if|ever"
+			swac_text="if ever" />
+	</file>
+	<file path="eng-48e369ae.flac">
+		<tag 
+			swac_alphaidx="identity|papers"
+			swac_text="identity papers" />
+	</file>
+	<file path="eng-e39b2649.flac">
+		<tag 
+			swac_alphaidx="identity|card"
+			swac_text="identity card" />
+	</file>
+	<file path="eng-800f231f.flac">
+		<tag 
+			swac_alphaidx="identically"
+			swac_text="identically" />
+	</file>
+	<file path="eng-989aedc8.flac">
+		<tag 
+			swac_alphaidx="ice|cube"
+			swac_text="ice cube" />
+	</file>
+	<file path="eng-cb4f840e.flac">
+		<tag 
+			swac_alphaidx="ice"
+			swac_text="ice" />
+	</file>
+	<file path="eng-31b3d1f7.flac">
+		<tag 
+			swac_alphaidx="hurry|up"
+			swac_text="hurry up" />
+	</file>
+	<file path="eng-65512a12.flac">
+		<tag 
+			swac_alphaidx="hundred|million"
+			swac_text="hundred million" />
+	</file>
+	<file path="eng-e9bc6e6b.flac">
+		<tag 
+			swac_alphaidx="hundred"
+			swac_text="hundred" />
+	</file>
+	<file path="eng-5afb1e7d.flac">
+		<tag 
+			swac_alphaidx="how|much|(conversation)"
+			swac_text="how much" />
+	</file>
+	<file path="eng-9eca4b6e.flac">
+		<tag 
+			swac_alphaidx="how|many|(conversation)"
+			swac_text="how many" />
+	</file>
+	<file path="eng-c70e25f8.flac">
+		<tag 
+			swac_alphaidx="how|long|(conversation)"
+			swac_text="how long?" />
+	</file>
+	<file path="eng-3400d938.flac">
+		<tag 
+			swac_alphaidx="how|long|here|(conversation)"
+			swac_text="how long have you been here?" />
+	</file>
+	<file path="eng-9e0e9b3c.flac">
+		<tag 
+			swac_alphaidx="how|do|say|(conversation)"
+			swac_text="how do you say ...?" />
+	</file>
+	<file path="eng-4f1fb16a.flac">
+		<tag 
+			swac_alphaidx="how|be|(conversation)"
+			swac_text="how are you?" />
+	</file>
+	<file path="eng-55ccbb68.flac">
+		<tag 
+			swac_alphaidx="how|about"
+			swac_text="how about" />
+	</file>
+	<file path="eng-18474a47.flac">
+		<tag 
+			swac_alphaidx="housework"
+			swac_text="housework" />
+	</file>
+	<file path="eng-701e114e.flac">
+		<tag 
+			swac_alphaidx="hour"
+			swac_text="hour" />
+	</file>
+	<file path="eng-3cdd37fa.flac">
+		<tag 
+			swac_alphaidx="hotplate"
+			swac_text="hotplate" />
+	</file>
+	<file path="eng-1ed2f6db.flac">
+		<tag 
+			swac_alphaidx="hot|drink"
+			swac_text="hot drinks" />
+	</file>
+	<file path="eng-c096f9eb.flac">
+		<tag 
+			swac_alphaidx="hot|chocolate"
+			swac_text="hot chocolate" />
+	</file>
+	<file path="eng-4282c85b.flac">
+		<tag 
+			swac_alphaidx="hospital"
+			swac_text="hospital" />
+	</file>
+	<file path="eng-8c4739ee.flac">
+		<tag 
+			swac_alphaidx="homosexual"
+			swac_text="homosexual" />
+	</file>
+	<file path="eng-772eb616.flac">
+		<tag 
+			swac_alphaidx="homeland"
+			swac_text="homeland" />
+	</file>
+	<file path="eng-3a66a10c.flac">
+		<tag 
+			swac_alphaidx="holidays"
+			swac_text="holidays" />
+	</file>
+	<file path="eng-d9e06a57.flac">
+		<tag 
+			swac_alphaidx="holiday|camp"
+			swac_text="holiday camp" />
+	</file>
+	<file path="eng-dc9ab234.flac">
+		<tag 
+			swac_alphaidx="holiday"
+			swac_text="holiday" />
+	</file>
+	<file path="eng-4433e7bc.flac">
+		<tag 
+			swac_alphaidx="hold|on"
+			swac_text="hold on" />
+	</file>
+	<file path="eng-141c745c.flac">
+		<tag 
+			swac_alphaidx="hitchhiking"
+			swac_text="hitchhiking" />
+	</file>
+	<file path="eng-553873b4.flac">
+		<tag 
+			swac_alphaidx="hit|on"
+			swac_text="hit on" />
+	</file>
+	<file path="eng-a56fcd03.flac">
+		<tag 
+			swac_alphaidx="historical"
+			swac_text="historical" />
+	</file>
+	<file path="eng-307acef5.flac">
+		<tag 
+			swac_alphaidx="hippopotamus"
+			swac_text="hippopotamus" />
+	</file>
+	<file path="eng-58c10f84.flac">
+		<tag 
+			swac_alphaidx="hill-walking"
+			swac_text="hill-walking" />
+	</file>
+	<file path="eng-42ce0bd7.flac">
+		<tag 
+			swac_alphaidx="hiking"
+			swac_text="hiking" />
+	</file>
+	<file path="eng-e20bbf31.flac">
+		<tag 
+			swac_alphaidx="high-rise"
+			swac_text="high-rise" />
+	</file>
+	<file path="eng-9a3eb284.flac">
+		<tag 
+			swac_alphaidx="high-heeled|shoes"
+			swac_text="high-heeled shoes" />
+	</file>
+	<file path="eng-3a73a0ca.flac">
+		<tag 
+			swac_alphaidx="high|tide"
+			swac_text="high tide" />
+	</file>
+	<file path="eng-108ffccc.flac">
+		<tag 
+			swac_alphaidx="high|school"
+			swac_text="high school" />
+	</file>
+	<file path="eng-5f438340.flac">
+		<tag 
+			swac_alphaidx="high|heels"
+			swac_text="high heels" />
+	</file>
+	<file path="eng-366d7979.flac">
+		<tag 
+			swac_alphaidx="high|blood|pressure"
+			swac_text="high blood pressure" />
+	</file>
+	<file path="eng-1e12b376.flac">
+		<tag 
+			swac_alphaidx="hi-fi"
+			swac_text="hi-fi" />
+	</file>
+	<file path="eng-41d3833a.flac">
+		<tag 
+			swac_alphaidx="hi|(conversation)"
+			swac_text="hi!" />
+	</file>
+	<file path="eng-b7984103.flac">
+		<tag 
+			swac_alphaidx="here|is"
+			swac_text="here is" />
+	</file>
+	<file path="eng-616cd358.flac">
+		<tag 
+			swac_alphaidx="here|are"
+			swac_text="here are" />
+	</file>
+	<file path="eng-8b8dc415.flac">
+		<tag 
+			swac_alphaidx="herbal|tea"
+			swac_text="herbal tea" />
+	</file>
+	<file path="eng-4103974c.flac">
+		<tag 
+			swac_alphaidx="help"
+			swac_text="help!" />
+	</file>
+	<file path="eng-7aaaeea6.flac">
+		<tag 
+			swac_alphaidx="helmet"
+			swac_text="helmet" />
+	</file>
+	<file path="eng-3b22c7eb.flac">
+		<tag 
+			swac_alphaidx="hedge"
+			swac_text="hedge" />
+	</file>
+	<file path="eng-60ecc3e6.flac">
+		<tag 
+			swac_alphaidx="heart"
+			swac_text="heart" />
+	</file>
+	<file path="eng-8a25383a.flac">
+		<tag 
+			swac_alphaidx="headlight"
+			swac_text="headlight" />
+	</file>
+	<file path="eng-8fd81935.flac">
+		<tag 
+			swac_alphaidx="hay|fever"
+			swac_text="hay fever" />
+	</file>
+	<file path="eng-0b746ede.flac">
+		<tag 
+			swac_alphaidx="haw-haw"
+			swac_text="haw-haw" />
+	</file>
+	<file path="eng-32e49586.flac">
+		<tag 
+			swac_alphaidx="have|to"
+			swac_text="have to" />
+	</file>
+	<file path="eng-06ec8bc5.flac">
+		<tag 
+			swac_alphaidx="have|as|remainder"
+			swac_text="have as remainder" />
+	</file>
+	<file path="eng-d3eaede1.flac">
+		<tag 
+			swac_alphaidx="have|good|trip"
+			swac_text="have a good trip" />
+	</file>
+	<file path="eng-d27eea40.flac">
+		<tag 
+			swac_alphaidx="have"
+			swac_text="have" />
+	</file>
+	<file path="eng-a6007700.flac">
+		<tag 
+			swac_alphaidx="hashish"
+			swac_text="hashish" />
+	</file>
+	<file path="eng-58545a28.flac">
+		<tag 
+			swac_alphaidx="happy|name|day|(conversation)"
+			swac_text="happy name day" />
+	</file>
+	<file path="eng-afc8c543.flac">
+		<tag 
+			swac_alphaidx="happy|birthday|(conversation)"
+			swac_text="happy birthday!" />
+	</file>
+	<file path="eng-164c7a42.flac">
+		<tag 
+			swac_alphaidx="hang|on"
+			swac_text="hang on" />
+	</file>
+	<file path="eng-cdbf8061.flac">
+		<tag 
+			swac_alphaidx="handicraft"
+			swac_text="handicraft" />
+	</file>
+	<file path="eng-263285f8.flac">
+		<tag 
+			swac_alphaidx="handicapped"
+			swac_text="handicapped" />
+	</file>
+	<file path="eng-851f2755.flac">
+		<tag 
+			swac_alphaidx="handbrake"
+			swac_text="handbrake" />
+	</file>
+	<file path="eng-d05eb3cb.flac">
+		<tag 
+			swac_alphaidx="hand-made"
+			swac_text="hand-made" />
+	</file>
+	<file path="eng-376d04f8.flac">
+		<tag 
+			swac_alphaidx="hand|luggage"
+			swac_text="hand luggage" />
+	</file>
+	<file path="eng-20c6bf8c.flac">
+		<tag 
+			swac_alphaidx="half-board"
+			swac_text="half-board" />
+	</file>
+	<file path="eng-56a123ca.flac">
+		<tag 
+			swac_alphaidx="half|hour"
+			swac_text="half an hour" />
+	</file>
+	<file path="eng-1cfdc43b.flac">
+		<tag 
+			swac_alphaidx="half|liter"
+			swac_text="half a liter" />
+	</file>
+	<file path="eng-61d660fb.flac">
+		<tag 
+			swac_alphaidx="half|kilo"
+			swac_text="half a kilo" />
+	</file>
+	<file path="eng-fb5a4121.flac">
+		<tag 
+			swac_alphaidx="half"
+			swac_text="half" />
+	</file>
+	<file path="eng-1512577c.flac">
+		<tag 
+			swac_alphaidx="hairdryer"
+			swac_text="hairdryer" />
+	</file>
+	<file path="eng-407d6245.flac">
+		<tag 
+			swac_alphaidx="hairdresser"
+			swac_text="hairdresser" />
+	</file>
+	<file path="eng-8ee9cb5a.flac">
+		<tag 
+			swac_alphaidx="gynecologist"
+			swac_text="gynecologist" />
+	</file>
+	<file path="eng-11e95ea2.flac">
+		<tag 
+			swac_alphaidx="guinea|pig"
+			swac_text="guinea pig" />
+	</file>
+	<file path="eng-66d6c24a.flac">
+		<tag 
+			swac_alphaidx="guided|tour"
+			swac_text="guided tour" />
+	</file>
+	<file path="eng-0c83a75d.flac">
+		<tag 
+			swac_alphaidx="guidebook"
+			swac_text="guidebook" />
+	</file>
+	<file path="eng-ca9ec735.flac">
+		<tag 
+			swac_alphaidx="guide"
+			swac_text="guide" />
+	</file>
+	<file path="eng-885f119d.flac">
+		<tag 
+			swac_alphaidx="guest|house"
+			swac_text="guest house" />
+	</file>
+	<file path="eng-e7a3c80b.flac">
+		<tag 
+			swac_alphaidx="ground|sheet"
+			swac_text="ground sheet" />
+	</file>
+	<file path="eng-a24d2a55.flac">
+		<tag 
+			swac_alphaidx="ground|meat"
+			swac_text="ground meat" />
+	</file>
+	<file path="eng-deda8fc7.flac">
+		<tag 
+			swac_alphaidx="ground|floor"
+			swac_text="ground floor" />
+	</file>
+	<file path="eng-ab8f2e37.flac">
+		<tag 
+			swac_alphaidx="grocer"
+			swac_text="grocer's" />
+	</file>
+	<file path="eng-7ef114d4.flac">
+		<tag 
+			swac_alphaidx="greatness"
+			swac_text="greatness" />
+	</file>
+	<file path="eng-43ccc268.flac">
+		<tag 
+			swac_alphaidx="great|effort"
+			swac_text="great effort" />
+	</file>
+	<file path="eng-3104ce49.flac">
+		<tag 
+			swac_alphaidx="grasp"
+			swac_text="grasp" />
+	</file>
+	<file path="eng-7c4ca02c.flac">
+		<tag 
+			swac_alphaidx="grams"
+			swac_text="grams" />
+	</file>
+	<file path="eng-eea3c31e.flac">
+		<tag 
+			swac_alphaidx="goodnight"
+			swac_text="goodnight" />
+	</file>
+	<file path="eng-8a7c9039.flac">
+		<tag 
+			swac_alphaidx="good-looking"
+			swac_text="good-looking" />
+	</file>
+	<file path="eng-a227fb74.flac">
+		<tag 
+			swac_alphaidx="good|luck|(conversation)"
+			swac_text="good luck!" />
+	</file>
+	<file path="eng-7fa6c1dd.flac">
+		<tag 
+			swac_alphaidx="good|bye"
+			swac_text="good bye" />
+	</file>
+	<file path="eng-6c844e92.flac">
+		<tag 
+			swac_alphaidx="good"
+			swac_text="good" />
+	</file>
+	<file path="eng-f6b641a0.flac">
+		<tag 
+			swac_alphaidx="golf|course"
+			swac_text="golf course" />
+	</file>
+	<file path="eng-a9a77c7d.flac">
+		<tag 
+			swac_alphaidx="golf"
+			swac_text="golf" />
+	</file>
+	<file path="eng-1842c603.flac">
+		<tag 
+			swac_alphaidx="go|without"
+			swac_text="go without" />
+	</file>
+	<file path="eng-52ca028c.flac">
+		<tag 
+			swac_alphaidx="go|with"
+			swac_text="go with" />
+	</file>
+	<file path="eng-b475017a.flac">
+		<tag 
+			swac_alphaidx="go|up"
+			swac_text="go up" />
+	</file>
+	<file path="eng-8d25c818.flac">
+		<tag 
+			swac_alphaidx="go|through"
+			swac_text="go through" />
+	</file>
+	<file path="eng-59c86568.flac">
+		<tag 
+			swac_alphaidx="go|out"
+			swac_text="go out" />
+	</file>
+	<file path="eng-a80d6144.flac">
+		<tag 
+			swac_alphaidx="go|in"
+			swac_text="go in" />
+	</file>
+	<file path="eng-8e7886d5.flac">
+		<tag 
+			swac_alphaidx="go|horse-riding"
+			swac_text="go horse-riding" />
+	</file>
+	<file path="eng-6c054253.flac">
+		<tag 
+			swac_alphaidx="go|away"
+			swac_text="go away" />
+	</file>
+	<file path="eng-f6a25ad6.flac">
+		<tag 
+			swac_alphaidx="glasses"
+			swac_text="glasses" />
+	</file>
+	<file path="eng-4b650984.flac">
+		<tag 
+			swac_alphaidx="give|back"
+			swac_text="give back" />
+	</file>
+	<file path="eng-840eabae.flac">
+		<tag 
+			swac_alphaidx="give"
+			swac_text="give" />
+	</file>
+	<file path="eng-25c5559e.flac">
+		<tag 
+			swac_alphaidx="gift|wrap"
+			swac_text="gift wrap" />
+	</file>
+	<file path="eng-2bbcebd8.flac">
+		<tag 
+			swac_alphaidx="get|up"
+			swac_text="get up" />
+	</file>
+	<file path="eng-7ed6b9b7.flac">
+		<tag 
+			swac_alphaidx="march"
+			swac_text="march" />
+	</file>
+	<file path="eng-dd197b31.flac">
+		<tag 
+			swac_alphaidx="manufacture"
+			swac_text="manufacture" />
+	</file>
+	<file path="eng-0b4e954f.flac">
+		<tag 
+			swac_alphaidx="management"
+			swac_text="management" />
+	</file>
+	<file path="eng-4bfb15f1.flac">
+		<tag 
+			swac_alphaidx="mama"
+			swac_text="mama" />
+	</file>
+	<file path="eng-d1f8dbbc.flac">
+		<tag 
+			swac_alphaidx="make|mistake"
+			swac_text="make a mistake" />
+	</file>
+	<file path="eng-93a2776d.flac">
+		<tag 
+			swac_alphaidx="main|course"
+			swac_text="main course" />
+	</file>
+	<file path="eng-c7943de9.flac">
+		<tag 
+			swac_alphaidx="mailman"
+			swac_text="mailman" />
+	</file>
+	<file path="eng-a69fe20b.flac">
+		<tag 
+			swac_alphaidx="mailbox"
+			swac_text="mailbox" />
+	</file>
+	<file path="eng-3f551f55.flac">
+		<tag 
+			swac_alphaidx="maiden|name"
+			swac_text="maiden name" />
+	</file>
+	<file path="eng-93531107.flac">
+		<tag 
+			swac_alphaidx="magnetic|tape"
+			swac_text="magnetic tape" />
+	</file>
+	<file path="eng-378c2fe4.flac">
+		<tag 
+			swac_alphaidx="magazine"
+			swac_text="magazine" />
+	</file>
+	<file path="eng-5907c8da.flac">
+		<tag 
+			swac_alphaidx="luggage"
+			swac_text="luggage" />
+	</file>
+	<file path="eng-d76cb8fc.flac">
+		<tag 
+			swac_alphaidx="low|tide"
+			swac_text="low tide" />
+	</file>
+	<file path="eng-83748f3f.flac">
+		<tag 
+			swac_alphaidx="low|blood|pressure"
+			swac_text="low blood pressure" />
+	</file>
+	<file path="eng-0ba83348.flac">
+		<tag 
+			swac_alphaidx="loud"
+			swac_text="loud" />
+	</file>
+	<file path="eng-9a00e4d6.flac">
+		<tag 
+			swac_alphaidx="lorry"
+			swac_text="lorry" />
+	</file>
+	<file path="eng-06bea737.flac">
+		<tag 
+			swac_alphaidx="look|like"
+			swac_text="look like" />
+	</file>
+	<file path="eng-38ded296.flac">
+		<tag 
+			swac_alphaidx="look|for"
+			swac_text="look for" />
+	</file>
+	<file path="eng-cc5e7ddd.flac">
+		<tag 
+			swac_alphaidx="look|at"
+			swac_text="look at" />
+	</file>
+	<file path="eng-633bd49f.flac">
+		<tag 
+			swac_alphaidx="look|after"
+			swac_text="look after" />
+	</file>
+	<file path="eng-2b3ad402.flac">
+		<tag 
+			swac_alphaidx="look"
+			swac_text="look" />
+	</file>
+	<file path="eng-14fcb40e.flac">
+		<tag 
+			swac_alphaidx="long|time"
+			swac_text="long time" />
+	</file>
+	<file path="eng-3b97a968.flac">
+		<tag 
+			swac_alphaidx="long"
+			swac_text="long" />
+	</file>
+	<file path="eng-38d41e92.flac">
+		<tag 
+			swac_alphaidx="lodge|at"
+			swac_text="lodge at" />
+	</file>
+	<file path="eng-f4b48569.flac">
+		<tag 
+			swac_alphaidx="locker|room"
+			swac_text="locker room" />
+	</file>
+	<file path="eng-1e067dc0.flac">
+		<tag 
+			swac_alphaidx="locker"
+			swac_text="locker" />
+	</file>
+	<file path="eng-28098588.flac">
+		<tag 
+			swac_alphaidx="local|time"
+			swac_text="local time" />
+	</file>
+	<file path="eng-0cc432bf.flac">
+		<tag 
+			swac_alphaidx="living|room"
+			swac_text="living room" />
+	</file>
+	<file path="eng-ba0f6006.flac">
+		<tag 
+			swac_alphaidx="lively"
+			swac_text="lively" />
+	</file>
+	<file path="eng-29b79aa6.flac">
+		<tag 
+			swac_alphaidx="liter"
+			swac_text="liter" />
+	</file>
+	<file path="eng-d301619e.flac">
+		<tag 
+			swac_alphaidx="listings|magazine"
+			swac_text="listings magazine" />
+	</file>
+	<file path="eng-de789cb2.flac">
+		<tag 
+			swac_alphaidx="lighter"
+			swac_text="lighter" />
+	</file>
+	<file path="eng-4275c168.flac">
+		<tag 
+			swac_alphaidx="light|bulb"
+			swac_text="light bulb" />
+	</file>
+	<file path="eng-6b1a5cf7.flac">
+		<tag 
+			swac_alphaidx="light"
+			swac_text="light" />
+	</file>
+	<file path="eng-2f2a8329.flac">
+		<tag 
+			swac_alphaidx="lifeguards"
+			swac_text="lifeguards" />
+	</file>
+	<file path="eng-19cd3efe.flac">
+		<tag 
+			swac_alphaidx="life"
+			swac_text="life" />
+	</file>
+	<file path="eng-580b9d61.flac">
+		<tag 
+			swac_alphaidx="lie|down"
+			swac_text="lie down" />
+	</file>
+	<file path="eng-f65ed190.flac">
+		<tag 
+			swac_alphaidx="license|number"
+			swac_text="license number" />
+	</file>
+	<file path="eng-2bcd722c.flac">
+		<tag 
+			swac_alphaidx="letterbox"
+			swac_text="letterbox" />
+	</file>
+	<file path="eng-21d7e9f6.flac">
+		<tag 
+			swac_alphaidx="less|than"
+			swac_text="less than" />
+	</file>
+	<file path="eng-c3ee7fe2.flac">
+		<tag 
+			swac_alphaidx="lenses"
+			swac_text="lenses" />
+	</file>
+	<file path="eng-49e5b0e7.flac">
+		<tag 
+			swac_alphaidx="left-luggage|office"
+			swac_text="left-luggage office" />
+	</file>
+	<file path="eng-dfbcd429.flac">
+		<tag 
+			swac_alphaidx="left|luggage|locker"
+			swac_text="left luggage locker" />
+	</file>
+	<file path="eng-8592cba4.flac">
+		<tag 
+			swac_alphaidx="leave|message"
+			swac_text="leave message" />
+	</file>
+	<file path="eng-f5e3ead7.flac">
+		<tag 
+			swac_alphaidx="leader"
+			swac_text="leader" />
+	</file>
+	<file path="eng-ed208535.flac">
+		<tag 
+			swac_alphaidx="lead|pencil"
+			swac_text="lead pencil" />
+	</file>
+	<file path="eng-e5a86e54.flac">
+		<tag 
+			swac_alphaidx="lazy"
+			swac_text="lazy" />
+	</file>
+	<file path="eng-5d1c7d17.flac">
+		<tag 
+			swac_alphaidx="lave"
+			swac_text="lave" />
+	</file>
+	<file path="eng-44c31f25.flac">
+		<tag 
+			swac_alphaidx="laundromat"
+			swac_text="laundromat" />
+	</file>
+	<file path="eng-3c09149e.flac">
+		<tag 
+			swac_alphaidx="latte"
+			swac_text="latte" />
+	</file>
+	<file path="eng-7defaf85.flac">
+		<tag 
+			swac_alphaidx="lateral"
+			swac_text="lateral" />
+	</file>
+	<file path="eng-554b5255.flac">
+		<tag 
+			swac_alphaidx="late-night|opening"
+			swac_text="late-night opening" />
+	</file>
+	<file path="eng-562bc075.flac">
+		<tag 
+			swac_alphaidx="last|year"
+			swac_text="last year" />
+	</file>
+	<file path="eng-e001563b.flac">
+		<tag 
+			swac_alphaidx="laptop"
+			swac_text="laptop" />
+	</file>
+	<file path="eng-c4e0330b.flac">
+		<tag 
+			swac_alphaidx="landscape"
+			swac_text="landscape" />
+	</file>
+	<file path="eng-d6dbbf06.flac">
+		<tag 
+			swac_alphaidx="landmark"
+			swac_text="landmark" />
+	</file>
+	<file path="eng-0ea750e8.flac">
+		<tag 
+			swac_alphaidx="label"
+			swac_text="label" />
+	</file>
+	<file path="eng-73f0b612.flac">
+		<tag 
+			swac_alphaidx="knock|down"
+			swac_text="knock down" />
+	</file>
+	<file path="eng-ba409828.flac">
+		<tag 
+			swac_alphaidx="knife"
+			swac_text="knife" />
+	</file>
+	<file path="eng-eaa3ce34.flac">
+		<tag 
+			swac_alphaidx="kitchen"
+			swac_text="kitchen" />
+	</file>
+	<file path="eng-d799c56e.flac">
+		<tag 
+			swac_alphaidx="kind"
+			swac_text="kind of" />
+	</file>
+	<file path="eng-f58023bc.flac">
+		<tag 
+			swac_alphaidx="kidneys"
+			swac_text="kidneys" />
+	</file>
+	<file path="eng-808d9b02.flac">
+		<tag 
+			swac_alphaidx="kidney"
+			swac_text="kidney" />
+	</file>
+	<file path="eng-3ea2552b.flac">
+		<tag 
+			swac_alphaidx="just|one"
+			swac_text="just one" />
+	</file>
+	<file path="eng-cbdf7ca3.flac">
+		<tag 
+			swac_alphaidx="just|in|case"
+			swac_text="just in case" />
+	</file>
+	<file path="eng-8eec9467.flac">
+		<tag 
+			swac_alphaidx="just|before"
+			swac_text="just before" />
+	</file>
+	<file path="eng-c31af5c1.flac">
+		<tag 
+			swac_alphaidx="just|moment|please|(conversation)"
+			swac_text="just a moment please" />
+	</file>
+	<file path="eng-e67f9a32.flac">
+		<tag 
+			swac_alphaidx="just|little"
+			swac_text="just a little" />
+	</file>
+	<file path="eng-12a32a5c.flac">
+		<tag 
+			swac_alphaidx="jumper"
+			swac_text="jumper" />
+	</file>
+	<file path="eng-a7b30616.flac">
+		<tag 
+			swac_alphaidx="jump"
+			swac_text="jump" />
+	</file>
+	<file path="eng-7d4f9543.flac">
+		<tag 
+			swac_alphaidx="juice"
+			swac_text="juice" />
+	</file>
+	<file path="eng-3b9feeac.flac">
+		<tag 
+			swac_alphaidx="jug"
+			swac_text="jug" />
+	</file>
+	<file path="eng-c816c6a2.flac">
+		<tag 
+			swac_alphaidx="journey"
+			swac_text="journey" />
+	</file>
+	<file path="eng-dd2d1381.flac">
+		<tag 
+			swac_alphaidx="jostle"
+			swac_text="jostle" />
+	</file>
+	<file path="eng-d7b9a0d3.flac">
+		<tag 
+			swac_alphaidx="jolly"
+			swac_text="jolly" />
+	</file>
+	<file path="eng-a94557c0.flac">
+		<tag 
+			swac_alphaidx="jogging"
+			swac_text="jogging" />
+	</file>
+	<file path="eng-0623b633.flac">
+		<tag 
+			swac_alphaidx="jewelry|shop"
+			swac_text="jewelry shop" />
+	</file>
+	<file path="eng-d884897a.flac">
+		<tag 
+			swac_alphaidx="jewelry"
+			swac_text="jewelry" />
+	</file>
+	<file path="eng-783188a4.flac">
+		<tag 
+			swac_alphaidx="itchy"
+			swac_text="itchy" />
+	</file>
+	<file path="eng-a09d6b69.flac">
+		<tag 
+			swac_alphaidx="your|turn|(conversation)"
+			swac_text="it's your turn" />
+	</file>
+	<file path="eng-252db854.flac">
+		<tag 
+			swac_alphaidx="worth"
+			swac_text="it's worth it" />
+	</file>
+	<file path="eng-3d5043f6.flac">
+		<tag 
+			swac_alphaidx="worth"
+			swac_text="it's worth" />
+	</file>
+	<file path="eng-422e7a83.flac">
+		<tag 
+			swac_alphaidx="worse|than"
+			swac_text="it's worse than" />
+	</file>
+	<file path="eng-e949d4e1.flac">
+		<tag 
+			swac_alphaidx="warm"
+			swac_text="it's warm" />
+	</file>
+	<file path="eng-8526fee4.flac">
+		<tag 
+			swac_alphaidx="rain"
+			swac_text="it's raining" />
+	</file>
+	<file path="eng-5c171d8f.flac">
+		<tag 
+			swac_alphaidx="quite|good|(conversation)"
+			swac_text="it's quite good!" />
+	</file>
+	<file path="eng-99f0b855.flac">
+		<tag 
+			swac_alphaidx="on|at"
+			swac_text="it's on at" />
+	</file>
+	<file path="eng-0061ee1b.flac">
+		<tag 
+			swac_alphaidx="nothing|special"
+			swac_text="it's nothing special" />
+	</file>
+	<file path="eng-ee2db787.flac">
+		<tag 
+			swac_alphaidx="not|bad"
+			swac_text="it's not bad" />
+	</file>
+	<file path="eng-f4bb0e63.flac">
+		<tag 
+			swac_alphaidx="itchy"
+			swac_text="it's itchy" />
+	</file>
+	<file path="eng-4581c8bb.flac">
+		<tag 
+			swac_alphaidx="hot"
+			swac_text="it's hot" />
+	</file>
+	<file path="eng-9131be58.flac">
+		<tag 
+			swac_alphaidx="cold"
+			swac_text="it's cold" />
+	</file>
+	<file path="eng-91b4b00a.flac">
+		<tag 
+			swac_alphaidx="better"
+			swac_text="it's better to" />
+	</file>
+	<file path="eng-41932fe3.flac">
+		<tag 
+			swac_alphaidx="beautiful"
+			swac_text="it's beautiful" />
+	</file>
+	<file path="eng-f894aa94.flac">
+		<tag 
+			swac_alphaidx="pity"
+			swac_text="it's a pity" />
+	</file>
+	<file path="eng-a9446c9c.flac">
+		<tag 
+			swac_alphaidx="take|hour|(conversation)"
+			swac_text="it takes two hours" />
+	</file>
+	<file path="eng-92455385.flac">
+		<tag 
+			swac_alphaidx="seem|(conversation)"
+			swac_text="it seems that..." />
+	</file>
+	<file path="eng-84e3f8ad.flac">
+		<tag 
+			swac_alphaidx="must|clock|(conversation)"
+			swac_text="it must be five o'clock" />
+	</file>
+	<file path="eng-56088515.flac">
+		<tag 
+			swac_alphaidx="might|rain|(conversation)"
+			swac_text="it might rain" />
+	</file>
+	<file path="eng-fce8844e.flac">
+		<tag 
+			swac_alphaidx="matter|(conversation)"
+			swac_text="it doesn't matter" />
+	</file>
+	<file path="eng-fba6741f.flac">
+		<tag 
+			swac_alphaidx="do|(conversation)"
+			swac_text="it doesn't" />
+	</file>
+	<file path="eng-0e3562fb.flac">
+		<tag 
+			swac_alphaidx="invoke"
+			swac_text="invoke" />
+	</file>
+	<file path="eng-f5005424.flac">
+		<tag 
+			swac_alphaidx="introduction"
+			swac_text="introduction" />
+	</file>
+	<file path="eng-373a69f3.flac">
+		<tag 
+			swac_alphaidx="international|money|order"
+			swac_text="international money order" />
+	</file>
+	<file path="eng-c6a4776e.flac">
+		<tag 
+			swac_alphaidx="intermission"
+			swac_text="intermission" />
+	</file>
+	<file path="eng-6cf508d6.flac">
+		<tag 
+			swac_alphaidx="intermediate"
+			swac_text="intermediate" />
+	</file>
+	<file path="eng-a3dbeb75.flac">
+		<tag 
+			swac_alphaidx="intend"
+			swac_text="intend" />
+	</file>
+	<file path="eng-56f72a14.flac">
+		<tag 
+			swac_alphaidx="instead"
+			swac_text="instead of" />
+	</file>
+	<file path="eng-f9f13485.flac">
+		<tag 
+			swac_alphaidx="inspection"
+			swac_text="inspection" />
+	</file>
+	<file path="eng-3206e3f8.flac">
+		<tag 
+			swac_alphaidx="insecticide"
+			swac_text="insecticide" />
+	</file>
+	<file path="eng-4e385fbf.flac">
+		<tag 
+			swac_alphaidx="inquire"
+			swac_text="inquire" />
+	</file>
+	<file path="eng-1d694e7d.flac">
+		<tag 
+			swac_alphaidx="inner|tube"
+			swac_text="inner tube" />
+	</file>
+	<file path="eng-3bff01bd.flac">
+		<tag 
+			swac_alphaidx="injured"
+			swac_text="injured" />
+	</file>
+	<file path="eng-91f1ed54.flac">
+		<tag 
+			swac_alphaidx="injection"
+			swac_text="injection" />
+	</file>
+	<file path="eng-ebd18d14.flac">
+		<tag 
+			swac_alphaidx="initially"
+			swac_text="initially" />
+	</file>
+	<file path="eng-56518720.flac">
+		<tag 
+			swac_alphaidx="infection"
+			swac_text="infection" />
+	</file>
+	<file path="eng-42efa38a.flac">
+		<tag 
+			swac_alphaidx="incoming"
+			swac_text="incoming" />
+	</file>
+	<file path="eng-b4646f96.flac">
+		<tag 
+			swac_alphaidx="in|window"
+			swac_text="in the window" />
+	</file>
+	<file path="eng-eff48dca.flac">
+		<tag 
+			swac_alphaidx="in|west"
+			swac_text="in the west" />
+	</file>
+	<file path="eng-ffe5bc4a.flac">
+		<tag 
+			swac_alphaidx="in|vicinity"
+			swac_text="in the vicinity" />
+	</file>
+	<file path="eng-003a4645.flac">
+		<tag 
+			swac_alphaidx="in|sun"
+			swac_text="in the sun" />
+	</file>
+	<file path="eng-7485e3d2.flac">
+		<tag 
+			swac_alphaidx="in|south"
+			swac_text="in the south" />
+	</file>
+	<file path="eng-c60ebe2b.flac">
+		<tag 
+			swac_alphaidx="in|shade"
+			swac_text="in the shade" />
+	</file>
+	<file path="eng-752a1daf.flac">
+		<tag 
+			swac_alphaidx="in|past"
+			swac_text="in the past" />
+	</file>
+	<file path="eng-1748bb78.flac">
+		<tag 
+			swac_alphaidx="in|open|air"
+			swac_text="in the open air" />
+	</file>
+	<file path="eng-e9baa664.flac">
+		<tag 
+			swac_alphaidx="in|north"
+			swac_text="in the north" />
+	</file>
+	<file path="eng-ca028724.flac">
+		<tag 
+			swac_alphaidx="pedestrianized"
+			swac_text="pedestrianized" />
+	</file>
+	<file path="eng-0b548b0f.flac">
+		<tag 
+			swac_alphaidx="path"
+			swac_text="path" />
+	</file>
+	<file path="eng-50144187.flac">
+		<tag 
+			swac_alphaidx="past"
+			swac_text="past" />
+	</file>
+	<file path="eng-ab1aa22b.flac">
+		<tag 
+			swac_alphaidx="part"
+			swac_text="part of" />
+	</file>
+	<file path="eng-1a72cad8.flac">
+		<tag 
+			swac_alphaidx="parking|space"
+			swac_text="parking space" />
+	</file>
+	<file path="eng-ab644899.flac">
+		<tag 
+			swac_alphaidx="parking|lot"
+			swac_text="parking lot" />
+	</file>
+	<file path="eng-42f27c71.flac">
+		<tag 
+			swac_alphaidx="parasol"
+			swac_text="parasol" />
+	</file>
+	<file path="eng-a894c85a.flac">
+		<tag 
+			swac_alphaidx="paper|napkin"
+			swac_text="paper napkin" />
+	</file>
+	<file path="eng-31c0619c.flac">
+		<tag 
+			swac_alphaidx="pantyhose"
+			swac_text="pantyhose" />
+	</file>
+	<file path="eng-e6736286.flac">
+		<tag 
+			swac_alphaidx="panties"
+			swac_text="panties" />
+	</file>
+	<file path="eng-66b9eba0.flac">
+		<tag 
+			swac_alphaidx="painting"
+			swac_text="painting" />
+	</file>
+	<file path="eng-2a5beb89.flac">
+		<tag 
+			swac_alphaidx="painkiller"
+			swac_text="painkiller" />
+	</file>
+	<file path="eng-3c41a474.flac">
+		<tag 
+			swac_alphaidx="packet"
+			swac_text="packet" />
+	</file>
+	<file path="eng-21f6b410.flac">
+		<tag 
+			swac_alphaidx="packed"
+			swac_text="packed" />
+	</file>
+	<file path="eng-26b15484.flac">
+		<tag 
+			swac_alphaidx="package|holiday"
+			swac_text="package holiday" />
+	</file>
+	<file path="eng-173edb9b.flac">
+		<tag 
+			swac_alphaidx="pack|luggage"
+			swac_text="pack luggage" />
+	</file>
+	<file path="eng-97de5e23.flac">
+		<tag 
+			swac_alphaidx="pack"
+			swac_text="pack" />
+	</file>
+	<file path="eng-fd629c99.flac">
+		<tag 
+			swac_alphaidx="ox"
+			swac_text="ox" />
+	</file>
+	<file path="eng-152c16eb.flac">
+		<tag 
+			swac_alphaidx="overweight"
+			swac_text="overweight" />
+	</file>
+	<file path="eng-09139a9e.flac">
+		<tag 
+			swac_alphaidx="overdone"
+			swac_text="overdone" />
+	</file>
+	<file path="eng-0b86c3c3.flac">
+		<tag 
+			swac_alphaidx="overcast"
+			swac_text="overcast" />
+	</file>
+	<file path="eng-3882f9b4.flac">
+		<tag 
+			swac_alphaidx="over|there"
+			swac_text="over there" />
+	</file>
+	<file path="eng-4b5391a7.flac">
+		<tag 
+			swac_alphaidx="outward|journey"
+			swac_text="outward journey" />
+	</file>
+	<file path="eng-f2a10625.flac">
+		<tag 
+			swac_alphaidx="outing"
+			swac_text="outing" />
+	</file>
+	<file path="eng-063fc69d.flac">
+		<tag 
+			swac_alphaidx="out|order"
+			swac_text="out of order" />
+	</file>
+	<file path="eng-05ba7a68.flac">
+		<tag 
+			swac_alphaidx="out|date"
+			swac_text="out of date" />
+	</file>
+	<file path="eng-0330f0fc.flac">
+		<tag 
+			swac_alphaidx="other|people"
+			swac_text="other people" />
+	</file>
+	<file path="eng-b7b9cd8c.flac">
+		<tag 
+			swac_alphaidx="originally"
+			swac_text="originally" />
+	</file>
+	<file path="eng-c1ee637c.flac">
+		<tag 
+			swac_alphaidx="organization"
+			swac_text="organization" />
+	</file>
+	<file path="eng-2c3d72a5.flac">
+		<tag 
+			swac_alphaidx="organic"
+			swac_text="organic" />
+	</file>
+	<file path="eng-1dc5b178.flac">
+		<tag 
+			swac_alphaidx="orange"
+			swac_text="orange" />
+	</file>
+	<file path="eng-3c695945.flac">
+		<tag 
+			swac_alphaidx="optician"
+			swac_text="optician" />
+	</file>
+	<file path="eng-d8c686f0.flac">
+		<tag 
+			swac_alphaidx="opposite"
+			swac_text="opposite" />
+	</file>
+	<file path="eng-a47083a4.flac">
+		<tag 
+			swac_alphaidx="open"
+			swac_text="open" />
+	</file>
+	<file path="eng-d9b1931a.flac">
+		<tag 
+			swac_alphaidx="oneself"
+			swac_text="oneself" />
+	</file>
+	<file path="eng-d567ef2d.flac">
+		<tag 
+			swac_alphaidx="one-way"
+			swac_text="one-way" />
+	</file>
+	<file path="eng-ab89ca63.flac">
+		<tag 
+			swac_alphaidx="one|way|street"
+			swac_text="one way street" />
+	</file>
+	<file path="eng-7a6c86f1.flac">
+		<tag 
+			swac_alphaidx="one"
+			swac_text="one" />
+	</file>
+	<file path="eng-82020070.flac">
+		<tag 
+			swac_alphaidx="once|again"
+			swac_text="once again" />
+	</file>
+	<file path="eng-638c656e.flac">
+		<tag 
+			swac_alphaidx="on|vacation"
+			swac_text="on vacation" />
+	</file>
+	<file path="eng-5d7de505.flac">
+		<tag 
+			swac_alphaidx="on|time"
+			swac_text="on time" />
+	</file>
+	<file path="eng-74b9ec18.flac">
+		<tag 
+			swac_alphaidx="on|spot"
+			swac_text="on the spot" />
+	</file>
+	<file path="eng-389acafe.flac">
+		<tag 
+			swac_alphaidx="on|ground"
+			swac_text="on the ground" />
+	</file>
+	<file path="eng-64e8e568.flac">
+		<tag 
+			swac_alphaidx="on|floor"
+			swac_text="on the floor" />
+	</file>
+	<file path="eng-d7a2bd45.flac">
+		<tag 
+			swac_alphaidx="on|sale"
+			swac_text="on sale" />
+	</file>
+	<file path="eng-8b5a637e.flac">
+		<tag 
+			swac_alphaidx="on|purpose"
+			swac_text="on purpose" />
+	</file>
+	<file path="eng-2eb883aa.flac">
+		<tag 
+			swac_alphaidx="on|board"
+			swac_text="on board" />
+	</file>
+	<file path="eng-018ad426.flac">
+		<tag 
+			swac_alphaidx="older|sister"
+			swac_text="older sister" />
+	</file>
+	<file path="eng-bef6f8d0.flac">
+		<tag 
+			swac_alphaidx="older|brother"
+			swac_text="older brother" />
+	</file>
+	<file path="eng-1ff9311f.flac">
+		<tag 
+			swac_alphaidx="old|town"
+			swac_text="old town" />
+	</file>
+	<file path="eng-7bf91963.flac">
+		<tag 
+			swac_alphaidx="old|people"
+			swac_text="old people" />
+	</file>
+	<file path="eng-672d9974.flac">
+		<tag 
+			swac_alphaidx="ointment"
+			swac_text="ointment" />
+	</file>
+	<file path="eng-a029d4e7.flac">
+		<tag 
+			swac_alphaidx="good|quality"
+			swac_text="of good quality" />
+	</file>
+	<file path="eng-1bb60461.flac">
+		<tag 
+			swac_alphaidx="course"
+			swac_text="of course" />
+	</file>
+	<file path="eng-926fba44.flac">
+		<tag 
+			swac_alphaidx="bad|quality"
+			swac_text="of bad quality" />
+	</file>
+	<file path="eng-f67d9a2b.flac">
+		<tag 
+			swac_alphaidx="notebook"
+			swac_text="notebook" />
+	</file>
+	<file path="eng-07e5c560.flac">
+		<tag 
+			swac_alphaidx="not|yet"
+			swac_text="not yet" />
+	</file>
+	<file path="eng-2e5f0f2d.flac">
+		<tag 
+			swac_alphaidx="want"
+			swac_text="not to want" />
+	</file>
+	<file path="eng-ce8ef04f.flac">
+		<tag 
+			swac_alphaidx="have"
+			swac_text="not to have" />
+	</file>
+	<file path="eng-4d52dd73.flac">
+		<tag 
+			swac_alphaidx="only"
+			swac_text="not only" />
+	</file>
+	<file path="eng-95154f5a.flac">
+		<tag 
+			swac_alphaidx="long|after"
+			swac_text="not long after" />
+	</file>
+	<file path="eng-f683c569.flac">
+		<tag 
+			swac_alphaidx="equal"
+			swac_text="not equal to" />
+	</file>
+	<file path="eng-6e4d5c91.flac">
+		<tag 
+			swac_alphaidx="not|bad"
+			swac_text="not bad" />
+	</file>
+	<file path="eng-e3482937.flac">
+		<tag 
+			swac_alphaidx="not|all"
+			swac_text="not at all" />
+	</file>
+	<file path="eng-889592de.flac">
+		<tag 
+			swac_alphaidx="not|any"
+			swac_text="not any" />
+	</file>
+	<file path="eng-eddff9cd.flac">
+		<tag 
+			swac_alphaidx="north|sea"
+			swac_text="north sea" />
+	</file>
+	<file path="eng-a92778e0.flac">
+		<tag 
+			swac_alphaidx="non-smoker"
+			swac_text="non-smoker" />
+	</file>
+	<file path="eng-d1188ac0.flac">
+		<tag 
+			swac_alphaidx="drinking|water"
+			swac_text="non-drinking water" />
+	</file>
+	<file path="eng-e9a8ca66.flac">
+		<tag 
+			swac_alphaidx="noisy"
+			swac_text="noisy" />
+	</file>
+	<file path="eng-55496f14.flac">
+		<tag 
+			swac_alphaidx="no|idea"
+			swac_text="no idea" />
+	</file>
+	<file path="eng-7b1d7c7d.flac">
+		<tag 
+			swac_alphaidx="nine"
+			swac_text="nine" />
+	</file>
+	<file path="eng-0026355f.flac">
+		<tag 
+			swac_alphaidx="nightdress"
+			swac_text="nightdress" />
+	</file>
+	<file path="eng-4e70db94.flac">
+		<tag 
+			swac_alphaidx="nice|cold"
+			swac_text="nice and cold" />
+	</file>
+	<file path="eng-fe90b2f3.flac">
+		<tag 
+			swac_alphaidx="next|year"
+			swac_text="next year" />
+	</file>
+	<file path="eng-9d306c31.flac">
+		<tag 
+			swac_alphaidx="next|to"
+			swac_text="next to" />
+	</file>
+	<file path="eng-ec419e26.flac">
+		<tag 
+			swac_alphaidx="newsstand"
+			swac_text="newsstand" />
+	</file>
+	<file path="eng-e72452c0.flac">
+		<tag 
+			swac_alphaidx="newsdealer"
+			swac_text="newsdealer" />
+	</file>
+	<file path="eng-34edb0f4.flac">
+		<tag 
+			swac_alphaidx="new|year"
+			swac_text="new year" />
+	</file>
+	<file path="eng-4c9eb6d2.flac">
+		<tag 
+			swac_alphaidx="new|word"
+			swac_text="new word" />
+	</file>
+	<file path="eng-8671e636.flac">
+		<tag 
+			swac_alphaidx="neither|nor"
+			swac_text="neither...nor" />
+	</file>
+	<file path="eng-2b68943d.flac">
+		<tag 
+			swac_alphaidx="neither|do|(conversation)"
+			swac_text="neither do I" />
+	</file>
+	<file path="eng-948b5cb7.flac">
+		<tag 
+			swac_alphaidx="neighbor"
+			swac_text="neighbor" />
+	</file>
+	<file path="eng-1a30ca9f.flac">
+		<tag 
+			swac_alphaidx="need|not"
+			swac_text="need not" />
+	</file>
+	<file path="eng-52a27115.flac">
+		<tag 
+			swac_alphaidx="necklace"
+			swac_text="necklace" />
+	</file>
+	<file path="eng-04001e00.flac">
+		<tag 
+			swac_alphaidx="near|beach"
+			swac_text="near the beach" />
+	</file>
+	<file path="eng-108e1e3f.flac">
+		<tag 
+			swac_alphaidx="national|holiday"
+			swac_text="national holiday" />
+	</file>
+	<file path="eng-16e68998.flac">
+		<tag 
+			swac_alphaidx="napkin"
+			swac_text="napkin" />
+	</file>
+	<file path="eng-91eb14e2.flac">
+		<tag 
+			swac_alphaidx="nap"
+			swac_text="nap" />
+	</file>
+	<file path="eng-756db035.flac">
+		<tag 
+			swac_alphaidx="naked"
+			swac_text="naked" />
+	</file>
+	<file path="eng-51b9365c.flac">
+		<tag 
+			swac_alphaidx="nail|varnish"
+			swac_text="nail varnish" />
+	</file>
+	<file path="eng-52e0196c.flac">
+		<tag 
+			swac_alphaidx="name|be|(conversation)"
+			swac_text="my name is" />
+	</file>
+	<file path="eng-e98dc9f2.flac">
+		<tag 
+			swac_alphaidx="head|hurt|(conversation)"
+			swac_text="my head hurts" />
+	</file>
+	<file path="eng-12513cc6.flac">
+		<tag 
+			swac_alphaidx="goodness|(conversation)"
+			swac_text="my goodness" />
+	</file>
+	<file path="eng-460e27b6.flac">
+		<tag 
+			swac_alphaidx="must|not"
+			swac_text="must not" />
+	</file>
+	<file path="eng-a542f6a2.flac">
+		<tag 
+			swac_alphaidx="mussels"
+			swac_text="mussels" />
+	</file>
+	<file path="eng-b491236b.flac">
+		<tag 
+			swac_alphaidx="munch"
+			swac_text="munch" />
+	</file>
+	<file path="eng-133b4046.flac">
+		<tag 
+			swac_alphaidx="movie|theater"
+			swac_text="movie theater" />
+	</file>
+	<file path="eng-9ec55c97.flac">
+		<tag 
+			swac_alphaidx="mouth"
+			swac_text="mouth" />
+	</file>
+	<file path="eng-65319f28.flac">
+		<tag 
+			swac_alphaidx="mountain|hut"
+			swac_text="mountain hut" />
+	</file>
+	<file path="eng-6dd157d1.flac">
+		<tag 
+			swac_alphaidx="mountain|bike"
+			swac_text="mountain bike" />
+	</file>
+	<file path="eng-9da2093c.flac">
+		<tag 
+			swac_alphaidx="mountain"
+			swac_text="mountain" />
+	</file>
+	<file path="eng-0da9feec.flac">
+		<tag 
+			swac_alphaidx="motorist"
+			swac_text="motorist" />
+	</file>
+	<file path="eng-21e380e1.flac">
+		<tag 
+			swac_alphaidx="motorcycle"
+			swac_text="motorcycle" />
+	</file>
+	<file path="eng-86274181.flac">
+		<tag 
+			swac_alphaidx="most|recently"
+			swac_text="most recently" />
+	</file>
+	<file path="eng-174f4c63.flac">
+		<tag 
+			swac_alphaidx="most|extreme"
+			swac_text="most extreme" />
+	</file>
+	<file path="eng-978f8025.flac">
+		<tag 
+			swac_alphaidx="mosquito"
+			swac_text="mosquito" />
+	</file>
+	<file path="eng-305d377c.flac">
+		<tag 
+			swac_alphaidx="morning-after|pill"
+			swac_text="morning-after pill" />
+	</file>
+	<file path="eng-d4940b4f.flac">
+		<tag 
+			swac_alphaidx="more|than"
+			swac_text="more than" />
+	</file>
+	<file path="eng-c261f147.flac">
+		<tag 
+			swac_alphaidx="moped"
+			swac_text="moped" />
+	</file>
+	<file path="eng-7bb88283.flac">
+		<tag 
+			swac_alphaidx="monument"
+			swac_text="monument" />
+	</file>
+	<file path="eng-7a2c5dfe.flac">
+		<tag 
+			swac_alphaidx="monastery"
+			swac_text="monastery" />
+	</file>
+	<file path="eng-c174baf6.flac">
+		<tag 
+			swac_alphaidx="moisturizing|lotion"
+			swac_text="moisturizing lotion" />
+	</file>
+	<file path="eng-7b2795ba.flac">
+		<tag 
+			swac_alphaidx="moisturizer"
+			swac_text="moisturizer" />
+	</file>
+	<file path="eng-29591464.flac">
+		<tag 
+			swac_alphaidx="modern|time"
+			swac_text="modern times" />
+	</file>
+	<file path="eng-3c7323e0.flac">
+		<tag 
+			swac_alphaidx="mobile"
+			swac_text="mobile" />
+	</file>
+	<file path="eng-72835327.flac">
+		<tag 
+			swac_alphaidx="mineral|water"
+			swac_text="mineral water" />
+	</file>
+	<file path="eng-224209b5.flac">
+		<tag 
+			swac_alphaidx="mill"
+			swac_text="mill" />
+	</file>
+	<file path="eng-6eec7560.flac">
+		<tag 
+			swac_alphaidx="middle|school"
+			swac_text="middle school" />
+	</file>
+	<file path="eng-3f2f38cd.flac">
+		<tag 
+			swac_alphaidx="midday"
+			swac_text="midday" />
+	</file>
+	<file path="eng-9817a176.flac">
+		<tag 
+			swac_alphaidx="microwave"
+			swac_text="microwave" />
+	</file>
+	<file path="eng-a6a1f8d5.flac">
+		<tag 
+			swac_alphaidx="merry|Christmas|(conversation)"
+			swac_text="merry Christmas" />
+	</file>
+	<file path="eng-01b0482a.flac">
+		<tag 
+			swac_alphaidx="man|room"
+			swac_text="men's room" />
+	</file>
+	<file path="eng-58362a8d.flac">
+		<tag 
+			swac_alphaidx="medicine"
+			swac_text="medicine" />
+	</file>
+	<file path="eng-98d82109.flac">
+		<tag 
+			swac_alphaidx="too"
+			swac_text="me too" />
+	</file>
+	<file path="eng-4b8ee442.flac">
+		<tag 
+			swac_alphaidx="may|ask"
+			swac_text="may I ask" />
+	</file>
+	<file path="eng-ea71121f.flac">
+		<tag 
+			swac_alphaidx="may"
+			swac_text="may" />
+	</file>
+	<file path="eng-95b5724a.flac">
+		<tag 
+			swac_alphaidx="mathematic"
+			swac_text="mathematic" />
+	</file>
+	<file path="eng-2d09a3d6.flac">
+		<tag 
+			swac_alphaidx="master"
+			swac_text="master" />
+	</file>
+	<file path="eng-0a1139f9.flac">
+		<tag 
+			swac_alphaidx="continuous"
+			swac_text="continuous" />
+	</file>
+	<file path="eng-5b8dc938.flac">
+		<tag 
+			swac_alphaidx="contemporary"
+			swac_text="contemporary" />
+	</file>
+	<file path="eng-f19d31c2.flac">
+		<tag 
+			swac_alphaidx="contagious"
+			swac_text="contagious" />
+	</file>
+	<file path="eng-495ce8a1.flac">
+		<tag 
+			swac_alphaidx="contact|lense"
+			swac_text="contact lenses" />
+	</file>
+	<file path="eng-dc91e26e.flac">
+		<tag 
+			swac_alphaidx="construction"
+			swac_text="construction" />
+	</file>
+	<file path="eng-781af241.flac">
+		<tag 
+			swac_alphaidx="constipated"
+			swac_text="constipated" />
+	</file>
+	<file path="eng-8a84bb6c.flac">
+		<tag 
+			swac_alphaidx="consider"
+			swac_text="consider that" />
+	</file>
+	<file path="eng-4930fa83.flac">
+		<tag 
+			swac_alphaidx="connecting"
+			swac_text="connecting" />
+	</file>
+	<file path="eng-7d75aa24.flac">
+		<tag 
+			swac_alphaidx="congregation"
+			swac_text="congregation" />
+	</file>
+	<file path="eng-059c9440.flac">
+		<tag 
+			swac_alphaidx="congratulations|(conversation)"
+			swac_text="congratulations!" />
+	</file>
+	<file path="eng-911533c8.flac">
+		<tag 
+			swac_alphaidx="conference"
+			swac_text="conference" />
+	</file>
+	<file path="eng-b517bd9d.flac">
+		<tag 
+			swac_alphaidx="concession"
+			swac_text="concession" />
+	</file>
+	<file path="eng-c5b0ebe6.flac">
+		<tag 
+			swac_alphaidx="concert|hall"
+			swac_text="concert hall" />
+	</file>
+	<file path="eng-d57c02d2.flac">
+		<tag 
+			swac_alphaidx="concert"
+			swac_text="concert" />
+	</file>
+	<file path="eng-0b587501.flac">
+		<tag 
+			swac_alphaidx="comrade"
+			swac_text="comrade" />
+	</file>
+	<file path="eng-d736e744.flac">
+		<tag 
+			swac_alphaidx="comprehensive|insurance"
+			swac_text="comprehensive insurance" />
+	</file>
+	<file path="eng-cabf10c8.flac">
+		<tag 
+			swac_alphaidx="Belgium"
+			swac_text="Belgium" />
+	</file>
+	<file path="eng-7d189627.flac">
+		<tag 
+			swac_alphaidx="Belgian"
+			swac_text="Belgian" />
+	</file>
+	<file path="eng-a0f707b4.flac">
+		<tag 
+			swac_alphaidx="Band-Aid"
+			swac_text="Band-Aid" />
+	</file>
+	<file path="eng-e345edc4.flac">
+		<tag 
+			swac_alphaidx="August"
+			swac_text="August" />
+	</file>
+	<file path="eng-6b0cc630.flac">
+		<tag 
+			swac_alphaidx="American"
+			swac_text="American" />
+	</file>
+	<file path="eng-58a39b98.flac">
+		<tag 
+			swac_alphaidx="ATM"
+			swac_text="ATM" />
+	</file>
+	<file path="eng-cf1e91c6.flac">
+		<tag 
+			swac_alphaidx="compartment"
+			swac_text="compartment" />
+	</file>
+	<file path="eng-f168accf.flac">
+		<tag 
+			swac_alphaidx="receptionist"
+			swac_text="receptionist" />
+	</file>
+	<file path="eng-50d6852f.flac">
+		<tag 
+			swac_alphaidx="reception"
+			swac_text="reception" />
+	</file>
+	<file path="eng-e5fb0280.flac">
+		<tag 
+			swac_alphaidx="recently"
+			swac_text="recently" />
+	</file>
+	<file path="eng-fd3c9f06.flac">
+		<tag 
+			swac_alphaidx="recede"
+			swac_text="recede" />
+	</file>
+	<file path="eng-ed688674.flac">
+		<tag 
+			swac_alphaidx="read|aloud"
+			swac_text="read aloud" />
+	</file>
+	<file path="eng-04affc0d.flac">
+		<tag 
+			swac_alphaidx="razor|blade"
+			swac_text="razor blade" />
+	</file>
+	<file path="eng-c3a25e2a.flac">
+		<tag 
+			swac_alphaidx="razor"
+			swac_text="razor" />
+	</file>
+	<file path="eng-57627135.flac">
+		<tag 
+			swac_alphaidx="rather"
+			swac_text="rather" />
+	</file>
+	<file path="eng-3cc1df7b.flac">
+		<tag 
+			swac_alphaidx="rarely"
+			swac_text="rarely" />
+	</file>
+	<file path="eng-bb80fa3d.flac">
+		<tag 
+			swac_alphaidx="rape"
+			swac_text="rape" />
+	</file>
+	<file path="eng-7189057f.flac">
+		<tag 
+			swac_alphaidx="racket"
+			swac_text="racket" />
+	</file>
+	<file path="eng-6233aa36.flac">
+		<tag 
+			swac_alphaidx="quite|lot"
+			swac_text="quite a lot of" />
+	</file>
+	<file path="eng-6ffcb746.flac">
+		<tag 
+			swac_alphaidx="quite"
+			swac_text="quite" />
+	</file>
+	<file path="eng-7ffd7f63.flac">
+		<tag 
+			swac_alphaidx="queue"
+			swac_text="queue" />
+	</file>
+	<file path="eng-7cb20b10.flac">
+		<tag 
+			swac_alphaidx="quality"
+			swac_text="quality" />
+	</file>
+	<file path="eng-558f4e79.flac">
+		<tag 
+			swac_alphaidx="put|up"
+			swac_text="put up" />
+	</file>
+	<file path="eng-c020ce9d.flac">
+		<tag 
+			swac_alphaidx="put|out"
+			swac_text="put out" />
+	</file>
+	<file path="eng-ea8572e6.flac">
+		<tag 
+			swac_alphaidx="purple"
+			swac_text="purple" />
+	</file>
+	<file path="eng-f2346eba.flac">
+		<tag 
+			swac_alphaidx="public|holiday"
+			swac_text="public holiday" />
+	</file>
+	<file path="eng-92ed7784.flac">
+		<tag 
+			swac_alphaidx="program"
+			swac_text="program" />
+	</file>
+	<file path="eng-808d7442.flac">
+		<tag 
+			swac_alphaidx="probably"
+			swac_text="probably" />
+	</file>
+	<file path="eng-cac822d9.flac">
+		<tag 
+			swac_alphaidx="price"
+			swac_text="price" />
+	</file>
+	<file path="eng-b9852f30.flac">
+		<tag 
+			swac_alphaidx="preview"
+			swac_text="preview" />
+	</file>
+	<file path="eng-1fbfb8d9.flac">
+		<tag 
+			swac_alphaidx="prescription"
+			swac_text="prescription" />
+	</file>
+	<file path="eng-f9f0aaf4.flac">
+		<tag 
+			swac_alphaidx="preparation"
+			swac_text="preparation" />
+	</file>
+	<file path="eng-55812d60.flac">
+		<tag 
+			swac_alphaidx="prep"
+			swac_text="prep" />
+	</file>
+	<file path="eng-4620e978.flac">
+		<tag 
+			swac_alphaidx="premium|gas"
+			swac_text="premium gas" />
+	</file>
+	<file path="eng-25618e26.flac">
+		<tag 
+			swac_alphaidx="postbox"
+			swac_text="postbox" />
+	</file>
+	<file path="eng-ab5cea4b.flac">
+		<tag 
+			swac_alphaidx="postage|stamp"
+			swac_text="postage stamp" />
+	</file>
+	<file path="eng-5e532fa5.flac">
+		<tag 
+			swac_alphaidx="post|office"
+			swac_text="post office" />
+	</file>
+	<file path="eng-c5f4aaa4.flac">
+		<tag 
+			swac_alphaidx="possibility"
+			swac_text="possibility" />
+	</file>
+	<file path="eng-eda319fe.flac">
+		<tag 
+			swac_alphaidx="portray"
+			swac_text="portray" />
+	</file>
+	<file path="eng-43915dcc.flac">
+		<tag 
+			swac_alphaidx="port"
+			swac_text="port" />
+	</file>
+	<file path="eng-af91a986.flac">
+		<tag 
+			swac_alphaidx="pool"
+			swac_text="pool" />
+	</file>
+	<file path="eng-8125e3b3.flac">
+		<tag 
+			swac_alphaidx="pollute"
+			swac_text="pollute" />
+	</file>
+	<file path="eng-e1ffddcf.flac">
+		<tag 
+			swac_alphaidx="polite"
+			swac_text="polite" />
+	</file>
+	<file path="eng-38055909.flac">
+		<tag 
+			swac_alphaidx="policeman"
+			swac_text="policeman" />
+	</file>
+	<file path="eng-c39172dc.flac">
+		<tag 
+			swac_alphaidx="police|station"
+			swac_text="police station" />
+	</file>
+	<file path="eng-dedb45b7.flac">
+		<tag 
+			swac_alphaidx="police|officer"
+			swac_text="police officer" />
+	</file>
+	<file path="eng-90f2e0f1.flac">
+		<tag 
+			swac_alphaidx="plus"
+			swac_text="plus" />
+	</file>
+	<file path="eng-1b9e10a9.flac">
+		<tag 
+			swac_alphaidx="plumber"
+			swac_text="plumber" />
+	</file>
+	<file path="eng-6afddd92.flac">
+		<tag 
+			swac_alphaidx="plum"
+			swac_text="plum" />
+	</file>
+	<file path="eng-bf89ba20.flac">
+		<tag 
+			swac_alphaidx="plug|in"
+			swac_text="plug in" />
+	</file>
+	<file path="eng-9347b8ed.flac">
+		<tag 
+			swac_alphaidx="pleased|meet|(conversation)"
+			swac_text="pleased to meet you!" />
+	</file>
+	<file path="eng-1b046a7f.flac">
+		<tag 
+			swac_alphaidx="please|accept"
+			swac_text="please accept" />
+	</file>
+	<file path="eng-3952d0cb.flac">
+		<tag 
+			swac_alphaidx="platform"
+			swac_text="platform" />
+	</file>
+	<file path="eng-9aa6bd2f.flac">
+		<tag 
+			swac_alphaidx="plastic|bag"
+			swac_text="plastic bag" />
+	</file>
+	<file path="eng-e096b17b.flac">
+		<tag 
+			swac_alphaidx="plastic"
+			swac_text="plastic" />
+	</file>
+	<file path="eng-2109dc71.flac">
+		<tag 
+			swac_alphaidx="pit|up"
+			swac_text="pit up with" />
+	</file>
+	<file path="eng-2c6371d6.flac">
+		<tag 
+			swac_alphaidx="pink"
+			swac_text="pink" />
+	</file>
+	<file path="eng-b5852df3.flac">
+		<tag 
+			swac_alphaidx="pin"
+			swac_text="pin" />
+	</file>
+	<file path="eng-802a71ef.flac">
+		<tag 
+			swac_alphaidx="pillowslips"
+			swac_text="pillowslips" />
+	</file>
+	<file path="eng-c54d8e3c.flac">
+		<tag 
+			swac_alphaidx="pillowcase"
+			swac_text="pillowcase" />
+	</file>
+	<file path="eng-259ce795.flac">
+		<tag 
+			swac_alphaidx="picnic"
+			swac_text="picnic" />
+	</file>
+	<file path="eng-d831e7e3.flac">
+		<tag 
+			swac_alphaidx="physics"
+			swac_text="physics" />
+	</file>
+	<file path="eng-8f759bac.flac">
+		<tag 
+			swac_alphaidx="photocopy"
+			swac_text="photocopy" />
+	</file>
+	<file path="eng-71211c99.flac">
+		<tag 
+			swac_alphaidx="phone|number"
+			swac_text="phone number" />
+	</file>
+	<file path="eng-484491f7.flac">
+		<tag 
+			swac_alphaidx="phone|directory"
+			swac_text="phone directory" />
+	</file>
+	<file path="eng-8e92bddf.flac">
+		<tag 
+			swac_alphaidx="phone|card"
+			swac_text="phone card" />
+	</file>
+	<file path="eng-54080a32.flac">
+		<tag 
+			swac_alphaidx="phone|call"
+			swac_text="phone call" />
+	</file>
+	<file path="eng-5cacf878.flac">
+		<tag 
+			swac_alphaidx="phone|box"
+			swac_text="phone box" />
+	</file>
+	<file path="eng-040a27ee.flac">
+		<tag 
+			swac_alphaidx="phone|booth"
+			swac_text="phone booth" />
+	</file>
+	<file path="eng-c8929aa2.flac">
+		<tag 
+			swac_alphaidx="petrol|station"
+			swac_text="petrol station" />
+	</file>
+	<file path="eng-8df31371.flac">
+		<tag 
+			swac_alphaidx="petrol|pump|attendant"
+			swac_text="petrol pump attendant" />
+	</file>
+	<file path="eng-40808c32.flac">
+		<tag 
+			swac_alphaidx="personal|stereo"
+			swac_text="personal stereo" />
+	</file>
+	<file path="eng-0bd3a04a.flac">
+		<tag 
+			swac_alphaidx="perfume"
+			swac_text="perfume" />
+	</file>
+	<file path="eng-913b7e4e.flac">
+		<tag 
+			swac_alphaidx="pencil|case"
+			swac_text="pencil case" />
+	</file>
+	<file path="eng-58e9c4da.flac">
+		<tag 
+			swac_alphaidx="peel"
+			swac_text="peel" />
+	</file>
+	<file path="eng-8ee2bb77.flac">
+		<tag 
+			swac_alphaidx="pee"
+			swac_text="pee" />
+	</file>
+</group>
+</index>

@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE index SYSTEM "http://shtooka.net/project/swac/index.dtd">
+<index>
+<group 
+	swac_alphaidx="(numerals)"
+	swac_coll_authors="Bernadette Perrin-Riou, Csilla Ducrocq, Mary Maury"
+	swac_coll_copyright="Copyright© 2009 Bernadette Perrin-Riou, Mary Maury"
+	swac_coll_desc="Cette collection est essentiellement destinée aux personnes étudiant l'anglais comme langue étrangère ainsi qu'à la production de matériel pédagogique."
+	swac_coll_license="Creative Commons BY 3.0 U.S"
+	swac_coll_org="Association WimsEdu"
+	swac_coll_org_url="http://wimsedu.info/"
+	swac_coll_url="http://swac-collections.org/"
+	swac_lang="eng"
+	swac_speak_birth_year="1940"
+	swac_speak_gender="F"
+	swac_speak_lang="eng"
+	swac_speak_lang_region="Midwest"
+	swac_speak_liv_country="FR"
+	swac_speak_liv_town="Paris"
+	swac_speak_name="Mary Maury"
+	swac_tech_date="2009-09-01"
+	swac_tech_soft="Shtooka Recorder/1.3" >
+
+	<file path="eng-0012d20a.flac">
+		<tag 
+			swac_text="62" />
+	</file>
+	<file path="eng-008bc18e.flac">
+		<tag 
+			swac_text="286" />
+	</file>
+	<file path="eng-00f56a27.flac">
+		<tag 
+			swac_text="85" />
+	</file>
+	<file path="eng-06818b1b.flac">
+		<tag 
+			swac_text="138" />
+	</file>
+	<file path="eng-077f1613.flac">
+		<tag 
+			swac_text="66" />
+	</file>
+	<file path="eng-078b38a6.flac">
+		<tag 
+			swac_text="830" />
+	</file>
+	<file path="eng-0798ae3e.flac">
+		<tag 
+			swac_text="81" />
+	</file>
+	<file path="eng-085a0329.flac">
+		<tag 
+			swac_text="130" />
+	</file>
+	<file path="eng-0943260c.flac">
+		<tag 
+			swac_text="89" />
+	</file>
+	<file path="eng-0a6216d9.flac">
+		<tag 
+			swac_text="33" />
+	</file>
+	<file path="eng-0d0fd2c0.flac">
+		<tag 
+			swac_text="37" />
+	</file>
+	<file path="eng-0d7c2e25.flac">
+		<tag 
+			swac_text="30000" />
+	</file>
+	<file path="eng-0eb7f191.flac">
+		<tag 
+			swac_text="269" />
+	</file>
+	<file path="eng-0f37c730.flac">
+		<tag 
+			swac_text="134" />
+	</file>
+	<file path="eng-1058174d.flac">
+		<tag 
+			swac_text="99" />
+	</file>
+	<file path="eng-11255ead.flac">
+		<tag 
+			swac_text="524" />
+	</file>
+	<file path="eng-11413268.flac">
+		<tag 
+			swac_text="120" />
+	</file>
+	<file path="eng-1167023b.flac">
+		<tag 
+			swac_text="779" />
+	</file>
+	<file path="eng-12c5e606.flac">
+		<tag 
+			swac_text="320" />
+	</file>
+	<file path="eng-13792798.flac">
+		<tag 
+			swac_text="23" />
+	</file>
+	<file path="eng-1414e381.flac">
+		<tag 
+			swac_text="27" />
+	</file>
+	<file path="eng-162cf671.flac">
+		<tag 
+			swac_text="124" />
+	</file>
+	<file path="eng-18b522d5.flac">
+		<tag 
+			swac_text="371" />
+	</file>
+	<file path="eng-1909e34b.flac">
+		<tag 
+			swac_text="72" />
+	</file>
+	<file path="eng-19ee5b66.flac">
+		<tag 
+			swac_text="95" />
+	</file>
+	<file path="eng-1ad5be0d.flac">
+		<tag 
+			swac_text="2" />
+	</file>
+	<file path="eng-1b17c6e8.flac">
+		<tag 
+			swac_text="728" />
+	</file>
+	<file path="eng-1b559a7e.flac">
+		<tag 
+			swac_text="575" />
+	</file>
+	<file path="eng-1bb22253.flac">
+		<tag 
+			swac_text="592" />
+	</file>
+	<file path="eng-1db87a14.flac">
+		<tag 
+			swac_text="6" />
+	</file>
+	<file path="eng-1e2e6b9c.flac">
+		<tag 
+			swac_text="3000" />
+	</file>
+	<file path="eng-1e642752.flac">
+		<tag 
+			swac_text="76" />
+	</file>
+	<file path="eng-1e839f7f.flac">
+		<tag 
+			swac_text="91" />
+	</file>
+	<file path="eng-1f5b3224.flac">
+		<tag 
+			swac_text="796" />
+	</file>
+	<file path="eng-1f9aba5a.flac">
+		<tag 
+			swac_text="128" />
+	</file>
+	<file path="eng-20f38484.flac">
+		<tag 
+			swac_text="300" />
+	</file>
+	<file path="eng-2131eeb3.flac">
+		<tag 
+			swac_text="200" />
+	</file>
+	<file path="eng-237750ea.flac">
+		<tag 
+			swac_text="100" />
+	</file>
+	<file path="eng-241a94f3.flac">
+		<tag 
+			swac_text="104" />
+	</file>
+	<file path="eng-247ef836.flac">
+		<tag 
+			swac_text="500" />
+	</file>
+	<file path="eng-25bc9201.flac">
+		<tag 
+			swac_text="400" />
+	</file>
+	<file path="eng-2638466f.flac">
+		<tag 
+			swac_text="600" />
+	</file>
+	<file path="eng-27fa2c58.flac">
+		<tag 
+			swac_text="700" />
+	</file>
+	<file path="eng-29f09bae.flac">
+		<tag 
+			swac_text="6000" />
+	</file>
+	<file path="eng-2b3f81c9.flac">
+		<tag 
+			swac_text="52" />
+	</file>
+	<file path="eng-2c5245d0.flac">
+		<tag 
+			swac_text="56" />
+	</file>
+	<file path="eng-2ca66b65.flac">
+		<tag 
+			swac_text="800" />
+	</file>
+	<file path="eng-2d640152.flac">
+		<tag 
+			swac_text="900" />
+	</file>
+	<file path="eng-2dacd8d8.flac">
+		<tag 
+			swac_text="108" />
+	</file>
+	<file path="eng-301c0795.flac">
+		<tag 
+			swac_text="20000" />
+	</file>
+	<file path="eng-301ca578.flac">
+		<tag 
+			swac_text="141" />
+	</file>
+	<file path="eng-30d47cf2.flac">
+		<tag 
+			swac_text="949" />
+	</file>
+	<file path="eng-3224b088.flac">
+		<tag 
+			swac_text="42" />
+	</file>
+	<file path="eng-33fc1dd3.flac">
+		<tag 
+			swac_text="745" />
+	</file>
+	<file path="eng-34b7e999.flac">
+		<tag 
+			swac_text="118" />
+	</file>
+	<file path="eng-35497491.flac">
+		<tag 
+			swac_text="46" />
+	</file>
+	<file path="eng-36f157c0.flac">
+		<tag 
+			swac_text="218" />
+	</file>
+	<file path="eng-37150da4.flac">
+		<tag 
+			swac_text="541" />
+	</file>
+	<file path="eng-37716161.flac">
+		<tag 
+			swac_text="145" />
+	</file>
+	<file path="eng-3854745b.flac">
+		<tag 
+			swac_text="13" />
+	</file>
+	<file path="eng-3a6c61ab.flac">
+		<tag 
+			swac_text="110" />
+	</file>
+	<file path="eng-3b453440.flac">
+		<tag 
+			swac_text="5000" />
+	</file>
+	<file path="eng-3d01a5b2.flac">
+		<tag 
+			swac_text="114" />
+	</file>
+	<file path="eng-3ec72d4a.flac">
+		<tag 
+			swac_text="149" />
+	</file>
+	<file path="eng-3f39b042.flac">
+		<tag 
+			swac_text="17" />
+	</file>
+	<file path="eng-407651f7.flac">
+		<tag 
+			swac_text="144" />
+	</file>
+	<file path="eng-424e4407.flac">
+		<tag 
+			swac_text="47" />
+	</file>
+	<file path="eng-43b0d90f.flac">
+		<tag 
+			swac_text="119" />
+	</file>
+	<file path="eng-4415c49c.flac">
+		<tag 
+			swac_text="915" />
+	</file>
+	<file path="eng-4523801e.flac">
+		<tag 
+			swac_text="43" />
+	</file>
+	<file path="eng-471b95ee.flac">
+		<tag 
+			swac_text="140" />
+	</file>
+	<file path="eng-47cc3684.flac">
+		<tag 
+			swac_text="90000" />
+	</file>
+	<file path="eng-483e80d4.flac">
+		<tag 
+			swac_text="16" />
+	</file>
+	<file path="eng-49c01ddc.flac">
+		<tag 
+			swac_text="148" />
+	</file>
+	<file path="eng-49e62d8f.flac">
+		<tag 
+			swac_text="711" />
+	</file>
+	<file path="eng-4a069524.flac">
+		<tag 
+			swac_text="115" />
+	</file>
+	<file path="eng-4d6b513d.flac">
+		<tag 
+			swac_text="111" />
+	</file>
+	<file path="eng-4f5344cd.flac">
+		<tag 
+			swac_text="12" />
+	</file>
+	<file path="eng-531da465.flac">
+		<tag 
+			swac_text="105" />
+	</file>
+	<file path="eng-5470607c.flac">
+		<tag 
+			swac_text="101" />
+	</file>
+	<file path="eng-55d6668e.flac">
+		<tag 
+			swac_text="405" />
+	</file>
+	<file path="eng-5636de25.flac">
+		<tag 
+			swac_text="201" />
+	</file>
+	<file path="eng-57d28441.flac">
+		<tag 
+			swac_text="558" />
+	</file>
+	<file path="eng-5aabe84e.flac">
+		<tag 
+			swac_text="109" />
+	</file>
+	<file path="eng-5ae9b4d8.flac">
+		<tag 
+			swac_text="354" />
+	</file>
+	<file path="eng-5b557546.flac">
+		<tag 
+			swac_text="57" />
+	</file>
+	<file path="eng-5c38b15f.flac">
+		<tag 
+			swac_text="53" />
+	</file>
+	<file path="eng-5e00a4af.flac">
+		<tag 
+			swac_text="150" />
+	</file>
+	<file path="eng-5fe4fecb.flac">
+		<tag 
+			swac_text="609" />
+	</file>
+	<file path="eng-612bc6e7.flac">
+		<tag 
+			swac_text="125" />
+	</file>
+	<file path="eng-6313d317.flac">
+		<tag 
+			swac_text="26" />
+	</file>
+	<file path="eng-647e170e.flac">
+		<tag 
+			swac_text="22" />
+	</file>
+	<file path="eng-664602fe.flac">
+		<tag 
+			swac_text="121" />
+	</file>
+	<file path="eng-675f27db.flac">
+		<tag 
+			swac_text="98" />
+	</file>
+	<file path="eng-689d8acc.flac">
+		<tag 
+			swac_text="129" />
+	</file>
+	<file path="eng-696317c4.flac">
+		<tag 
+			swac_text="77" />
+	</file>
+	<file path="eng-6984afe9.flac">
+		<tag 
+			swac_text="90" />
+	</file>
+	<file path="eng-6abf4a82.flac">
+		<tag 
+			swac_text="7" />
+	</file>
+	<file path="eng-6dd28e9b.flac">
+		<tag 
+			swac_text="3" />
+	</file>
+	<file path="eng-6e0ed3dd.flac">
+		<tag 
+			swac_text="73" />
+	</file>
+	<file path="eng-6ee96bf0.flac">
+		<tag 
+			swac_text="94" />
+	</file>
+	<file path="eng-7062e1e9.flac">
+		<tag 
+			swac_text="660" />
+	</file>
+	<file path="eng-70782685.flac">
+		<tag 
+			swac_text="67" />
+	</file>
+	<file path="eng-709f9ea8.flac">
+		<tag 
+			swac_text="80" />
+	</file>
+	<file path="eng-7186bb8d.flac">
+		<tag 
+			swac_text="139" />
+	</file>
+	<file path="eng-71938bf8.flac">
+		<tag 
+			swac_text="9000" />
+	</file>
+	<file path="eng-7715e29c.flac">
+		<tag 
+			swac_text="63" />
+	</file>
+	<file path="eng-774d7966.flac">
+		<tag 
+			swac_text="439" />
+	</file>
+	<file path="eng-77bc7d45.flac">
+		<tag 
+			swac_text="10000" />
+	</file>
+	<file path="eng-77f25ab1.flac">
+		<tag 
+			swac_text="84" />
+	</file>
+	<file path="eng-7830f7a6.flac">
+		<tag 
+			swac_text="135" />
+	</file>
+	<file path="eng-7a08e256.flac">
+		<tag 
+			swac_text="36" />
+	</file>
+	<file path="eng-7a7649ff.flac">
+		<tag 
+			swac_text="235" />
+	</file>
+	<file path="eng-7aac1f34.flac">
+		<tag 
+			swac_text="80000" />
+	</file>
+	<file path="eng-7cb4dae0.flac">
+		<tag 
+			swac_text="983" />
+	</file>
+	<file path="eng-7d65264f.flac">
+		<tag 
+			swac_text="32" />
+	</file>
+	<file path="eng-7d9108fa.flac">
+		<tag 
+			swac_text="864" />
+	</file>
+	<file path="eng-7e44169a.flac">
+		<tag 
+			swac_text="88" />
+	</file>
+	<file path="eng-7f5d33bf.flac">
+		<tag 
+			swac_text="131" />
+	</file>
+	<file path="eng-8000b2f1.flac">
+		<tag 
+			swac_text="71" />
+	</file>
+	<file path="eng-80e70adc.flac">
+		<tag 
+			swac_text="96" />
+	</file>
+	<file path="eng-823cdb85.flac">
+		<tag 
+			swac_text="50000" />
+	</file>
+	<file path="eng-83dcefb7.flac">
+		<tag 
+			swac_text="1" />
+	</file>
+	<file path="eng-83f95325.flac">
+		<tag 
+			swac_text="4000" />
+	</file>
+	<file path="eng-84abfe10.flac">
+		<tag 
+			swac_text="28" />
+	</file>
+	<file path="eng-84b12bae.flac">
+		<tag 
+			swac_text="5" />
+	</file>
+	<file path="eng-876d76e8.flac">
+		<tag 
+			swac_text="75" />
+	</file>
+	<file path="eng-878acec5.flac">
+		<tag 
+			swac_text="92" />
+	</file>
+	<file path="eng-884863d2.flac">
+		<tag 
+			swac_text="123" />
+	</file>
+	<file path="eng-8a707622.flac">
+		<tag 
+			swac_text="20" />
+	</file>
+	<file path="eng-8d076785.flac">
+		<tag 
+			swac_text="9" />
+	</file>
+	<file path="eng-8d1db23b.flac">
+		<tag 
+			swac_text="24" />
+	</file>
+	<file path="eng-8edb3ac3.flac">
+		<tag 
+			swac_text="79" />
+	</file>
+	<file path="eng-8f25a7cb.flac">
+		<tag 
+			swac_text="127" />
+	</file>
+	<file path="eng-914cfccb.flac">
+		<tag 
+			swac_text="7000" />
+	</file>
+	<file path="eng-91535293.flac">
+		<tag 
+			swac_text="133" />
+	</file>
+	<file path="eng-925d03e1.flac">
+		<tag 
+			swac_text="966" />
+	</file>
+	<file path="eng-936b4763.flac">
+		<tag 
+			swac_text="30" />
+	</file>
+	<file path="eng-9378d1fb.flac">
+		<tag 
+			swac_text="881" />
+	</file>
+	<file path="eng-9406837a.flac">
+		<tag 
+			swac_text="34" />
+	</file>
+	<file path="eng-95ba42e4.flac">
+		<tag 
+			swac_text="337" />
+	</file>
+	<file path="eng-963e968a.flac">
+		<tag 
+			swac_text="137" />
+	</file>
+	<file path="eng-97c00b82.flac">
+		<tag 
+			swac_text="69" />
+	</file>
+	<file path="eng-991b83b0.flac">
+		<tag 
+			swac_text="61" />
+	</file>
+	<file path="eng-99fc3b9d.flac">
+		<tag 
+			swac_text="86" />
+	</file>
+	<file path="eng-9db0cf51.flac">
+		<tag 
+			swac_text="38" />
+	</file>
+	<file path="eng-9e7647a9.flac">
+		<tag 
+			swac_text="65" />
+	</file>
+	<file path="eng-9e91ff84.flac">
+		<tag 
+			swac_text="82" />
+	</file>
+	<file path="eng-9faeeaf2.flac">
+		<tag 
+			swac_text="762" />
+	</file>
+	<file path="eng-a15d25e1.flac">
+		<tag 
+			swac_text="10" />
+	</file>
+	<file path="eng-a3653011.flac">
+		<tag 
+			swac_text="113" />
+	</file>
+	<file path="eng-a408f408.flac">
+		<tag 
+			swac_text="117" />
+	</file>
+	<file path="eng-a5f66900.flac">
+		<tag 
+			swac_text="49" />
+	</file>
+	<file path="eng-a630e1f8.flac">
+		<tag 
+			swac_text="14" />
+	</file>
+	<file path="eng-a6920cf9.flac">
+		<tag 
+			swac_text="2000" />
+	</file>
+	<file path="eng-a915f4c2.flac">
+		<tag 
+			swac_text="142" />
+	</file>
+	<file path="eng-ab2de132.flac">
+		<tag 
+			swac_text="41" />
+	</file>
+	<file path="eng-ac40252b.flac">
+		<tag 
+			swac_text="45" />
+	</file>
+	<file path="eng-acb40b9e.flac">
+		<tag 
+			swac_text="813" />
+	</file>
+	<file path="eng-ae7830db.flac">
+		<tag 
+			swac_text="146" />
+	</file>
+	<file path="eng-af86add3.flac">
+		<tag 
+			swac_text="18" />
+	</file>
+	<file path="eng-b1a8c371.flac">
+		<tag 
+			swac_text="456" />
+	</file>
+	<file path="eng-b236d073.flac">
+		<tag 
+			swac_text="51" />
+	</file>
+	<file path="eng-b2487bda.flac">
+		<tag 
+			swac_text="252" />
+	</file>
+	<file path="eng-b427a317.flac">
+		<tag 
+			swac_text="1000" />
+	</file>
+	<file path="eng-b55b146a.flac">
+		<tag 
+			swac_text="55" />
+	</file>
+	<file path="eng-b9fad53e.flac">
+		<tag 
+			swac_text="303" />
+	</file>
+	<file path="eng-ba1a6d95.flac">
+		<tag 
+			swac_text="507" />
+	</file>
+	<file path="eng-ba7e0150.flac">
+		<tag 
+			swac_text="103" />
+	</file>
+	<file path="eng-bced5841.flac">
+		<tag 
+			swac_text="59" />
+	</file>
+	<file path="eng-bd13c549.flac">
+		<tag 
+			swac_text="107" />
+	</file>
+	<file path="eng-bf5cf235.flac">
+		<tag 
+			swac_text="40000" />
+	</file>
+	<file path="eng-c25c24fc.flac">
+		<tag 
+			swac_text="54" />
+	</file>
+	<file path="eng-c531e0e5.flac">
+		<tag 
+			swac_text="50" />
+	</file>
+	<file path="eng-c59ca155.flac">
+		<tag 
+			swac_text="60000" />
+	</file>
+	<file path="eng-c92fec9d.flac">
+		<tag 
+			swac_text="8000" />
+	</file>
+	<file path="eng-ca14f5df.flac">
+		<tag 
+			swac_text="106" />
+	</file>
+	<file path="eng-cbea68d7.flac">
+		<tag 
+			swac_text="58" />
+	</file>
+	<file path="eng-cd7931c6.flac">
+		<tag 
+			swac_text="102" />
+	</file>
+	<file path="eng-d137d16e.flac">
+		<tag 
+			swac_text="15" />
+	</file>
+	<file path="eng-d2f15996.flac">
+		<tag 
+			swac_text="48" />
+	</file>
+	<file path="eng-d30fc49e.flac">
+		<tag 
+			swac_text="116" />
+	</file>
+	<file path="eng-d4620087.flac">
+		<tag 
+			swac_text="112" />
+	</file>
+	<file path="eng-d65a1577.flac">
+		<tag 
+			swac_text="11" />
+	</file>
+	<file path="eng-d6ae3bc2.flac">
+		<tag 
+			swac_text="847" />
+	</file>
+	<file path="eng-d8819d45.flac">
+		<tag 
+			swac_text="19" />
+	</file>
+	<file path="eng-d97f004d.flac">
+		<tag 
+			swac_text="147" />
+	</file>
+	<file path="eng-db4715bd.flac">
+		<tag 
+			swac_text="44" />
+	</file>
+	<file path="eng-db5dd2d1.flac">
+		<tag 
+			swac_text="643" />
+	</file>
+	<file path="eng-dc2ad1a4.flac">
+		<tag 
+			swac_text="40" />
+	</file>
+	<file path="eng-de12c454.flac">
+		<tag 
+			swac_text="143" />
+	</file>
+	<file path="eng-e0c73b14.flac">
+		<tag 
+			swac_text="68" />
+	</file>
+	<file path="eng-e139a61c.flac">
+		<tag 
+			swac_text="136" />
+	</file>
+	<file path="eng-e301b3ec.flac">
+		<tag 
+			swac_text="35" />
+	</file>
+	<file path="eng-e46c77f5.flac">
+		<tag 
+			swac_text="31" />
+	</file>
+	<file path="eng-e6546205.flac">
+		<tag 
+			swac_text="132" />
+	</file>
+	<file path="eng-e6f186be.flac">
+		<tag 
+			swac_text="388" />
+	</file>
+	<file path="eng-e84733bd.flac">
+		<tag 
+			swac_text="932" />
+	</file>
+	<file path="eng-e971773f.flac">
+		<tag 
+			swac_text="64" />
+	</file>
+	<file path="eng-e996cf12.flac">
+		<tag 
+			swac_text="83" />
+	</file>
+	<file path="eng-eab7ffc7.flac">
+		<tag 
+			swac_text="39" />
+	</file>
+	<file path="eng-eb4962cf.flac">
+		<tag 
+			swac_text="167" />
+	</file>
+	<file path="eng-ecc31efb.flac">
+		<tag 
+			swac_text="184" />
+	</file>
+	<file path="eng-ee1cb326.flac">
+		<tag 
+			swac_text="60" />
+	</file>
+	<file path="eng-eefb0b0b.flac">
+		<tag 
+			swac_text="87" />
+	</file>
+	<file path="eng-f06a467e.flac">
+		<tag 
+			swac_text="74" />
+	</file>
+	<file path="eng-f08dfe53.flac">
+		<tag 
+			swac_text="93" />
+	</file>
+	<file path="eng-f097393f.flac">
+		<tag 
+			swac_text="694" />
+	</file>
+	<file path="eng-f21ad643.flac">
+		<tag 
+			swac_text="100000" />
+	</file>
+	<file path="eng-f3acce86.flac">
+		<tag 
+			swac_text="29" />
+	</file>
+	<file path="eng-f3b61b38.flac">
+		<tag 
+			swac_text="4" />
+	</file>
+	<file path="eng-f3bf581e.flac">
+		<tag 
+			swac_text="898" />
+	</file>
+	<file path="eng-f3f4557c.flac">
+		<tag 
+			swac_text="473" />
+	</file>
+	<file path="eng-f47e2948.flac">
+		<tag 
+			swac_text="490" />
+	</file>
+	<file path="eng-f7078267.flac">
+		<tag 
+			swac_text="70" />
+	</file>
+	<file path="eng-f71d450b.flac">
+		<tag 
+			swac_text="677" />
+	</file>
+	<file path="eng-f7e03a4a.flac">
+		<tag 
+			swac_text="97" />
+	</file>
+	<file path="eng-f822975d.flac">
+		<tag 
+			swac_text="126" />
+	</file>
+	<file path="eng-f8fc88e5.flac">
+		<tag 
+			swac_text="70000" />
+	</file>
+	<file path="eng-f98491af.flac">
+		<tag 
+			swac_text="422" />
+	</file>
+	<file path="eng-f9dc0a55.flac">
+		<tag 
+			swac_text="78" />
+	</file>
+	<file path="eng-fa005713.flac">
+		<tag 
+			swac_text="8" />
+	</file>
+	<file path="eng-fa1a82ad.flac">
+		<tag 
+			swac_text="25" />
+	</file>
+	<file path="eng-fd6d81d8.flac">
+		<tag 
+			swac_text="626" />
+	</file>
+	<file path="eng-fd7746b4.flac">
+		<tag 
+			swac_text="21" />
+	</file>
+	<file path="eng-ff4f5344.flac">
+		<tag 
+			swac_text="122" />
+	</file>
+</group>
+</index>
