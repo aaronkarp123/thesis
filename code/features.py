@@ -7,8 +7,8 @@ ms.use('seaborn-muted')
 import librosa
 import librosa.display
 
-def get_spectrogram(y, sr):
-    S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
+def get_spectrogram(y, sr, n_mels=128):
+    S = librosa.feature.melspectrogram(y, sr=sr, n_mels=n_mels)
 
     # Convert to log scale (dB). We'll use the peak power (max) as reference.
     log_S = librosa.power_to_db(S, ref=np.max)
@@ -31,8 +31,8 @@ def get_spectrogram(y, sr):
     
     return log_S
     
-def get_mfcc(y, sr):
-    S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
+def get_mfcc(y, sr, n_mels=128):
+    S = librosa.feature.melspectrogram(y, sr=sr, n_mels=n_mels)
     
     # Convert to log scale (dB). We'll use the peak power (max) as reference.
     log_S = librosa.power_to_db(S, ref=np.max)
