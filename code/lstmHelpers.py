@@ -32,7 +32,7 @@ def load_classes(filedir, num_classes, display=False):
             ipd.display(ipd.Audio(y1, rate = sr1)) # load query file
     return used_classes, unused_classes
 
-def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use):
+def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use, max_ramp_length = 0.25):
     ## Load all data from given classes in "order_to_use" and write to file, 
     ## dicatated by "name"
     
@@ -46,6 +46,8 @@ def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use
     
     match_matrix = load_matches()
     
+    max_ramp_length = int(22050 * max_ramp_length)
+    
     open(filedir + name, 'w').close()  # Delete previous info
 
     with open(filedir + name, "a") as training_file:
@@ -56,7 +58,7 @@ def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use
                                                to_use_index - used_length)  # Reset counter for second array
             else:
                 info = generate_used_stream(used_files, used_classes[to_use_index], to_use_index)
-            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " \n"
+            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + "\n"
             training_file.write(to_write)
             
 def generate_used_stream(used_files, class_to_use, to_use):
@@ -70,3 +72,19 @@ def generate_matched_stream(unused_files, match_matrix, class_to_use, to_use):
     
     to_check = [unused_files[class_to_use], str(to_use), match_matrix[class_to_use][2]]
     return to_check
+
+def apply_ramp(y, fadein_len = 0, fadeout_len = 0):
+    ## Create a linear ramp for fading in and out
+    ## Apply the two fades to "y" and return
+    
+    fade_in = np.linspace(0.0, 1.0, num=int(fadein_len))
+    fade_out = np.linspace(1.0, 0.0, num=int(fadeout_len))
+    adjusted_fadein = np.pad(fade_in, (0, y.shape[0] - int(fadein_len)), 'edge')
+    adjusted_fadeout = np.pad(fade_out, (y.shape[0] - int(fadeout_len), 0), 'edge')
+    if int(fadein_len) == 0:
+        fades = adjusted_fadeout
+    elif int(fadeout_len) == 0:
+        fades = adjusted_fadein
+    else:
+        fades = np.multiply(adjusted_fadein, adjusted_fadeout)
+    return np.multiply(y, fades)
