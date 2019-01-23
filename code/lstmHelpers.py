@@ -60,6 +60,23 @@ def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use
                 info = generate_used_stream(used_files, used_classes[to_use_index], to_use_index)
             to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + "\n"
             training_file.write(to_write)
+
+def load_stream(name, filedir='../'):
+    training_file = open(filedir + name, "r")
+    info = training_file.read().split('\n')
+    data_matrix = []
+    for inf in info:
+        segs = inf.split('-_-')
+        if len(segs) > 1:
+            try:
+                data_matrix.append([segs[0].strip(), segs[1].strip(), segs[2].strip(), segs[3].strip(), segs[4].strip()])
+            except Exception as e:
+                #print(e)
+                print(inf)
+        else:
+            print("\n")
+    training_file.close()
+    return data_matrix
             
 def generate_used_stream(used_files, class_to_use, to_use):
     ## Generate list structure for exact matches
