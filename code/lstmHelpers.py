@@ -58,7 +58,7 @@ def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use
                                                to_use_index - used_length)  # Reset counter for second array
             else:
                 info = generate_used_stream(used_files, used_classes[to_use_index], to_use_index)
-            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + "\n"
+            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, 600) / 10.0) + "\n"
             training_file.write(to_write)
 
 def load_stream(name, filedir='../'):
@@ -69,7 +69,8 @@ def load_stream(name, filedir='../'):
         segs = inf.split('-_-')
         if len(segs) > 1:
             try:
-                data_matrix.append([segs[0].strip(), segs[1].strip(), segs[2].strip(), segs[3].strip(), segs[4].strip()])
+                data_matrix.append([segs[0].strip(), segs[1].strip(), segs[2].strip(), segs[3].strip(), 
+                                    segs[4].strip(), segs[5].strip()])
             except Exception as e:
                 #print(e)
                 print(inf)
@@ -105,3 +106,21 @@ def apply_ramp(y, fadein_len = 0, fadeout_len = 0):
     else:
         fades = np.multiply(adjusted_fadein, adjusted_fadeout)
     return np.multiply(y, fades)
+
+def apply_noise(y, target_snr_db=20):
+    ## Adapted from: https://stackoverflow.com/questions/14058340/adding-noise-to-a-signal-in-python
+    ## Apply random white noise to signal to reach target_snr_db
+
+    x_watts = y ** 2
+    sig_avg_watts = np.mean(x_watts)
+    sig_avg_db = 10 * np.log10(sig_avg_watts)
+    # Calculate noise according to [2] then convert to watts
+    noise_avg_db = sig_avg_db - float(target_snr_db)
+    noise_avg_watts = 10 ** (noise_avg_db / 10)
+    # Generate an sample of white noise
+    mean_noise = 0
+    noise_volts = np.random.normal(mean_noise, noise_avg_watts, len(x_watts))
+    # Noise up the original signal
+    noisy_signal = y + noise_volts
+
+    return np.clip(noisy_signal, -1, 1)
