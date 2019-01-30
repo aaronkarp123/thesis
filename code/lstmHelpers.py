@@ -58,7 +58,7 @@ def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use
                                                to_use_index - used_length)  # Reset counter for second array
             else:
                 info = generate_used_stream(used_files, used_classes[to_use_index], to_use_index)
-            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, 600) / 10.0) + "\n"
+            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, 600) / 10.0) + " -_- " + str(np.random.normal(1, 0.15, 1)[0]) + "\n"
             training_file.write(to_write)
 
 def load_stream(name, filedir='../'):
@@ -70,7 +70,7 @@ def load_stream(name, filedir='../'):
         if len(segs) > 1:
             try:
                 data_matrix.append([segs[0].strip(), segs[1].strip(), segs[2].strip(), segs[3].strip(), 
-                                    segs[4].strip(), segs[5].strip()])
+                                    segs[4].strip(), segs[5].strip(), segs[6].strip()])
             except Exception as e:
                 #print(e)
                 print(inf)
@@ -124,3 +124,6 @@ def apply_noise(y, target_snr_db=20):
     noisy_signal = y + noise_volts
 
     return np.clip(noisy_signal, -1, 1)
+
+def timewarp(sig, factor=1):
+    return librosa.effects.time_stretch(sig, float(factor))
