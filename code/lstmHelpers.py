@@ -55,10 +55,10 @@ def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use
             to_use_index = order_to_use[i]
             if to_use_index >= used_length:
                 info = generate_matched_stream(unused_files, match_matrix, unused_classes[to_use_index - used_length], 
-                                               to_use_index - used_length)  # Reset counter for second array
+                                               to_use_index)  # Reset counter for second array
             else:
                 info = generate_used_stream(used_files, used_classes[to_use_index], to_use_index)
-            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, 600) / 10.0) + " -_- " + str(np.random.normal(1, 0.15, 1)[0]) + "\n"
+            to_write = info[0] + " -_- " + info[1] + " -_- " + info[2] + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, max_ramp_length)) + " -_- " + str(random.randint(0, 600) / 10.0) + " -_- " + str(np.random.normal(1, 0.1, 1)[0]) + "\n"
             training_file.write(to_write)
 
 def load_stream(name, filedir='../'):
