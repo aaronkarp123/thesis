@@ -48,12 +48,22 @@ def generate_data_file(name, filedir, used_classes, unused_classes, order_to_use
     
     max_ramp_length = int(22050 * max_ramp_length)
     
+    used_dict = {}
+    for i in range(len(order_to_use)):
+        to_use_index = order_to_use[i]
+        if to_use_index < used_length:
+            tempname = used_files[used_classes[to_use_index]]
+            if tempname not in used_dict:
+                used_dict[tempname] = order_to_use[i]
+    
     open(filedir + name, 'w').close()  # Delete previous info
-
+   
     with open(filedir + name, "a") as training_file:
         for i in range(len(order_to_use)):
             to_use_index = order_to_use[i]
             if to_use_index >= used_length:
+                if match_matrix[unused_classes[to_use_index - used_length]][2] in used_dict:  # if you match to a used file in the current data set
+                    to_use_index = used_dict[match_matrix[unused_classes[to_use_index - used_length]][2]]
                 info = generate_matched_stream(unused_files, match_matrix, unused_classes[to_use_index - used_length], 
                                                to_use_index)  # Reset counter for second array
             else:
