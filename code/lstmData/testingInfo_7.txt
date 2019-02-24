@@ -1,0 +1,245 @@
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 838 -_- 2132 -_- 27.0 -_- 1.2024580808366947
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 1372 -_- 1794 -_- 48.4 -_- 1.089018380875968
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 483 -_- 735 -_- 44.1 -_- 0.9348582007874697
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 4601 -_- 2709 -_- 41.5 -_- 1.1329799344261988
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 1603 -_- 5131 -_- 21.4 -_- 1.1060524771227271
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2976 -_- 3538 -_- 35.8 -_- 1.017073559044556
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1310 -_- 1508 -_- 44.4 -_- 0.9891950785344654
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 57 -_- 5232 -_- 34.0 -_- 1.0414308111229658
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3114 -_- 2808 -_- 44.0 -_- 1.0859352442619978
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1195 -_- 3732 -_- 29.9 -_- 1.0027119562771558
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4265 -_- 45 -_- 14.5 -_- 0.7699799420386964
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 5091 -_- 3045 -_- 32.6 -_- 1.11931991093625
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3175 -_- 4820 -_- 22.9 -_- 0.8948681548731813
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3987 -_- 460 -_- 57.2 -_- 1.0505576451970733
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 4334 -_- 1086 -_- 13.1 -_- 0.8848765766462138
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 2136 -_- 4057 -_- 19.8 -_- 1.1466166237893092
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 2390 -_- 278 -_- 54.4 -_- 0.9773931526770647
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 4001 -_- 158 -_- 47.9 -_- 0.9142897172923296
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 3599 -_- 455 -_- 59.0 -_- 0.9343702438465747
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 928 -_- 2443 -_- 54.2 -_- 0.9823934760593334
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3893 -_- 3455 -_- 54.5 -_- 0.9527978184647958
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 2509 -_- 4315 -_- 43.7 -_- 0.8800173021618435
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 2703 -_- 540 -_- 24.0 -_- 1.0787186001468636
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1206 -_- 3517 -_- 42.1 -_- 1.120356894060091
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1581 -_- 361 -_- 44.1 -_- 1.0643835879508408
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2029 -_- 992 -_- 50.1 -_- 0.9907546483908131
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2454 -_- 4534 -_- 35.9 -_- 1.1859018104776025
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 510 -_- 1632 -_- 34.2 -_- 1.0108794580316043
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 3309 -_- 2711 -_- 38.8 -_- 0.8883377587192393
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 5088 -_- 4637 -_- 45.8 -_- 0.9810818114464466
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2456 -_- 218 -_- 57.6 -_- 1.1499512169365322
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 3593 -_- 989 -_- 55.8 -_- 0.9603703337347061
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1116 -_- 3781 -_- 51.8 -_- 0.960861030369172
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3789 -_- 3036 -_- 18.6 -_- 0.9941044236907514
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1840 -_- 2667 -_- 55.5 -_- 0.990584660530284
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 3042 -_- 949 -_- 29.6 -_- 1.0502365046528384
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 1345 -_- 3195 -_- 10.3 -_- 0.9091917978833735
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 5363 -_- 2704 -_- 16.7 -_- 1.138810275240175
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 5028 -_- 1152 -_- 27.3 -_- 1.042298166961467
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 1299 -_- 1993 -_- 27.2 -_- 1.0444067239479018
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 1917 -_- 1776 -_- 20.6 -_- 1.0581915752282463
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 374 -_- 4427 -_- 15.8 -_- 0.8143740938093162
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 2503 -_- 280 -_- 14.4 -_- 1.1847495128462353
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 648 -_- 2747 -_- 31.8 -_- 1.0895660194189043
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3305 -_- 1412 -_- 10.9 -_- 0.8190973068616635
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1824 -_- 4592 -_- 47.8 -_- 1.1506947691509024
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4382 -_- 1621 -_- 49.1 -_- 0.9082502087107804
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3984 -_- 752 -_- 50.2 -_- 1.1062984730893723
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 3336 -_- 1668 -_- 31.5 -_- 0.8505468843880502
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 4075 -_- 1842 -_- 11.5 -_- 0.9471019659188398
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3751 -_- 5489 -_- 21.6 -_- 1.013781994075656
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2202 -_- 1153 -_- 19.4 -_- 1.0412256672357598
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 2048 -_- 3413 -_- 55.2 -_- 0.9794093085830972
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 2461 -_- 2833 -_- 23.3 -_- 1.041172814144939
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 3402 -_- 4264 -_- 34.7 -_- 0.9334479974734984
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 3579 -_- 3934 -_- 48.7 -_- 0.9451086143240338
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3805 -_- 2086 -_- 21.7 -_- 0.875331857950887
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 3435 -_- 4404 -_- 16.3 -_- 1.0756834338569217
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3133 -_- 3707 -_- 34.6 -_- 1.0324486690405186
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 4647 -_- 3756 -_- 28.6 -_- 1.082755789003634
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 2015 -_- 1848 -_- 16.0 -_- 1.0581597474248334
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1007 -_- 4406 -_- 23.3 -_- 0.9829611356170542
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3279 -_- 1395 -_- 47.7 -_- 1.0697928712522193
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1495 -_- 2279 -_- 39.7 -_- 1.0431466381545291
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1824 -_- 2429 -_- 30.3 -_- 1.215641608255533
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 3158 -_- 2261 -_- 47.5 -_- 0.8631032156645027
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 2621 -_- 3107 -_- 49.0 -_- 1.0339085917243631
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2149 -_- 2612 -_- 26.8 -_- 1.0622769978543785
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2128 -_- 1132 -_- 26.5 -_- 1.0756339155192856
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 924 -_- 297 -_- 43.3 -_- 1.0411510478983355
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 55 -_- 2114 -_- 16.8 -_- 0.9727516889103247
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1149 -_- 4081 -_- 19.1 -_- 1.1499401821086626
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 4747 -_- 5210 -_- 21.9 -_- 1.006478211541871
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1472 -_- 1042 -_- 26.0 -_- 0.9295140096196307
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 261 -_- 88 -_- 51.9 -_- 0.9849487407738858
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2772 -_- 3757 -_- 36.3 -_- 1.0599200825694277
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1020 -_- 3998 -_- 49.9 -_- 0.8254850800821746
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 3387 -_- 2849 -_- 40.7 -_- 1.0781198784262214
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4848 -_- 16 -_- 22.6 -_- 1.1583253495356356
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 3778 -_- 2179 -_- 54.4 -_- 1.0233146227680507
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 5285 -_- 3317 -_- 13.7 -_- 0.9160118507939474
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1214 -_- 4036 -_- 27.5 -_- 1.0344793787136428
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 729 -_- 4104 -_- 22.9 -_- 1.0612493132617933
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 2766 -_- 4740 -_- 50.4 -_- 1.0597003702478343
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 4563 -_- 5262 -_- 41.8 -_- 0.9915386841894642
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1477 -_- 4395 -_- 58.3 -_- 0.9243692599013787
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1418 -_- 4924 -_- 50.0 -_- 1.0749190807876945
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3942 -_- 4420 -_- 47.3 -_- 1.0483564927247144
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1829 -_- 308 -_- 56.4 -_- 0.9277410074906872
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 2829 -_- 2919 -_- 14.2 -_- 1.008155138276981
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 30 -_- 2494 -_- 10.7 -_- 1.071061265092387
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1880 -_- 5038 -_- 13.3 -_- 0.9427611934586977
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 4959 -_- 2696 -_- 22.9 -_- 0.8690228677731751
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2252 -_- 3491 -_- 14.0 -_- 0.8650718337810128
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1302 -_- 1775 -_- 13.0 -_- 1.0503219871392666
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 2365 -_- 3039 -_- 56.7 -_- 0.9400488692527624
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 5161 -_- 3888 -_- 14.2 -_- 0.9070310853048908
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 1648 -_- 1818 -_- 53.5 -_- 1.068481533494354
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 2811 -_- 2317 -_- 29.3 -_- 0.9224841135582245
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1718 -_- 4890 -_- 23.6 -_- 1.041730679457103
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 5368 -_- 3187 -_- 32.6 -_- 1.1255871005243931
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 1159 -_- 5083 -_- 24.1 -_- 1.0731128775854233
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 119 -_- 3468 -_- 53.4 -_- 1.0593258352334372
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 60 -_- 2893 -_- 56.3 -_- 0.8385435526640851
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 2643 -_- 2224 -_- 25.5 -_- 1.1802870627461421
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 4068 -_- 973 -_- 50.7 -_- 1.0373796847402335
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 942 -_- 1061 -_- 53.2 -_- 0.8528380478796627
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 5400 -_- 2127 -_- 46.3 -_- 0.9507382617989505
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 4314 -_- 3121 -_- 39.1 -_- 1.012957745657758
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 3081 -_- 1651 -_- 51.0 -_- 1.111579424067586
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1855 -_- 3717 -_- 57.8 -_- 1.0169414167763149
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 2265 -_- 1507 -_- 18.2 -_- 0.9663147772496187
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1090 -_- 4546 -_- 45.4 -_- 0.9543832788187536
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1518 -_- 3211 -_- 53.4 -_- 0.8818378701829657
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 288 -_- 2836 -_- 29.6 -_- 0.8621168760480649
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 3918 -_- 1752 -_- 48.1 -_- 1.0578224216765886
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1221 -_- 1258 -_- 40.1 -_- 1.0206810328321365
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3375 -_- 129 -_- 40.8 -_- 0.8737554655375124
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 2917 -_- 231 -_- 34.6 -_- 1.030870265887585
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4394 -_- 584 -_- 26.3 -_- 0.8754442530175894
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1512 -_- 5029 -_- 48.2 -_- 1.0163855102724029
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 2218 -_- 2416 -_- 18.4 -_- 0.981610236356959
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1172 -_- 135 -_- 40.8 -_- 0.9928861606576755
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 926 -_- 3465 -_- 32.8 -_- 1.0252256029021027
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 3653 -_- 5409 -_- 24.0 -_- 1.0397985421035605
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 575 -_- 10 -_- 37.0 -_- 0.9925214539585135
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2831 -_- 1309 -_- 49.7 -_- 0.8933987316335495
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 4716 -_- 4157 -_- 52.8 -_- 0.9676079296850201
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2555 -_- 1379 -_- 53.7 -_- 1.0144675870784106
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 131 -_- 4842 -_- 34.9 -_- 0.9572844473224852
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 2120 -_- 4790 -_- 35.6 -_- 0.9074090479977994
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 4571 -_- 1650 -_- 28.8 -_- 1.0098721536258262
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1647 -_- 2734 -_- 32.7 -_- 0.9602307060696488
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 5251 -_- 2904 -_- 36.3 -_- 1.0574250339944826
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 5134 -_- 749 -_- 16.8 -_- 1.0442817518622183
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 4715 -_- 1802 -_- 21.9 -_- 0.9080157185631977
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 947 -_- 4761 -_- 21.6 -_- 0.9685839324559521
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 3248 -_- 215 -_- 59.0 -_- 1.0115823511588493
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 4483 -_- 1467 -_- 22.0 -_- 1.0089143546216603
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1475 -_- 2852 -_- 14.0 -_- 0.9979988013237383
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 2546 -_- 1420 -_- 43.0 -_- 0.9856417507573676
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2253 -_- 667 -_- 17.3 -_- 0.8350182928438437
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 89 -_- 4341 -_- 22.8 -_- 1.1548720283090683
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 2168 -_- 4803 -_- 28.7 -_- 1.0217977628633332
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 811 -_- 1172 -_- 59.7 -_- 0.9145459873442182
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 4052 -_- 2837 -_- 48.6 -_- 0.9601046724841666
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 3443 -_- 3997 -_- 47.2 -_- 1.0162069195959267
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4585 -_- 2049 -_- 41.6 -_- 0.9956360190078267
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1823 -_- 5048 -_- 43.4 -_- 0.9513900387940325
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1532 -_- 4638 -_- 20.5 -_- 0.9001444252679309
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 3232 -_- 2426 -_- 58.6 -_- 1.0161257376871111
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 5494 -_- 3358 -_- 20.0 -_- 0.9656342317142231
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 4158 -_- 4436 -_- 16.0 -_- 0.8794433953327245
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 2713 -_- 2628 -_- 27.9 -_- 0.9149034259215394
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 4431 -_- 2951 -_- 29.7 -_- 1.0834825339711818
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 4735 -_- 2491 -_- 56.9 -_- 0.9023849193642628
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 610 -_- 4170 -_- 36.8 -_- 0.9553584528703761
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 5305 -_- 2488 -_- 57.3 -_- 0.9620573313437472
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 5299 -_- 5167 -_- 58.9 -_- 0.9553189795430516
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2608 -_- 755 -_- 35.9 -_- 1.1290016182392877
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2669 -_- 3307 -_- 43.4 -_- 1.076057255840781
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 3520 -_- 273 -_- 55.8 -_- 0.8679070405036351
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 657 -_- 97 -_- 14.5 -_- 1.1223402910134113
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 530 -_- 1628 -_- 46.3 -_- 1.0085101288105214
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2671 -_- 180 -_- 51.2 -_- 0.8969547594897191
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1902 -_- 2144 -_- 37.8 -_- 0.8354461961686777
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 3317 -_- 4332 -_- 32.5 -_- 1.0614255030926703
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1330 -_- 3884 -_- 47.1 -_- 1.0460913373402219
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1716 -_- 2195 -_- 56.5 -_- 1.052257679337514
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 3806 -_- 2473 -_- 55.0 -_- 1.0191066594051414
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 4428 -_- 422 -_- 49.3 -_- 1.0814820692999216
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 4465 -_- 5073 -_- 17.7 -_- 1.1137072795375031
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 2792 -_- 4557 -_- 41.7 -_- 0.9148862939382654
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 3347 -_- 4842 -_- 42.6 -_- 0.9737258510065686
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 200 -_- 3104 -_- 27.7 -_- 0.9677161299323225
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 4204 -_- 5388 -_- 34.1 -_- 0.8817285679311493
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 3603 -_- 241 -_- 14.0 -_- 1.0441208555908454
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 5480 -_- 2533 -_- 20.0 -_- 0.8696606891461071
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1467 -_- 939 -_- 40.9 -_- 0.9896087999643658
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1185 -_- 370 -_- 54.9 -_- 1.030004102429136
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 177 -_- 1448 -_- 27.2 -_- 1.0316379648579943
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1509 -_- 3742 -_- 56.3 -_- 0.9807859222748543
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3454 -_- 3623 -_- 22.5 -_- 1.1183398853878164
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3198 -_- 5242 -_- 25.1 -_- 1.037055096477955
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 961 -_- 522 -_- 53.1 -_- 0.8954696738441743
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4152 -_- 364 -_- 53.3 -_- 0.812349935329391
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 859 -_- 4457 -_- 59.4 -_- 0.9852259694651518
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 361 -_- 702 -_- 20.1 -_- 0.9999498398631165
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 4793 -_- 1771 -_- 42.9 -_- 0.9798469471184467
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 32 -_- 2433 -_- 16.0 -_- 0.9328125385100442
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1774 -_- 2563 -_- 53.2 -_- 1.0686555977643302
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2700 -_- 2335 -_- 27.5 -_- 0.9692072422991602
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 4194 -_- 576 -_- 41.6 -_- 0.7892772891841704
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 5108 -_- 2622 -_- 34.4 -_- 1.072526953414588
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 4896 -_- 4259 -_- 47.6 -_- 0.993422015892685
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2145 -_- 1118 -_- 34.6 -_- 1.013614880051895
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 1071 -_- 1937 -_- 51.0 -_- 1.1590600146995635
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1412 -_- 3170 -_- 34.6 -_- 0.9518214535951545
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 5432 -_- 15 -_- 37.0 -_- 0.8857744734236365
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 63 -_- 2923 -_- 32.5 -_- 0.8523001627792604
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 3338 -_- 1229 -_- 32.1 -_- 0.8623246267935188
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1430 -_- 687 -_- 54.4 -_- 0.9401816459864016
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 648 -_- 1795 -_- 59.1 -_- 0.8496711074129433
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1818 -_- 4542 -_- 22.6 -_- 1.1074024005527254
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 3558 -_- 1552 -_- 25.5 -_- 0.9533074841171337
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 4548 -_- 873 -_- 41.0 -_- 1.096274694300066
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 2356 -_- 1725 -_- 34.2 -_- 0.9185339492314232
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 4986 -_- 3362 -_- 18.2 -_- 0.8325944341505704
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 5361 -_- 392 -_- 30.3 -_- 1.012781186259815
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 5347 -_- 2461 -_- 44.1 -_- 0.9835233736629354
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 867 -_- 1436 -_- 35.2 -_- 1.1109449995707057
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 2430 -_- 3936 -_- 13.4 -_- 1.218828230029175
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 5365 -_- 1639 -_- 14.0 -_- 0.8509025224365508
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 4655 -_- 5416 -_- 17.7 -_- 0.9933669110195177
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 231 -_- 5371 -_- 15.3 -_- 1.1660467382014876
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 2899 -_- 5278 -_- 38.1 -_- 1.1969778344874462
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 3496 -_- 174 -_- 12.8 -_- 1.1200171293169272
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 1639 -_- 3931 -_- 13.9 -_- 0.8708739393171108
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 3179 -_- 562 -_- 19.4 -_- 1.200499466931953
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 2881 -_- 1841 -_- 12.5 -_- 1.1030369410813947
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 5149 -_- 3377 -_- 45.5 -_- 1.065579681408481
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 23 -_- 3674 -_- 49.0 -_- 0.9700440978308633
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 924 -_- 3608 -_- 34.2 -_- 1.0769851810440292
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 1463 -_- 1269 -_- 36.3 -_- 1.1002625323502093
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 5430 -_- 3172 -_- 25.4 -_- 0.9336343310762986
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 100 -_- 5312 -_- 49.5 -_- 1.1758551699619924
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 4909 -_- 173 -_- 48.3 -_- 1.2198328257625528
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 4712 -_- 2085 -_- 35.2 -_- 1.0544904319478794
+../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 4 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-bf5cf235.flac -_- 854 -_- 4931 -_- 14.3 -_- 1.1840626662186666
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 1989 -_- 3677 -_- 25.6 -_- 0.8890092619951011
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 5144 -_- 1366 -_- 40.9 -_- 1.1503208939590568
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1307 -_- 3547 -_- 58.2 -_- 1.0966099148395332
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 1706 -_- 2000 -_- 11.6 -_- 1.1695201494838503
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 4529 -_- 2497 -_- 27.9 -_- 0.918044627736225
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 4784 -_- 64 -_- 16.5 -_- 1.235143378614034
+../Corpus/eng-wims-mary/flac/eng-a3fe583f.flac -_- 6 -_- ../Corpus/eng-wims-mary/flac/eng-b3f9b7dd.flac -_- 3501 -_- 317 -_- 56.4 -_- 1.0044886329114495
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 1919 -_- 2525 -_- 23.4 -_- 1.005904719821944
+../Corpus/eng-wcp-us/flac/En-us-Muscovite.flac -_- 5 -_- ../Corpus/eng-balm-judith/flac/eng-99f75266.flac -_- 2370 -_- 1105 -_- 54.1 -_- 0.8763109558876703
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 4916 -_- 886 -_- 15.7 -_- 0.9574795710142153
+../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 0 -_- ../Corpus/eng-wims-mary/flac/eng-dc902156.flac -_- 5048 -_- 1904 -_- 55.4 -_- 0.8841172156779332
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1826 -_- 3224 -_- 46.0 -_- 1.0202964884999632
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 1723 -_- 4506 -_- 55.7 -_- 0.8340601901702889
+../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 2 -_- ../Corpus/eng-balm-verbs/flac/eng-I_wrote.flac -_- 213 -_- 1963 -_- 41.6 -_- 1.0010210936951804
+../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3 -_- ../Corpus/eng-wcp-us/flac/En-us-progress-noun.flac -_- 3101 -_- 419 -_- 47.7 -_- 1.178405728247136
+../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 1 -_- ../Corpus/eng-wims-mary/flac/eng-a33ebe80.flac -_- 5188 -_- 4050 -_- 54.5 -_- 1.0454680866176649

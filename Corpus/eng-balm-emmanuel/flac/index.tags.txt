@@ -1,0 +1,3969 @@
+\Swac_Index_Tags
+
+[GLOBAL]
+SWAC_COLL_AUTHORS=Emmanuel Revah, Vion Nicolas
+SWAC_COLL_COPYRIGHT=Copyright© Emmanuel Revah 2009
+SWAC_COLL_DESC=Cette collection est essentiellement destinée aux personnes étudiant l'anglais comme langue étrangère ainsi qu'à la production de matériel pédagogique.
+SWAC_COLL_LICENSE=Creative Commons BY
+SWAC_COLL_NAME=Base audio libre de mots anglais
+SWAC_COLL_ORG=Shtooka Project
+SWAC_COLL_ORG_URL=http://shtooka.net/
+SWAC_COLL_SECTION=Vocabulaire
+SWAC_COLL_URL=http://shtooka.net/
+SWAC_LANG=eng
+SWAC_PRON_SPEED=1
+SWAC_SPEAK_BIRTH_YEAR=1976
+SWAC_SPEAK_GENDER=M
+SWAC_SPEAK_LANG=eng
+SWAC_SPEAK_LANG_COUNTRY=US
+SWAC_SPEAK_LANG_REGION=Philadelphia
+SWAC_SPEAK_LIV_COUNTRY=FR
+SWAC_SPEAK_LIV_TOWN=Paris
+SWAC_SPEAK_NAME=Emmanuel Revah
+SWAC_TECH_DATE=2009-02-18
+SWAC_TECH_SOFT=Shtooka Recorder/1.3
+
+[eng-cba79f89.flac]
+SWAC_ALPHAIDX=aspirin
+SWAC_TEXT=aspirin
+
+[eng-3c940445.flac]
+SWAC_ALPHAIDX=as|well|as well as
+SWAC_TEXT=as well as
+
+[eng-c407307d.flac]
+SWAC_ALPHAIDX=as|bottom
+SWAC_TEXT=as the bottom of
+
+[eng-a80cb410.flac]
+SWAC_ALPHAIDX=soon|possible|(conversation)
+SWAC_TEXT=as soon as possible
+
+[eng-84e9b16b.flac]
+SWAC_ALPHAIDX=as|soon
+SWAC_TEXT=as soon as
+
+[eng-3359f4f1.flac]
+SWAC_ALPHAIDX=as|if
+SWAC_TEXT=as if
+
+[eng-f433689f.flac]
+SWAC_ALPHAIDX=as
+SWAC_TEXT=as
+
+[eng-33f51dec.flac]
+SWAC_ALPHAIDX=arrive
+SWAC_TEXT=arrive
+
+[eng-fe38f844.flac]
+SWAC_ALPHAIDX=appointment
+SWAC_TEXT=appointment
+
+[eng-b6f237cb.flac]
+SWAC_ALPHAIDX=apply|makeup
+SWAC_TEXT=apply makeup
+
+[eng-111438d6.flac]
+SWAC_ALPHAIDX=apologize
+SWAC_TEXT=apologize
+
+[eng-3ea87bfb.flac]
+SWAC_ALPHAIDX=apartment|block
+SWAC_TEXT=apartment block
+
+[eng-fe1db7ea.flac]
+SWAC_ALPHAIDX=antibiotic
+SWAC_TEXT=antibiotic
+
+[eng-caebdb15.flac]
+SWAC_ALPHAIDX=answering|machine
+SWAC_TEXT=answering machine
+
+[eng-0af06d8d.flac]
+SWAC_ALPHAIDX=anesthetic
+SWAC_TEXT=anesthetic
+
+[eng-0f5f9c3d.flac]
+SWAC_ALPHAIDX=other
+SWAC_TEXT=and other
+
+[eng-f6e4db04.flac]
+SWAC_ALPHAIDX=hour|half
+SWAC_TEXT=an hour and a half
+
+[eng-f715dbc3.flac]
+SWAC_ALPHAIDX=almost
+SWAC_TEXT=almost
+
+[eng-f7bb3b7f.flac]
+SWAC_ALPHAIDX=allergic
+SWAC_TEXT=allergic
+
+[eng-f19c0f24.flac]
+SWAC_ALPHAIDX=all|week
+SWAC_TEXT=all week
+
+[eng-ce19c2b2.flac]
+SWAC_ALPHAIDX=all|together
+SWAC_TEXT=all together
+
+[eng-9cadeff6.flac]
+SWAC_ALPHAIDX=all|time
+SWAC_TEXT=all the time
+
+[eng-0f6986f7.flac]
+SWAC_ALPHAIDX=all|same
+SWAC_TEXT=all the same
+
+[eng-b58165a7.flac]
+SWAC_ALPHAIDX=all|better
+SWAC_TEXT=all the better
+
+[eng-2a3e75e5.flac]
+SWAC_ALPHAIDX=all|best|(conversation)
+SWAC_TEXT=all the best!
+
+[eng-43f781c0.flac]
+SWAC_ALPHAIDX=all|kinds
+SWAC_TEXT=all kinds
+
+[eng-5f10a415.flac]
+SWAC_ALPHAIDX=all|inclusive
+SWAC_TEXT=all inclusive
+
+[eng-298a92fe.flac]
+SWAC_ALPHAIDX=all|day
+SWAC_TEXT=all day
+
+[eng-01ff7e7c.flac]
+SWAC_ALPHAIDX=alarm|clock
+SWAC_TEXT=alarm clock
+
+[eng-439eb7fe.flac]
+SWAC_ALPHAIDX=airport|tax
+SWAC_TEXT=airport tax
+
+[eng-6c260646.flac]
+SWAC_ALPHAIDX=airmail
+SWAC_TEXT=airmail
+
+[eng-ec141ef8.flac]
+SWAC_ALPHAIDX=airline
+SWAC_TEXT=airline
+
+[eng-f2ad3254.flac]
+SWAC_ALPHAIDX=air|conditioning
+SWAC_TEXT=air conditioning
+
+[eng-f3d2f44b.flac]
+SWAC_ALPHAIDX=agriculture
+SWAC_TEXT=agriculture
+
+[eng-13974d16.flac]
+SWAC_ALPHAIDX=agricultural
+SWAC_TEXT=agricultural
+
+[eng-8434910d.flac]
+SWAC_ALPHAIDX=after-sun
+SWAC_TEXT=after-sun
+
+[eng-8fad2935.flac]
+SWAC_ALPHAIDX=affordable
+SWAC_TEXT=affordable
+
+[eng-9d6a6a4c.flac]
+SWAC_ALPHAIDX=aerial
+SWAC_TEXT=aerial
+
+[eng-f4bb024a.flac]
+SWAC_ALPHAIDX=admission
+SWAC_TEXT=admission
+
+[eng-85f9c0e6.flac]
+SWAC_ALPHAIDX=adhesive|tape
+SWAC_TEXT=adhesive tape
+
+[eng-9b1ec047.flac]
+SWAC_ALPHAIDX=addressee
+SWAC_TEXT=addressee
+
+[eng-19dc647c.flac]
+SWAC_ALPHAIDX=adapter
+SWAC_TEXT=adapter
+
+[eng-a945e1a0.flac]
+SWAC_ALPHAIDX=acknowledgment|receipt
+SWAC_TEXT=acknowledgment of receipt
+
+[eng-e89a8617.flac]
+SWAC_ALPHAIDX=accommodations
+SWAC_TEXT=accommodations
+
+[eng-2d385412.flac]
+SWAC_ALPHAIDX=accommodation
+SWAC_TEXT=accommodation
+
+[eng-a6df7656.flac]
+SWAC_ALPHAIDX=absolute
+SWAC_TEXT=absolute
+
+[eng-35cfee3c.flac]
+SWAC_ALPHAIDX=ability
+SWAC_TEXT=ability
+
+[eng-895fdf5c.flac]
+SWAC_ALPHAIDX=abbey
+SWAC_TEXT=abbey
+
+[eng-b1f73ff9.flac]
+SWAC_ALPHAIDX=while
+SWAC_TEXT=a while
+
+[eng-fd7b1501.flac]
+SWAC_ALPHAIDX=time
+SWAC_TEXT=a time
+
+[eng-2560a4b5.flac]
+SWAC_ALPHAIDX=sore|stomach
+SWAC_TEXT=a sore stomach
+
+[eng-34506210.flac]
+SWAC_ALPHAIDX=quarter|ten
+SWAC_TEXT=a quarter to ten
+
+[eng-f9336660.flac]
+SWAC_ALPHAIDX=quarter|past|ten
+SWAC_TEXT=a quarter past ten
+
+[eng-3b5499b8.flac]
+SWAC_ALPHAIDX=quarter|hour
+SWAC_TEXT=a quarter of an hour
+
+[eng-71bc55a5.flac]
+SWAC_ALPHAIDX=quarter|after
+SWAC_TEXT=a quarter after ten
+
+[eng-dc8e47ec.flac]
+SWAC_ALPHAIDX=piece|fruit
+SWAC_TEXT=a piece of fruit
+
+[eng-a32923ac.flac]
+SWAC_ALPHAIDX=piece|advice
+SWAC_TEXT=a piece of advice
+
+[eng-198a7c9d.flac]
+SWAC_ALPHAIDX=piece
+SWAC_TEXT=a piece of
+
+[eng-69cd764a.flac]
+SWAC_ALPHAIDX=pair|pyjamas
+SWAC_TEXT=a pair of pyjamas
+
+[eng-482eab43.flac]
+SWAC_ALPHAIDX=lot
+SWAC_TEXT=a lot of
+
+[eng-5e8041d0.flac]
+SWAC_ALPHAIDX=lot|more
+SWAC_TEXT=a lot more
+
+[eng-47755b64.flac]
+SWAC_ALPHAIDX=long|time
+SWAC_TEXT=a long time
+
+[eng-634a332b.flac]
+SWAC_ALPHAIDX=little|bit
+SWAC_TEXT=a little bit
+
+[eng-1effdaf6.flac]
+SWAC_ALPHAIDX=little
+SWAC_TEXT=a little
+
+[eng-8c3a5241.flac]
+SWAC_ALPHAIDX=kick
+SWAC_TEXT=a kick
+
+[eng-86edcd0b.flac]
+SWAC_ALPHAIDX=groaning|sound
+SWAC_TEXT=a groaning sound
+
+[eng-1ea6aa05.flac]
+SWAC_ALPHAIDX=glass|water
+SWAC_TEXT=a glass of water
+
+[eng-58f3ca31.flac]
+SWAC_ALPHAIDX=few
+SWAC_TEXT=a few
+
+[eng-6a467c5b.flac]
+SWAC_ALPHAIDX=bit
+SWAC_TEXT=a bit
+
+[eng-d79cebb5.flac]
+SWAC_ALPHAIDX=X-rays
+SWAC_TEXT=X-rays
+
+[eng-04cd7047.flac]
+SWAC_ALPHAIDX=United States
+SWAC_TEXT=United States
+
+[eng-c58d700d.flac]
+SWAC_ALPHAIDX=United Kingdom
+SWAC_TEXT=United Kingdom
+
+[eng-d5b41909.flac]
+SWAC_ALPHAIDX=U-turn
+SWAC_TEXT=U-turn
+
+[eng-ed7e13b2.flac]
+SWAC_ALPHAIDX=Tupperware
+SWAC_TEXT=Tupperware
+
+[eng-d057bc4d.flac]
+SWAC_ALPHAIDX=T-bar
+SWAC_TEXT=T-bar
+
+[eng-fba5cca8.flac]
+SWAC_ALPHAIDX=Spanish
+SWAC_TEXT=Spanish
+
+[eng-858edf3c.flac]
+SWAC_ALPHAIDX=Spain
+SWAC_TEXT=Spain
+
+[eng-74dc1336.flac]
+SWAC_ALPHAIDX=Portuguese
+SWAC_TEXT=Portuguese
+
+[eng-2ed900f8.flac]
+SWAC_ALPHAIDX=Portugal
+SWAC_TEXT=Portugal
+
+[eng-d736d92d.flac]
+SWAC_ALPHAIDX=OK|(conversation)
+SWAC_TEXT=OK
+
+[eng-6da97d9c.flac]
+SWAC_ALPHAIDX=New Year
+SWAC_TEXT=New Year
+
+[eng-bcdec84b.flac]
+SWAC_ALPHAIDX=Netherlands
+SWAC_TEXT=Netherlands
+
+[eng-1ad5ed21.flac]
+SWAC_ALPHAIDX=Mister
+SWAC_TEXT=Mister
+
+[eng-fd614e16.flac]
+SWAC_ALPHAIDX=Kleenex
+SWAC_TEXT=Kleenex
+
+[eng-f3e12338.flac]
+SWAC_ALPHAIDX=Japanese
+SWAC_TEXT=Japanese
+
+[eng-d5e6597a.flac]
+SWAC_ALPHAIDX=Japan
+SWAC_TEXT=Japan
+
+[eng-de18b6ca.flac]
+SWAC_ALPHAIDX=Italy
+SWAC_TEXT=Italy
+
+[eng-98045053.flac]
+SWAC_ALPHAIDX=Italian
+SWAC_TEXT=Italian
+
+[eng-d24bb6b4.flac]
+SWAC_ALPHAIDX=matter|(conversation)
+SWAC_TEXT=It doesn't matter
+
+[eng-739cc283.flac]
+SWAC_ALPHAIDX=Internet|café|Internet café
+SWAC_TEXT=Internet café
+
+[eng-85852207.flac]
+SWAC_ALPHAIDX=Internet
+SWAC_TEXT=Internet
+
+[eng-28164d43.flac]
+SWAC_ALPHAIDX=just|arrive|(conversation)
+SWAC_TEXT=I've just arrived
+
+[eng-35c909e0.flac]
+SWAC_ALPHAIDX=very|well|(conversation)
+SWAC_TEXT=I'm very well
+
+[eng-4d252e48.flac]
+SWAC_ALPHAIDX=use|(conversation)
+SWAC_TEXT=I'm used to it
+
+[eng-34d4f136.flac]
+SWAC_ALPHAIDX=sorry|(conversation)
+SWAC_TEXT=I'm sorry
+
+[eng-9c095028.flac]
+SWAC_ALPHAIDX=use|(conversation)
+SWAC_TEXT=I'm not used to
+
+[eng-e056c094.flac]
+SWAC_ALPHAIDX=go|home|(conversation)
+SWAC_TEXT=I'm going home
+
+[eng-b3acb9b3.flac]
+SWAC_ALPHAIDX=fine|(conversation)
+SWAC_TEXT=I'm fine
+
+[eng-c5ce6727.flac]
+SWAC_ALPHAIDX=cold|(conversation)
+SWAC_TEXT=I'm cold
+
+[eng-daa3adbb.flac]
+SWAC_ALPHAIDX=be|year|old|(conversation)
+SWAC_TEXT=I'm 24 years old
+
+[eng-d7b1c0e9.flac]
+SWAC_ALPHAIDX=be|(conversation)
+SWAC_TEXT=I'm 24
+
+[eng-8669fc5a.flac]
+SWAC_ALPHAIDX=would|like|(conversation)
+SWAC_TEXT=I'd like
+
+[eng-4913186e.flac]
+SWAC_ALPHAIDX=must|go|(conversation)
+SWAC_TEXT=I must go
+
+[eng-041a673e.flac]
+SWAC_ALPHAIDX=miss|him|(conversation)
+SWAC_TEXT=I miss him
+
+[eng-aab7c7f7.flac]
+SWAC_ALPHAIDX=mind|(conversation)
+SWAC_TEXT=I don't mind
+
+[eng-d50b8cb7.flac]
+SWAC_ALPHAIDX=care|(conversation)
+SWAC_TEXT=I don't care
+
+[eng-d9bf9673.flac]
+SWAC_ALPHAIDX=can|not|(conversation)
+SWAC_TEXT=I can't
+
+[eng-dd0216b9.flac]
+SWAC_ALPHAIDX=I
+SWAC_TEXT=I
+
+[eng-4c510d7f.flac]
+SWAC_ALPHAIDX=Hungary
+SWAC_TEXT=Hungary
+
+[eng-c6acc967.flac]
+SWAC_ALPHAIDX=Holland
+SWAC_TEXT=Holland
+
+[eng-1649d5fb.flac]
+SWAC_ALPHAIDX=happy|New Year|(conversation)
+SWAC_TEXT=Happy New Year!
+
+[eng-66d8cd84.flac]
+SWAC_ALPHAIDX=happy|Easter|(conversation)
+SWAC_TEXT=Happy Easter!
+
+[eng-11618b91.flac]
+SWAC_ALPHAIDX=Greece
+SWAC_TEXT=Greece
+
+[eng-fe45bc6a.flac]
+SWAC_ALPHAIDX=Great Britain
+SWAC_TEXT=Great Britain
+
+[eng-9515b8b7.flac]
+SWAC_ALPHAIDX=Germany
+SWAC_TEXT=Germany
+
+[eng-a5984597.flac]
+SWAC_ALPHAIDX=German
+SWAC_TEXT=German
+
+[eng-0127efe1.flac]
+SWAC_ALPHAIDX=French|loaf
+SWAC_TEXT=French loaf
+
+[eng-a8d9cb68.flac]
+SWAC_ALPHAIDX=French
+SWAC_TEXT=French
+
+[eng-590a2082.flac]
+SWAC_ALPHAIDX=France
+SWAC_TEXT=France
+
+[eng-bc9d8a92.flac]
+SWAC_ALPHAIDX=European Union
+SWAC_TEXT=European Union
+
+[eng-14481fd4.flac]
+SWAC_ALPHAIDX=European
+SWAC_TEXT=European
+
+[eng-e33e3b9c.flac]
+SWAC_ALPHAIDX=English
+SWAC_TEXT=English
+
+[eng-c6f6248d.flac]
+SWAC_ALPHAIDX=Easter
+SWAC_TEXT=Easter
+
+[eng-8ae459e4.flac]
+SWAC_ALPHAIDX=Earth
+SWAC_TEXT=Earth
+
+[eng-f106a77a.flac]
+SWAC_ALPHAIDX=yourself
+SWAC_TEXT=Do It Yourself!
+
+[eng-50bf8369.flac]
+SWAC_ALPHAIDX=Coke
+SWAC_TEXT=Coke
+
+[eng-34251e88.flac]
+SWAC_ALPHAIDX=Chinese
+SWAC_TEXT=Chinese
+
+[eng-eb3c8bb0.flac]
+SWAC_ALPHAIDX=CD
+SWAC_TEXT=CD
+
+[eng-71928725.flac]
+SWAC_ALPHAIDX=chilly
+SWAC_TEXT=chilly
+
+[eng-2c68dc1b.flac]
+SWAC_ALPHAIDX=chill
+SWAC_TEXT=chill
+
+[eng-81b17d68.flac]
+SWAC_ALPHAIDX=cheers|(conversation)
+SWAC_TEXT=cheers!
+
+[eng-6a3ec4ac.flac]
+SWAC_ALPHAIDX=checkroom
+SWAC_TEXT=checkroom
+
+[eng-af382d4e.flac]
+SWAC_ALPHAIDX=checkout
+SWAC_TEXT=checkout
+
+[eng-c733d0c7.flac]
+SWAC_ALPHAIDX=check-in
+SWAC_TEXT=check-in
+
+[eng-cfeb4394.flac]
+SWAC_ALPHAIDX=check|in
+SWAC_TEXT=check in
+
+[eng-1d05aa7c.flac]
+SWAC_ALPHAIDX=chapel
+SWAC_TEXT=chapel
+
+[eng-67a369fb.flac]
+SWAC_ALPHAIDX=changing|room
+SWAC_TEXT=changing room
+
+[eng-ab0a46f9.flac]
+SWAC_ALPHAIDX=change|purse
+SWAC_TEXT=change purse
+
+[eng-c4306420.flac]
+SWAC_ALPHAIDX=chairwoman
+SWAC_TEXT=chairwoman
+
+[eng-1ad49af1.flac]
+SWAC_ALPHAIDX=chairperson
+SWAC_TEXT=chairperson
+
+[eng-53f879bd.flac]
+SWAC_ALPHAIDX=chairlift
+SWAC_TEXT=chairlift
+
+[eng-4b3c82e6.flac]
+SWAC_ALPHAIDX=central|heating
+SWAC_TEXT=central heating
+
+[eng-a530f07e.flac]
+SWAC_ALPHAIDX=centimeter
+SWAC_TEXT=centimeter
+
+[eng-aaa18e60.flac]
+SWAC_ALPHAIDX=cellphone
+SWAC_TEXT=cellphone
+
+[eng-f028f82f.flac]
+SWAC_ALPHAIDX=cavity
+SWAC_TEXT=cavity
+
+[eng-aa58df00.flac]
+SWAC_ALPHAIDX=catty
+SWAC_TEXT=catty
+
+[eng-7eefd71c.flac]
+SWAC_ALPHAIDX=cash|point
+SWAC_TEXT=cash point
+
+[eng-436a9a15.flac]
+SWAC_ALPHAIDX=cash|desk
+SWAC_TEXT=cash desk
+
+[eng-06b9e5b9.flac]
+SWAC_ALPHAIDX=cash
+SWAC_TEXT=cash
+
+[eng-b1c79f3a.flac]
+SWAC_ALPHAIDX=cardiac|arrest
+SWAC_TEXT=cardiac arrest
+
+[eng-6282746b.flac]
+SWAC_ALPHAIDX=caravan
+SWAC_TEXT=caravan
+
+[eng-74ef1e81.flac]
+SWAC_ALPHAIDX=car|park
+SWAC_TEXT=car park
+
+[eng-5616c572.flac]
+SWAC_ALPHAIDX=cancel
+SWAC_TEXT=cancel
+
+[eng-70defa5e.flac]
+SWAC_ALPHAIDX=can|opener
+SWAC_TEXT=can opener
+
+[eng-43b61697.flac]
+SWAC_ALPHAIDX=camping|stove
+SWAC_TEXT=camping stove
+
+[eng-81a904e4.flac]
+SWAC_ALPHAIDX=camping
+SWAC_TEXT=camping
+
+[eng-21cdd175.flac]
+SWAC_ALPHAIDX=call|back
+SWAC_TEXT=call back
+
+[eng-cc8e2f3e.flac]
+SWAC_ALPHAIDX=call
+SWAC_TEXT=call
+
+[eng-98ad42b5.flac]
+SWAC_ALPHAIDX=café
+SWAC_TEXT=café
+
+[eng-bfa83cf7.flac]
+SWAC_ALPHAIDX=bye|(conversation)
+SWAC_TEXT=bye!
+
+[eng-9a0f6844.flac]
+SWAC_ALPHAIDX=by|way
+SWAC_TEXT=by the way
+
+[eng-42e94b7e.flac]
+SWAC_ALPHAIDX=by|special
+SWAC_TEXT=by special
+
+[eng-7dc7942c.flac]
+SWAC_ALPHAIDX=by|chance
+SWAC_TEXT=by chance
+
+[eng-28721dfd.flac]
+SWAC_ALPHAIDX=by|car
+SWAC_TEXT=by car
+
+[eng-3a06ac3d.flac]
+SWAC_ALPHAIDX=button
+SWAC_TEXT=button
+
+[eng-076dbed4.flac]
+SWAC_ALPHAIDX=butcher
+SWAC_TEXT=butcher's
+
+[eng-7a009af6.flac]
+SWAC_ALPHAIDX=butcher|shop
+SWAC_TEXT=butcher shop
+
+[eng-69de4134.flac]
+SWAC_ALPHAIDX=business|class
+SWAC_TEXT=business class
+
+[eng-3d0dedc0.flac]
+SWAC_ALPHAIDX=business|card
+SWAC_TEXT=business card
+
+[eng-1bd172a3.flac]
+SWAC_ALPHAIDX=busily
+SWAC_TEXT=busily
+
+[eng-9dd91ee2.flac]
+SWAC_ALPHAIDX=bus|stop
+SWAC_TEXT=bus stop
+
+[eng-41526a40.flac]
+SWAC_ALPHAIDX=bus|station
+SWAC_TEXT=bus station
+
+[eng-6ee63a9c.flac]
+SWAC_ALPHAIDX=bus|route
+SWAC_TEXT=bus route
+
+[eng-1ff97d3b.flac]
+SWAC_ALPHAIDX=bunk|beds
+SWAC_TEXT=bunk beds
+
+[eng-62072ef9.flac]
+SWAC_ALPHAIDX=bump
+SWAC_TEXT=bump
+
+[eng-e73f36a6.flac]
+SWAC_ALPHAIDX=bucket
+SWAC_TEXT=bucket
+
+[eng-f1a7d2c3.flac]
+SWAC_ALPHAIDX=brush
+SWAC_TEXT=brush
+
+[eng-75481bd2.flac]
+SWAC_ALPHAIDX=bronchitis
+SWAC_TEXT=bronchitis
+
+[eng-526a8660.flac]
+SWAC_ALPHAIDX=breakdown|service
+SWAC_TEXT=breakdown service
+
+[eng-b3969da7.flac]
+SWAC_ALPHAIDX=breakdown
+SWAC_TEXT=breakdown
+
+[eng-6cccf0e3.flac]
+SWAC_ALPHAIDX=break|into
+SWAC_TEXT=break into
+
+[eng-c34e215c.flac]
+SWAC_ALPHAIDX=break|down
+SWAC_TEXT=break down
+
+[eng-93ae8ce6.flac]
+SWAC_ALPHAIDX=bra
+SWAC_TEXT=bra
+
+[eng-3ca97c0c.flac]
+SWAC_ALPHAIDX=boxer|shorts
+SWAC_TEXT=boxer shorts
+
+[eng-8fe50827.flac]
+SWAC_ALPHAIDX=bottle|opener
+SWAC_TEXT=bottle opener
+
+[eng-bbef6364.flac]
+SWAC_ALPHAIDX=bookstore
+SWAC_TEXT=bookstore
+
+[eng-107c2cce.flac]
+SWAC_ALPHAIDX=bookshop
+SWAC_TEXT=bookshop
+
+[eng-2e3403ff.flac]
+SWAC_ALPHAIDX=book|tickets
+SWAC_TEXT=book of tickets
+
+[eng-9f987f7a.flac]
+SWAC_ALPHAIDX=bonus
+SWAC_TEXT=bonus
+
+[eng-114209da.flac]
+SWAC_ALPHAIDX=boarding
+SWAC_TEXT=boarding
+
+[eng-c4bea6c0.flac]
+SWAC_ALPHAIDX=blow|wind
+SWAC_TEXT=blow of the wind
+
+[eng-1b4a1ef9.flac]
+SWAC_ALPHAIDX=blossom
+SWAC_TEXT=blossom
+
+[eng-d1db99c6.flac]
+SWAC_ALPHAIDX=blood|pressure
+SWAC_TEXT=blood pressure
+
+[eng-a60af4fe.flac]
+SWAC_ALPHAIDX=blond
+SWAC_TEXT=blond
+
+[eng-e6a218a3.flac]
+SWAC_ALPHAIDX=blister
+SWAC_TEXT=blister
+
+[eng-ceae046f.flac]
+SWAC_ALPHAIDX=bless|you|(conversation)
+SWAC_TEXT=bless you!
+
+[eng-4869a8e3.flac]
+SWAC_ALPHAIDX=bleed
+SWAC_TEXT=bleed
+
+[eng-0c4c4bd5.flac]
+SWAC_ALPHAIDX=blackout
+SWAC_TEXT=blackout
+
+[eng-59833609.flac]
+SWAC_ALPHAIDX=black|white
+SWAC_TEXT=black and white
+
+[eng-8985ba28.flac]
+SWAC_ALPHAIDX=black
+SWAC_TEXT=black
+
+[eng-aa275aed.flac]
+SWAC_ALPHAIDX=bin
+SWAC_TEXT=bin
+
+[eng-146781dc.flac]
+SWAC_ALPHAIDX=billfold
+SWAC_TEXT=billfold
+
+[eng-500a89e3.flac]
+SWAC_ALPHAIDX=big|bike
+SWAC_TEXT=big bike
+
+[eng-1bc4f5d3.flac]
+SWAC_ALPHAIDX=bid|bite
+SWAC_TEXT=bid bite
+
+[eng-c02c086d.flac]
+SWAC_ALPHAIDX=bicycle|pump
+SWAC_TEXT=bicycle pump
+
+[eng-fb7407f4.flac]
+SWAC_ALPHAIDX=better|than
+SWAC_TEXT=better than
+
+[eng-16b50a0c.flac]
+SWAC_ALPHAIDX=best|wishes
+SWAC_TEXT=best wishes
+
+[eng-44e175b2.flac]
+SWAC_ALPHAIDX=below
+SWAC_TEXT=below
+
+[eng-9080d8db.flac]
+SWAC_ALPHAIDX=beginner
+SWAC_TEXT=beginner
+
+[eng-9112b0fc.flac]
+SWAC_ALPHAIDX=before|doing
+SWAC_TEXT=before doing
+
+[eng-422cb2d0.flac]
+SWAC_ALPHAIDX=beef
+SWAC_TEXT=beef
+
+[eng-66116e3f.flac]
+SWAC_ALPHAIDX=bedside|table
+SWAC_TEXT=bedside table
+
+[eng-b41afd1e.flac]
+SWAC_ALPHAIDX=become|angry
+SWAC_TEXT=become angry
+
+[eng-c4556c60.flac]
+SWAC_ALPHAIDX=because
+SWAC_TEXT=because of
+
+[eng-e3e3a248.flac]
+SWAC_ALPHAIDX=beach|umbrella
+SWAC_TEXT=beach umbrella
+
+[eng-ac595b3e.flac]
+SWAC_ALPHAIDX=be|bored
+SWAC_TEXT=be bored
+
+[eng-4fcee820.flac]
+SWAC_ALPHAIDX=be|able
+SWAC_TEXT=be able to
+
+[eng-bd2a7d39.flac]
+SWAC_ALPHAIDX=battle|cry
+SWAC_TEXT=battle cry
+
+[eng-d02ef4ae.flac]
+SWAC_ALPHAIDX=battery
+SWAC_TEXT=battery
+
+[eng-8848dc1c.flac]
+SWAC_ALPHAIDX=bath|towel
+SWAC_TEXT=bath towel
+
+[eng-90797553.flac]
+SWAC_ALPHAIDX=basic
+SWAC_TEXT=basic
+
+[eng-581b0cec.flac]
+SWAC_ALPHAIDX=bashful
+SWAC_TEXT=bashful
+
+[eng-2d0f6db5.flac]
+SWAC_ALPHAIDX=basement
+SWAC_TEXT=basement
+
+[eng-56ccdd35.flac]
+SWAC_ALPHAIDX=barbecue
+SWAC_TEXT=barbecue
+
+[eng-ed6a19f7.flac]
+SWAC_ALPHAIDX=bankrupt
+SWAC_TEXT=bankrupt
+
+[eng-e8c83280.flac]
+SWAC_ALPHAIDX=banknote
+SWAC_TEXT=banknote
+
+[eng-26d2bd36.flac]
+SWAC_ALPHAIDX=bank|account
+SWAC_TEXT=bank account
+
+[eng-8eda3e95.flac]
+SWAC_ALPHAIDX=bandage
+SWAC_TEXT=bandage
+
+[eng-e44b31fd.flac]
+SWAC_ALPHAIDX=baker
+SWAC_TEXT=baker's
+
+[eng-0c9546d6.flac]
+SWAC_ALPHAIDX=baggage|reclaim
+SWAC_TEXT=baggage reclaim
+
+[eng-917ff30a.flac]
+SWAC_ALPHAIDX=baggage
+SWAC_TEXT=baggage
+
+[eng-0c358569.flac]
+SWAC_ALPHAIDX=backpack
+SWAC_TEXT=backpack
+
+[eng-9e0e0904.flac]
+SWAC_ALPHAIDX=babysitter
+SWAC_TEXT=babysitter
+
+[eng-c651c028.flac]
+SWAC_ALPHAIDX=baby|bottle
+SWAC_TEXT=baby's bottle
+
+[eng-8f66d626.flac]
+SWAC_ALPHAIDX=autumn
+SWAC_TEXT=autumn
+
+[eng-41be8170.flac]
+SWAC_ALPHAIDX=auditorium
+SWAC_TEXT=auditorium
+
+[eng-656e1f63.flac]
+SWAC_ALPHAIDX=at|top
+SWAC_TEXT=at the top
+
+[eng-e272d731.flac]
+SWAC_ALPHAIDX=at|seaside
+SWAC_TEXT=at the seaside
+
+[eng-e83d21be.flac]
+SWAC_ALPHAIDX=at|same|time
+SWAC_TEXT=at the same time
+
+[eng-b620c819.flac]
+SWAC_ALPHAIDX=at|moment
+SWAC_TEXT=at the moment
+
+[eng-c22a8719.flac]
+SWAC_ALPHAIDX=at|last|minute
+SWAC_TEXT=at the last minute
+
+[eng-0986cedf.flac]
+SWAC_ALPHAIDX=at|end|street
+SWAC_TEXT=at the end of the street
+
+[eng-86e8236c.flac]
+SWAC_ALPHAIDX=at|end
+SWAC_TEXT=at the end of
+
+[eng-0af3321f.flac]
+SWAC_ALPHAIDX=at|bottom
+SWAC_TEXT=at the bottom
+
+[eng-5eedb63f.flac]
+SWAC_ALPHAIDX=at|beginning
+SWAC_TEXT=at the beginning of
+
+[eng-193a857f.flac]
+SWAC_ALPHAIDX=at|beginning
+SWAC_TEXT=at the beginning
+
+[eng-52911073.flac]
+SWAC_ALPHAIDX=at|back
+SWAC_TEXT=at the back of
+
+[eng-7f5b5528.flac]
+SWAC_ALPHAIDX=at|reception
+SWAC_TEXT=at reception
+
+[eng-ed4f5cc9.flac]
+SWAC_ALPHAIDX=at|random
+SWAC_TEXT=at random
+
+[eng-b3db5430.flac]
+SWAC_ALPHAIDX=at|once
+SWAC_TEXT=at once
+
+[eng-2cbd2d38.flac]
+SWAC_ALPHAIDX=at|least
+SWAC_TEXT=at least
+
+[eng-8a408e40.flac]
+SWAC_ALPHAIDX=at|last
+SWAC_TEXT=at last
+
+[eng-b14d2b30.flac]
+SWAC_ALPHAIDX=at|home
+SWAC_TEXT=at home
+
+[eng-1ef61d10.flac]
+SWAC_ALPHAIDX=at|full|speed
+SWAC_TEXT=at full speed
+
+[eng-32bb9708.flac]
+SWAC_ALPHAIDX=at|first
+SWAC_TEXT=at first
+
+[eng-84670e34.flac]
+SWAC_ALPHAIDX=asthma
+SWAC_TEXT=asthma
+
+[eng-f2c7aac7.flac]
+SWAC_ALPHAIDX=earrings
+SWAC_TEXT=earrings
+
+[eng-433af6f4.flac]
+SWAC_ALPHAIDX=early|morning
+SWAC_TEXT=early morning
+
+[eng-d2d58742.flac]
+SWAC_ALPHAIDX=each|one
+SWAC_TEXT=each one
+
+[eng-f4c118b5.flac]
+SWAC_ALPHAIDX=e-mail|address
+SWAC_TEXT=e-mail address
+
+[eng-5f1d11a8.flac]
+SWAC_ALPHAIDX=dynasty
+SWAC_TEXT=dynasty
+
+[eng-73414a0e.flac]
+SWAC_ALPHAIDX=duty|drugstore
+SWAC_TEXT=duty drugstore
+
+[eng-b63305d1.flac]
+SWAC_ALPHAIDX=dustbin
+SWAC_TEXT=dustbin
+
+[eng-dec3db54.flac]
+SWAC_ALPHAIDX=during|week
+SWAC_TEXT=during the week
+
+[eng-55b7d16f.flac]
+SWAC_ALPHAIDX=dry|cleaner
+SWAC_TEXT=dry cleaner's
+
+[eng-18821ac5.flac]
+SWAC_ALPHAIDX=drunk
+SWAC_TEXT=drunk
+
+[eng-9b273def.flac]
+SWAC_ALPHAIDX=drugstore
+SWAC_TEXT=drugstore
+
+[eng-26a0d10f.flac]
+SWAC_ALPHAIDX=drought|beer
+SWAC_TEXT=drought beer
+
+[eng-5428225f.flac]
+SWAC_ALPHAIDX=drought
+SWAC_TEXT=drought
+
+[eng-ce1e9bea.flac]
+SWAC_ALPHAIDX=drops
+SWAC_TEXT=drops
+
+[eng-b946990f.flac]
+SWAC_ALPHAIDX=driving|license
+SWAC_TEXT=driving license
+
+[eng-d6e96cfa.flac]
+SWAC_ALPHAIDX=driver|license
+SWAC_TEXT=driver's license
+
+[eng-4131b5f6.flac]
+SWAC_ALPHAIDX=drink|drinking|water
+SWAC_TEXT=drinking water
+
+[eng-f7984dff.flac]
+SWAC_ALPHAIDX=drinkable
+SWAC_TEXT=drinkable
+
+[eng-138f6ed7.flac]
+SWAC_ALPHAIDX=dress|dressing|gown
+SWAC_TEXT=dressing gown
+
+[eng-ba1bf9d3.flac]
+SWAC_ALPHAIDX=dressing
+SWAC_TEXT=dressing
+
+[eng-11faa1c9.flac]
+SWAC_ALPHAIDX=downtown
+SWAC_TEXT=downtown
+
+[eng-9b4cd77e.flac]
+SWAC_ALPHAIDX=doubt
+SWAC_TEXT=doubt
+
+[eng-e0323e63.flac]
+SWAC_ALPHAIDX=double-time
+SWAC_TEXT=double-time
+
+[eng-9bf6ed00.flac]
+SWAC_ALPHAIDX=dos
+SWAC_TEXT=dos
+
+[eng-26f4d791.flac]
+SWAC_ALPHAIDX=dormitory
+SWAC_TEXT=dormitory
+
+[eng-c5e26f27.flac]
+SWAC_ALPHAIDX=doorway
+SWAC_TEXT=doorway
+
+[eng-42c92657.flac]
+SWAC_ALPHAIDX=door|code
+SWAC_TEXT=door code
+
+[eng-764a4d51.flac]
+SWAC_ALPHAIDX=suit|(conversation)
+SWAC_TEXT=does that suit you?
+
+[eng-b286de8d.flac]
+SWAC_ALPHAIDX=do|speak|English|(conversation)
+SWAC_TEXT=do you speak English?
+
+[eng-977f44ee.flac]
+SWAC_ALPHAIDX=diving
+SWAC_TEXT=diving
+
+[eng-7bcef575.flac]
+SWAC_ALPHAIDX=disturb
+SWAC_TEXT=disturb
+
+[eng-c5cd1cc5.flac]
+SWAC_ALPHAIDX=distant|from
+SWAC_TEXT=distant from
+
+[eng-7e78a41f.flac]
+SWAC_ALPHAIDX=disposable
+SWAC_TEXT=disposable
+
+[eng-b5b20ecb.flac]
+SWAC_ALPHAIDX=disinfect
+SWAC_TEXT=disinfect
+
+[eng-7a7a16ee.flac]
+SWAC_ALPHAIDX=dishwasher
+SWAC_TEXT=dishwasher
+
+[eng-584dd35d.flac]
+SWAC_ALPHAIDX=dishes
+SWAC_TEXT=dishes
+
+[eng-344b075a.flac]
+SWAC_ALPHAIDX=dish|towel
+SWAC_TEXT=dish towel
+
+[eng-7384cd6e.flac]
+SWAC_ALPHAIDX=dish|day
+SWAC_TEXT=dish of the day
+
+[eng-c9e66c40.flac]
+SWAC_ALPHAIDX=disgusting
+SWAC_TEXT=disgusting
+
+[eng-b3cd2ad3.flac]
+SWAC_ALPHAIDX=discount|fare
+SWAC_TEXT=discount fare
+
+[eng-29d40cbd.flac]
+SWAC_ALPHAIDX=disco
+SWAC_TEXT=disco
+
+[eng-da9201ce.flac]
+SWAC_ALPHAIDX=disappointed
+SWAC_TEXT=disappointed
+
+[eng-a9e13231.flac]
+SWAC_ALPHAIDX=disadvantage
+SWAC_TEXT=disadvantage
+
+[eng-84fe6ee3.flac]
+SWAC_ALPHAIDX=disabled
+SWAC_TEXT=disabled
+
+[eng-467844da.flac]
+SWAC_ALPHAIDX=directory
+SWAC_TEXT=directory
+
+[eng-1e90d3f0.flac]
+SWAC_ALPHAIDX=director
+SWAC_TEXT=director
+
+[eng-ec218957.flac]
+SWAC_ALPHAIDX=diploma
+SWAC_TEXT=diploma
+
+[eng-a11f3393.flac]
+SWAC_ALPHAIDX=dining|room
+SWAC_TEXT=dining room
+
+[eng-c80fca37.flac]
+SWAC_ALPHAIDX=dining|hall
+SWAC_TEXT=dining hall
+
+[eng-d1979f6f.flac]
+SWAC_ALPHAIDX=different|from
+SWAC_TEXT=different from
+
+[eng-b0449a7a.flac]
+SWAC_ALPHAIDX=diesel
+SWAC_TEXT=diesel
+
+[eng-c83f5b7e.flac]
+SWAC_ALPHAIDX=dictate
+SWAC_TEXT=dictate
+
+[eng-a10ee254.flac]
+SWAC_ALPHAIDX=dice
+SWAC_TEXT=dice
+
+[eng-4561d862.flac]
+SWAC_ALPHAIDX=dialog
+SWAC_TEXT=dialog
+
+[eng-69265711.flac]
+SWAC_ALPHAIDX=dialing|code
+SWAC_TEXT=dialing code
+
+[eng-8171f815.flac]
+SWAC_ALPHAIDX=diabetes
+SWAC_TEXT=diabetes
+
+[eng-e7f75eed.flac]
+SWAC_ALPHAIDX=depend
+SWAC_TEXT=depend
+
+[eng-1e80587f.flac]
+SWAC_ALPHAIDX=department|store
+SWAC_TEXT=department store
+
+[eng-cd1de18a.flac]
+SWAC_ALPHAIDX=department
+SWAC_TEXT=department
+
+[eng-ae41c109.flac]
+SWAC_ALPHAIDX=deodorant
+SWAC_TEXT=deodorant
+
+[eng-3781ec10.flac]
+SWAC_ALPHAIDX=delivery
+SWAC_TEXT=delivery
+
+[eng-6c2179cf.flac]
+SWAC_ALPHAIDX=deliciousness
+SWAC_TEXT=deliciousness
+
+[eng-263a4bd4.flac]
+SWAC_ALPHAIDX=deli
+SWAC_TEXT=deli
+
+[eng-6c814a37.flac]
+SWAC_ALPHAIDX=delayed
+SWAC_TEXT=delayed
+
+[eng-c7b0817b.flac]
+SWAC_ALPHAIDX=debit|card
+SWAC_TEXT=debit card
+
+[eng-1ee7338d.flac]
+SWAC_ALPHAIDX=daughter-in-law
+SWAC_TEXT=daughter-in-law
+
+[eng-959f0137.flac]
+SWAC_ALPHAIDX=date|birth
+SWAC_TEXT=date of birth
+
+[eng-9cb06014.flac]
+SWAC_ALPHAIDX=dark|blue
+SWAC_TEXT=dark blue
+
+[eng-5c437a89.flac]
+SWAC_ALPHAIDX=damp
+SWAC_TEXT=damp
+
+[eng-dcc8afeb.flac]
+SWAC_ALPHAIDX=damaged
+SWAC_TEXT=damaged
+
+[eng-24c0c6bc.flac]
+SWAC_ALPHAIDX=cycle|path
+SWAC_TEXT=cycle path
+
+[eng-7bb3c0e7.flac]
+SWAC_ALPHAIDX=cutlery
+SWAC_TEXT=cutlery
+
+[eng-7c2601d1.flac]
+SWAC_ALPHAIDX=customs
+SWAC_TEXT=customs
+
+[eng-ab958c87.flac]
+SWAC_ALPHAIDX=currently
+SWAC_TEXT=currently to be at
+
+[eng-10405626.flac]
+SWAC_ALPHAIDX=cupboard
+SWAC_TEXT=cupboard
+
+[eng-b79d50e4.flac]
+SWAC_ALPHAIDX=cup
+SWAC_TEXT=cup
+
+[eng-c5049596.flac]
+SWAC_ALPHAIDX=cultural
+SWAC_TEXT=cultural
+
+[eng-9e9d701b.flac]
+SWAC_ALPHAIDX=cruise
+SWAC_TEXT=cruise
+
+[eng-3f2d4050.flac]
+SWAC_ALPHAIDX=crossroads
+SWAC_TEXT=crossroads
+
+[eng-82bcbfc1.flac]
+SWAC_ALPHAIDX=crocodile
+SWAC_TEXT=crocodile
+
+[eng-2ea9f36d.flac]
+SWAC_ALPHAIDX=criticism
+SWAC_TEXT=criticism
+
+[eng-6a5450f0.flac]
+SWAC_ALPHAIDX=credit|card
+SWAC_TEXT=credit card
+
+[eng-648978b6.flac]
+SWAC_ALPHAIDX=covering
+SWAC_TEXT=covering
+
+[eng-8d0886c5.flac]
+SWAC_ALPHAIDX=cover
+SWAC_TEXT=cover
+
+[eng-55c234de.flac]
+SWAC_ALPHAIDX=countryside
+SWAC_TEXT=countryside
+
+[eng-c1229478.flac]
+SWAC_ALPHAIDX=counter
+SWAC_TEXT=counter
+
+[eng-af2a5b7f.flac]
+SWAC_ALPHAIDX=count
+SWAC_TEXT=count on
+
+[eng-9acb209a.flac]
+SWAC_ALPHAIDX=cotton|wool
+SWAC_TEXT=cotton wool
+
+[eng-46eb1e03.flac]
+SWAC_ALPHAIDX=cotton|bud
+SWAC_TEXT=cotton bud
+
+[eng-db0af0bb.flac]
+SWAC_ALPHAIDX=cotton
+SWAC_TEXT=cotton
+
+[eng-ed3d51f7.flac]
+SWAC_ALPHAIDX=cool
+SWAC_TEXT=cool
+
+[eng-14795cd3.flac]
+SWAC_ALPHAIDX=cooking|ring
+SWAC_TEXT=cooking rings
+
+[eng-467be66a.flac]
+SWAC_ALPHAIDX=cooking
+SWAC_TEXT=cooking
+
+[eng-f214d8b1.flac]
+SWAC_ALPHAIDX=cooked|rice
+SWAC_TEXT=cooked rice
+
+[eng-25cc745c.flac]
+SWAC_ALPHAIDX=contraceptive
+SWAC_TEXT=contraceptive
+
+[eng-3b332721.flac]
+SWAC_ALPHAIDX=continuously
+SWAC_TEXT=continuously
+
+[eng-e76658c4.flac]
+SWAC_ALPHAIDX=comparatively
+SWAC_TEXT=comparatively
+
+[eng-1f01330f.flac]
+SWAC_ALPHAIDX=companionship
+SWAC_TEXT=companionship
+
+[eng-03d1e589.flac]
+SWAC_ALPHAIDX=common|cold
+SWAC_TEXT=common cold
+
+[eng-b447203d.flac]
+SWAC_ALPHAIDX=comic|strip
+SWAC_TEXT=comic strip
+
+[eng-4599bb31.flac]
+SWAC_ALPHAIDX=come|out
+SWAC_TEXT=come out
+
+[eng-95b25a15.flac]
+SWAC_ALPHAIDX=come|in
+SWAC_TEXT=come in
+
+[eng-b53f993b.flac]
+SWAC_ALPHAIDX=come|back
+SWAC_TEXT=come back
+
+[eng-edeea54f.flac]
+SWAC_ALPHAIDX=color|color
+SWAC_TEXT=color color
+
+[eng-0854e471.flac]
+SWAC_ALPHAIDX=collect|call
+SWAC_TEXT=collect call
+
+[eng-a40662f4.flac]
+SWAC_ALPHAIDX=collect
+SWAC_TEXT=collect
+
+[eng-bb67f671.flac]
+SWAC_ALPHAIDX=coil
+SWAC_TEXT=coil
+
+[eng-538529b3.flac]
+SWAC_ALPHAIDX=coffee
+SWAC_TEXT=coffee
+
+[eng-77153098.flac]
+SWAC_ALPHAIDX=code
+SWAC_TEXT=code
+
+[eng-5ef72c94.flac]
+SWAC_ALPHAIDX=coat|hanger
+SWAC_TEXT=coat hanger
+
+[eng-3f596dcc.flac]
+SWAC_ALPHAIDX=coach
+SWAC_TEXT=coach
+
+[eng-268aadd1.flac]
+SWAC_ALPHAIDX=clue
+SWAC_TEXT=clue
+
+[eng-19d80712.flac]
+SWAC_ALPHAIDX=closing|time
+SWAC_TEXT=closing time
+
+[eng-5542ebb4.flac]
+SWAC_ALPHAIDX=closing
+SWAC_TEXT=closing
+
+[eng-19705d80.flac]
+SWAC_ALPHAIDX=closet
+SWAC_TEXT=closet
+
+[eng-07cc3413.flac]
+SWAC_ALPHAIDX=cloakroom
+SWAC_TEXT=cloakroom
+
+[eng-1fede491.flac]
+SWAC_ALPHAIDX=clique
+SWAC_TEXT=clique
+
+[eng-c788ce3b.flac]
+SWAC_ALPHAIDX=climbing
+SWAC_TEXT=climbing
+
+[eng-e0351854.flac]
+SWAC_ALPHAIDX=clerk
+SWAC_TEXT=clerk
+
+[eng-497d309d.flac]
+SWAC_ALPHAIDX=classroom
+SWAC_TEXT=classroom
+
+[eng-2efb047f.flac]
+SWAC_ALPHAIDX=classical
+SWAC_TEXT=classical
+
+[eng-b3ef21ad.flac]
+SWAC_ALPHAIDX=classic
+SWAC_TEXT=classic
+
+[eng-ea881ea6.flac]
+SWAC_ALPHAIDX=class|over
+SWAC_TEXT=class is over
+
+[eng-f63d758e.flac]
+SWAC_ALPHAIDX=city|wall
+SWAC_TEXT=city walls
+
+[eng-8343e249.flac]
+SWAC_ALPHAIDX=city|hall
+SWAC_TEXT=city hall
+
+[eng-2d5b0234.flac]
+SWAC_ALPHAIDX=city
+SWAC_TEXT=city
+
+[eng-24a378bf.flac]
+SWAC_ALPHAIDX=cigarette|paper
+SWAC_TEXT=cigarette paper
+
+[eng-502681d8.flac]
+SWAC_ALPHAIDX=chin
+SWAC_TEXT=chin
+
+[eng-619e2c60.flac]
+SWAC_ALPHAIDX=get|on
+SWAC_TEXT=get on
+
+[eng-f3d95e9c.flac]
+SWAC_ALPHAIDX=get|off
+SWAC_TEXT=get off
+
+[eng-27308c22.flac]
+SWAC_ALPHAIDX=genuinely
+SWAC_TEXT=genuinely
+
+[eng-4f82759c.flac]
+SWAC_ALPHAIDX=general|delivery
+SWAC_TEXT=general delivery
+
+[eng-ce29364a.flac]
+SWAC_ALPHAIDX=general
+SWAC_TEXT=general
+
+[eng-ee57b626.flac]
+SWAC_ALPHAIDX=gel
+SWAC_TEXT=gel
+
+[eng-d4986236.flac]
+SWAC_ALPHAIDX=gauze
+SWAC_TEXT=gauze
+
+[eng-42a816da.flac]
+SWAC_ALPHAIDX=gastric|flu
+SWAC_TEXT=gastric flu
+
+[eng-1e40e790.flac]
+SWAC_ALPHAIDX=gas|station
+SWAC_TEXT=gas station
+
+[eng-d7ec32ab.flac]
+SWAC_ALPHAIDX=gas|cylinder
+SWAC_TEXT=gas cylinder
+
+[eng-07337ed7.flac]
+SWAC_ALPHAIDX=gas
+SWAC_TEXT=gas
+
+[eng-e01e7ae3.flac]
+SWAC_ALPHAIDX=garlic
+SWAC_TEXT=garlic
+
+[eng-a2e24204.flac]
+SWAC_ALPHAIDX=garden|pea
+SWAC_TEXT=garden pea
+
+[eng-3c0918ea.flac]
+SWAC_ALPHAIDX=garden
+SWAC_TEXT=garden
+
+[eng-357b5dfc.flac]
+SWAC_ALPHAIDX=garbage|can
+SWAC_TEXT=garbage can
+
+[eng-4d658f6f.flac]
+SWAC_ALPHAIDX=garbage|bag
+SWAC_TEXT=garbage bag
+
+[eng-472b783a.flac]
+SWAC_ALPHAIDX=gallery
+SWAC_TEXT=gallery
+
+[eng-54f9629a.flac]
+SWAC_ALPHAIDX=fuse
+SWAC_TEXT=fuse
+
+[eng-665ddab3.flac]
+SWAC_ALPHAIDX=furniture
+SWAC_TEXT=furniture
+
+[eng-558b3ac9.flac]
+SWAC_ALPHAIDX=funfair
+SWAC_TEXT=funfair
+
+[eng-7b1cc3fd.flac]
+SWAC_ALPHAIDX=fundamental
+SWAC_TEXT=fundamental
+
+[eng-4553d94c.flac]
+SWAC_ALPHAIDX=full|price
+SWAC_TEXT=full price
+
+[eng-7d2e1dc1.flac]
+SWAC_ALPHAIDX=full
+SWAC_TEXT=full of
+
+[eng-a8a832ab.flac]
+SWAC_ALPHAIDX=full|fare
+SWAC_TEXT=full fare
+
+[eng-d7cdd0d2.flac]
+SWAC_ALPHAIDX=full|board
+SWAC_TEXT=full board
+
+[eng-77d4603f.flac]
+SWAC_ALPHAIDX=frying|pan
+SWAC_TEXT=frying pan
+
+[eng-40ddaf98.flac]
+SWAC_ALPHAIDX=frozen|food
+SWAC_TEXT=frozen food
+
+[eng-df98eda9.flac]
+SWAC_ALPHAIDX=front|wheel
+SWAC_TEXT=front wheel
+
+[eng-72cdaf99.flac]
+SWAC_ALPHAIDX=from|time
+SWAC_TEXT=from time to time
+
+[eng-87e6522c.flac]
+SWAC_ALPHAIDX=fries
+SWAC_TEXT=fries
+
+[eng-37a41285.flac]
+SWAC_ALPHAIDX=friendly|relation
+SWAC_TEXT=friendly relations
+
+[eng-1ae49351.flac]
+SWAC_ALPHAIDX=fried|egg
+SWAC_TEXT=fried egg
+
+[eng-f2e94d89.flac]
+SWAC_ALPHAIDX=fridge
+SWAC_TEXT=fridge
+
+[eng-912d9713.flac]
+SWAC_ALPHAIDX=freezer
+SWAC_TEXT=freezer
+
+[eng-c4defaf9.flac]
+SWAC_ALPHAIDX=fragrant
+SWAC_TEXT=fragrant
+
+[eng-83dd75e6.flac]
+SWAC_ALPHAIDX=fracture
+SWAC_TEXT=fracture
+
+[eng-58f8399c.flac]
+SWAC_ALPHAIDX=fowl
+SWAC_TEXT=fowl
+
+[eng-1f2ce82d.flac]
+SWAC_ALPHAIDX=star|petrol
+SWAC_TEXT=four-star petrol
+
+[eng-b13622c5.flac]
+SWAC_ALPHAIDX=fountain|pen
+SWAC_TEXT=fountain pen
+
+[eng-06fa1928.flac]
+SWAC_ALPHAIDX=forward|gear
+SWAC_TEXT=forward gear
+
+[eng-feaab7ff.flac]
+SWAC_ALPHAIDX=fortunate
+SWAC_TEXT=fortunate
+
+[eng-a85d53b4.flac]
+SWAC_ALPHAIDX=forest
+SWAC_TEXT=forest
+
+[eng-b832fa73.flac]
+SWAC_ALPHAIDX=foreign|language
+SWAC_TEXT=foreign language
+
+[eng-bc6de232.flac]
+SWAC_ALPHAIDX=foreign|country
+SWAC_TEXT=foreign country
+
+[eng-2348f4ed.flac]
+SWAC_ALPHAIDX=forbidden
+SWAC_TEXT=forbidden
+
+[eng-092b9a93.flac]
+SWAC_ALPHAIDX=for|moment
+SWAC_TEXT=for the moment
+
+[eng-4d7cd68e.flac]
+SWAC_ALPHAIDX=for|sale
+SWAC_TEXT=for sale
+
+[eng-27a97f8e.flac]
+SWAC_ALPHAIDX=for|example
+SWAC_TEXT=for example
+
+[eng-5b8df342.flac]
+SWAC_ALPHAIDX=for|hour
+SWAC_TEXT=for an hour
+
+[eng-bc74826a.flac]
+SWAC_ALPHAIDX=food|poisoning
+SWAC_TEXT=food poisoning
+
+[eng-d43829f7.flac]
+SWAC_ALPHAIDX=food
+SWAC_TEXT=food
+
+[eng-08ef76b6.flac]
+SWAC_ALPHAIDX=fondness
+SWAC_TEXT=fondness
+
+[eng-eca209cd.flac]
+SWAC_ALPHAIDX=folder
+SWAC_TEXT=folder
+
+[eng-55475e04.flac]
+SWAC_ALPHAIDX=fly|away
+SWAC_TEXT=fly away
+
+[eng-b4e154af.flac]
+SWAC_ALPHAIDX=flush
+SWAC_TEXT=flush
+
+[eng-9afee455.flac]
+SWAC_ALPHAIDX=flip
+SWAC_TEXT=flip
+
+[eng-bc253454.flac]
+SWAC_ALPHAIDX=flavor
+SWAC_TEXT=flavor
+
+[eng-36c70eb9.flac]
+SWAC_ALPHAIDX=flask
+SWAC_TEXT=flask
+
+[eng-0d7a22bf.flac]
+SWAC_ALPHAIDX=flashlight
+SWAC_TEXT=flashlight
+
+[eng-37a12d65.flac]
+SWAC_ALPHAIDX=flasher
+SWAC_TEXT=flasher
+
+[eng-3311781b.flac]
+SWAC_ALPHAIDX=fizzy
+SWAC_TEXT=fizzy
+
+[eng-56080248.flac]
+SWAC_ALPHAIDX=fitting|room
+SWAC_TEXT=fitting room
+
+[eng-0a5edfe0.flac]
+SWAC_ALPHAIDX=fishmonger
+SWAC_TEXT=fishmonger's
+
+[eng-731cac2b.flac]
+SWAC_ALPHAIDX=fish|shop
+SWAC_TEXT=fish shop
+
+[eng-c0ad93ea.flac]
+SWAC_ALPHAIDX=first|all
+SWAC_TEXT=first of all
+
+[eng-d253b62c.flac]
+SWAC_ALPHAIDX=first|name
+SWAC_TEXT=first name
+
+[eng-65726f30.flac]
+SWAC_ALPHAIDX=first|floor
+SWAC_TEXT=first floor
+
+[eng-367ca081.flac]
+SWAC_ALPHAIDX=first|class
+SWAC_TEXT=first class
+
+[eng-15ddfda5.flac]
+SWAC_ALPHAIDX=fireworks
+SWAC_TEXT=fireworks
+
+[eng-95e8fefb.flac]
+SWAC_ALPHAIDX=fire
+SWAC_TEXT=fire!
+
+[eng-57ce3663.flac]
+SWAC_ALPHAIDX=fire|department
+SWAC_TEXT=fire department
+
+[eng-9751e5c1.flac]
+SWAC_ALPHAIDX=fire|brigade
+SWAC_TEXT=fire brigade
+
+[eng-d55ddb71.flac]
+SWAC_ALPHAIDX=find|out
+SWAC_TEXT=find out
+
+[eng-f1af9199.flac]
+SWAC_ALPHAIDX=final|part
+SWAC_TEXT=final part
+
+[eng-186d68b9.flac]
+SWAC_ALPHAIDX=filling
+SWAC_TEXT=filling
+
+[eng-4dc390ab.flac]
+SWAC_ALPHAIDX=fill|up
+SWAC_TEXT=fill up
+
+[eng-a8e531bb.flac]
+SWAC_ALPHAIDX=fill|out
+SWAC_TEXT=fill out
+
+[eng-51bbf095.flac]
+SWAC_ALPHAIDX=fill|in
+SWAC_TEXT=fill in
+
+[eng-e7ca5811.flac]
+SWAC_ALPHAIDX=feverish
+SWAC_TEXT=feverish
+
+[eng-82e96343.flac]
+SWAC_ALPHAIDX=fetch
+SWAC_TEXT=fetch
+
+[eng-9cbaa49a.flac]
+SWAC_ALPHAIDX=feel|anxiously
+SWAC_TEXT=feel anxiously
+
+[eng-b0f96fe2.flac]
+SWAC_ALPHAIDX=fed|up
+SWAC_TEXT=fed up
+
+[eng-68c58ed9.flac]
+SWAC_ALPHAIDX=favorite
+SWAC_TEXT=favorite
+
+[eng-92af1c09.flac]
+SWAC_ALPHAIDX=faucet
+SWAC_TEXT=faucet
+
+[eng-046272df.flac]
+SWAC_ALPHAIDX=fast-food|restaurant
+SWAC_TEXT=fast-food restaurant
+
+[eng-256649c4.flac]
+SWAC_ALPHAIDX=fast
+SWAC_TEXT=fast
+
+[eng-4112cca6.flac]
+SWAC_ALPHAIDX=far|from
+SWAC_TEXT=far from
+
+[eng-65f77839.flac]
+SWAC_ALPHAIDX=fan
+SWAC_TEXT=fan
+
+[eng-3dcb4090.flac]
+SWAC_ALPHAIDX=family|practitioner
+SWAC_TEXT=family practitioner
+
+[eng-51d6ab3c.flac]
+SWAC_ALPHAIDX=family|name
+SWAC_TEXT=family name
+
+[eng-6c4911ad.flac]
+SWAC_ALPHAIDX=falsification
+SWAC_TEXT=falsification
+
+[eng-fb361ef9.flac]
+SWAC_ALPHAIDX=factory
+SWAC_TEXT=factory
+
+[eng-6fa45b95.flac]
+SWAC_ALPHAIDX=fact
+SWAC_TEXT=fact
+
+[eng-d3851897.flac]
+SWAC_ALPHAIDX=facecloth
+SWAC_TEXT=facecloth
+
+[eng-727887b1.flac]
+SWAC_ALPHAIDX=eye
+SWAC_TEXT=eye
+
+[eng-4d3f0d65.flac]
+SWAC_ALPHAIDX=extra
+SWAC_TEXT=extra
+
+[eng-8d5c6cd6.flac]
+SWAC_ALPHAIDX=expiry|date
+SWAC_TEXT=expiry date
+
+[eng-b8353389.flac]
+SWAC_ALPHAIDX=exhibition
+SWAC_TEXT=exhibition
+
+[eng-bdac1eff.flac]
+SWAC_ALPHAIDX=exhausted
+SWAC_TEXT=exhausted
+
+[eng-edbe5c9b.flac]
+SWAC_ALPHAIDX=excuse|(conversation)
+SWAC_TEXT=excuse me?
+
+[eng-09b5cb99.flac]
+SWAC_ALPHAIDX=excuse|(conversation)
+SWAC_TEXT=excuse me
+
+[eng-8599fa8e.flac]
+SWAC_ALPHAIDX=exchange|student
+SWAC_TEXT=exchange student
+
+[eng-92d068b5.flac]
+SWAC_ALPHAIDX=exchange|rate
+SWAC_TEXT=exchange rate
+
+[eng-8ac8cfd1.flac]
+SWAC_ALPHAIDX=excess
+SWAC_TEXT=excess
+
+[eng-a368a16e.flac]
+SWAC_ALPHAIDX=exceptional
+SWAC_TEXT=exceptional
+
+[eng-38bba6c6.flac]
+SWAC_ALPHAIDX=exam
+SWAC_TEXT=exam
+
+[eng-0c615710.flac]
+SWAC_ALPHAIDX=evidence
+SWAC_TEXT=evidence
+
+[eng-a56ca675.flac]
+SWAC_ALPHAIDX=everyday
+SWAC_TEXT=everyday
+
+[eng-eb6369cc.flac]
+SWAC_ALPHAIDX=every|kind
+SWAC_TEXT=every kind of
+
+[eng-4bb75ad8.flac]
+SWAC_ALPHAIDX=every|day
+SWAC_TEXT=every day
+
+[eng-7c1c6890.flac]
+SWAC_ALPHAIDX=evening
+SWAC_TEXT=evening
+
+[eng-bf82152b.flac]
+SWAC_ALPHAIDX=euro
+SWAC_TEXT=euro
+
+[eng-2bc982aa.flac]
+SWAC_ALPHAIDX=espresso
+SWAC_TEXT=espresso
+
+[eng-0162e3bd.flac]
+SWAC_ALPHAIDX=erect
+SWAC_TEXT=erect
+
+[eng-3424ffe3.flac]
+SWAC_ALPHAIDX=epileptic
+SWAC_TEXT=epileptic
+
+[eng-29f01cc8.flac]
+SWAC_ALPHAIDX=enthusiastic
+SWAC_TEXT=enthusiastic
+
+[eng-f8fbb2f1.flac]
+SWAC_ALPHAIDX=enjoy|meal|(conversation)
+SWAC_TEXT=enjoy your meal!
+
+[eng-aef75a24.flac]
+SWAC_ALPHAIDX=enjoy|oneself
+SWAC_TEXT=enjoy oneself
+
+[eng-84f4c585.flac]
+SWAC_ALPHAIDX=emergency|exit
+SWAC_TEXT=emergency exit
+
+[eng-26dd111d.flac]
+SWAC_ALPHAIDX=emergency
+SWAC_TEXT=emergency
+
+[eng-1398eb33.flac]
+SWAC_ALPHAIDX=elevator
+SWAC_TEXT=elevator
+
+[eng-c09fa444.flac]
+SWAC_ALPHAIDX=electric|shaver
+SWAC_TEXT=electric shaver
+
+[eng-cad29d82.flac]
+SWAC_ALPHAIDX=electric|light
+SWAC_TEXT=electric light
+
+[eng-660a3e86.flac]
+SWAC_ALPHAIDX=eight
+SWAC_TEXT=eight
+
+[eng-219cec4b.flac]
+SWAC_ALPHAIDX=egg|yolk
+SWAC_TEXT=egg yolk
+
+[eng-d2674259.flac]
+SWAC_ALPHAIDX=economy|class
+SWAC_TEXT=economy class
+
+[eng-db190c47.flac]
+SWAC_ALPHAIDX=economic
+SWAC_TEXT=economic
+
+[eng-811c9311.flac]
+SWAC_ALPHAIDX=easy|to
+SWAC_TEXT=easy to
+
+[eng-f0b2484d.flac]
+SWAC_ALPHAIDX=in|middle
+SWAC_TEXT=in the middle of
+
+[eng-e19cdf18.flac]
+SWAC_ALPHAIDX=in|evening
+SWAC_TEXT=in the evenings
+
+[eng-9d2d701e.flac]
+SWAC_ALPHAIDX=in|evening
+SWAC_TEXT=in the evening
+
+[eng-12edba02.flac]
+SWAC_ALPHAIDX=in|east
+SWAC_TEXT=in the east
+
+[eng-f2aa6140.flac]
+SWAC_ALPHAIDX=in|area
+SWAC_TEXT=in the area
+
+[eng-f5a73348.flac]
+SWAC_ALPHAIDX=in|century
+SWAC_TEXT=in the 20th century
+
+[eng-f974df3d.flac]
+SWAC_ALPHAIDX=in|century
+SWAC_TEXT=in the 19th century
+
+[eng-dc242376.flac]
+SWAC_ALPHAIDX=in|ruins
+SWAC_TEXT=in ruins
+
+[eng-76ec51b4.flac]
+SWAC_ALPHAIDX=in|opinion
+SWAC_TEXT=in my opinion
+
+[eng-4ee9dfc2.flac]
+SWAC_ALPHAIDX=in|memory
+SWAC_TEXT=in memory of
+
+[eng-25b67182.flac]
+SWAC_ALPHAIDX=in|front
+SWAC_TEXT=in front of
+
+[eng-3e9d13ef.flac]
+SWAC_ALPHAIDX=in|fact
+SWAC_TEXT=in fact
+
+[eng-162a9de0.flac]
+SWAC_ALPHAIDX=in|case
+SWAC_TEXT=in case of
+
+[eng-2c0bb781.flac]
+SWAC_ALPHAIDX=in|hour
+SWAC_TEXT=in an hour
+
+[eng-297b5b0d.flac]
+SWAC_ALPHAIDX=in|emergency
+SWAC_TEXT=in an emergency
+
+[eng-d942bb21.flac]
+SWAC_ALPHAIDX=in|advance
+SWAC_TEXT=in advance
+
+[eng-050ec28f.flac]
+SWAC_ALPHAIDX=in|French
+SWAC_TEXT=in French
+
+[eng-f4dd2965.flac]
+SWAC_ALPHAIDX=in|France
+SWAC_TEXT=in France
+
+[eng-ddfd9b4e.flac]
+SWAC_ALPHAIDX=in|English
+SWAC_TEXT=in English
+
+[eng-42d1d30f.flac]
+SWAC_ALPHAIDX=in
+SWAC_TEXT=in 1999
+
+[eng-f84d006d.flac]
+SWAC_ALPHAIDX=illness
+SWAC_TEXT=illness
+
+[eng-b97c2376.flac]
+SWAC_ALPHAIDX=if|case
+SWAC_TEXT=if that is the case
+
+[eng-662b892a.flac]
+SWAC_ALPHAIDX=if|ever
+SWAC_TEXT=if ever
+
+[eng-48e369ae.flac]
+SWAC_ALPHAIDX=identity|papers
+SWAC_TEXT=identity papers
+
+[eng-e39b2649.flac]
+SWAC_ALPHAIDX=identity|card
+SWAC_TEXT=identity card
+
+[eng-800f231f.flac]
+SWAC_ALPHAIDX=identically
+SWAC_TEXT=identically
+
+[eng-989aedc8.flac]
+SWAC_ALPHAIDX=ice|cube
+SWAC_TEXT=ice cube
+
+[eng-cb4f840e.flac]
+SWAC_ALPHAIDX=ice
+SWAC_TEXT=ice
+
+[eng-31b3d1f7.flac]
+SWAC_ALPHAIDX=hurry|up
+SWAC_TEXT=hurry up
+
+[eng-65512a12.flac]
+SWAC_ALPHAIDX=hundred|million
+SWAC_TEXT=hundred million
+
+[eng-e9bc6e6b.flac]
+SWAC_ALPHAIDX=hundred
+SWAC_TEXT=hundred
+
+[eng-5afb1e7d.flac]
+SWAC_ALPHAIDX=how|much|(conversation)
+SWAC_TEXT=how much
+
+[eng-9eca4b6e.flac]
+SWAC_ALPHAIDX=how|many|(conversation)
+SWAC_TEXT=how many
+
+[eng-c70e25f8.flac]
+SWAC_ALPHAIDX=how|long|(conversation)
+SWAC_TEXT=how long?
+
+[eng-3400d938.flac]
+SWAC_ALPHAIDX=how|long|here|(conversation)
+SWAC_TEXT=how long have you been here?
+
+[eng-9e0e9b3c.flac]
+SWAC_ALPHAIDX=how|do|say|(conversation)
+SWAC_TEXT=how do you say ...?
+
+[eng-4f1fb16a.flac]
+SWAC_ALPHAIDX=how|be|(conversation)
+SWAC_TEXT=how are you?
+
+[eng-55ccbb68.flac]
+SWAC_ALPHAIDX=how|about
+SWAC_TEXT=how about
+
+[eng-18474a47.flac]
+SWAC_ALPHAIDX=housework
+SWAC_TEXT=housework
+
+[eng-701e114e.flac]
+SWAC_ALPHAIDX=hour
+SWAC_TEXT=hour
+
+[eng-3cdd37fa.flac]
+SWAC_ALPHAIDX=hotplate
+SWAC_TEXT=hotplate
+
+[eng-1ed2f6db.flac]
+SWAC_ALPHAIDX=hot|drink
+SWAC_TEXT=hot drinks
+
+[eng-c096f9eb.flac]
+SWAC_ALPHAIDX=hot|chocolate
+SWAC_TEXT=hot chocolate
+
+[eng-4282c85b.flac]
+SWAC_ALPHAIDX=hospital
+SWAC_TEXT=hospital
+
+[eng-8c4739ee.flac]
+SWAC_ALPHAIDX=homosexual
+SWAC_TEXT=homosexual
+
+[eng-772eb616.flac]
+SWAC_ALPHAIDX=homeland
+SWAC_TEXT=homeland
+
+[eng-3a66a10c.flac]
+SWAC_ALPHAIDX=holidays
+SWAC_TEXT=holidays
+
+[eng-d9e06a57.flac]
+SWAC_ALPHAIDX=holiday|camp
+SWAC_TEXT=holiday camp
+
+[eng-dc9ab234.flac]
+SWAC_ALPHAIDX=holiday
+SWAC_TEXT=holiday
+
+[eng-4433e7bc.flac]
+SWAC_ALPHAIDX=hold|on
+SWAC_TEXT=hold on
+
+[eng-141c745c.flac]
+SWAC_ALPHAIDX=hitchhiking
+SWAC_TEXT=hitchhiking
+
+[eng-553873b4.flac]
+SWAC_ALPHAIDX=hit|on
+SWAC_TEXT=hit on
+
+[eng-a56fcd03.flac]
+SWAC_ALPHAIDX=historical
+SWAC_TEXT=historical
+
+[eng-307acef5.flac]
+SWAC_ALPHAIDX=hippopotamus
+SWAC_TEXT=hippopotamus
+
+[eng-58c10f84.flac]
+SWAC_ALPHAIDX=hill-walking
+SWAC_TEXT=hill-walking
+
+[eng-42ce0bd7.flac]
+SWAC_ALPHAIDX=hiking
+SWAC_TEXT=hiking
+
+[eng-e20bbf31.flac]
+SWAC_ALPHAIDX=high-rise
+SWAC_TEXT=high-rise
+
+[eng-9a3eb284.flac]
+SWAC_ALPHAIDX=high-heeled|shoes
+SWAC_TEXT=high-heeled shoes
+
+[eng-3a73a0ca.flac]
+SWAC_ALPHAIDX=high|tide
+SWAC_TEXT=high tide
+
+[eng-108ffccc.flac]
+SWAC_ALPHAIDX=high|school
+SWAC_TEXT=high school
+
+[eng-5f438340.flac]
+SWAC_ALPHAIDX=high|heels
+SWAC_TEXT=high heels
+
+[eng-366d7979.flac]
+SWAC_ALPHAIDX=high|blood|pressure
+SWAC_TEXT=high blood pressure
+
+[eng-1e12b376.flac]
+SWAC_ALPHAIDX=hi-fi
+SWAC_TEXT=hi-fi
+
+[eng-41d3833a.flac]
+SWAC_ALPHAIDX=hi|(conversation)
+SWAC_TEXT=hi!
+
+[eng-b7984103.flac]
+SWAC_ALPHAIDX=here|is
+SWAC_TEXT=here is
+
+[eng-616cd358.flac]
+SWAC_ALPHAIDX=here|are
+SWAC_TEXT=here are
+
+[eng-8b8dc415.flac]
+SWAC_ALPHAIDX=herbal|tea
+SWAC_TEXT=herbal tea
+
+[eng-4103974c.flac]
+SWAC_ALPHAIDX=help
+SWAC_TEXT=help!
+
+[eng-7aaaeea6.flac]
+SWAC_ALPHAIDX=helmet
+SWAC_TEXT=helmet
+
+[eng-3b22c7eb.flac]
+SWAC_ALPHAIDX=hedge
+SWAC_TEXT=hedge
+
+[eng-60ecc3e6.flac]
+SWAC_ALPHAIDX=heart
+SWAC_TEXT=heart
+
+[eng-8a25383a.flac]
+SWAC_ALPHAIDX=headlight
+SWAC_TEXT=headlight
+
+[eng-8fd81935.flac]
+SWAC_ALPHAIDX=hay|fever
+SWAC_TEXT=hay fever
+
+[eng-0b746ede.flac]
+SWAC_ALPHAIDX=haw-haw
+SWAC_TEXT=haw-haw
+
+[eng-32e49586.flac]
+SWAC_ALPHAIDX=have|to
+SWAC_TEXT=have to
+
+[eng-06ec8bc5.flac]
+SWAC_ALPHAIDX=have|as|remainder
+SWAC_TEXT=have as remainder
+
+[eng-d3eaede1.flac]
+SWAC_ALPHAIDX=have|good|trip
+SWAC_TEXT=have a good trip
+
+[eng-d27eea40.flac]
+SWAC_ALPHAIDX=have
+SWAC_TEXT=have
+
+[eng-a6007700.flac]
+SWAC_ALPHAIDX=hashish
+SWAC_TEXT=hashish
+
+[eng-58545a28.flac]
+SWAC_ALPHAIDX=happy|name|day|(conversation)
+SWAC_TEXT=happy name day
+
+[eng-afc8c543.flac]
+SWAC_ALPHAIDX=happy|birthday|(conversation)
+SWAC_TEXT=happy birthday!
+
+[eng-164c7a42.flac]
+SWAC_ALPHAIDX=hang|on
+SWAC_TEXT=hang on
+
+[eng-cdbf8061.flac]
+SWAC_ALPHAIDX=handicraft
+SWAC_TEXT=handicraft
+
+[eng-263285f8.flac]
+SWAC_ALPHAIDX=handicapped
+SWAC_TEXT=handicapped
+
+[eng-851f2755.flac]
+SWAC_ALPHAIDX=handbrake
+SWAC_TEXT=handbrake
+
+[eng-d05eb3cb.flac]
+SWAC_ALPHAIDX=hand-made
+SWAC_TEXT=hand-made
+
+[eng-376d04f8.flac]
+SWAC_ALPHAIDX=hand|luggage
+SWAC_TEXT=hand luggage
+
+[eng-20c6bf8c.flac]
+SWAC_ALPHAIDX=half-board
+SWAC_TEXT=half-board
+
+[eng-56a123ca.flac]
+SWAC_ALPHAIDX=half|hour
+SWAC_TEXT=half an hour
+
+[eng-1cfdc43b.flac]
+SWAC_ALPHAIDX=half|liter
+SWAC_TEXT=half a liter
+
+[eng-61d660fb.flac]
+SWAC_ALPHAIDX=half|kilo
+SWAC_TEXT=half a kilo
+
+[eng-fb5a4121.flac]
+SWAC_ALPHAIDX=half
+SWAC_TEXT=half
+
+[eng-1512577c.flac]
+SWAC_ALPHAIDX=hairdryer
+SWAC_TEXT=hairdryer
+
+[eng-407d6245.flac]
+SWAC_ALPHAIDX=hairdresser
+SWAC_TEXT=hairdresser
+
+[eng-8ee9cb5a.flac]
+SWAC_ALPHAIDX=gynecologist
+SWAC_TEXT=gynecologist
+
+[eng-11e95ea2.flac]
+SWAC_ALPHAIDX=guinea|pig
+SWAC_TEXT=guinea pig
+
+[eng-66d6c24a.flac]
+SWAC_ALPHAIDX=guided|tour
+SWAC_TEXT=guided tour
+
+[eng-0c83a75d.flac]
+SWAC_ALPHAIDX=guidebook
+SWAC_TEXT=guidebook
+
+[eng-ca9ec735.flac]
+SWAC_ALPHAIDX=guide
+SWAC_TEXT=guide
+
+[eng-885f119d.flac]
+SWAC_ALPHAIDX=guest|house
+SWAC_TEXT=guest house
+
+[eng-e7a3c80b.flac]
+SWAC_ALPHAIDX=ground|sheet
+SWAC_TEXT=ground sheet
+
+[eng-a24d2a55.flac]
+SWAC_ALPHAIDX=ground|meat
+SWAC_TEXT=ground meat
+
+[eng-deda8fc7.flac]
+SWAC_ALPHAIDX=ground|floor
+SWAC_TEXT=ground floor
+
+[eng-ab8f2e37.flac]
+SWAC_ALPHAIDX=grocer
+SWAC_TEXT=grocer's
+
+[eng-7ef114d4.flac]
+SWAC_ALPHAIDX=greatness
+SWAC_TEXT=greatness
+
+[eng-43ccc268.flac]
+SWAC_ALPHAIDX=great|effort
+SWAC_TEXT=great effort
+
+[eng-3104ce49.flac]
+SWAC_ALPHAIDX=grasp
+SWAC_TEXT=grasp
+
+[eng-7c4ca02c.flac]
+SWAC_ALPHAIDX=grams
+SWAC_TEXT=grams
+
+[eng-eea3c31e.flac]
+SWAC_ALPHAIDX=goodnight
+SWAC_TEXT=goodnight
+
+[eng-8a7c9039.flac]
+SWAC_ALPHAIDX=good-looking
+SWAC_TEXT=good-looking
+
+[eng-a227fb74.flac]
+SWAC_ALPHAIDX=good|luck|(conversation)
+SWAC_TEXT=good luck!
+
+[eng-7fa6c1dd.flac]
+SWAC_ALPHAIDX=good|bye
+SWAC_TEXT=good bye
+
+[eng-6c844e92.flac]
+SWAC_ALPHAIDX=good
+SWAC_TEXT=good
+
+[eng-f6b641a0.flac]
+SWAC_ALPHAIDX=golf|course
+SWAC_TEXT=golf course
+
+[eng-a9a77c7d.flac]
+SWAC_ALPHAIDX=golf
+SWAC_TEXT=golf
+
+[eng-1842c603.flac]
+SWAC_ALPHAIDX=go|without
+SWAC_TEXT=go without
+
+[eng-52ca028c.flac]
+SWAC_ALPHAIDX=go|with
+SWAC_TEXT=go with
+
+[eng-b475017a.flac]
+SWAC_ALPHAIDX=go|up
+SWAC_TEXT=go up
+
+[eng-8d25c818.flac]
+SWAC_ALPHAIDX=go|through
+SWAC_TEXT=go through
+
+[eng-59c86568.flac]
+SWAC_ALPHAIDX=go|out
+SWAC_TEXT=go out
+
+[eng-a80d6144.flac]
+SWAC_ALPHAIDX=go|in
+SWAC_TEXT=go in
+
+[eng-8e7886d5.flac]
+SWAC_ALPHAIDX=go|horse-riding
+SWAC_TEXT=go horse-riding
+
+[eng-6c054253.flac]
+SWAC_ALPHAIDX=go|away
+SWAC_TEXT=go away
+
+[eng-f6a25ad6.flac]
+SWAC_ALPHAIDX=glasses
+SWAC_TEXT=glasses
+
+[eng-4b650984.flac]
+SWAC_ALPHAIDX=give|back
+SWAC_TEXT=give back
+
+[eng-840eabae.flac]
+SWAC_ALPHAIDX=give
+SWAC_TEXT=give
+
+[eng-25c5559e.flac]
+SWAC_ALPHAIDX=gift|wrap
+SWAC_TEXT=gift wrap
+
+[eng-2bbcebd8.flac]
+SWAC_ALPHAIDX=get|up
+SWAC_TEXT=get up
+
+[eng-7ed6b9b7.flac]
+SWAC_ALPHAIDX=march
+SWAC_TEXT=march
+
+[eng-dd197b31.flac]
+SWAC_ALPHAIDX=manufacture
+SWAC_TEXT=manufacture
+
+[eng-0b4e954f.flac]
+SWAC_ALPHAIDX=management
+SWAC_TEXT=management
+
+[eng-4bfb15f1.flac]
+SWAC_ALPHAIDX=mama
+SWAC_TEXT=mama
+
+[eng-d1f8dbbc.flac]
+SWAC_ALPHAIDX=make|mistake
+SWAC_TEXT=make a mistake
+
+[eng-93a2776d.flac]
+SWAC_ALPHAIDX=main|course
+SWAC_TEXT=main course
+
+[eng-c7943de9.flac]
+SWAC_ALPHAIDX=mailman
+SWAC_TEXT=mailman
+
+[eng-a69fe20b.flac]
+SWAC_ALPHAIDX=mailbox
+SWAC_TEXT=mailbox
+
+[eng-3f551f55.flac]
+SWAC_ALPHAIDX=maiden|name
+SWAC_TEXT=maiden name
+
+[eng-93531107.flac]
+SWAC_ALPHAIDX=magnetic|tape
+SWAC_TEXT=magnetic tape
+
+[eng-378c2fe4.flac]
+SWAC_ALPHAIDX=magazine
+SWAC_TEXT=magazine
+
+[eng-5907c8da.flac]
+SWAC_ALPHAIDX=luggage
+SWAC_TEXT=luggage
+
+[eng-d76cb8fc.flac]
+SWAC_ALPHAIDX=low|tide
+SWAC_TEXT=low tide
+
+[eng-83748f3f.flac]
+SWAC_ALPHAIDX=low|blood|pressure
+SWAC_TEXT=low blood pressure
+
+[eng-0ba83348.flac]
+SWAC_ALPHAIDX=loud
+SWAC_TEXT=loud
+
+[eng-9a00e4d6.flac]
+SWAC_ALPHAIDX=lorry
+SWAC_TEXT=lorry
+
+[eng-06bea737.flac]
+SWAC_ALPHAIDX=look|like
+SWAC_TEXT=look like
+
+[eng-38ded296.flac]
+SWAC_ALPHAIDX=look|for
+SWAC_TEXT=look for
+
+[eng-cc5e7ddd.flac]
+SWAC_ALPHAIDX=look|at
+SWAC_TEXT=look at
+
+[eng-633bd49f.flac]
+SWAC_ALPHAIDX=look|after
+SWAC_TEXT=look after
+
+[eng-2b3ad402.flac]
+SWAC_ALPHAIDX=look
+SWAC_TEXT=look
+
+[eng-14fcb40e.flac]
+SWAC_ALPHAIDX=long|time
+SWAC_TEXT=long time
+
+[eng-3b97a968.flac]
+SWAC_ALPHAIDX=long
+SWAC_TEXT=long
+
+[eng-38d41e92.flac]
+SWAC_ALPHAIDX=lodge|at
+SWAC_TEXT=lodge at
+
+[eng-f4b48569.flac]
+SWAC_ALPHAIDX=locker|room
+SWAC_TEXT=locker room
+
+[eng-1e067dc0.flac]
+SWAC_ALPHAIDX=locker
+SWAC_TEXT=locker
+
+[eng-28098588.flac]
+SWAC_ALPHAIDX=local|time
+SWAC_TEXT=local time
+
+[eng-0cc432bf.flac]
+SWAC_ALPHAIDX=living|room
+SWAC_TEXT=living room
+
+[eng-ba0f6006.flac]
+SWAC_ALPHAIDX=lively
+SWAC_TEXT=lively
+
+[eng-29b79aa6.flac]
+SWAC_ALPHAIDX=liter
+SWAC_TEXT=liter
+
+[eng-d301619e.flac]
+SWAC_ALPHAIDX=listings|magazine
+SWAC_TEXT=listings magazine
+
+[eng-de789cb2.flac]
+SWAC_ALPHAIDX=lighter
+SWAC_TEXT=lighter
+
+[eng-4275c168.flac]
+SWAC_ALPHAIDX=light|bulb
+SWAC_TEXT=light bulb
+
+[eng-6b1a5cf7.flac]
+SWAC_ALPHAIDX=light
+SWAC_TEXT=light
+
+[eng-2f2a8329.flac]
+SWAC_ALPHAIDX=lifeguards
+SWAC_TEXT=lifeguards
+
+[eng-19cd3efe.flac]
+SWAC_ALPHAIDX=life
+SWAC_TEXT=life
+
+[eng-580b9d61.flac]
+SWAC_ALPHAIDX=lie|down
+SWAC_TEXT=lie down
+
+[eng-f65ed190.flac]
+SWAC_ALPHAIDX=license|number
+SWAC_TEXT=license number
+
+[eng-2bcd722c.flac]
+SWAC_ALPHAIDX=letterbox
+SWAC_TEXT=letterbox
+
+[eng-21d7e9f6.flac]
+SWAC_ALPHAIDX=less|than
+SWAC_TEXT=less than
+
+[eng-c3ee7fe2.flac]
+SWAC_ALPHAIDX=lenses
+SWAC_TEXT=lenses
+
+[eng-49e5b0e7.flac]
+SWAC_ALPHAIDX=left-luggage|office
+SWAC_TEXT=left-luggage office
+
+[eng-dfbcd429.flac]
+SWAC_ALPHAIDX=left|luggage|locker
+SWAC_TEXT=left luggage locker
+
+[eng-8592cba4.flac]
+SWAC_ALPHAIDX=leave|message
+SWAC_TEXT=leave message
+
+[eng-f5e3ead7.flac]
+SWAC_ALPHAIDX=leader
+SWAC_TEXT=leader
+
+[eng-ed208535.flac]
+SWAC_ALPHAIDX=lead|pencil
+SWAC_TEXT=lead pencil
+
+[eng-e5a86e54.flac]
+SWAC_ALPHAIDX=lazy
+SWAC_TEXT=lazy
+
+[eng-5d1c7d17.flac]
+SWAC_ALPHAIDX=lave
+SWAC_TEXT=lave
+
+[eng-44c31f25.flac]
+SWAC_ALPHAIDX=laundromat
+SWAC_TEXT=laundromat
+
+[eng-3c09149e.flac]
+SWAC_ALPHAIDX=latte
+SWAC_TEXT=latte
+
+[eng-7defaf85.flac]
+SWAC_ALPHAIDX=lateral
+SWAC_TEXT=lateral
+
+[eng-554b5255.flac]
+SWAC_ALPHAIDX=late-night|opening
+SWAC_TEXT=late-night opening
+
+[eng-562bc075.flac]
+SWAC_ALPHAIDX=last|year
+SWAC_TEXT=last year
+
+[eng-e001563b.flac]
+SWAC_ALPHAIDX=laptop
+SWAC_TEXT=laptop
+
+[eng-c4e0330b.flac]
+SWAC_ALPHAIDX=landscape
+SWAC_TEXT=landscape
+
+[eng-d6dbbf06.flac]
+SWAC_ALPHAIDX=landmark
+SWAC_TEXT=landmark
+
+[eng-0ea750e8.flac]
+SWAC_ALPHAIDX=label
+SWAC_TEXT=label
+
+[eng-73f0b612.flac]
+SWAC_ALPHAIDX=knock|down
+SWAC_TEXT=knock down
+
+[eng-ba409828.flac]
+SWAC_ALPHAIDX=knife
+SWAC_TEXT=knife
+
+[eng-eaa3ce34.flac]
+SWAC_ALPHAIDX=kitchen
+SWAC_TEXT=kitchen
+
+[eng-d799c56e.flac]
+SWAC_ALPHAIDX=kind
+SWAC_TEXT=kind of
+
+[eng-f58023bc.flac]
+SWAC_ALPHAIDX=kidneys
+SWAC_TEXT=kidneys
+
+[eng-808d9b02.flac]
+SWAC_ALPHAIDX=kidney
+SWAC_TEXT=kidney
+
+[eng-3ea2552b.flac]
+SWAC_ALPHAIDX=just|one
+SWAC_TEXT=just one
+
+[eng-cbdf7ca3.flac]
+SWAC_ALPHAIDX=just|in|case
+SWAC_TEXT=just in case
+
+[eng-8eec9467.flac]
+SWAC_ALPHAIDX=just|before
+SWAC_TEXT=just before
+
+[eng-c31af5c1.flac]
+SWAC_ALPHAIDX=just|moment|please|(conversation)
+SWAC_TEXT=just a moment please
+
+[eng-e67f9a32.flac]
+SWAC_ALPHAIDX=just|little
+SWAC_TEXT=just a little
+
+[eng-12a32a5c.flac]
+SWAC_ALPHAIDX=jumper
+SWAC_TEXT=jumper
+
+[eng-a7b30616.flac]
+SWAC_ALPHAIDX=jump
+SWAC_TEXT=jump
+
+[eng-7d4f9543.flac]
+SWAC_ALPHAIDX=juice
+SWAC_TEXT=juice
+
+[eng-3b9feeac.flac]
+SWAC_ALPHAIDX=jug
+SWAC_TEXT=jug
+
+[eng-c816c6a2.flac]
+SWAC_ALPHAIDX=journey
+SWAC_TEXT=journey
+
+[eng-dd2d1381.flac]
+SWAC_ALPHAIDX=jostle
+SWAC_TEXT=jostle
+
+[eng-d7b9a0d3.flac]
+SWAC_ALPHAIDX=jolly
+SWAC_TEXT=jolly
+
+[eng-a94557c0.flac]
+SWAC_ALPHAIDX=jogging
+SWAC_TEXT=jogging
+
+[eng-0623b633.flac]
+SWAC_ALPHAIDX=jewelry|shop
+SWAC_TEXT=jewelry shop
+
+[eng-d884897a.flac]
+SWAC_ALPHAIDX=jewelry
+SWAC_TEXT=jewelry
+
+[eng-783188a4.flac]
+SWAC_ALPHAIDX=itchy
+SWAC_TEXT=itchy
+
+[eng-a09d6b69.flac]
+SWAC_ALPHAIDX=your|turn|(conversation)
+SWAC_TEXT=it's your turn
+
+[eng-252db854.flac]
+SWAC_ALPHAIDX=worth
+SWAC_TEXT=it's worth it
+
+[eng-3d5043f6.flac]
+SWAC_ALPHAIDX=worth
+SWAC_TEXT=it's worth
+
+[eng-422e7a83.flac]
+SWAC_ALPHAIDX=worse|than
+SWAC_TEXT=it's worse than
+
+[eng-e949d4e1.flac]
+SWAC_ALPHAIDX=warm
+SWAC_TEXT=it's warm
+
+[eng-8526fee4.flac]
+SWAC_ALPHAIDX=rain
+SWAC_TEXT=it's raining
+
+[eng-5c171d8f.flac]
+SWAC_ALPHAIDX=quite|good|(conversation)
+SWAC_TEXT=it's quite good!
+
+[eng-99f0b855.flac]
+SWAC_ALPHAIDX=on|at
+SWAC_TEXT=it's on at
+
+[eng-0061ee1b.flac]
+SWAC_ALPHAIDX=nothing|special
+SWAC_TEXT=it's nothing special
+
+[eng-ee2db787.flac]
+SWAC_ALPHAIDX=not|bad
+SWAC_TEXT=it's not bad
+
+[eng-f4bb0e63.flac]
+SWAC_ALPHAIDX=itchy
+SWAC_TEXT=it's itchy
+
+[eng-4581c8bb.flac]
+SWAC_ALPHAIDX=hot
+SWAC_TEXT=it's hot
+
+[eng-9131be58.flac]
+SWAC_ALPHAIDX=cold
+SWAC_TEXT=it's cold
+
+[eng-91b4b00a.flac]
+SWAC_ALPHAIDX=better
+SWAC_TEXT=it's better to
+
+[eng-41932fe3.flac]
+SWAC_ALPHAIDX=beautiful
+SWAC_TEXT=it's beautiful
+
+[eng-f894aa94.flac]
+SWAC_ALPHAIDX=pity
+SWAC_TEXT=it's a pity
+
+[eng-a9446c9c.flac]
+SWAC_ALPHAIDX=take|hour|(conversation)
+SWAC_TEXT=it takes two hours
+
+[eng-92455385.flac]
+SWAC_ALPHAIDX=seem|(conversation)
+SWAC_TEXT=it seems that...
+
+[eng-84e3f8ad.flac]
+SWAC_ALPHAIDX=must|clock|(conversation)
+SWAC_TEXT=it must be five o'clock
+
+[eng-56088515.flac]
+SWAC_ALPHAIDX=might|rain|(conversation)
+SWAC_TEXT=it might rain
+
+[eng-fce8844e.flac]
+SWAC_ALPHAIDX=matter|(conversation)
+SWAC_TEXT=it doesn't matter
+
+[eng-fba6741f.flac]
+SWAC_ALPHAIDX=do|(conversation)
+SWAC_TEXT=it doesn't
+
+[eng-0e3562fb.flac]
+SWAC_ALPHAIDX=invoke
+SWAC_TEXT=invoke
+
+[eng-f5005424.flac]
+SWAC_ALPHAIDX=introduction
+SWAC_TEXT=introduction
+
+[eng-373a69f3.flac]
+SWAC_ALPHAIDX=international|money|order
+SWAC_TEXT=international money order
+
+[eng-c6a4776e.flac]
+SWAC_ALPHAIDX=intermission
+SWAC_TEXT=intermission
+
+[eng-6cf508d6.flac]
+SWAC_ALPHAIDX=intermediate
+SWAC_TEXT=intermediate
+
+[eng-a3dbeb75.flac]
+SWAC_ALPHAIDX=intend
+SWAC_TEXT=intend
+
+[eng-56f72a14.flac]
+SWAC_ALPHAIDX=instead
+SWAC_TEXT=instead of
+
+[eng-f9f13485.flac]
+SWAC_ALPHAIDX=inspection
+SWAC_TEXT=inspection
+
+[eng-3206e3f8.flac]
+SWAC_ALPHAIDX=insecticide
+SWAC_TEXT=insecticide
+
+[eng-4e385fbf.flac]
+SWAC_ALPHAIDX=inquire
+SWAC_TEXT=inquire
+
+[eng-1d694e7d.flac]
+SWAC_ALPHAIDX=inner|tube
+SWAC_TEXT=inner tube
+
+[eng-3bff01bd.flac]
+SWAC_ALPHAIDX=injured
+SWAC_TEXT=injured
+
+[eng-91f1ed54.flac]
+SWAC_ALPHAIDX=injection
+SWAC_TEXT=injection
+
+[eng-ebd18d14.flac]
+SWAC_ALPHAIDX=initially
+SWAC_TEXT=initially
+
+[eng-56518720.flac]
+SWAC_ALPHAIDX=infection
+SWAC_TEXT=infection
+
+[eng-42efa38a.flac]
+SWAC_ALPHAIDX=incoming
+SWAC_TEXT=incoming
+
+[eng-b4646f96.flac]
+SWAC_ALPHAIDX=in|window
+SWAC_TEXT=in the window
+
+[eng-eff48dca.flac]
+SWAC_ALPHAIDX=in|west
+SWAC_TEXT=in the west
+
+[eng-ffe5bc4a.flac]
+SWAC_ALPHAIDX=in|vicinity
+SWAC_TEXT=in the vicinity
+
+[eng-003a4645.flac]
+SWAC_ALPHAIDX=in|sun
+SWAC_TEXT=in the sun
+
+[eng-7485e3d2.flac]
+SWAC_ALPHAIDX=in|south
+SWAC_TEXT=in the south
+
+[eng-c60ebe2b.flac]
+SWAC_ALPHAIDX=in|shade
+SWAC_TEXT=in the shade
+
+[eng-752a1daf.flac]
+SWAC_ALPHAIDX=in|past
+SWAC_TEXT=in the past
+
+[eng-1748bb78.flac]
+SWAC_ALPHAIDX=in|open|air
+SWAC_TEXT=in the open air
+
+[eng-e9baa664.flac]
+SWAC_ALPHAIDX=in|north
+SWAC_TEXT=in the north
+
+[eng-ca028724.flac]
+SWAC_ALPHAIDX=pedestrianized
+SWAC_TEXT=pedestrianized
+
+[eng-0b548b0f.flac]
+SWAC_ALPHAIDX=path
+SWAC_TEXT=path
+
+[eng-50144187.flac]
+SWAC_ALPHAIDX=past
+SWAC_TEXT=past
+
+[eng-ab1aa22b.flac]
+SWAC_ALPHAIDX=part
+SWAC_TEXT=part of
+
+[eng-1a72cad8.flac]
+SWAC_ALPHAIDX=parking|space
+SWAC_TEXT=parking space
+
+[eng-ab644899.flac]
+SWAC_ALPHAIDX=parking|lot
+SWAC_TEXT=parking lot
+
+[eng-42f27c71.flac]
+SWAC_ALPHAIDX=parasol
+SWAC_TEXT=parasol
+
+[eng-a894c85a.flac]
+SWAC_ALPHAIDX=paper|napkin
+SWAC_TEXT=paper napkin
+
+[eng-31c0619c.flac]
+SWAC_ALPHAIDX=pantyhose
+SWAC_TEXT=pantyhose
+
+[eng-e6736286.flac]
+SWAC_ALPHAIDX=panties
+SWAC_TEXT=panties
+
+[eng-66b9eba0.flac]
+SWAC_ALPHAIDX=painting
+SWAC_TEXT=painting
+
+[eng-2a5beb89.flac]
+SWAC_ALPHAIDX=painkiller
+SWAC_TEXT=painkiller
+
+[eng-3c41a474.flac]
+SWAC_ALPHAIDX=packet
+SWAC_TEXT=packet
+
+[eng-21f6b410.flac]
+SWAC_ALPHAIDX=packed
+SWAC_TEXT=packed
+
+[eng-26b15484.flac]
+SWAC_ALPHAIDX=package|holiday
+SWAC_TEXT=package holiday
+
+[eng-173edb9b.flac]
+SWAC_ALPHAIDX=pack|luggage
+SWAC_TEXT=pack luggage
+
+[eng-97de5e23.flac]
+SWAC_ALPHAIDX=pack
+SWAC_TEXT=pack
+
+[eng-fd629c99.flac]
+SWAC_ALPHAIDX=ox
+SWAC_TEXT=ox
+
+[eng-152c16eb.flac]
+SWAC_ALPHAIDX=overweight
+SWAC_TEXT=overweight
+
+[eng-09139a9e.flac]
+SWAC_ALPHAIDX=overdone
+SWAC_TEXT=overdone
+
+[eng-0b86c3c3.flac]
+SWAC_ALPHAIDX=overcast
+SWAC_TEXT=overcast
+
+[eng-3882f9b4.flac]
+SWAC_ALPHAIDX=over|there
+SWAC_TEXT=over there
+
+[eng-4b5391a7.flac]
+SWAC_ALPHAIDX=outward|journey
+SWAC_TEXT=outward journey
+
+[eng-f2a10625.flac]
+SWAC_ALPHAIDX=outing
+SWAC_TEXT=outing
+
+[eng-063fc69d.flac]
+SWAC_ALPHAIDX=out|order
+SWAC_TEXT=out of order
+
+[eng-05ba7a68.flac]
+SWAC_ALPHAIDX=out|date
+SWAC_TEXT=out of date
+
+[eng-0330f0fc.flac]
+SWAC_ALPHAIDX=other|people
+SWAC_TEXT=other people
+
+[eng-b7b9cd8c.flac]
+SWAC_ALPHAIDX=originally
+SWAC_TEXT=originally
+
+[eng-c1ee637c.flac]
+SWAC_ALPHAIDX=organization
+SWAC_TEXT=organization
+
+[eng-2c3d72a5.flac]
+SWAC_ALPHAIDX=organic
+SWAC_TEXT=organic
+
+[eng-1dc5b178.flac]
+SWAC_ALPHAIDX=orange
+SWAC_TEXT=orange
+
+[eng-3c695945.flac]
+SWAC_ALPHAIDX=optician
+SWAC_TEXT=optician
+
+[eng-d8c686f0.flac]
+SWAC_ALPHAIDX=opposite
+SWAC_TEXT=opposite
+
+[eng-a47083a4.flac]
+SWAC_ALPHAIDX=open
+SWAC_TEXT=open
+
+[eng-d9b1931a.flac]
+SWAC_ALPHAIDX=oneself
+SWAC_TEXT=oneself
+
+[eng-d567ef2d.flac]
+SWAC_ALPHAIDX=one-way
+SWAC_TEXT=one-way
+
+[eng-ab89ca63.flac]
+SWAC_ALPHAIDX=one|way|street
+SWAC_TEXT=one way street
+
+[eng-7a6c86f1.flac]
+SWAC_ALPHAIDX=one
+SWAC_TEXT=one
+
+[eng-82020070.flac]
+SWAC_ALPHAIDX=once|again
+SWAC_TEXT=once again
+
+[eng-638c656e.flac]
+SWAC_ALPHAIDX=on|vacation
+SWAC_TEXT=on vacation
+
+[eng-5d7de505.flac]
+SWAC_ALPHAIDX=on|time
+SWAC_TEXT=on time
+
+[eng-74b9ec18.flac]
+SWAC_ALPHAIDX=on|spot
+SWAC_TEXT=on the spot
+
+[eng-389acafe.flac]
+SWAC_ALPHAIDX=on|ground
+SWAC_TEXT=on the ground
+
+[eng-64e8e568.flac]
+SWAC_ALPHAIDX=on|floor
+SWAC_TEXT=on the floor
+
+[eng-d7a2bd45.flac]
+SWAC_ALPHAIDX=on|sale
+SWAC_TEXT=on sale
+
+[eng-8b5a637e.flac]
+SWAC_ALPHAIDX=on|purpose
+SWAC_TEXT=on purpose
+
+[eng-2eb883aa.flac]
+SWAC_ALPHAIDX=on|board
+SWAC_TEXT=on board
+
+[eng-018ad426.flac]
+SWAC_ALPHAIDX=older|sister
+SWAC_TEXT=older sister
+
+[eng-bef6f8d0.flac]
+SWAC_ALPHAIDX=older|brother
+SWAC_TEXT=older brother
+
+[eng-1ff9311f.flac]
+SWAC_ALPHAIDX=old|town
+SWAC_TEXT=old town
+
+[eng-7bf91963.flac]
+SWAC_ALPHAIDX=old|people
+SWAC_TEXT=old people
+
+[eng-672d9974.flac]
+SWAC_ALPHAIDX=ointment
+SWAC_TEXT=ointment
+
+[eng-a029d4e7.flac]
+SWAC_ALPHAIDX=good|quality
+SWAC_TEXT=of good quality
+
+[eng-1bb60461.flac]
+SWAC_ALPHAIDX=course
+SWAC_TEXT=of course
+
+[eng-926fba44.flac]
+SWAC_ALPHAIDX=bad|quality
+SWAC_TEXT=of bad quality
+
+[eng-f67d9a2b.flac]
+SWAC_ALPHAIDX=notebook
+SWAC_TEXT=notebook
+
+[eng-07e5c560.flac]
+SWAC_ALPHAIDX=not|yet
+SWAC_TEXT=not yet
+
+[eng-2e5f0f2d.flac]
+SWAC_ALPHAIDX=want
+SWAC_TEXT=not to want
+
+[eng-ce8ef04f.flac]
+SWAC_ALPHAIDX=have
+SWAC_TEXT=not to have
+
+[eng-4d52dd73.flac]
+SWAC_ALPHAIDX=only
+SWAC_TEXT=not only
+
+[eng-95154f5a.flac]
+SWAC_ALPHAIDX=long|after
+SWAC_TEXT=not long after
+
+[eng-f683c569.flac]
+SWAC_ALPHAIDX=equal
+SWAC_TEXT=not equal to
+
+[eng-6e4d5c91.flac]
+SWAC_ALPHAIDX=not|bad
+SWAC_TEXT=not bad
+
+[eng-e3482937.flac]
+SWAC_ALPHAIDX=not|all
+SWAC_TEXT=not at all
+
+[eng-889592de.flac]
+SWAC_ALPHAIDX=not|any
+SWAC_TEXT=not any
+
+[eng-eddff9cd.flac]
+SWAC_ALPHAIDX=north|sea
+SWAC_TEXT=north sea
+
+[eng-a92778e0.flac]
+SWAC_ALPHAIDX=non-smoker
+SWAC_TEXT=non-smoker
+
+[eng-d1188ac0.flac]
+SWAC_ALPHAIDX=drinking|water
+SWAC_TEXT=non-drinking water
+
+[eng-e9a8ca66.flac]
+SWAC_ALPHAIDX=noisy
+SWAC_TEXT=noisy
+
+[eng-55496f14.flac]
+SWAC_ALPHAIDX=no|idea
+SWAC_TEXT=no idea
+
+[eng-7b1d7c7d.flac]
+SWAC_ALPHAIDX=nine
+SWAC_TEXT=nine
+
+[eng-0026355f.flac]
+SWAC_ALPHAIDX=nightdress
+SWAC_TEXT=nightdress
+
+[eng-4e70db94.flac]
+SWAC_ALPHAIDX=nice|cold
+SWAC_TEXT=nice and cold
+
+[eng-fe90b2f3.flac]
+SWAC_ALPHAIDX=next|year
+SWAC_TEXT=next year
+
+[eng-9d306c31.flac]
+SWAC_ALPHAIDX=next|to
+SWAC_TEXT=next to
+
+[eng-ec419e26.flac]
+SWAC_ALPHAIDX=newsstand
+SWAC_TEXT=newsstand
+
+[eng-e72452c0.flac]
+SWAC_ALPHAIDX=newsdealer
+SWAC_TEXT=newsdealer
+
+[eng-34edb0f4.flac]
+SWAC_ALPHAIDX=new|year
+SWAC_TEXT=new year
+
+[eng-4c9eb6d2.flac]
+SWAC_ALPHAIDX=new|word
+SWAC_TEXT=new word
+
+[eng-8671e636.flac]
+SWAC_ALPHAIDX=neither|nor
+SWAC_TEXT=neither...nor
+
+[eng-2b68943d.flac]
+SWAC_ALPHAIDX=neither|do|(conversation)
+SWAC_TEXT=neither do I
+
+[eng-948b5cb7.flac]
+SWAC_ALPHAIDX=neighbor
+SWAC_TEXT=neighbor
+
+[eng-1a30ca9f.flac]
+SWAC_ALPHAIDX=need|not
+SWAC_TEXT=need not
+
+[eng-52a27115.flac]
+SWAC_ALPHAIDX=necklace
+SWAC_TEXT=necklace
+
+[eng-04001e00.flac]
+SWAC_ALPHAIDX=near|beach
+SWAC_TEXT=near the beach
+
+[eng-108e1e3f.flac]
+SWAC_ALPHAIDX=national|holiday
+SWAC_TEXT=national holiday
+
+[eng-16e68998.flac]
+SWAC_ALPHAIDX=napkin
+SWAC_TEXT=napkin
+
+[eng-91eb14e2.flac]
+SWAC_ALPHAIDX=nap
+SWAC_TEXT=nap
+
+[eng-756db035.flac]
+SWAC_ALPHAIDX=naked
+SWAC_TEXT=naked
+
+[eng-51b9365c.flac]
+SWAC_ALPHAIDX=nail|varnish
+SWAC_TEXT=nail varnish
+
+[eng-52e0196c.flac]
+SWAC_ALPHAIDX=name|be|(conversation)
+SWAC_TEXT=my name is
+
+[eng-e98dc9f2.flac]
+SWAC_ALPHAIDX=head|hurt|(conversation)
+SWAC_TEXT=my head hurts
+
+[eng-12513cc6.flac]
+SWAC_ALPHAIDX=goodness|(conversation)
+SWAC_TEXT=my goodness
+
+[eng-460e27b6.flac]
+SWAC_ALPHAIDX=must|not
+SWAC_TEXT=must not
+
+[eng-a542f6a2.flac]
+SWAC_ALPHAIDX=mussels
+SWAC_TEXT=mussels
+
+[eng-b491236b.flac]
+SWAC_ALPHAIDX=munch
+SWAC_TEXT=munch
+
+[eng-133b4046.flac]
+SWAC_ALPHAIDX=movie|theater
+SWAC_TEXT=movie theater
+
+[eng-9ec55c97.flac]
+SWAC_ALPHAIDX=mouth
+SWAC_TEXT=mouth
+
+[eng-65319f28.flac]
+SWAC_ALPHAIDX=mountain|hut
+SWAC_TEXT=mountain hut
+
+[eng-6dd157d1.flac]
+SWAC_ALPHAIDX=mountain|bike
+SWAC_TEXT=mountain bike
+
+[eng-9da2093c.flac]
+SWAC_ALPHAIDX=mountain
+SWAC_TEXT=mountain
+
+[eng-0da9feec.flac]
+SWAC_ALPHAIDX=motorist
+SWAC_TEXT=motorist
+
+[eng-21e380e1.flac]
+SWAC_ALPHAIDX=motorcycle
+SWAC_TEXT=motorcycle
+
+[eng-86274181.flac]
+SWAC_ALPHAIDX=most|recently
+SWAC_TEXT=most recently
+
+[eng-174f4c63.flac]
+SWAC_ALPHAIDX=most|extreme
+SWAC_TEXT=most extreme
+
+[eng-978f8025.flac]
+SWAC_ALPHAIDX=mosquito
+SWAC_TEXT=mosquito
+
+[eng-305d377c.flac]
+SWAC_ALPHAIDX=morning-after|pill
+SWAC_TEXT=morning-after pill
+
+[eng-d4940b4f.flac]
+SWAC_ALPHAIDX=more|than
+SWAC_TEXT=more than
+
+[eng-c261f147.flac]
+SWAC_ALPHAIDX=moped
+SWAC_TEXT=moped
+
+[eng-7bb88283.flac]
+SWAC_ALPHAIDX=monument
+SWAC_TEXT=monument
+
+[eng-7a2c5dfe.flac]
+SWAC_ALPHAIDX=monastery
+SWAC_TEXT=monastery
+
+[eng-c174baf6.flac]
+SWAC_ALPHAIDX=moisturizing|lotion
+SWAC_TEXT=moisturizing lotion
+
+[eng-7b2795ba.flac]
+SWAC_ALPHAIDX=moisturizer
+SWAC_TEXT=moisturizer
+
+[eng-29591464.flac]
+SWAC_ALPHAIDX=modern|time
+SWAC_TEXT=modern times
+
+[eng-3c7323e0.flac]
+SWAC_ALPHAIDX=mobile
+SWAC_TEXT=mobile
+
+[eng-72835327.flac]
+SWAC_ALPHAIDX=mineral|water
+SWAC_TEXT=mineral water
+
+[eng-224209b5.flac]
+SWAC_ALPHAIDX=mill
+SWAC_TEXT=mill
+
+[eng-6eec7560.flac]
+SWAC_ALPHAIDX=middle|school
+SWAC_TEXT=middle school
+
+[eng-3f2f38cd.flac]
+SWAC_ALPHAIDX=midday
+SWAC_TEXT=midday
+
+[eng-9817a176.flac]
+SWAC_ALPHAIDX=microwave
+SWAC_TEXT=microwave
+
+[eng-a6a1f8d5.flac]
+SWAC_ALPHAIDX=merry|Christmas|(conversation)
+SWAC_TEXT=merry Christmas
+
+[eng-01b0482a.flac]
+SWAC_ALPHAIDX=man|room
+SWAC_TEXT=men's room
+
+[eng-58362a8d.flac]
+SWAC_ALPHAIDX=medicine
+SWAC_TEXT=medicine
+
+[eng-98d82109.flac]
+SWAC_ALPHAIDX=too
+SWAC_TEXT=me too
+
+[eng-4b8ee442.flac]
+SWAC_ALPHAIDX=may|ask
+SWAC_TEXT=may I ask
+
+[eng-ea71121f.flac]
+SWAC_ALPHAIDX=may
+SWAC_TEXT=may
+
+[eng-95b5724a.flac]
+SWAC_ALPHAIDX=mathematic
+SWAC_TEXT=mathematic
+
+[eng-2d09a3d6.flac]
+SWAC_ALPHAIDX=master
+SWAC_TEXT=master
+
+[eng-0a1139f9.flac]
+SWAC_ALPHAIDX=continuous
+SWAC_TEXT=continuous
+
+[eng-5b8dc938.flac]
+SWAC_ALPHAIDX=contemporary
+SWAC_TEXT=contemporary
+
+[eng-f19d31c2.flac]
+SWAC_ALPHAIDX=contagious
+SWAC_TEXT=contagious
+
+[eng-495ce8a1.flac]
+SWAC_ALPHAIDX=contact|lense
+SWAC_TEXT=contact lenses
+
+[eng-dc91e26e.flac]
+SWAC_ALPHAIDX=construction
+SWAC_TEXT=construction
+
+[eng-781af241.flac]
+SWAC_ALPHAIDX=constipated
+SWAC_TEXT=constipated
+
+[eng-8a84bb6c.flac]
+SWAC_ALPHAIDX=consider
+SWAC_TEXT=consider that
+
+[eng-4930fa83.flac]
+SWAC_ALPHAIDX=connecting
+SWAC_TEXT=connecting
+
+[eng-7d75aa24.flac]
+SWAC_ALPHAIDX=congregation
+SWAC_TEXT=congregation
+
+[eng-059c9440.flac]
+SWAC_ALPHAIDX=congratulations|(conversation)
+SWAC_TEXT=congratulations!
+
+[eng-911533c8.flac]
+SWAC_ALPHAIDX=conference
+SWAC_TEXT=conference
+
+[eng-b517bd9d.flac]
+SWAC_ALPHAIDX=concession
+SWAC_TEXT=concession
+
+[eng-c5b0ebe6.flac]
+SWAC_ALPHAIDX=concert|hall
+SWAC_TEXT=concert hall
+
+[eng-d57c02d2.flac]
+SWAC_ALPHAIDX=concert
+SWAC_TEXT=concert
+
+[eng-0b587501.flac]
+SWAC_ALPHAIDX=comrade
+SWAC_TEXT=comrade
+
+[eng-d736e744.flac]
+SWAC_ALPHAIDX=comprehensive|insurance
+SWAC_TEXT=comprehensive insurance
+
+[eng-cabf10c8.flac]
+SWAC_ALPHAIDX=Belgium
+SWAC_TEXT=Belgium
+
+[eng-7d189627.flac]
+SWAC_ALPHAIDX=Belgian
+SWAC_TEXT=Belgian
+
+[eng-a0f707b4.flac]
+SWAC_ALPHAIDX=Band-Aid
+SWAC_TEXT=Band-Aid
+
+[eng-e345edc4.flac]
+SWAC_ALPHAIDX=August
+SWAC_TEXT=August
+
+[eng-6b0cc630.flac]
+SWAC_ALPHAIDX=American
+SWAC_TEXT=American
+
+[eng-58a39b98.flac]
+SWAC_ALPHAIDX=ATM
+SWAC_TEXT=ATM
+
+[eng-cf1e91c6.flac]
+SWAC_ALPHAIDX=compartment
+SWAC_TEXT=compartment
+
+[eng-f168accf.flac]
+SWAC_ALPHAIDX=receptionist
+SWAC_TEXT=receptionist
+
+[eng-50d6852f.flac]
+SWAC_ALPHAIDX=reception
+SWAC_TEXT=reception
+
+[eng-e5fb0280.flac]
+SWAC_ALPHAIDX=recently
+SWAC_TEXT=recently
+
+[eng-fd3c9f06.flac]
+SWAC_ALPHAIDX=recede
+SWAC_TEXT=recede
+
+[eng-ed688674.flac]
+SWAC_ALPHAIDX=read|aloud
+SWAC_TEXT=read aloud
+
+[eng-04affc0d.flac]
+SWAC_ALPHAIDX=razor|blade
+SWAC_TEXT=razor blade
+
+[eng-c3a25e2a.flac]
+SWAC_ALPHAIDX=razor
+SWAC_TEXT=razor
+
+[eng-57627135.flac]
+SWAC_ALPHAIDX=rather
+SWAC_TEXT=rather
+
+[eng-3cc1df7b.flac]
+SWAC_ALPHAIDX=rarely
+SWAC_TEXT=rarely
+
+[eng-bb80fa3d.flac]
+SWAC_ALPHAIDX=rape
+SWAC_TEXT=rape
+
+[eng-7189057f.flac]
+SWAC_ALPHAIDX=racket
+SWAC_TEXT=racket
+
+[eng-6233aa36.flac]
+SWAC_ALPHAIDX=quite|lot
+SWAC_TEXT=quite a lot of
+
+[eng-6ffcb746.flac]
+SWAC_ALPHAIDX=quite
+SWAC_TEXT=quite
+
+[eng-7ffd7f63.flac]
+SWAC_ALPHAIDX=queue
+SWAC_TEXT=queue
+
+[eng-7cb20b10.flac]
+SWAC_ALPHAIDX=quality
+SWAC_TEXT=quality
+
+[eng-558f4e79.flac]
+SWAC_ALPHAIDX=put|up
+SWAC_TEXT=put up
+
+[eng-c020ce9d.flac]
+SWAC_ALPHAIDX=put|out
+SWAC_TEXT=put out
+
+[eng-ea8572e6.flac]
+SWAC_ALPHAIDX=purple
+SWAC_TEXT=purple
+
+[eng-f2346eba.flac]
+SWAC_ALPHAIDX=public|holiday
+SWAC_TEXT=public holiday
+
+[eng-92ed7784.flac]
+SWAC_ALPHAIDX=program
+SWAC_TEXT=program
+
+[eng-808d7442.flac]
+SWAC_ALPHAIDX=probably
+SWAC_TEXT=probably
+
+[eng-cac822d9.flac]
+SWAC_ALPHAIDX=price
+SWAC_TEXT=price
+
+[eng-b9852f30.flac]
+SWAC_ALPHAIDX=preview
+SWAC_TEXT=preview
+
+[eng-1fbfb8d9.flac]
+SWAC_ALPHAIDX=prescription
+SWAC_TEXT=prescription
+
+[eng-f9f0aaf4.flac]
+SWAC_ALPHAIDX=preparation
+SWAC_TEXT=preparation
+
+[eng-55812d60.flac]
+SWAC_ALPHAIDX=prep
+SWAC_TEXT=prep
+
+[eng-4620e978.flac]
+SWAC_ALPHAIDX=premium|gas
+SWAC_TEXT=premium gas
+
+[eng-25618e26.flac]
+SWAC_ALPHAIDX=postbox
+SWAC_TEXT=postbox
+
+[eng-ab5cea4b.flac]
+SWAC_ALPHAIDX=postage|stamp
+SWAC_TEXT=postage stamp
+
+[eng-5e532fa5.flac]
+SWAC_ALPHAIDX=post|office
+SWAC_TEXT=post office
+
+[eng-c5f4aaa4.flac]
+SWAC_ALPHAIDX=possibility
+SWAC_TEXT=possibility
+
+[eng-eda319fe.flac]
+SWAC_ALPHAIDX=portray
+SWAC_TEXT=portray
+
+[eng-43915dcc.flac]
+SWAC_ALPHAIDX=port
+SWAC_TEXT=port
+
+[eng-af91a986.flac]
+SWAC_ALPHAIDX=pool
+SWAC_TEXT=pool
+
+[eng-8125e3b3.flac]
+SWAC_ALPHAIDX=pollute
+SWAC_TEXT=pollute
+
+[eng-e1ffddcf.flac]
+SWAC_ALPHAIDX=polite
+SWAC_TEXT=polite
+
+[eng-38055909.flac]
+SWAC_ALPHAIDX=policeman
+SWAC_TEXT=policeman
+
+[eng-c39172dc.flac]
+SWAC_ALPHAIDX=police|station
+SWAC_TEXT=police station
+
+[eng-dedb45b7.flac]
+SWAC_ALPHAIDX=police|officer
+SWAC_TEXT=police officer
+
+[eng-90f2e0f1.flac]
+SWAC_ALPHAIDX=plus
+SWAC_TEXT=plus
+
+[eng-1b9e10a9.flac]
+SWAC_ALPHAIDX=plumber
+SWAC_TEXT=plumber
+
+[eng-6afddd92.flac]
+SWAC_ALPHAIDX=plum
+SWAC_TEXT=plum
+
+[eng-bf89ba20.flac]
+SWAC_ALPHAIDX=plug|in
+SWAC_TEXT=plug in
+
+[eng-9347b8ed.flac]
+SWAC_ALPHAIDX=pleased|meet|(conversation)
+SWAC_TEXT=pleased to meet you!
+
+[eng-1b046a7f.flac]
+SWAC_ALPHAIDX=please|accept
+SWAC_TEXT=please accept
+
+[eng-3952d0cb.flac]
+SWAC_ALPHAIDX=platform
+SWAC_TEXT=platform
+
+[eng-9aa6bd2f.flac]
+SWAC_ALPHAIDX=plastic|bag
+SWAC_TEXT=plastic bag
+
+[eng-e096b17b.flac]
+SWAC_ALPHAIDX=plastic
+SWAC_TEXT=plastic
+
+[eng-2109dc71.flac]
+SWAC_ALPHAIDX=pit|up
+SWAC_TEXT=pit up with
+
+[eng-2c6371d6.flac]
+SWAC_ALPHAIDX=pink
+SWAC_TEXT=pink
+
+[eng-b5852df3.flac]
+SWAC_ALPHAIDX=pin
+SWAC_TEXT=pin
+
+[eng-802a71ef.flac]
+SWAC_ALPHAIDX=pillowslips
+SWAC_TEXT=pillowslips
+
+[eng-c54d8e3c.flac]
+SWAC_ALPHAIDX=pillowcase
+SWAC_TEXT=pillowcase
+
+[eng-259ce795.flac]
+SWAC_ALPHAIDX=picnic
+SWAC_TEXT=picnic
+
+[eng-d831e7e3.flac]
+SWAC_ALPHAIDX=physics
+SWAC_TEXT=physics
+
+[eng-8f759bac.flac]
+SWAC_ALPHAIDX=photocopy
+SWAC_TEXT=photocopy
+
+[eng-71211c99.flac]
+SWAC_ALPHAIDX=phone|number
+SWAC_TEXT=phone number
+
+[eng-484491f7.flac]
+SWAC_ALPHAIDX=phone|directory
+SWAC_TEXT=phone directory
+
+[eng-8e92bddf.flac]
+SWAC_ALPHAIDX=phone|card
+SWAC_TEXT=phone card
+
+[eng-54080a32.flac]
+SWAC_ALPHAIDX=phone|call
+SWAC_TEXT=phone call
+
+[eng-5cacf878.flac]
+SWAC_ALPHAIDX=phone|box
+SWAC_TEXT=phone box
+
+[eng-040a27ee.flac]
+SWAC_ALPHAIDX=phone|booth
+SWAC_TEXT=phone booth
+
+[eng-c8929aa2.flac]
+SWAC_ALPHAIDX=petrol|station
+SWAC_TEXT=petrol station
+
+[eng-8df31371.flac]
+SWAC_ALPHAIDX=petrol|pump|attendant
+SWAC_TEXT=petrol pump attendant
+
+[eng-40808c32.flac]
+SWAC_ALPHAIDX=personal|stereo
+SWAC_TEXT=personal stereo
+
+[eng-0bd3a04a.flac]
+SWAC_ALPHAIDX=perfume
+SWAC_TEXT=perfume
+
+[eng-913b7e4e.flac]
+SWAC_ALPHAIDX=pencil|case
+SWAC_TEXT=pencil case
+
+[eng-58e9c4da.flac]
+SWAC_ALPHAIDX=peel
+SWAC_TEXT=peel
+
+[eng-8ee2bb77.flac]
+SWAC_ALPHAIDX=pee
+SWAC_TEXT=pee
+

@@ -1,0 +1,2823 @@
+\Swac_Index_Tags
+
+[GLOBAL]
+SWAC_LANG=eng
+SWAC_SPEAK_NAME=Alyson Heimer
+SWAC_SPEAK_GENDER=F
+SWAC_SPEAK_BIRTH_YEAR=1985
+SWAC_SPEAK_LANG=eng
+SWAC_SPEAK_LANG_REGION=Massuchusetts
+SWAC_SPEAK_LIV_COUNTRY=US
+SWAC_SPEAK_LIV_TOWN=Boston
+SWAC_PRON_SPEED=2
+SWAC_COLL_NAME=Base Audio Libre de Mots Anglais
+SWAC_COLL_SECTION=Les verbes irréguliers
+SWAC_COLL_DESC=Cette collection audio est essentiellement à la préparation de matériel pédagogique pour l'apprentissage des verbes irreguliers.
+SWAC_COLL_ORG=Shtooka Project
+SWAC_COLL_ORG_URL=http://shtooka.net/
+SWAC_COLL_LICENSE=Creative Commons BY
+SWAC_COLL_COPYRIGHT=Alyson Heimer, Flora Bouillaguet, Charles Bouillaguet, Nicolas Vion
+SWAC_COLL_AUTHORS=Alyson Himer, Flora Bouillaguet, Charles Bouillaguet, Nicolas Vion
+SWAC_COLL_URL=http://packs.shtooka.net/eng-balm-verbs
+SWAC_TECH_QLT=5
+SWAC_TECH_DATE=2007-09-03
+SWAC_TECH_SOFT=Shtooka Recorder/1.2
+
+[eng-I_arose.flac]
+SWAC_TEXT=I arose
+SWAC_ALPHAIDX=arise
+SWAC_BASEFORM=arise
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_ate.flac]
+SWAC_TEXT=I ate
+SWAC_ALPHAIDX=eat
+SWAC_BASEFORM=eat
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_awoke.flac]
+SWAC_TEXT=I awoke
+SWAC_ALPHAIDX=awake
+SWAC_BASEFORM=awake
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_beat.flac]
+SWAC_TEXT=I beat
+SWAC_ALPHAIDX=beat
+SWAC_BASEFORM=beat
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_became.flac]
+SWAC_TEXT=I became
+SWAC_ALPHAIDX=become
+SWAC_BASEFORM=become
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_began.flac]
+SWAC_TEXT=I began
+SWAC_ALPHAIDX=begin
+SWAC_BASEFORM=begin
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bent.flac]
+SWAC_TEXT=I bent
+SWAC_ALPHAIDX=bend
+SWAC_BASEFORM=bend
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bet.flac]
+SWAC_TEXT=I bet
+SWAC_ALPHAIDX=bet
+SWAC_BASEFORM=bet
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bid.flac]
+SWAC_TEXT=I bid
+SWAC_ALPHAIDX=bid
+SWAC_BASEFORM=bid
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bit.flac]
+SWAC_TEXT=I bit
+SWAC_ALPHAIDX=bite
+SWAC_BASEFORM=bite
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bled.flac]
+SWAC_TEXT=I bled
+SWAC_ALPHAIDX=bleed
+SWAC_BASEFORM=bleed
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_blew.flac]
+SWAC_TEXT=I blew
+SWAC_ALPHAIDX=blow
+SWAC_BASEFORM=blow
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bore.flac]
+SWAC_TEXT=I bore
+SWAC_ALPHAIDX=bear
+SWAC_BASEFORM=bear
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bought.flac]
+SWAC_TEXT=I bought
+SWAC_ALPHAIDX=buy
+SWAC_BASEFORM=buy
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bound.flac]
+SWAC_TEXT=I bound
+SWAC_ALPHAIDX=bind
+SWAC_BASEFORM=bind
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_bred.flac]
+SWAC_TEXT=I bred
+SWAC_ALPHAIDX=breed
+SWAC_BASEFORM=breed
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_broke.flac]
+SWAC_TEXT=I broke
+SWAC_ALPHAIDX=break
+SWAC_BASEFORM=break
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_brought.flac]
+SWAC_TEXT=I brought
+SWAC_ALPHAIDX=bring
+SWAC_BASEFORM=bring
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_built.flac]
+SWAC_TEXT=I built
+SWAC_ALPHAIDX=build
+SWAC_BASEFORM=build
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_burnt.flac]
+SWAC_TEXT=I burnt
+SWAC_ALPHAIDX=burn
+SWAC_BASEFORM=burn
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_burst.flac]
+SWAC_TEXT=I burst
+SWAC_ALPHAIDX=burst
+SWAC_BASEFORM=burst
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_came.flac]
+SWAC_TEXT=I came
+SWAC_ALPHAIDX=come
+SWAC_BASEFORM=come
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_cast.flac]
+SWAC_TEXT=I cast
+SWAC_ALPHAIDX=cast
+SWAC_BASEFORM=cast
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_caught.flac]
+SWAC_TEXT=I caught
+SWAC_ALPHAIDX=catch
+SWAC_BASEFORM=catch
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_chose.flac]
+SWAC_TEXT=I chose
+SWAC_ALPHAIDX=choose
+SWAC_BASEFORM=choose
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_clung.flac]
+SWAC_TEXT=I clung
+SWAC_ALPHAIDX=cling
+SWAC_BASEFORM=cling
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_cost.flac]
+SWAC_TEXT=I cost
+SWAC_ALPHAIDX=cost
+SWAC_BASEFORM=cost
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_crept.flac]
+SWAC_TEXT=I crept
+SWAC_ALPHAIDX=creep
+SWAC_BASEFORM=creep
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_cut.flac]
+SWAC_TEXT=I cut
+SWAC_ALPHAIDX=cut
+SWAC_BASEFORM=cut
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_dealt.flac]
+SWAC_TEXT=I dealt
+SWAC_ALPHAIDX=deal
+SWAC_BASEFORM=deal
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_did.flac]
+SWAC_TEXT=I did
+SWAC_ALPHAIDX=do
+SWAC_BASEFORM=do
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_drank.flac]
+SWAC_TEXT=I drank
+SWAC_ALPHAIDX=drink
+SWAC_BASEFORM=drink
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_dreamt.flac]
+SWAC_TEXT=I dreamt
+SWAC_ALPHAIDX=dream
+SWAC_BASEFORM=dream
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_drew.flac]
+SWAC_TEXT=I drew
+SWAC_ALPHAIDX=draw
+SWAC_BASEFORM=draw
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_drove.flac]
+SWAC_TEXT=I drove
+SWAC_ALPHAIDX=drive
+SWAC_BASEFORM=drive
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_dug.flac]
+SWAC_TEXT=I dug
+SWAC_ALPHAIDX=dig
+SWAC_BASEFORM=dig
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_dwelt.flac]
+SWAC_TEXT=I dwelt
+SWAC_ALPHAIDX=dwell
+SWAC_BASEFORM=dwell
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_fed.flac]
+SWAC_TEXT=I fed
+SWAC_ALPHAIDX=feed
+SWAC_BASEFORM=feed
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_fell.flac]
+SWAC_TEXT=I fell
+SWAC_ALPHAIDX=fall
+SWAC_BASEFORM=fall
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_felt.flac]
+SWAC_TEXT=I felt
+SWAC_ALPHAIDX=feel
+SWAC_BASEFORM=feel
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_fled.flac]
+SWAC_TEXT=I fled
+SWAC_ALPHAIDX=flee
+SWAC_BASEFORM=flee
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_flew.flac]
+SWAC_TEXT=I flew
+SWAC_ALPHAIDX=fly
+SWAC_BASEFORM=fly
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_flung.flac]
+SWAC_TEXT=I flung
+SWAC_ALPHAIDX=fling
+SWAC_BASEFORM=fling
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_forbade.flac]
+SWAC_TEXT=I forbade
+SWAC_ALPHAIDX=forbid
+SWAC_BASEFORM=forbid
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_forgave.flac]
+SWAC_TEXT=I forgave
+SWAC_ALPHAIDX=forgive
+SWAC_BASEFORM=forgive
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_forgot.flac]
+SWAC_TEXT=I forgot
+SWAC_ALPHAIDX=forget
+SWAC_BASEFORM=forget
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_fought.flac]
+SWAC_TEXT=I fought
+SWAC_ALPHAIDX=fight
+SWAC_BASEFORM=fight
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_found.flac]
+SWAC_TEXT=I found
+SWAC_ALPHAIDX=find
+SWAC_BASEFORM=find
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_froze.flac]
+SWAC_TEXT=I froze
+SWAC_ALPHAIDX=freeze
+SWAC_BASEFORM=freeze
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_gave.flac]
+SWAC_TEXT=I gave
+SWAC_ALPHAIDX=give
+SWAC_BASEFORM=give
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_got.flac]
+SWAC_TEXT=I got
+SWAC_ALPHAIDX=get
+SWAC_BASEFORM=get
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_grew.flac]
+SWAC_TEXT=I grew
+SWAC_ALPHAIDX=grow
+SWAC_BASEFORM=grow
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_ground.flac]
+SWAC_TEXT=I ground
+SWAC_ALPHAIDX=grind
+SWAC_BASEFORM=grind
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_had.flac]
+SWAC_TEXT=I had
+SWAC_ALPHAIDX=have
+SWAC_BASEFORM=have
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_have_arisen.flac]
+SWAC_TEXT=I have arisen
+SWAC_ALPHAIDX=arise
+SWAC_BASEFORM=arise
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_awoken.flac]
+SWAC_TEXT=I have awoken
+SWAC_ALPHAIDX=awake
+SWAC_BASEFORM=awake
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_beaten.flac]
+SWAC_TEXT=I have beaten
+SWAC_ALPHAIDX=beat
+SWAC_BASEFORM=beat
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_become.flac]
+SWAC_TEXT=I have become
+SWAC_ALPHAIDX=become
+SWAC_BASEFORM=become
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_begun.flac]
+SWAC_TEXT=I have begun
+SWAC_ALPHAIDX=begin
+SWAC_BASEFORM=begin
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bent.flac]
+SWAC_TEXT=I have bent
+SWAC_ALPHAIDX=bend
+SWAC_BASEFORM=bend
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bet.flac]
+SWAC_TEXT=I have bet
+SWAC_ALPHAIDX=bet
+SWAC_BASEFORM=bet
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bid.flac]
+SWAC_TEXT=I have bid
+SWAC_ALPHAIDX=bid
+SWAC_BASEFORM=bid
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bitten.flac]
+SWAC_TEXT=I have bitten
+SWAC_ALPHAIDX=bite
+SWAC_BASEFORM=bite
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bled.flac]
+SWAC_TEXT=I have bled
+SWAC_ALPHAIDX=bleed
+SWAC_BASEFORM=bleed
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_blown.flac]
+SWAC_TEXT=I have blown
+SWAC_ALPHAIDX=blow
+SWAC_BASEFORM=blow
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_borne.flac]
+SWAC_TEXT=I have borne
+SWAC_ALPHAIDX=bear
+SWAC_BASEFORM=bear
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bought.flac]
+SWAC_TEXT=I have bought
+SWAC_ALPHAIDX=buy
+SWAC_BASEFORM=buy
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bound.flac]
+SWAC_TEXT=I have bound
+SWAC_ALPHAIDX=bind
+SWAC_BASEFORM=bind
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_bred.flac]
+SWAC_TEXT=I have bred
+SWAC_ALPHAIDX=breed
+SWAC_BASEFORM=breed
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_broken.flac]
+SWAC_TEXT=I have broken
+SWAC_ALPHAIDX=break
+SWAC_BASEFORM=break
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_brought.flac]
+SWAC_TEXT=I have brought
+SWAC_ALPHAIDX=bring
+SWAC_BASEFORM=bring
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_built.flac]
+SWAC_TEXT=I have built
+SWAC_ALPHAIDX=build
+SWAC_BASEFORM=build
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_burnt.flac]
+SWAC_TEXT=I have burnt
+SWAC_ALPHAIDX=burn
+SWAC_BASEFORM=burn
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_burst.flac]
+SWAC_TEXT=I have burst
+SWAC_ALPHAIDX=burst
+SWAC_BASEFORM=burst
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_cast.flac]
+SWAC_TEXT=I have cast
+SWAC_ALPHAIDX=cast
+SWAC_BASEFORM=cast
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_caught.flac]
+SWAC_TEXT=I have caught
+SWAC_ALPHAIDX=catch
+SWAC_BASEFORM=catch
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_chosen.flac]
+SWAC_TEXT=I have chosen
+SWAC_ALPHAIDX=choose
+SWAC_BASEFORM=choose
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_clung.flac]
+SWAC_TEXT=I have clung
+SWAC_ALPHAIDX=cling
+SWAC_BASEFORM=cling
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_come.flac]
+SWAC_TEXT=I have come
+SWAC_ALPHAIDX=come
+SWAC_BASEFORM=come
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_cost.flac]
+SWAC_TEXT=I have cost
+SWAC_ALPHAIDX=cost
+SWAC_BASEFORM=cost
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_crept.flac]
+SWAC_TEXT=I have crept
+SWAC_ALPHAIDX=creep
+SWAC_BASEFORM=creep
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_cut.flac]
+SWAC_TEXT=I have cut
+SWAC_ALPHAIDX=cut
+SWAC_BASEFORM=cut
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_dealt.flac]
+SWAC_TEXT=I have dealt
+SWAC_ALPHAIDX=deal
+SWAC_BASEFORM=deal
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_done.flac]
+SWAC_TEXT=I have done
+SWAC_ALPHAIDX=do
+SWAC_BASEFORM=do
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_drawn.flac]
+SWAC_TEXT=I have drawn
+SWAC_ALPHAIDX=draw
+SWAC_BASEFORM=draw
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_dreamt.flac]
+SWAC_TEXT=I have dreamt
+SWAC_ALPHAIDX=dream
+SWAC_BASEFORM=dream
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_driven.flac]
+SWAC_TEXT=I have driven
+SWAC_ALPHAIDX=drive
+SWAC_BASEFORM=drive
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_drunk.flac]
+SWAC_TEXT=I have drunk
+SWAC_ALPHAIDX=drink
+SWAC_BASEFORM=drink
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_dug.flac]
+SWAC_TEXT=I have dug
+SWAC_ALPHAIDX=dig
+SWAC_BASEFORM=dig
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_dwelt.flac]
+SWAC_TEXT=I have dwelt
+SWAC_ALPHAIDX=dwell
+SWAC_BASEFORM=dwell
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_eaten.flac]
+SWAC_TEXT=I have eaten
+SWAC_ALPHAIDX=eat
+SWAC_BASEFORM=eat
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_fallen.flac]
+SWAC_TEXT=I have fallen
+SWAC_ALPHAIDX=fall
+SWAC_BASEFORM=fall
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_fed.flac]
+SWAC_TEXT=I have fed
+SWAC_ALPHAIDX=feed
+SWAC_BASEFORM=feed
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_felt.flac]
+SWAC_TEXT=I have felt
+SWAC_ALPHAIDX=feel
+SWAC_BASEFORM=feel
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_fled.flac]
+SWAC_TEXT=I have fled
+SWAC_ALPHAIDX=flee
+SWAC_BASEFORM=flee
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_flown.flac]
+SWAC_TEXT=I have flown
+SWAC_ALPHAIDX=fly
+SWAC_BASEFORM=fly
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_flung.flac]
+SWAC_TEXT=I have flung
+SWAC_ALPHAIDX=fling
+SWAC_BASEFORM=fling
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_forbidden.flac]
+SWAC_TEXT=I have forbidden
+SWAC_ALPHAIDX=forbid
+SWAC_BASEFORM=forbid
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_forgiven.flac]
+SWAC_TEXT=I have forgiven
+SWAC_ALPHAIDX=forgive
+SWAC_BASEFORM=forgive
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_forgotten.flac]
+SWAC_TEXT=I have forgotten
+SWAC_ALPHAIDX=forget
+SWAC_BASEFORM=forget
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_fought.flac]
+SWAC_TEXT=I have fought
+SWAC_ALPHAIDX=fight
+SWAC_BASEFORM=fight
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_found.flac]
+SWAC_TEXT=I have found
+SWAC_ALPHAIDX=find
+SWAC_BASEFORM=find
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_frozen.flac]
+SWAC_TEXT=I have frozen
+SWAC_ALPHAIDX=freeze
+SWAC_BASEFORM=freeze
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_given.flac]
+SWAC_TEXT=I have given
+SWAC_ALPHAIDX=give
+SWAC_BASEFORM=give
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_gone.flac]
+SWAC_TEXT=I have gone
+SWAC_ALPHAIDX=go
+SWAC_BASEFORM=go
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_got.flac]
+SWAC_TEXT=I have got
+SWAC_ALPHAIDX=get
+SWAC_BASEFORM=get
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_gotten.flac]
+SWAC_TEXT=I have gotten
+SWAC_ALPHAIDX=get
+SWAC_BASEFORM=get
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_ground.flac]
+SWAC_TEXT=I have ground
+SWAC_ALPHAIDX=grind
+SWAC_BASEFORM=grind
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_grown.flac]
+SWAC_TEXT=I have grown
+SWAC_ALPHAIDX=grow
+SWAC_BASEFORM=grow
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_had.flac]
+SWAC_TEXT=I have had
+SWAC_ALPHAIDX=have
+SWAC_BASEFORM=have
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_heard.flac]
+SWAC_TEXT=I have heard
+SWAC_ALPHAIDX=hear
+SWAC_BASEFORM=hear
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_held.flac]
+SWAC_TEXT=I have held
+SWAC_ALPHAIDX=hold
+SWAC_BASEFORM=hold
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_hidden.flac]
+SWAC_TEXT=I have hidden
+SWAC_ALPHAIDX=hide
+SWAC_BASEFORM=hide
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_hit.flac]
+SWAC_TEXT=I have hit
+SWAC_ALPHAIDX=hit
+SWAC_BASEFORM=hit
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_hung.flac]
+SWAC_TEXT=I have hung
+SWAC_ALPHAIDX=hang
+SWAC_BASEFORM=hang
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_hurt.flac]
+SWAC_TEXT=I have hurt
+SWAC_ALPHAIDX=hurt
+SWAC_BASEFORM=hurt
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_kept.flac]
+SWAC_TEXT=I have kept
+SWAC_ALPHAIDX=keep
+SWAC_BASEFORM=keep
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_knelt.flac]
+SWAC_TEXT=I have knelt
+SWAC_ALPHAIDX=kneel
+SWAC_BASEFORM=kneel
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_known.flac]
+SWAC_TEXT=I have known
+SWAC_ALPHAIDX=know
+SWAC_BASEFORM=know
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_laid.flac]
+SWAC_TEXT=I have laid
+SWAC_ALPHAIDX=lay
+SWAC_BASEFORM=lay
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_lain.flac]
+SWAC_TEXT=I have lain
+SWAC_ALPHAIDX=lie
+SWAC_BASEFORM=lie
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_leant.flac]
+SWAC_TEXT=I have leant
+SWAC_ALPHAIDX=lean
+SWAC_BASEFORM=lean
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_leapt.flac]
+SWAC_TEXT=I have leapt
+SWAC_ALPHAIDX=leap
+SWAC_BASEFORM=leap
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_learnt.flac]
+SWAC_TEXT=I have learnt
+SWAC_ALPHAIDX=learn
+SWAC_BASEFORM=learn
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_led.flac]
+SWAC_TEXT=I have led
+SWAC_ALPHAIDX=lead
+SWAC_BASEFORM=lead
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_left.flac]
+SWAC_TEXT=I have left
+SWAC_ALPHAIDX=leave
+SWAC_BASEFORM=leave
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_lent.flac]
+SWAC_TEXT=I have lent
+SWAC_ALPHAIDX=lend
+SWAC_BASEFORM=lend
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_let.flac]
+SWAC_TEXT=I have let
+SWAC_ALPHAIDX=let
+SWAC_BASEFORM=let
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_lit.flac]
+SWAC_TEXT=I have lit
+SWAC_ALPHAIDX=light
+SWAC_BASEFORM=light
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_lost.flac]
+SWAC_TEXT=I have lost
+SWAC_ALPHAIDX=lose
+SWAC_BASEFORM=lose
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_made.flac]
+SWAC_TEXT=I have made
+SWAC_ALPHAIDX=make
+SWAC_BASEFORM=make
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_meant.flac]
+SWAC_TEXT=I have meant
+SWAC_ALPHAIDX=mean
+SWAC_BASEFORM=mean
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_met.flac]
+SWAC_TEXT=I have met
+SWAC_ALPHAIDX=meet
+SWAC_BASEFORM=meet
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_paid.flac]
+SWAC_TEXT=I have paid
+SWAC_ALPHAIDX=pay
+SWAC_BASEFORM=pay
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_put.flac]
+SWAC_TEXT=I have put
+SWAC_ALPHAIDX=put
+SWAC_BASEFORM=put
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_quit.flac]
+SWAC_TEXT=I have quit
+SWAC_ALPHAIDX=quit
+SWAC_BASEFORM=quit
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_read.flac]
+SWAC_TEXT=I have read
+SWAC_ALPHAIDX=read
+SWAC_BASEFORM=read
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_ridden.flac]
+SWAC_TEXT=I have ridden
+SWAC_ALPHAIDX=ride
+SWAC_BASEFORM=ride
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_rid.flac]
+SWAC_TEXT=I have rid
+SWAC_ALPHAIDX=rid
+SWAC_BASEFORM=rid
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_risen.flac]
+SWAC_TEXT=I have risen
+SWAC_ALPHAIDX=rise
+SWAC_BASEFORM=rise
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_run.flac]
+SWAC_TEXT=I have run
+SWAC_ALPHAIDX=run
+SWAC_BASEFORM=run
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_rung.flac]
+SWAC_TEXT=I have rung
+SWAC_ALPHAIDX=ring
+SWAC_BASEFORM=ring
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_said.flac]
+SWAC_TEXT=I have said
+SWAC_ALPHAIDX=say
+SWAC_BASEFORM=say
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sat.flac]
+SWAC_TEXT=I have sat
+SWAC_ALPHAIDX=sit
+SWAC_BASEFORM=sit
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sawn.flac]
+SWAC_TEXT=I have sawn
+SWAC_ALPHAIDX=saw
+SWAC_BASEFORM=saw
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_seen.flac]
+SWAC_TEXT=I have seen
+SWAC_ALPHAIDX=see
+SWAC_BASEFORM=see
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sent.flac]
+SWAC_TEXT=I have sent
+SWAC_ALPHAIDX=send
+SWAC_BASEFORM=send
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_set.flac]
+SWAC_TEXT=I have set
+SWAC_ALPHAIDX=set
+SWAC_BASEFORM=set
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sewn.flac]
+SWAC_TEXT=I have sewn
+SWAC_ALPHAIDX=sew
+SWAC_BASEFORM=sew
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shaken.flac]
+SWAC_TEXT=I have shaken
+SWAC_ALPHAIDX=shake
+SWAC_BASEFORM=shake
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shed.flac]
+SWAC_TEXT=I have shed
+SWAC_ALPHAIDX=shed
+SWAC_BASEFORM=shed
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shone.flac]
+SWAC_TEXT=I have shone
+SWAC_ALPHAIDX=shine
+SWAC_BASEFORM=shine
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shooed.flac]
+SWAC_TEXT=I have shooed
+SWAC_ALPHAIDX=shoo
+SWAC_BASEFORM=shoo
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shorn.flac]
+SWAC_TEXT=I have shorn
+SWAC_ALPHAIDX=shear
+SWAC_BASEFORM=shear
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shot.flac]
+SWAC_TEXT=I have shot
+SWAC_ALPHAIDX=shoot
+SWAC_BASEFORM=shoot
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shown.flac]
+SWAC_TEXT=I have shown
+SWAC_ALPHAIDX=show
+SWAC_BASEFORM=show
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shrunk.flac]
+SWAC_TEXT=I have shrunk
+SWAC_ALPHAIDX=shrink
+SWAC_BASEFORM=shrink
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_shut.flac]
+SWAC_TEXT=I have shut
+SWAC_ALPHAIDX=shut
+SWAC_BASEFORM=shut
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_slept.flac]
+SWAC_TEXT=I have slept
+SWAC_ALPHAIDX=sleep
+SWAC_BASEFORM=sleep
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_slid.flac]
+SWAC_TEXT=I have slid
+SWAC_ALPHAIDX=slide
+SWAC_BASEFORM=slide
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_slit.flac]
+SWAC_TEXT=I have slit
+SWAC_ALPHAIDX=slit
+SWAC_BASEFORM=slit
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_slung.flac]
+SWAC_TEXT=I have slung
+SWAC_ALPHAIDX=sling
+SWAC_BASEFORM=sling
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_slunk.flac]
+SWAC_TEXT=I have slunk
+SWAC_ALPHAIDX=slink
+SWAC_BASEFORM=slink
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_smelt.flac]
+SWAC_TEXT=I have smelt
+SWAC_ALPHAIDX=smell
+SWAC_BASEFORM=smell
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sold.flac]
+SWAC_TEXT=I have sold
+SWAC_ALPHAIDX=sell
+SWAC_BASEFORM=sell
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sought.flac]
+SWAC_TEXT=I have sought
+SWAC_ALPHAIDX=seek
+SWAC_BASEFORM=seek
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sown.flac]
+SWAC_TEXT=I have sown
+SWAC_ALPHAIDX=sow
+SWAC_BASEFORM=sow
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_spat.flac]
+SWAC_TEXT=I have spat
+SWAC_ALPHAIDX=spit
+SWAC_BASEFORM=spit
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sped.flac]
+SWAC_TEXT=I have sped
+SWAC_ALPHAIDX=speed
+SWAC_BASEFORM=speed
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_spelt.flac]
+SWAC_TEXT=I have spelt
+SWAC_ALPHAIDX=spell
+SWAC_BASEFORM=spell
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_spent.flac]
+SWAC_TEXT=I have spent
+SWAC_ALPHAIDX=spend
+SWAC_BASEFORM=spend
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_spilt.flac]
+SWAC_TEXT=I have spilt
+SWAC_ALPHAIDX=spill
+SWAC_BASEFORM=spill
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_split.flac]
+SWAC_TEXT=I have split
+SWAC_ALPHAIDX=split
+SWAC_BASEFORM=split
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_spoilt.flac]
+SWAC_TEXT=I have spoilt
+SWAC_ALPHAIDX=spoil
+SWAC_BASEFORM=spoil
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_spoken.flac]
+SWAC_TEXT=I have spoken
+SWAC_ALPHAIDX=speak
+SWAC_BASEFORM=speak
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_spread.flac]
+SWAC_TEXT=I have spread
+SWAC_ALPHAIDX=spread
+SWAC_BASEFORM=spread
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sprung.flac]
+SWAC_TEXT=I have sprung
+SWAC_ALPHAIDX=spring
+SWAC_BASEFORM=spring
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_stolen.flac]
+SWAC_TEXT=I have stolen
+SWAC_ALPHAIDX=steal
+SWAC_BASEFORM=steal
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_stood.flac]
+SWAC_TEXT=I have stood
+SWAC_ALPHAIDX=stand
+SWAC_BASEFORM=stand
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_striven.flac]
+SWAC_TEXT=I have striven
+SWAC_ALPHAIDX=strive
+SWAC_BASEFORM=strive
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_strode.flac]
+SWAC_TEXT=I have strode
+SWAC_ALPHAIDX=stride
+SWAC_BASEFORM=stride
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_struck.flac]
+SWAC_TEXT=I have struck
+SWAC_ALPHAIDX=strike
+SWAC_BASEFORM=strike
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_strung.flac]
+SWAC_TEXT=I have strung
+SWAC_ALPHAIDX=string
+SWAC_BASEFORM=string
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_stuck.flac]
+SWAC_TEXT=I have stuck
+SWAC_ALPHAIDX=stick
+SWAC_BASEFORM=stick
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_stung.flac]
+SWAC_TEXT=I have stung
+SWAC_ALPHAIDX=sting
+SWAC_BASEFORM=sting
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_stunk.flac]
+SWAC_TEXT=I have stunk
+SWAC_ALPHAIDX=stink
+SWAC_BASEFORM=stink
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sung.flac]
+SWAC_TEXT=I have sung
+SWAC_ALPHAIDX=sing
+SWAC_BASEFORM=sing
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sunk.flac]
+SWAC_TEXT=I have sunk
+SWAC_ALPHAIDX=sink
+SWAC_BASEFORM=sink
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_swept.flac]
+SWAC_TEXT=I have swept
+SWAC_ALPHAIDX=sweep
+SWAC_BASEFORM=sweep
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_swollen.flac]
+SWAC_TEXT=I have swollen
+SWAC_ALPHAIDX=swell
+SWAC_BASEFORM=swell
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_sworn.flac]
+SWAC_TEXT=I have sworn
+SWAC_ALPHAIDX=swear
+SWAC_BASEFORM=swear
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_swum.flac]
+SWAC_TEXT=I have swum
+SWAC_ALPHAIDX=swim
+SWAC_BASEFORM=swim
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_swung.flac]
+SWAC_TEXT=I have swung
+SWAC_ALPHAIDX=swing
+SWAC_BASEFORM=swing
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_taken.flac]
+SWAC_TEXT=I have taken
+SWAC_ALPHAIDX=take
+SWAC_BASEFORM=take
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_taught.flac]
+SWAC_TEXT=I have taught
+SWAC_ALPHAIDX=teach
+SWAC_BASEFORM=teach
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_thought.flac]
+SWAC_TEXT=I have thought
+SWAC_ALPHAIDX=think
+SWAC_BASEFORM=think
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_thrown.flac]
+SWAC_TEXT=I have thrown
+SWAC_ALPHAIDX=throw
+SWAC_BASEFORM=throw
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_thrust.flac]
+SWAC_TEXT=I have thrust
+SWAC_ALPHAIDX=thrust
+SWAC_BASEFORM=thrust
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_told.flac]
+SWAC_TEXT=I have told
+SWAC_ALPHAIDX=tell
+SWAC_BASEFORM=tell
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_torn.flac]
+SWAC_TEXT=I have torn
+SWAC_ALPHAIDX=tear
+SWAC_BASEFORM=tear
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_trodden.flac]
+SWAC_TEXT=I have trodden
+SWAC_ALPHAIDX=tread
+SWAC_BASEFORM=tread
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_understood.flac]
+SWAC_TEXT=I have understood
+SWAC_ALPHAIDX=understand
+SWAC_BASEFORM=understand
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_wept.flac]
+SWAC_TEXT=I have wept
+SWAC_ALPHAIDX=weep
+SWAC_BASEFORM=weep
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_woken.flac]
+SWAC_TEXT=I have woken
+SWAC_ALPHAIDX=wake
+SWAC_BASEFORM=wake
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_won.flac]
+SWAC_TEXT=I have won
+SWAC_ALPHAIDX=win
+SWAC_BASEFORM=win
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_worn.flac]
+SWAC_TEXT=I have worn
+SWAC_ALPHAIDX=wear
+SWAC_BASEFORM=wear
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_wound.flac]
+SWAC_TEXT=I have wound
+SWAC_ALPHAIDX=wind
+SWAC_BASEFORM=wind
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_woven.flac]
+SWAC_TEXT=I have woven
+SWAC_ALPHAIDX=weave
+SWAC_BASEFORM=weave
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_written.flac]
+SWAC_TEXT=I have written
+SWAC_ALPHAIDX=write
+SWAC_BASEFORM=write
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_have_wrung.flac]
+SWAC_TEXT=I have wrung
+SWAC_ALPHAIDX=wring
+SWAC_BASEFORM=wring
+SWAC_FORM_NAME=Present Perfect
+
+[eng-I_heard.flac]
+SWAC_TEXT=I heard
+SWAC_ALPHAIDX=hear
+SWAC_BASEFORM=hear
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_held.flac]
+SWAC_TEXT=I held
+SWAC_ALPHAIDX=hold
+SWAC_BASEFORM=hold
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_hid.flac]
+SWAC_TEXT=I hid
+SWAC_ALPHAIDX=hide
+SWAC_BASEFORM=hide
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_hit.flac]
+SWAC_TEXT=I hit
+SWAC_ALPHAIDX=hit
+SWAC_BASEFORM=hit
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_hung.flac]
+SWAC_TEXT=I hung
+SWAC_ALPHAIDX=hang
+SWAC_BASEFORM=hang
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_hurt.flac]
+SWAC_TEXT=I hurt
+SWAC_ALPHAIDX=hurt
+SWAC_BASEFORM=hurt
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_kept.flac]
+SWAC_TEXT=I kept
+SWAC_ALPHAIDX=keep
+SWAC_BASEFORM=keep
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_knelt.flac]
+SWAC_TEXT=I knelt
+SWAC_ALPHAIDX=kneel
+SWAC_BASEFORM=kneel
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_knew.flac]
+SWAC_TEXT=I knew
+SWAC_ALPHAIDX=know
+SWAC_BASEFORM=know
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_laid.flac]
+SWAC_TEXT=I laid
+SWAC_ALPHAIDX=lay
+SWAC_BASEFORM=lay
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_lay.flac]
+SWAC_TEXT=I lay
+SWAC_ALPHAIDX=lie
+SWAC_BASEFORM=lie
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_leant.flac]
+SWAC_TEXT=I leant
+SWAC_ALPHAIDX=lean
+SWAC_BASEFORM=lean
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_leapt.flac]
+SWAC_TEXT=I leapt
+SWAC_ALPHAIDX=leap
+SWAC_BASEFORM=leap
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_learnt.flac]
+SWAC_TEXT=I learnt
+SWAC_ALPHAIDX=learn
+SWAC_BASEFORM=learn
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_led.flac]
+SWAC_TEXT=I led
+SWAC_ALPHAIDX=lead
+SWAC_BASEFORM=lead
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_left.flac]
+SWAC_TEXT=I left
+SWAC_ALPHAIDX=leave
+SWAC_BASEFORM=leave
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_lent.flac]
+SWAC_TEXT=I lent
+SWAC_ALPHAIDX=lend
+SWAC_BASEFORM=lend
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_let.flac]
+SWAC_TEXT=I let
+SWAC_ALPHAIDX=let
+SWAC_BASEFORM=let
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_lit.flac]
+SWAC_TEXT=I lit
+SWAC_ALPHAIDX=light
+SWAC_BASEFORM=light
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_lost.flac]
+SWAC_TEXT=I lost
+SWAC_ALPHAIDX=lose
+SWAC_BASEFORM=lose
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_made.flac]
+SWAC_TEXT=I made
+SWAC_ALPHAIDX=make
+SWAC_BASEFORM=make
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_meant.flac]
+SWAC_TEXT=I meant
+SWAC_ALPHAIDX=mean
+SWAC_BASEFORM=mean
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_met.flac]
+SWAC_TEXT=I met
+SWAC_ALPHAIDX=meet
+SWAC_BASEFORM=meet
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_paid.flac]
+SWAC_TEXT=I paid
+SWAC_ALPHAIDX=pay
+SWAC_BASEFORM=pay
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_put.flac]
+SWAC_TEXT=I put
+SWAC_ALPHAIDX=put
+SWAC_BASEFORM=put
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_quit.flac]
+SWAC_TEXT=I quit
+SWAC_ALPHAIDX=quit
+SWAC_BASEFORM=quit
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_ran.flac]
+SWAC_TEXT=I ran
+SWAC_ALPHAIDX=run
+SWAC_BASEFORM=run
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_rang.flac]
+SWAC_TEXT=I rang
+SWAC_ALPHAIDX=ring
+SWAC_BASEFORM=ring
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_read.flac]
+SWAC_TEXT=I read
+SWAC_ALPHAIDX=read
+SWAC_BASEFORM=read
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_rid.flac]
+SWAC_TEXT=I rid
+SWAC_ALPHAIDX=rid
+SWAC_BASEFORM=rid
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_rode.flac]
+SWAC_TEXT=I rode
+SWAC_ALPHAIDX=ride
+SWAC_BASEFORM=ride
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_rose.flac]
+SWAC_TEXT=I rose
+SWAC_ALPHAIDX=rise
+SWAC_BASEFORM=rise
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_said.flac]
+SWAC_TEXT=I said
+SWAC_ALPHAIDX=say
+SWAC_BASEFORM=say
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sang.flac]
+SWAC_TEXT=I sang
+SWAC_ALPHAIDX=sing
+SWAC_BASEFORM=sing
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sank.flac]
+SWAC_TEXT=I sank
+SWAC_ALPHAIDX=sink
+SWAC_BASEFORM=sink
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sat.flac]
+SWAC_TEXT=I sat
+SWAC_ALPHAIDX=sit
+SWAC_BASEFORM=sit
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sawed.flac]
+SWAC_TEXT=I sawed
+SWAC_ALPHAIDX=saw
+SWAC_BASEFORM=saw
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_saw.flac]
+SWAC_TEXT=I saw
+SWAC_ALPHAIDX=see
+SWAC_BASEFORM=see
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sent.flac]
+SWAC_TEXT=I sent
+SWAC_ALPHAIDX=send
+SWAC_BASEFORM=send
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_set.flac]
+SWAC_TEXT=I set
+SWAC_ALPHAIDX=set
+SWAC_BASEFORM=set
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sewed.flac]
+SWAC_TEXT=I sewed
+SWAC_ALPHAIDX=sew
+SWAC_BASEFORM=sew
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sheared.flac]
+SWAC_TEXT=I sheared
+SWAC_ALPHAIDX=shear
+SWAC_BASEFORM=shear
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_shed.flac]
+SWAC_TEXT=I shed
+SWAC_ALPHAIDX=shed
+SWAC_BASEFORM=shed
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_shone.flac]
+SWAC_TEXT=I shone
+SWAC_ALPHAIDX=shine
+SWAC_BASEFORM=shine
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_shooed.flac]
+SWAC_TEXT=I shooed
+SWAC_ALPHAIDX=shoo
+SWAC_BASEFORM=shoo
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_shook.flac]
+SWAC_TEXT=I shook
+SWAC_ALPHAIDX=shake
+SWAC_BASEFORM=shake
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_shot.flac]
+SWAC_TEXT=I shot
+SWAC_ALPHAIDX=shoot
+SWAC_BASEFORM=shoot
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_showed.flac]
+SWAC_TEXT=I showed
+SWAC_ALPHAIDX=show
+SWAC_BASEFORM=show
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_shrank.flac]
+SWAC_TEXT=I shrank
+SWAC_ALPHAIDX=shrink
+SWAC_BASEFORM=shrink
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_shut.flac]
+SWAC_TEXT=I shut
+SWAC_ALPHAIDX=shut
+SWAC_BASEFORM=shut
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_slept.flac]
+SWAC_TEXT=I slept
+SWAC_ALPHAIDX=sleep
+SWAC_BASEFORM=sleep
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_slid.flac]
+SWAC_TEXT=I slid
+SWAC_ALPHAIDX=slide
+SWAC_BASEFORM=slide
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_slit.flac]
+SWAC_TEXT=I slit
+SWAC_ALPHAIDX=slit
+SWAC_BASEFORM=slit
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_slung.flac]
+SWAC_TEXT=I slung
+SWAC_ALPHAIDX=sling
+SWAC_BASEFORM=sling
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_slunk.flac]
+SWAC_TEXT=I slunk
+SWAC_ALPHAIDX=slink
+SWAC_BASEFORM=slink
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_smelt.flac]
+SWAC_TEXT=I smelt
+SWAC_ALPHAIDX=smell
+SWAC_BASEFORM=smell
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sold.flac]
+SWAC_TEXT=I sold
+SWAC_ALPHAIDX=sell
+SWAC_BASEFORM=sell
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sought.flac]
+SWAC_TEXT=I sought
+SWAC_ALPHAIDX=seek
+SWAC_BASEFORM=seek
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sowed.flac]
+SWAC_TEXT=I sowed
+SWAC_ALPHAIDX=sow
+SWAC_BASEFORM=sow
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_spat.flac]
+SWAC_TEXT=I spat
+SWAC_ALPHAIDX=spit
+SWAC_BASEFORM=spit
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sped.flac]
+SWAC_TEXT=I sped
+SWAC_ALPHAIDX=speed
+SWAC_BASEFORM=speed
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_spelt.flac]
+SWAC_TEXT=I spelt
+SWAC_ALPHAIDX=spell
+SWAC_BASEFORM=spell
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_spent.flac]
+SWAC_TEXT=I spent
+SWAC_ALPHAIDX=spend
+SWAC_BASEFORM=spend
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_spilt.flac]
+SWAC_TEXT=I spilt
+SWAC_ALPHAIDX=spill
+SWAC_BASEFORM=spill
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_split.flac]
+SWAC_TEXT=I split
+SWAC_ALPHAIDX=split
+SWAC_BASEFORM=split
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_spoilt.flac]
+SWAC_TEXT=I spoilt
+SWAC_ALPHAIDX=spoil
+SWAC_BASEFORM=spoil
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_spoke.flac]
+SWAC_TEXT=I spoke
+SWAC_ALPHAIDX=speak
+SWAC_BASEFORM=speak
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_sprang.flac]
+SWAC_TEXT=I sprang
+SWAC_ALPHAIDX=spring
+SWAC_BASEFORM=spring
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_spread.flac]
+SWAC_TEXT=I spread
+SWAC_ALPHAIDX=spread
+SWAC_BASEFORM=spread
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_stank.flac]
+SWAC_TEXT=I stank
+SWAC_ALPHAIDX=stink
+SWAC_BASEFORM=stink
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_stole.flac]
+SWAC_TEXT=I stole
+SWAC_ALPHAIDX=steal
+SWAC_BASEFORM=steal
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_stood.flac]
+SWAC_TEXT=I stood
+SWAC_ALPHAIDX=stand
+SWAC_BASEFORM=stand
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_strode.flac]
+SWAC_TEXT=I strode
+SWAC_ALPHAIDX=stride
+SWAC_BASEFORM=stride
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_strove.flac]
+SWAC_TEXT=I strove
+SWAC_ALPHAIDX=strive
+SWAC_BASEFORM=strive
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_struck.flac]
+SWAC_TEXT=I struck
+SWAC_ALPHAIDX=strike
+SWAC_BASEFORM=strike
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_strung.flac]
+SWAC_TEXT=I strung
+SWAC_ALPHAIDX=string
+SWAC_BASEFORM=string
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_stuck.flac]
+SWAC_TEXT=I stuck
+SWAC_ALPHAIDX=stick
+SWAC_BASEFORM=stick
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_stung.flac]
+SWAC_TEXT=I stung
+SWAC_ALPHAIDX=sting
+SWAC_BASEFORM=sting
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_swam.flac]
+SWAC_TEXT=I swam
+SWAC_ALPHAIDX=swim
+SWAC_BASEFORM=swim
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_swelled.flac]
+SWAC_TEXT=I swelled
+SWAC_ALPHAIDX=swell
+SWAC_BASEFORM=swell
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_swept.flac]
+SWAC_TEXT=I swept
+SWAC_ALPHAIDX=sweep
+SWAC_BASEFORM=sweep
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_swore.flac]
+SWAC_TEXT=I swore
+SWAC_ALPHAIDX=swear
+SWAC_BASEFORM=swear
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_swung.flac]
+SWAC_TEXT=I swung
+SWAC_ALPHAIDX=swing
+SWAC_BASEFORM=swing
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_taught.flac]
+SWAC_TEXT=I taught
+SWAC_ALPHAIDX=teach
+SWAC_BASEFORM=teach
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_thought.flac]
+SWAC_TEXT=I thought
+SWAC_ALPHAIDX=think
+SWAC_BASEFORM=think
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_threw.flac]
+SWAC_TEXT=I threw
+SWAC_ALPHAIDX=throw
+SWAC_BASEFORM=throw
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_thrust.flac]
+SWAC_TEXT=I thrust
+SWAC_ALPHAIDX=thrust
+SWAC_BASEFORM=thrust
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_told.flac]
+SWAC_TEXT=I told
+SWAC_ALPHAIDX=tell
+SWAC_BASEFORM=tell
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_took.flac]
+SWAC_TEXT=I took
+SWAC_ALPHAIDX=take
+SWAC_BASEFORM=take
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_tore.flac]
+SWAC_TEXT=I tore
+SWAC_ALPHAIDX=tear
+SWAC_BASEFORM=tear
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_trod.flac]
+SWAC_TEXT=I trod
+SWAC_ALPHAIDX=tread
+SWAC_BASEFORM=tread
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_understood.flac]
+SWAC_TEXT=I understood
+SWAC_ALPHAIDX=understand
+SWAC_BASEFORM=understand
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_went.flac]
+SWAC_TEXT=I went
+SWAC_ALPHAIDX=go
+SWAC_BASEFORM=go
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_wept.flac]
+SWAC_TEXT=I wept
+SWAC_ALPHAIDX=weep
+SWAC_BASEFORM=weep
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_woke.flac]
+SWAC_TEXT=I woke
+SWAC_ALPHAIDX=wake
+SWAC_BASEFORM=wake
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_won.flac]
+SWAC_TEXT=I won
+SWAC_ALPHAIDX=win
+SWAC_BASEFORM=win
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_wore.flac]
+SWAC_TEXT=I wore
+SWAC_ALPHAIDX=wear
+SWAC_BASEFORM=wear
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_wound.flac]
+SWAC_TEXT=I wound
+SWAC_ALPHAIDX=wind
+SWAC_BASEFORM=wind
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_wove.flac]
+SWAC_TEXT=I wove
+SWAC_ALPHAIDX=weave
+SWAC_BASEFORM=weave
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_wrote.flac]
+SWAC_TEXT=I wrote
+SWAC_ALPHAIDX=write
+SWAC_BASEFORM=write
+SWAC_FORM_NAME=Simple Past
+
+[eng-I_wrung.flac]
+SWAC_TEXT=I wrung
+SWAC_ALPHAIDX=wring
+SWAC_BASEFORM=wring
+SWAC_FORM_NAME=Simple Past
+
+[eng-to_arise.flac]
+SWAC_TEXT=to arise
+SWAC_ALPHAIDX=arise
+SWAC_BASEFORM=arise
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_awake.flac]
+SWAC_TEXT=to awake
+SWAC_ALPHAIDX=awake
+SWAC_BASEFORM=awake
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bear.flac]
+SWAC_TEXT=to bear
+SWAC_ALPHAIDX=bear
+SWAC_BASEFORM=bear
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_beat.flac]
+SWAC_TEXT=to beat
+SWAC_ALPHAIDX=beat
+SWAC_BASEFORM=beat
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_become.flac]
+SWAC_TEXT=to become
+SWAC_ALPHAIDX=become
+SWAC_BASEFORM=become
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_begin.flac]
+SWAC_TEXT=to begin
+SWAC_ALPHAIDX=begin
+SWAC_BASEFORM=begin
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bend.flac]
+SWAC_TEXT=to bend
+SWAC_ALPHAIDX=bend
+SWAC_BASEFORM=bend
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bet.flac]
+SWAC_TEXT=to bet
+SWAC_ALPHAIDX=bet
+SWAC_BASEFORM=bet
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bid.flac]
+SWAC_TEXT=to bid
+SWAC_ALPHAIDX=bid
+SWAC_BASEFORM=bid
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bind.flac]
+SWAC_TEXT=to bind
+SWAC_ALPHAIDX=bind
+SWAC_BASEFORM=bind
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bite.flac]
+SWAC_TEXT=to bite
+SWAC_ALPHAIDX=bite
+SWAC_BASEFORM=bite
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bleed.flac]
+SWAC_TEXT=to bleed
+SWAC_ALPHAIDX=bleed
+SWAC_BASEFORM=bleed
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_blow.flac]
+SWAC_TEXT=to blow
+SWAC_ALPHAIDX=blow
+SWAC_BASEFORM=blow
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_break.flac]
+SWAC_TEXT=to break
+SWAC_ALPHAIDX=break
+SWAC_BASEFORM=break
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_breed.flac]
+SWAC_TEXT=to breed
+SWAC_ALPHAIDX=breed
+SWAC_BASEFORM=breed
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_bring.flac]
+SWAC_TEXT=to bring
+SWAC_ALPHAIDX=bring
+SWAC_BASEFORM=bring
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_build.flac]
+SWAC_TEXT=to build
+SWAC_ALPHAIDX=build
+SWAC_BASEFORM=build
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_burn.flac]
+SWAC_TEXT=to burn
+SWAC_ALPHAIDX=burn
+SWAC_BASEFORM=burn
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_burst.flac]
+SWAC_TEXT=to burst
+SWAC_ALPHAIDX=burst
+SWAC_BASEFORM=burst
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_buy.flac]
+SWAC_TEXT=to buy
+SWAC_ALPHAIDX=buy
+SWAC_BASEFORM=buy
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_cast.flac]
+SWAC_TEXT=to cast
+SWAC_ALPHAIDX=cast
+SWAC_BASEFORM=cast
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_catch.flac]
+SWAC_TEXT=to catch
+SWAC_ALPHAIDX=catch
+SWAC_BASEFORM=catch
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_choose.flac]
+SWAC_TEXT=to choose
+SWAC_ALPHAIDX=choose
+SWAC_BASEFORM=choose
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_cling.flac]
+SWAC_TEXT=to cling
+SWAC_ALPHAIDX=cling
+SWAC_BASEFORM=cling
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_come.flac]
+SWAC_TEXT=to come
+SWAC_ALPHAIDX=come
+SWAC_BASEFORM=come
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_cost.flac]
+SWAC_TEXT=to cost
+SWAC_ALPHAIDX=cost
+SWAC_BASEFORM=cost
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_creep.flac]
+SWAC_TEXT=to creep
+SWAC_ALPHAIDX=creep
+SWAC_BASEFORM=creep
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_cut.flac]
+SWAC_TEXT=to cut
+SWAC_ALPHAIDX=cut
+SWAC_BASEFORM=cut
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_deal.flac]
+SWAC_TEXT=to deal
+SWAC_ALPHAIDX=deal
+SWAC_BASEFORM=deal
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_dig.flac]
+SWAC_TEXT=to dig
+SWAC_ALPHAIDX=dig
+SWAC_BASEFORM=dig
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_do.flac]
+SWAC_TEXT=to do
+SWAC_ALPHAIDX=do
+SWAC_BASEFORM=do
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_draw.flac]
+SWAC_TEXT=to draw
+SWAC_ALPHAIDX=draw
+SWAC_BASEFORM=draw
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_dream.flac]
+SWAC_TEXT=to dream
+SWAC_ALPHAIDX=dream
+SWAC_BASEFORM=dream
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_drink.flac]
+SWAC_TEXT=to drink
+SWAC_ALPHAIDX=drink
+SWAC_BASEFORM=drink
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_drive.flac]
+SWAC_TEXT=to drive
+SWAC_ALPHAIDX=drive
+SWAC_BASEFORM=drive
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_dwell.flac]
+SWAC_TEXT=to dwell
+SWAC_ALPHAIDX=dwell
+SWAC_BASEFORM=dwell
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_eat.flac]
+SWAC_TEXT=to eat
+SWAC_ALPHAIDX=eat
+SWAC_BASEFORM=eat
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_fall.flac]
+SWAC_TEXT=to fall
+SWAC_ALPHAIDX=fall
+SWAC_BASEFORM=fall
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_feed.flac]
+SWAC_TEXT=to feed
+SWAC_ALPHAIDX=feed
+SWAC_BASEFORM=feed
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_feel.flac]
+SWAC_TEXT=to feel
+SWAC_ALPHAIDX=feel
+SWAC_BASEFORM=feel
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_fight.flac]
+SWAC_TEXT=to fight
+SWAC_ALPHAIDX=fight
+SWAC_BASEFORM=fight
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_find.flac]
+SWAC_TEXT=to find
+SWAC_ALPHAIDX=find
+SWAC_BASEFORM=find
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_flee.flac]
+SWAC_TEXT=to flee
+SWAC_ALPHAIDX=flee
+SWAC_BASEFORM=flee
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_fling.flac]
+SWAC_TEXT=to fling
+SWAC_ALPHAIDX=fling
+SWAC_BASEFORM=fling
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_fly.flac]
+SWAC_TEXT=to fly
+SWAC_ALPHAIDX=fly
+SWAC_BASEFORM=fly
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_forbid.flac]
+SWAC_TEXT=to forbid
+SWAC_ALPHAIDX=forbid
+SWAC_BASEFORM=forbid
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_forget.flac]
+SWAC_TEXT=to forget
+SWAC_ALPHAIDX=forget
+SWAC_BASEFORM=forget
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_forgive.flac]
+SWAC_TEXT=to forgive
+SWAC_ALPHAIDX=forgive
+SWAC_BASEFORM=forgive
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_freeze.flac]
+SWAC_TEXT=to freeze
+SWAC_ALPHAIDX=freeze
+SWAC_BASEFORM=freeze
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_get.flac]
+SWAC_TEXT=to get
+SWAC_ALPHAIDX=get
+SWAC_BASEFORM=get
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_give.flac]
+SWAC_TEXT=to give
+SWAC_ALPHAIDX=give
+SWAC_BASEFORM=give
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_go.flac]
+SWAC_TEXT=to go
+SWAC_ALPHAIDX=go
+SWAC_BASEFORM=go
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_grind.flac]
+SWAC_TEXT=to grind
+SWAC_ALPHAIDX=grind
+SWAC_BASEFORM=grind
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_grow.flac]
+SWAC_TEXT=to grow
+SWAC_ALPHAIDX=grow
+SWAC_BASEFORM=grow
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_hang.flac]
+SWAC_TEXT=to hang
+SWAC_ALPHAIDX=hang
+SWAC_BASEFORM=hang
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_have.flac]
+SWAC_TEXT=to have
+SWAC_ALPHAIDX=have
+SWAC_BASEFORM=have
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_hear.flac]
+SWAC_TEXT=to hear
+SWAC_ALPHAIDX=hear
+SWAC_BASEFORM=hear
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_hide.flac]
+SWAC_TEXT=to hide
+SWAC_ALPHAIDX=hide
+SWAC_BASEFORM=hide
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_hit.flac]
+SWAC_TEXT=to hit
+SWAC_ALPHAIDX=hit
+SWAC_BASEFORM=hit
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_hold.flac]
+SWAC_TEXT=to hold
+SWAC_ALPHAIDX=hold
+SWAC_BASEFORM=hold
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_hurt.flac]
+SWAC_TEXT=to hurt
+SWAC_ALPHAIDX=hurt
+SWAC_BASEFORM=hurt
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_keep.flac]
+SWAC_TEXT=to keep
+SWAC_ALPHAIDX=keep
+SWAC_BASEFORM=keep
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_kneel.flac]
+SWAC_TEXT=to kneel
+SWAC_ALPHAIDX=kneel
+SWAC_BASEFORM=kneel
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_know.flac]
+SWAC_TEXT=to know
+SWAC_ALPHAIDX=know
+SWAC_BASEFORM=know
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_lay.flac]
+SWAC_TEXT=to lay
+SWAC_ALPHAIDX=lay
+SWAC_BASEFORM=lay
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_lead.flac]
+SWAC_TEXT=to lead
+SWAC_ALPHAIDX=lead
+SWAC_BASEFORM=lead
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_lean.flac]
+SWAC_TEXT=to lean
+SWAC_ALPHAIDX=lean
+SWAC_BASEFORM=lean
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_leap.flac]
+SWAC_TEXT=to leap
+SWAC_ALPHAIDX=leap
+SWAC_BASEFORM=leap
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_learn.flac]
+SWAC_TEXT=to learn
+SWAC_ALPHAIDX=learn
+SWAC_BASEFORM=learn
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_leave.flac]
+SWAC_TEXT=to leave
+SWAC_ALPHAIDX=leave
+SWAC_BASEFORM=leave
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_lend.flac]
+SWAC_TEXT=to lend
+SWAC_ALPHAIDX=lend
+SWAC_BASEFORM=lend
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_let.flac]
+SWAC_TEXT=to let
+SWAC_ALPHAIDX=let
+SWAC_BASEFORM=let
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_lie.flac]
+SWAC_TEXT=to lie
+SWAC_ALPHAIDX=lie
+SWAC_BASEFORM=lie
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_light.flac]
+SWAC_TEXT=to light
+SWAC_ALPHAIDX=light
+SWAC_BASEFORM=light
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_lose.flac]
+SWAC_TEXT=to lose
+SWAC_ALPHAIDX=lose
+SWAC_BASEFORM=lose
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_make.flac]
+SWAC_TEXT=to make
+SWAC_ALPHAIDX=make
+SWAC_BASEFORM=make
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_mean.flac]
+SWAC_TEXT=to mean
+SWAC_ALPHAIDX=mean
+SWAC_BASEFORM=mean
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_meet.flac]
+SWAC_TEXT=to meet
+SWAC_ALPHAIDX=meet
+SWAC_BASEFORM=meet
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_pay.flac]
+SWAC_TEXT=to pay
+SWAC_ALPHAIDX=pay
+SWAC_BASEFORM=pay
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_put.flac]
+SWAC_TEXT=to put
+SWAC_ALPHAIDX=put
+SWAC_BASEFORM=put
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_quit.flac]
+SWAC_TEXT=to quit
+SWAC_ALPHAIDX=quit
+SWAC_BASEFORM=quit
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_read.flac]
+SWAC_TEXT=to read
+SWAC_ALPHAIDX=read
+SWAC_BASEFORM=read
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_ride.flac]
+SWAC_TEXT=to ride
+SWAC_ALPHAIDX=ride
+SWAC_BASEFORM=ride
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_rid.flac]
+SWAC_TEXT=to rid
+SWAC_ALPHAIDX=rid
+SWAC_BASEFORM=rid
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_ring.flac]
+SWAC_TEXT=to ring
+SWAC_ALPHAIDX=ring
+SWAC_BASEFORM=ring
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_rise.flac]
+SWAC_TEXT=to rise
+SWAC_ALPHAIDX=rise
+SWAC_BASEFORM=rise
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_run.flac]
+SWAC_TEXT=to run
+SWAC_ALPHAIDX=run
+SWAC_BASEFORM=run
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_saw.flac]
+SWAC_TEXT=to saw
+SWAC_ALPHAIDX=saw
+SWAC_BASEFORM=saw
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_say.flac]
+SWAC_TEXT=to say
+SWAC_ALPHAIDX=say
+SWAC_BASEFORM=say
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_see.flac]
+SWAC_TEXT=to see
+SWAC_ALPHAIDX=see
+SWAC_BASEFORM=see
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_seek.flac]
+SWAC_TEXT=to seek
+SWAC_ALPHAIDX=seek
+SWAC_BASEFORM=seek
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sell.flac]
+SWAC_TEXT=to sell
+SWAC_ALPHAIDX=sell
+SWAC_BASEFORM=sell
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_send.flac]
+SWAC_TEXT=to send
+SWAC_ALPHAIDX=send
+SWAC_BASEFORM=send
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_set.flac]
+SWAC_TEXT=to set
+SWAC_ALPHAIDX=set
+SWAC_BASEFORM=set
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sew.flac]
+SWAC_TEXT=to sew
+SWAC_ALPHAIDX=sew
+SWAC_BASEFORM=sew
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shake.flac]
+SWAC_TEXT=to shake
+SWAC_ALPHAIDX=shake
+SWAC_BASEFORM=shake
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shear.flac]
+SWAC_TEXT=to shear
+SWAC_ALPHAIDX=shear
+SWAC_BASEFORM=shear
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shed.flac]
+SWAC_TEXT=to shed
+SWAC_ALPHAIDX=shed
+SWAC_BASEFORM=shed
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shine.flac]
+SWAC_TEXT=to shine
+SWAC_ALPHAIDX=shine
+SWAC_BASEFORM=shine
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shoo.flac]
+SWAC_TEXT=to shoo
+SWAC_ALPHAIDX=shoo
+SWAC_BASEFORM=shoo
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shoot.flac]
+SWAC_TEXT=to shoot
+SWAC_ALPHAIDX=shoot
+SWAC_BASEFORM=shoot
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_show.flac]
+SWAC_TEXT=to show
+SWAC_ALPHAIDX=show
+SWAC_BASEFORM=show
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shrink.flac]
+SWAC_TEXT=to shrink
+SWAC_ALPHAIDX=shrink
+SWAC_BASEFORM=shrink
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_shut.flac]
+SWAC_TEXT=to shut
+SWAC_ALPHAIDX=shut
+SWAC_BASEFORM=shut
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sing.flac]
+SWAC_TEXT=to sing
+SWAC_ALPHAIDX=sing
+SWAC_BASEFORM=sing
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sink.flac]
+SWAC_TEXT=to sink
+SWAC_ALPHAIDX=sink
+SWAC_BASEFORM=sink
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sit.flac]
+SWAC_TEXT=to sit
+SWAC_ALPHAIDX=sit
+SWAC_BASEFORM=sit
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sleep.flac]
+SWAC_TEXT=to sleep
+SWAC_ALPHAIDX=sleep
+SWAC_BASEFORM=sleep
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_slide.flac]
+SWAC_TEXT=to slide
+SWAC_ALPHAIDX=slide
+SWAC_BASEFORM=slide
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sling.flac]
+SWAC_TEXT=to sling
+SWAC_ALPHAIDX=sling
+SWAC_BASEFORM=sling
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_slink.flac]
+SWAC_TEXT=to slink
+SWAC_ALPHAIDX=slink
+SWAC_BASEFORM=slink
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_slit.flac]
+SWAC_TEXT=to slit
+SWAC_ALPHAIDX=slit
+SWAC_BASEFORM=slit
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_smell.flac]
+SWAC_TEXT=to smell
+SWAC_ALPHAIDX=smell
+SWAC_BASEFORM=smell
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sow.flac]
+SWAC_TEXT=to sow
+SWAC_ALPHAIDX=sow
+SWAC_BASEFORM=sow
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_speak.flac]
+SWAC_TEXT=to speak
+SWAC_ALPHAIDX=speak
+SWAC_BASEFORM=speak
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_speed.flac]
+SWAC_TEXT=to speed
+SWAC_ALPHAIDX=speed
+SWAC_BASEFORM=speed
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_spell.flac]
+SWAC_TEXT=to spell
+SWAC_ALPHAIDX=spell
+SWAC_BASEFORM=spell
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_spend.flac]
+SWAC_TEXT=to spend
+SWAC_ALPHAIDX=spend
+SWAC_BASEFORM=spend
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_spill.flac]
+SWAC_TEXT=to spill
+SWAC_ALPHAIDX=spill
+SWAC_BASEFORM=spill
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_spit.flac]
+SWAC_TEXT=to spit
+SWAC_ALPHAIDX=spit
+SWAC_BASEFORM=spit
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_split.flac]
+SWAC_TEXT=to split
+SWAC_ALPHAIDX=split
+SWAC_BASEFORM=split
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_spoil.flac]
+SWAC_TEXT=to spoil
+SWAC_ALPHAIDX=spoil
+SWAC_BASEFORM=spoil
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_spread.flac]
+SWAC_TEXT=to spread
+SWAC_ALPHAIDX=spread
+SWAC_BASEFORM=spread
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_spring.flac]
+SWAC_TEXT=to spring
+SWAC_ALPHAIDX=spring
+SWAC_BASEFORM=spring
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_stand.flac]
+SWAC_TEXT=to stand
+SWAC_ALPHAIDX=stand
+SWAC_BASEFORM=stand
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_steal.flac]
+SWAC_TEXT=to steal
+SWAC_ALPHAIDX=steal
+SWAC_BASEFORM=steal
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_stick.flac]
+SWAC_TEXT=to stick
+SWAC_ALPHAIDX=stick
+SWAC_BASEFORM=stick
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sting.flac]
+SWAC_TEXT=to sting
+SWAC_ALPHAIDX=sting
+SWAC_BASEFORM=sting
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_stink.flac]
+SWAC_TEXT=to stink
+SWAC_ALPHAIDX=stink
+SWAC_BASEFORM=stink
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_stride.flac]
+SWAC_TEXT=to stride
+SWAC_ALPHAIDX=stride
+SWAC_BASEFORM=stride
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_strike.flac]
+SWAC_TEXT=to strike
+SWAC_ALPHAIDX=strike
+SWAC_BASEFORM=strike
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_string.flac]
+SWAC_TEXT=to string
+SWAC_ALPHAIDX=string
+SWAC_BASEFORM=string
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_strive.flac]
+SWAC_TEXT=to strive
+SWAC_ALPHAIDX=strive
+SWAC_BASEFORM=strive
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_swear.flac]
+SWAC_TEXT=to swear
+SWAC_ALPHAIDX=swear
+SWAC_BASEFORM=swear
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_sweep.flac]
+SWAC_TEXT=to sweep
+SWAC_ALPHAIDX=sweep
+SWAC_BASEFORM=sweep
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_swell.flac]
+SWAC_TEXT=to swell
+SWAC_ALPHAIDX=swell
+SWAC_BASEFORM=swell
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_swim.flac]
+SWAC_TEXT=to swim
+SWAC_ALPHAIDX=swim
+SWAC_BASEFORM=swim
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_swing.flac]
+SWAC_TEXT=to swing
+SWAC_ALPHAIDX=swing
+SWAC_BASEFORM=swing
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_take.flac]
+SWAC_TEXT=to take
+SWAC_ALPHAIDX=take
+SWAC_BASEFORM=take
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_teach.flac]
+SWAC_TEXT=to teach
+SWAC_ALPHAIDX=teach
+SWAC_BASEFORM=teach
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_tear.flac]
+SWAC_TEXT=to tear
+SWAC_ALPHAIDX=tear
+SWAC_BASEFORM=tear
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_tell.flac]
+SWAC_TEXT=to tell
+SWAC_ALPHAIDX=tell
+SWAC_BASEFORM=tell
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_think.flac]
+SWAC_TEXT=to think
+SWAC_ALPHAIDX=think
+SWAC_BASEFORM=think
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_throw.flac]
+SWAC_TEXT=to throw
+SWAC_ALPHAIDX=throw
+SWAC_BASEFORM=throw
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_thrust.flac]
+SWAC_TEXT=to thrust
+SWAC_ALPHAIDX=thrust
+SWAC_BASEFORM=thrust
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_tread.flac]
+SWAC_TEXT=to tread
+SWAC_ALPHAIDX=tread
+SWAC_BASEFORM=tread
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_understand.flac]
+SWAC_TEXT=to understand
+SWAC_ALPHAIDX=understand
+SWAC_BASEFORM=understand
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_wake.flac]
+SWAC_TEXT=to wake
+SWAC_ALPHAIDX=wake
+SWAC_BASEFORM=wake
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_wear.flac]
+SWAC_TEXT=to wear
+SWAC_ALPHAIDX=wear
+SWAC_BASEFORM=wear
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_weave.flac]
+SWAC_TEXT=to weave
+SWAC_ALPHAIDX=weave
+SWAC_BASEFORM=weave
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_weep.flac]
+SWAC_TEXT=to weep
+SWAC_ALPHAIDX=weep
+SWAC_BASEFORM=weep
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_wind.flac]
+SWAC_TEXT=to wind
+SWAC_ALPHAIDX=wind
+SWAC_BASEFORM=wind
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_win.flac]
+SWAC_TEXT=to win
+SWAC_ALPHAIDX=win
+SWAC_BASEFORM=win
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_wring.flac]
+SWAC_TEXT=to wring
+SWAC_ALPHAIDX=wring
+SWAC_BASEFORM=wring
+SWAC_FORM_NAME=Infinitive
+
+[eng-to_write.flac]
+SWAC_TEXT=to write
+SWAC_ALPHAIDX=write
+SWAC_BASEFORM=write
+SWAC_FORM_NAME=Infinitive
+
+
+# This index was automatically generated by shtooka_scan (GPL)
