@@ -146,3 +146,67 @@ def apply_noise(y, target_snr_db=20):
 
 def timewarp(sig, factor=1):
     return librosa.effects.time_stretch(sig, float(factor))
+
+def generate_composite_stream(audio_matrix, data_dict = None):
+    cur_percentage = 0
+    if data_dict == None:
+        data_dict = {}
+    
+    composite_signal_list = []
+    composite_matches_list = []
+    
+    for i in range(len(audio_matrix)):
+        if (round(i / len(audio_matrix) * 100) != cur_percentage):
+            cur_percentage = round(i / len(audio_matrix) * 100)
+            print(str(cur_percentage) + "%     ", end='')
+            
+        filename = audio_matrix[i][0]
+        if filename in data_dict:
+            y = data_dict.get(filename)
+        else:
+            yt,sr = librosa.load(filename)
+            y, idx = librosa.effects.trim(yt, top_db=50)
+            data_dict[filename] = y
+        warped_y = timewarp(y, audio_matrix[i][6])
+        noisey_y = apply_noise(warped_y, audio_matrix[i][5])
+        faded_y = apply_ramp(noisey_y, audio_matrix[i][3], audio_matrix[i][4])
+        composite_signal_list.append(faded_y)
+        composite_matches_list.append(np.full(faded_y.shape, audio_matrix[i][1]))
+    composite_signal = np.array(composite_signal_list)
+    composite_signal = np.concatenate(composite_signal).ravel()
+    composite_matches = np.array(composite_matches_list)
+    composite_matches = np.concatenate(composite_matches).ravel()
+    return composite_signal, composite_matches, data_dict
+
+def batch(signal, matches, hop_length = 512/8, print_output=False):
+    signal_batch_length = 2048*3
+    data = []
+    classes = []
+    
+    batched_frames = []
+    cur_frame_count = 0
+    cur_percentage = 0
+    num_to_add  = signal_batch_length
+    while cur_frame_count < len(signal):
+        batched_frames.extend(signal[cur_frame_count : cur_frame_count + num_to_add - 1])
+        recent_signal = np.asarray(batched_frames)
+        recent_signal = np.pad(recent_signal, (0, 2048), 'constant', constant_values=(0.0,0.0))
+        spec = get_spectrogram(recent_signal, 22050, n_mels=n_mels, display=False)
+        transposed = spec.T
+        scaler = MinMaxScaler(feature_range=(0, 1))
+        transposed = scaler.fit_transform(transposed)
+        comp_cols = []
+        for i in range(0,seq_length):
+            comp_cols.append(transposed[i])
+        data.append(comp_cols)
+        classes.append(int(matches[cur_frame_count-1]))
+        batched_frames = batched_frames[int(hop_length)-1:]  # hop length of spectrogram / 8
+        
+        if print_output and round((cur_frame_count-1) / len(signal) * 100) != cur_percentage:
+            cur_percentage = round((cur_frame_count-1) / len(signal) * 100)
+            print(str(cur_percentage) + "%     ", end='')
+            
+        cur_frame_count += num_to_add
+        num_to_add = int(hop_length)
+        
+    return data, classes
