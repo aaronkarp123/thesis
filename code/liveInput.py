@@ -115,7 +115,7 @@ def listen(p, input_stream, output_stream):
     num_loops = 0
     to_run = True
             
-    scaler = MinMaxScaler(feature_range=(0, 1))
+    fe
     
     while to_run:
         try:

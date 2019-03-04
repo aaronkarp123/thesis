@@ -1,5 +1,6 @@
 from helpers import *
 from pyfftw.interfaces.numpy_fft import rfft, irfft
+from sklearn.preprocessing import MinMaxScaler
 
 def load_classes(filedir, num_classes, display=False):
     ## Find random classes proportional to the ratio of used_files to unused_files
@@ -187,6 +188,10 @@ def batch(signal, matches, hop_length = 512/8, print_output=False):
     cur_frame_count = 0
     cur_percentage = 0
     num_to_add  = signal_batch_length
+
+    n_mels = 128
+    seq_length = 10
+
     while cur_frame_count < len(signal):
         batched_frames.extend(signal[cur_frame_count : cur_frame_count + num_to_add - 1])
         recent_signal = np.asarray(batched_frames)
