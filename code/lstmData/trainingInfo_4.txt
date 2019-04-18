@@ -1,80 +1,140 @@
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 218 -_- 5342 -_- 58.4 -_- 0.7872515438681094
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 5355 -_- 3431 -_- 21.1 -_- 0.9067073937198635
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 3197 -_- 1975 -_- 17.2 -_- 1.0453822275100695
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 3453 -_- 1111 -_- 12.1 -_- 1.1236291562909217
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2507 -_- 1383 -_- 46.2 -_- 1.0560914828332606
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 4823 -_- 1674 -_- 27.0 -_- 0.9544877924707479
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 4231 -_- 1586 -_- 53.8 -_- 1.0135318951831118
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 775 -_- 5504 -_- 47.0 -_- 1.0243353597070235
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 4945 -_- 791 -_- 20.4 -_- 0.994777969643142
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 3293 -_- 1595 -_- 29.8 -_- 1.0238315785686738
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 2246 -_- 4098 -_- 41.0 -_- 1.0794273562871146
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 5163 -_- 2314 -_- 41.1 -_- 0.995673669428579
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 3175 -_- 2120 -_- 47.6 -_- 1.081164724582624
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 1275 -_- 2582 -_- 58.2 -_- 0.9513792042066814
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 257 -_- 3411 -_- 17.5 -_- 1.0164107930302386
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 2740 -_- 4453 -_- 23.3 -_- 0.8602820507395239
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 3461 -_- 3279 -_- 37.0 -_- 0.9352873676174178
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 1388 -_- 863 -_- 51.5 -_- 0.9325783038517519
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 2870 -_- 71 -_- 47.3 -_- 1.0713176012922756
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 1698 -_- 2993 -_- 31.3 -_- 1.0546778451996501
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 449 -_- 2247 -_- 10.2 -_- 1.0488100923996233
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 2862 -_- 3964 -_- 25.1 -_- 0.891684483509982
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 93 -_- 789 -_- 24.7 -_- 0.9371521287914822
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2829 -_- 3042 -_- 35.9 -_- 1.005085588779516
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 5135 -_- 1214 -_- 35.4 -_- 0.7358367701613191
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 1192 -_- 1708 -_- 12.5 -_- 1.0094541328467652
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 2841 -_- 2253 -_- 49.5 -_- 0.753191510197259
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 1420 -_- 1628 -_- 55.6 -_- 1.0016595858471706
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2589 -_- 3467 -_- 25.3 -_- 0.9898079357551083
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 4529 -_- 4049 -_- 54.9 -_- 0.8629012125484722
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 3329 -_- 1624 -_- 54.5 -_- 1.096802680234126
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 311 -_- 1299 -_- 22.0 -_- 1.0008256274363172
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 4036 -_- 3840 -_- 47.3 -_- 1.082134221095757
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 835 -_- 510 -_- 38.1 -_- 1.0707143676404083
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 4049 -_- 2809 -_- 17.2 -_- 0.9890249034049381
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 5182 -_- 5365 -_- 28.2 -_- 0.9076553574408603
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 4202 -_- 4989 -_- 21.9 -_- 1.1098318266670246
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 4847 -_- 2300 -_- 49.8 -_- 1.09513989708711
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 408 -_- 2677 -_- 16.5 -_- 0.9044716121213882
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 2879 -_- 591 -_- 57.9 -_- 0.9407116106064842
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 2458 -_- 5382 -_- 18.5 -_- 1.0589929429296185
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 4207 -_- 2979 -_- 37.3 -_- 0.7124648936746476
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 5044 -_- 3680 -_- 53.0 -_- 1.00364456374034
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 2673 -_- 171 -_- 43.9 -_- 0.9835413538598097
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 906 -_- 5362 -_- 17.4 -_- 0.9400495526649163
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 3698 -_- 463 -_- 15.6 -_- 0.9424424174837431
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 5203 -_- 4297 -_- 45.5 -_- 1.155608727760073
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 2925 -_- 3150 -_- 37.7 -_- 0.9378671550815971
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 454 -_- 2739 -_- 11.5 -_- 0.918384001690854
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 4226 -_- 667 -_- 53.8 -_- 1.2089405983260908
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 4280 -_- 3611 -_- 50.6 -_- 1.05002968578832
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1245 -_- 913 -_- 47.8 -_- 0.9178836881457959
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1816 -_- 5153 -_- 32.9 -_- 0.9556523430926275
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2447 -_- 3595 -_- 25.3 -_- 1.161281052214598
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 1042 -_- 1926 -_- 53.5 -_- 1.1415040378889638
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 1664 -_- 4952 -_- 26.9 -_- 0.9039925754202536
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 1312 -_- 1414 -_- 27.2 -_- 0.9319784471100749
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1250 -_- 5306 -_- 49.2 -_- 1.1192348600951396
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 4066 -_- 496 -_- 34.3 -_- 1.016928799180802
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 3361 -_- 2871 -_- 46.4 -_- 0.8471057595303634
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 5220 -_- 1193 -_- 24.5 -_- 1.0774574517751838
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 4827 -_- 5052 -_- 47.2 -_- 1.0950985456100661
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 4113 -_- 1296 -_- 49.8 -_- 0.9772147165820061
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2138 -_- 940 -_- 36.6 -_- 1.1461187418101992
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 3680 -_- 733 -_- 59.3 -_- 1.0968312057683702
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2634 -_- 4228 -_- 28.9 -_- 1.1846104656837433
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 355 -_- 1913 -_- 57.9 -_- 0.9687272043826352
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2595 -_- 5233 -_- 19.0 -_- 1.1432319036052088
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 3784 -_- 2923 -_- 33.6 -_- 1.0901356088076801
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 663 -_- 2120 -_- 18.5 -_- 1.0199781679553823
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 534 -_- 3834 -_- 59.7 -_- 0.9516371455439997
-../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 0 -_- ../Corpus/eng-wcp-us/flac/En-us-withdrawn.flac -_- 649 -_- 791 -_- 50.8 -_- 1.0665959823336575
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 2721 -_- 2131 -_- 13.5 -_- 1.1392722475963553
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 4419 -_- 1046 -_- 36.1 -_- 0.988212297515987
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 788 -_- 5353 -_- 24.5 -_- 0.9400230857416666
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 3342 -_- 1167 -_- 12.5 -_- 1.1922006827373313
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 4625 -_- 2804 -_- 38.1 -_- 1.1596473314318585
-../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 1 -_- ../Corpus/eng-wcp-us/flac/En-us-trim.flac -_- 5286 -_- 3206 -_- 42.8 -_- 1.1204892520388183
-../Corpus/eng-wcp-us/flac/En-us-namespace.flac -_- 3 -_- ../Corpus/eng-balm-judith/flac/eng-7a67e768.flac -_- 3173 -_- 2061 -_- 40.4 -_- 1.0197908759344354
-../Corpus/eng-wcp-us/flac/En-us-Catalan.flac -_- 2 -_- ../Corpus/eng-balm-judith/flac/eng-16d0f226.flac -_- 3429 -_- 1955 -_- 51.1 -_- 1.1084101999279896
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 4710 -_- 2793 -_- 15.6 -_- 0.9668987648459437
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 4398 -_- 4650 -_- 50.7 -_- 1.0499330581769737
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 13 -_- 2181 -_- 60.0 -_- 1.0036244655993756
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 1714 -_- 4904 -_- 59.2 -_- 1.1024930396094332
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3824 -_- 1040 -_- 23.4 -_- 1.1198551255489433
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 4936 -_- 786 -_- 44.0 -_- 0.8805069664210889
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3116 -_- 1778 -_- 52.2 -_- 1.0487353054554547
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 1760 -_- 4117 -_- 16.0 -_- 0.8488588759517035
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 2859 -_- 1487 -_- 34.1 -_- 0.9803130647813671
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1616 -_- 3907 -_- 11.9 -_- 1.0540513963306777
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 251 -_- 3705 -_- 41.6 -_- 0.9740914794413065
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 450 -_- 4119 -_- 51.0 -_- 0.8108196383905191
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2199 -_- 3931 -_- 25.4 -_- 1.0404477661925295
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 110 -_- 1799 -_- 24.7 -_- 0.8438429222692068
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 2256 -_- 5158 -_- 20.9 -_- 1.0628690721428047
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 290 -_- 1210 -_- 46.6 -_- 1.0093007698888472
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1037 -_- 5159 -_- 37.2 -_- 1.0628620573732883
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 2035 -_- 3475 -_- 46.6 -_- 0.9511020083450592
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3054 -_- 4153 -_- 44.9 -_- 1.0694181301333705
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2876 -_- 832 -_- 41.6 -_- 0.8569038292942277
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3630 -_- 3744 -_- 50.6 -_- 0.9810192313368125
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3932 -_- 4931 -_- 52.8 -_- 1.0206386117587918
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 91 -_- 1193 -_- 23.2 -_- 0.8419761677325389
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 987 -_- 4029 -_- 35.5 -_- 1.0911545593836394
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1994 -_- 476 -_- 54.2 -_- 0.8980509502478752
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 3464 -_- 2832 -_- 20.9 -_- 0.971651636752058
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 4581 -_- 443 -_- 48.5 -_- 1.2214886439268269
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 5367 -_- 3550 -_- 22.7 -_- 1.0993077682048353
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 1659 -_- 5403 -_- 17.2 -_- 1.000281371618924
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 277 -_- 4731 -_- 29.5 -_- 1.0514213727494692
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 2620 -_- 2852 -_- 14.6 -_- 1.1432011726599618
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1561 -_- 3217 -_- 12.8 -_- 0.9751652159656262
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 1740 -_- 2569 -_- 31.3 -_- 1.277860344961596
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 4415 -_- 734 -_- 42.2 -_- 1.1426053086293801
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 3007 -_- 989 -_- 49.0 -_- 1.0584648663567657
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 4925 -_- 4629 -_- 25.8 -_- 1.2014696800069302
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 4573 -_- 4673 -_- 34.7 -_- 1.059490953436974
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 462 -_- 2266 -_- 54.7 -_- 1.006082777642158
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 1402 -_- 5099 -_- 30.5 -_- 1.1177783077951784
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 2718 -_- 794 -_- 18.2 -_- 1.0323312662684427
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 2225 -_- 826 -_- 28.0 -_- 1.0687603503912992
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2715 -_- 3753 -_- 39.5 -_- 0.9817591052679331
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1349 -_- 2490 -_- 37.9 -_- 0.9565780231815969
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 559 -_- 2478 -_- 35.6 -_- 0.9997439681025228
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3674 -_- 1033 -_- 51.4 -_- 1.0608820344822163
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2524 -_- 4412 -_- 39.2 -_- 0.9441067753471025
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 2181 -_- 1376 -_- 57.1 -_- 1.055867156088994
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1862 -_- 2592 -_- 12.1 -_- 1.0795149326779203
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 4372 -_- 3112 -_- 53.9 -_- 0.9704078427227342
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 986 -_- 2461 -_- 57.4 -_- 1.0048916335771938
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 4980 -_- 2063 -_- 48.8 -_- 1.0648986813124608
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 4894 -_- 3062 -_- 51.5 -_- 1.0015978182737812
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 3432 -_- 4894 -_- 56.5 -_- 1.0042254731257758
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 980 -_- 2003 -_- 49.6 -_- 0.8550887499482008
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 2537 -_- 4279 -_- 53.7 -_- 1.026463147882158
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 4400 -_- 2371 -_- 27.0 -_- 0.8601511051574579
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 3850 -_- 4464 -_- 53.2 -_- 1.0201390901385954
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 4361 -_- 1157 -_- 42.2 -_- 1.0723545140805215
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 4395 -_- 2547 -_- 16.1 -_- 0.8623517178387884
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1601 -_- 5381 -_- 43.0 -_- 1.0439882327562793
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1917 -_- 2154 -_- 20.8 -_- 0.9646827721962136
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 570 -_- 1155 -_- 33.1 -_- 0.9983765677747389
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 290 -_- 4599 -_- 54.7 -_- 0.9806309314933186
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 4260 -_- 2786 -_- 20.5 -_- 0.9616010502365098
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 429 -_- 882 -_- 38.0 -_- 1.0932289245758788
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2326 -_- 1006 -_- 43.3 -_- 0.9287206988284619
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 3690 -_- 4587 -_- 56.9 -_- 1.1696614137924224
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 3347 -_- 820 -_- 55.2 -_- 1.0569346607973393
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 4885 -_- 3373 -_- 43.2 -_- 0.8923000086870598
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 4320 -_- 3092 -_- 21.3 -_- 1.02636216732164
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 447 -_- 5099 -_- 36.7 -_- 1.1235829343876955
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 180 -_- 2517 -_- 39.7 -_- 1.0753366561385083
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3003 -_- 259 -_- 56.1 -_- 0.9804480417976229
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 3329 -_- 1261 -_- 42.9 -_- 1.0201773578528646
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 245 -_- 1148 -_- 52.4 -_- 0.9183567953698534
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 1573 -_- 1738 -_- 48.4 -_- 1.1074396606155872
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 4706 -_- 3485 -_- 10.5 -_- 0.9247105931510581
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 932 -_- 4544 -_- 43.3 -_- 1.0630445196934784
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 4643 -_- 479 -_- 24.1 -_- 1.035532885742863
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 2066 -_- 1360 -_- 37.2 -_- 0.9298297920044336
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 483 -_- 24 -_- 48.6 -_- 1.112204014783364
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1486 -_- 887 -_- 13.5 -_- 0.9265224438474127
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 4837 -_- 4205 -_- 35.3 -_- 1.0927426238546256
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 1345 -_- 2839 -_- 28.7 -_- 1.2515002331070126
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 5172 -_- 352 -_- 36.5 -_- 1.1177505327646153
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1201 -_- 1606 -_- 29.8 -_- 1.0313930221387566
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2441 -_- 1193 -_- 55.3 -_- 1.2645173116358484
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 123 -_- 344 -_- 49.7 -_- 1.2039932610360151
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 1486 -_- 2731 -_- 55.5 -_- 1.1109700210382016
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 2902 -_- 4457 -_- 11.7 -_- 1.0939533373243304
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1636 -_- 4793 -_- 51.9 -_- 0.890958569729236
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1959 -_- 657 -_- 15.7 -_- 0.9626426826381256
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 2712 -_- 462 -_- 47.5 -_- 1.1509999050557915
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3680 -_- 2739 -_- 51.3 -_- 1.1760678844096937
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 4663 -_- 4337 -_- 39.6 -_- 0.9244482188089789
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 1180 -_- 654 -_- 59.9 -_- 1.028219122004784
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2168 -_- 3175 -_- 14.9 -_- 0.9684816693897006
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 1247 -_- 2258 -_- 51.4 -_- 1.0368261418621605
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 741 -_- 3172 -_- 21.2 -_- 1.161419575300529
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2338 -_- 4503 -_- 59.4 -_- 0.8828188018804735
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 673 -_- 4817 -_- 51.0 -_- 0.9312947980206746
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1834 -_- 3897 -_- 54.8 -_- 1.0728339875532469
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3373 -_- 1260 -_- 25.8 -_- 1.0087467178534908
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 4668 -_- 5311 -_- 43.9 -_- 1.095152197036634
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3346 -_- 4162 -_- 11.4 -_- 1.3685919040764762
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3739 -_- 5462 -_- 60.0 -_- 0.9896293841326712
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 764 -_- 3537 -_- 36.2 -_- 0.9973355116275295
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 1066 -_- 2452 -_- 59.5 -_- 0.876797945226852
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3984 -_- 1184 -_- 43.2 -_- 0.9792666405592054
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 529 -_- 3794 -_- 39.3 -_- 0.9744819934201059
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 5124 -_- 5380 -_- 44.2 -_- 1.0408723416603558
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 4433 -_- 57 -_- 11.2 -_- 1.0529041872621894
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 5267 -_- 1476 -_- 39.1 -_- 1.1042501411509564
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 82 -_- 1811 -_- 55.2 -_- 0.9817981917159747
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 2732 -_- 4433 -_- 36.9 -_- 1.0635967549627978
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 5380 -_- 2265 -_- 52.7 -_- 0.9456077060215374
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1108 -_- 1454 -_- 27.9 -_- 0.7888975336275372
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3734 -_- 1703 -_- 17.5 -_- 1.0802305583294018
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3579 -_- 2065 -_- 50.5 -_- 1.0517312086576023
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 778 -_- 514 -_- 49.5 -_- 1.1016907578627233
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 1149 -_- 8 -_- 41.2 -_- 1.0552382162492173
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 201 -_- 5408 -_- 56.6 -_- 1.154751160005207
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3083 -_- 1783 -_- 32.3 -_- 0.9647938813287558
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 1105 -_- 4677 -_- 55.3 -_- 0.9104968540576729
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 2983 -_- 1663 -_- 58.1 -_- 0.982591280476538
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3117 -_- 781 -_- 53.5 -_- 1.1761890233784429
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 986 -_- 5463 -_- 51.7 -_- 1.103650757081944
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 1949 -_- 521 -_- 14.5 -_- 1.128715047333322
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3526 -_- 3259 -_- 24.7 -_- 0.9689472300193017
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 2940 -_- 3016 -_- 59.7 -_- 0.9460636858710093
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 38 -_- 5076 -_- 48.8 -_- 0.9084810278598917
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3041 -_- 3029 -_- 53.2 -_- 0.8841758981809972
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3400 -_- 141 -_- 50.4 -_- 0.9823548269223652
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 2597 -_- 383 -_- 22.6 -_- 1.1342559774315655
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3783 -_- 168 -_- 23.1 -_- 1.01635357869546
+../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 1 -_- ../Corpus/eng-wims-mary-num/flac 2/eng-d97f004d.flac -_- 3474 -_- 3996 -_- 29.1 -_- 1.0749989810587657
+../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 0 -_- ../Corpus/eng-balm-verbs/flac/eng-I_have_drunk.flac -_- 3995 -_- 965 -_- 18.0 -_- 0.7876972724161586
+../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 2 -_- ../Corpus/eng-balm-emmanuel/flac/eng-581b0cec.flac -_- 4943 -_- 3423 -_- 36.1 -_- 1.0609361210405697
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3904 -_- 4744 -_- 30.5 -_- 1.0889601780329543
+../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 3 -_- ../Corpus/eng-wims-mary/flac/eng-21866c15.flac -_- 518 -_- 3995 -_- 43.1 -_- 1.1163910959848664

@@ -13,6 +13,8 @@ from sklearn.preprocessing import MinMaxScaler
 import audioop
 import argparse
 from pythonosc import dispatcher, osc_server # https://pypi.org/project/python-osc/
+import statistics
+import asyncio
 
 
 CHUNK = 1024  # CHUNKS of bytes to read each time from mic
@@ -28,7 +30,20 @@ prespecQ = Queue()
 output = Queue()
 to_play = Queue()
 
+masking = False
+
 processes = []
+
+
+oscserverloop = asyncio.get_event_loop()
+
+def receive_message(unused_addr, args, mess):
+    global masking
+    mess = "{1}".format(args[0], mess)
+    print("MESSAGE RECEIVED: " + str(mess))
+    masking = bool(int(mess))
+    print(masking)
+
 
 def extract_class_info(matrix):
     data_dict = {}
@@ -39,7 +54,7 @@ def extract_class_info(matrix):
         file_class = int(audio_matrix[i][1])
         if file_class not in data_dict:
             yt,sr = librosa.load(filename)
-            y, idx = librosa.effects.trim(yt, top_db=50)
+            y, idx = librosa.effects.trim(yt, top_db=40)
             data_dict[file_class] = y
     print("Loaded audio files\n")
     return data_dict
@@ -49,28 +64,42 @@ def output_calc(data_dict):
 
     cur_out = -1  # -2 = stop, -1 = silence
     new_temp_out = -1
-    audio_file = 0
+    audio_file = []
     start_pos = 0
     to_run = True
+    last_n_outputs = []
+    med_output = -1
     while to_run:
         while not output.empty():
             new_temp_out = output.get()
             if new_temp_out == -2:
                 to_run = False
-            if new_temp_out != cur_out and new_temp_out >= 0:
-                print(new_temp_out)
-                sys.stdout.flush()
-                start_pos = 0
-                audio_file = data_dict[new_temp_out]
-                while not to_play.empty():
-                    to_play.get()
+            if new_temp_out >= 0:
+                last_n_outputs.append(new_temp_out)
+                if len(last_n_outputs) > 5:
+                    last_n_outputs.pop(0)
+                med_output = max(set(last_n_outputs), key=last_n_outputs.count)
+                print(med_output, end='  : ')
+                print(last_n_outputs)
+                new_temp_out = med_output
+                if med_output != cur_out:
+                    sys.stdout.flush()
+                    start_pos = 0# int(22050/4)
+                    audio_file = data_dict[med_output]
+                    while not to_play.empty():
+                        to_play.get()
         cur_out = new_temp_out
         if cur_out == -1:
+            if start_pos+CHUNK > len(audio_file) or start_pos < CHUNK:
+                continue
+            data = audio_file[start_pos:start_pos+CHUNK]
+            to_play.put(data)
+            start_pos += CHUNK
             continue
-        if to_play.empty():
+        if to_play.empty() and cur_out >= 0:
             if start_pos+CHUNK > len(audio_file):
                 start_pos = 0
-            data = audio_file[start_pos:start_pos+CHUNK].tobytes()
+            data = audio_file[start_pos:start_pos+CHUNK]
             to_play.put(data)
             start_pos += CHUNK
 
@@ -85,15 +114,16 @@ def concur_process(model):
     to_run = True
 
     currently_above_threshold = False
+    recent_thresholds = []
 
     while to_run:
         while not audioq.empty():
-            audio_data.append(np.fromstring(audioq.get(), dtype=np.float32))
+            audio_data.append(audioq.get())
         if len(audio_data) >= time_window and prespecQ.empty():  # If you have a full time-window's worth of data
             audio_data = audio_data[-time_window:]  # Take the most recent time_window chunks
             audio_data_np = np.concatenate(np.array(audio_data)).ravel()
             rms = np.sqrt(np.mean(audio_data_np**2))
-            if (rms > 0.02 and currently_above_threshold) or (rms > 0.05 and not currently_above_threshold):
+            if (rms > 0.015 and currently_above_threshold) or (rms > 0.03 and not currently_above_threshold):
                 window = np.pad(audio_data_np, (0, 2048), 'constant', constant_values=(0.0,0.0))
                 prespecQ.put(window)
                 currently_above_threshold = True
@@ -114,37 +144,46 @@ def listen(p, input_stream, output_stream):
 
     num_loops = 0
     to_run = True
-            
-    fe
+
+    scaler = MinMaxScaler(feature_range=(0, 1))
     
     while to_run:
         try:
-            audio_string_chunk = input_stream.read(CHUNK)
+            audio_string_chunk = np.fromstring(input_stream.read(CHUNK, exception_on_overflow = False), dtype=np.float32)
         except Exception as e:
             print("Dropped Chunk")
             continue
         
         audioq.put(audio_string_chunk)
 
+
+        oscserverloop.stop()
+        oscserverloop.run_forever()
+
         if not prespecQ.empty():
+            print("prespecQ NOT empty")
             ad = prespecQ.get()
             spec = get_spectrogram(ad, 22050, n_mels=128, display=False)
             transposed = spec.T
             transposed = scaler.fit_transform(transposed)
             output.put(model.predict_classes(np.array([transposed[0:10]]), batch_size=1)[0])
         
-        if not to_play.empty():
-            output_stream.write(to_play.get(), CHUNK)
+        mod_output = audio_string_chunk
+        if not to_play.empty() and masking:
+            mod_output = np.add(mod_output, to_play.get())
+        output_stream.write(mod_output.tobytes(), CHUNK)
 
-        if (num_loops == 200):
-            RUNNING.put(False)
-            to_run = False
-            output.put(-2)
+        #if (num_loops == 400):
+        #    RUNNING.put(False)
+        #    to_run = False
+        #    output.put(-2)
 
         num_loops += 1
 
     print("** Stream Terminated")
-
+    RUNNING.put(False)
+    to_run = False
+    output.put(-2)
     input_stream.close()
     output_stream.close()
     p.terminate()
@@ -152,13 +191,14 @@ def listen(p, input_stream, output_stream):
 
 if __name__ == '__main__':
 
-    audio_matrix = load_stream(name="/trainingInfo_100.txt", filedir='lstmData')
+    audio_matrix = load_stream(name="/trainingInfo_300.txt", filedir='lstmData')
+
     old_dir = os.getcwd()
     os.chdir('../../../../../../../../../Volumes/External Storage/Thesis/Corpus')
     data_dict = extract_class_info(audio_matrix)
     os.chdir(old_dir)
 
-    model = load_model('lstmData/LSTMModel_100.h5')
+    model = load_model('lstmData/LSTMModel_300.h5')
 
     p = pyaudio.PyAudio()
     input_stream = p.open(format=FORMAT,
@@ -178,6 +218,21 @@ if __name__ == '__main__':
 
     #concur_process(model)
 
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--ip",
+      default="127.0.0.1", help="The ip to listen on")
+    parser.add_argument("--port",
+      type=int, default=12000, help="The port to listen on")
+    args = parser.parse_args()
+
+    dispatcher = dispatcher.Dispatcher()
+    dispatcher.map("/onoff", receive_message, "Audio")
+
+    server = osc_server.AsyncIOOSCUDPServer(
+      (args.ip, args.port), dispatcher, oscserverloop)
+
+    server.serve()
+    oscserverloop.stop()
 
     cp = Process(target=concur_process, args=(model,))
     processes.append(cp)
