@@ -18,4 +18,4 @@ to do so in such a way as to not arouse suspicion. The ACM is built in the follo
   4. The calculate mask is played over a speaker, with a delay of <15ms between the reception of the input audio and the sonification of the matching mask
 
 
-![SystemDiagram](https://github.com/aaronkarp123/thesis/files/UpdatedSystem.png)
+![SystemDiagram](https://github.com/aaronkarp123/thesis/diagrams/UpdatedSystem.png)
